@@ -27,5 +27,17 @@ window.tracNghiem1D22 = [
     ],
     "answer": 2,
     "explain": "Gọi $u_n$ là số ghế ở hàng thứ $n$.<br>Khi đó, dãy số $(u_n)$ tạo thành cấp số cộng với $u_1 = 14$ và $d = 1$.<br>Tổng số ghế có trong rạp hát là\t\\[S_{16}=\\dfrac{16\\cdot [2\\cdot 14+(16-1)\\cdot 1]}{2} = 344 \\text{ (ghế).}\\] Tổng số tiền bán vé thu được là $344 \\cdot 110\\, 000 = 37\\,840\\,000 $ (đồng)."
+  },
+  {
+    "id": "1D222TN1",
+    "question": "Cho cấp số cộng $(u_n)$ với $u_n=5-2n$. Tìm công sai của cấp số cộng đã cho.",
+    "options": [
+      "$d=3$",
+      "$d=2$",
+      "$d=1$",
+      "$d=-2$"
+    ],
+    "answer": 3,
+    "explain": "Ta có $u_{n+1}=5-2(n+1)=3 -2n$.<br>Do $(u_n)$ là cấp số cộng nên công sai $d=u_{n+1}-u_n=(3-2n)-(5-2n)=-2$.<br>Vậy công sai của cấp số cộng $(u_n)$ là $d=-2$."
   }
 ];

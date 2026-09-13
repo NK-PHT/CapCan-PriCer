@@ -214,5 +214,17 @@ window.traLoiNgan1D15 = [
     "question": "Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. Độ sâu $h$ (m) của mực nước trong kênh đó tính theo thời gian $t$ giờ được cho bởi công thức ${h = 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12}$ với ($0 \\leq t \\leq 24$). Độ sâu của mực nước trong con kênh đó đạt $14$ m lần đầu tiên trong ngày vào lúc mấy giờ?",
     "answer": "20",
     "explain": "Khi độ sau của mực nước là $14$ m, ta có \\[\\begin{array}{rcl} h&=&14 \\\\ 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12&=&14 \\\\ \\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) &=& 1 \\\\ \\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3} &=& k2\\pi \\\\ t &=&-4+24k\\quad (k\\in\\mathbb{Z}). \\end{array}\\] Ta có $0\\leq t \\leq 24$ nên $0\\leq -4+24k \\leq 24$, suy ra $\\dfrac{1}{6}\\leq t \\leq \\dfrac{7}{6}$.<br>Do $t\\in\\mathbb{Z}$ nên $t=1$.<br>Vậy độ sâu của mực nước trong con kênh đó đạt $14m$ lần đầu tiên trong ngày vào lúc $t=-4+24\\cdot1=20$ giờ."
+  },
+  {
+    "id": "1D152TL28",
+    "question": "Cho phương trình $\\cos3x=2m^2-3m+1\\quad (**)$. Có bao nhiêu giá trị nguyên của $m$ để phương trình $(**)$ có nghiệm?",
+    "answer": "2",
+    "explain": "Phương trình $\\cos3x=2m^2-3m+1$ có nghiệm khi và chỉ khi $-1\\le 2m^2-3m+1 \\le 1$.<br>Ta xét hai bất phương trình <br>• $2m^2-3m+1 \\ge -1 \\Leftrightarrow 2m^2-3m+2 \\ge 0$ luôn đúng với mọi $m$;<br>• $2m^2-3m+1 \\le 1 \\Leftrightarrow 2m^2-3m \\le 0 \\Leftrightarrow m(2m-3) \\le 0 \\Leftrightarrow 0 \\le m \\le \\dfrac{3}{2}$. Vì $m$ nguyên nên $m\\in\\{0;1\\}$.<br>Vậy có $2$ giá trị nguyên của $m$ để phương trình có nghiệm."
+  },
+  {
+    "id": "1D156TL33",
+    "question": "Hằng ngày mực nước của con kênh lên xuống theo thuỷ triều, độ sâu $L$ (tính theo đơn vị mét) của mực nước trong kênh theo thời gian $t$ (giờ) được cho bởi công thức $L=3\\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)+14$. Thời gian ngắn nhất để mực nước của kênh cao nhất là $t=\\dfrac{a}{b}$ (giờ) với $\\dfrac{a}{b}$ là phân số tối giản. Tính giá trị của $a\\cdot b$?",
+    "answer": "6",
+    "explain": "Ta có \\[\\begin{array}{rcl} &&-1\\le \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)\\le 1 \\\\ &\\Leftrightarrow& -3\\le 3\\cdot \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)\\le 3 \\\\ &\\Leftrightarrow& 11\\le 3\\cdot \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)+14\\le 17\\\\ &\\Leftrightarrow& 11\\le L \\le 17. \\end{array}\\] Suy ra $L$ đạt cực đại khi \\[\\begin{array}{rcl} &&\\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)=1 \\\\ &\\Leftrightarrow& \\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}=\\dfrac{\\pi}{2}+2k\\pi \\\\ &\\Leftrightarrow& \\dfrac{\\pi t}{4}=\\dfrac{\\pi}{6}+2k\\pi \\\\ &\\Leftrightarrow& t=\\dfrac{2}{3}+8k. \\end{array}\\] Thời gian ngắn nhất ứng với $k=0$ $\\Rightarrow t=\\dfrac{2}{3}$ $\\Rightarrow a=2$, $b=3$ $\\Rightarrow a\\cdot b=6$."
   }
 ];

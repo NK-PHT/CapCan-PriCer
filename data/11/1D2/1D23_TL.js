@@ -52,5 +52,17 @@ window.traLoiNgan1D23 = [
     "question": "Một loại thuốc được dùng mỗi ngày một lần. Lúc đầu nồng độ thuốc trong máu của bệnh nhân tăng nhanh, nhưng mỗi liều kế tiếp có tác dụng ít hơn liều trước đó. Lượng thuốc trong máu ở ngày thứ nhất là $50$ mg, và mỗi ngày sau đó giảm chỉ còn một nửa so với ngày kề trước đó. Tính tổng lượng thuốc (tính bằng mg) trong máu của bệnh nhân sau khi dùng thuốc $10$ ngày liên tiếp <em>(kết quả được làm tròn đến hàng phần mười)</em>.",
     "answer": "99,9",
     "explain": "Lượng thuốc trong máu của bệnh nhân mỗi ngày lập thành một cấp số nhân có số hạng đầu $u_1 = 50$ và công bội $q = \\dfrac{1}{2}$.<br>  Tổng lượng thuốc trong máu sau $10$ ngày là tổng của $10$ số hạng đầu của cấp số nhân đó:  $S_{10} = \\dfrac{u_1 \\cdot\\left(1 - q^{10}\\right)}{1 - q}$<br>$= \\dfrac{50 \\cdot\\left(1 - \\left(\\dfrac{1}{2}\\right)^{10}\\right)}{1 - \\dfrac{1}{2}}$<br>$= 100 \\cdot \\left(1 - \\dfrac{1}{1024}\\right)$<br>$= \\dfrac{102\\,300}{1024}$<br>$\\approx 99{,}902.$  Làm tròn đến hàng phần mười, ta được kết quả là $99{,}9$ mg."
+  },
+  {
+    "id": "1D235TL7",
+    "question": "Tìm $x$ để ba số $1+x$; $9+x$; $33+x$ theo thứ tự đó lập thành một cấp số nhân.",
+    "answer": "3",
+    "explain": "Để ba số $(1+x);(9+x);(33+x)$ lập thành cấp số nhân thì \\[\\begin{array}{rcl} &&(9+x)^2=(1+x)(33+x) \\\\ &\\Leftrightarrow& 81+18x+x^2=33+34x+x^2 \\\\ &\\Leftrightarrow& 81+18x=33+34x \\\\ &\\Leftrightarrow& 48=16x\\\\ &\\Leftrightarrow& x=3. \\end{array}\\]"
+  },
+  {
+    "id": "1D238TL1",
+    "question": "Một loại vi khuẩn được nuôi cấy trong ống nghiệm, cứ $20$ phút vi khuẩn đó lại phân đôi một lần. Nếu ban đầu có $20$ vi khuẩn, tính số lượng vi khuẩn có trong ống nghiệm sau $2$ giờ.",
+    "answer": "1\\,280",
+    "explain": "$2$ giờ $=120$ phút. Mỗi $20$ phút vi khuẩn phân đôi một lần $\\Rightarrow$ có $6$ lần phân đôi.<br>Số vi khuẩn sau $6$ lần phân đôi là $20\\cdot 2^6=20\\cdot 64=1\\,280$."
   }
 ];

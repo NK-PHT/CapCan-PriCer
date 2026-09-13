@@ -15,5 +15,17 @@ window.tracNghiem1D15 = [
     ],
     "answer": 3,
     "explain": "Ta có $\\cos x = -\\dfrac{\\sqrt{3}}{2} \\Leftrightarrow \\cos x = \\cos \\dfrac{5\\pi}{6} \\Leftrightarrow x= \\pm \\dfrac{5\\pi}{6}+k2\\pi; \\, k\\in \\mathbb{Z}$."
+  },
+  {
+    "id": "1D153TN2",
+    "question": "Phương trình $\\cos x=\\cos\\dfrac{\\pi}{3}$ có nghiệm là",
+    "options": [
+      "$x=\\pm \\dfrac{\\pi}{3}+k2\\pi$, $k \\in \\mathbb{Z}$",
+      "$x=\\pm \\dfrac{\\pi}{3}+k\\pi$, $k \\in \\mathbb{Z}$",
+      "$x=\\dfrac{2\\pi}{3}+k2\\pi$, $k \\in \\mathbb{Z}$",
+      "$x=\\dfrac{5\\pi}{3}+k2\\pi$, $k \\in \\mathbb{Z}$"
+    ],
+    "answer": 0,
+    "explain": "Ta có $\\cos x=\\cos\\dfrac{\\pi}{3} \\Leftrightarrow \\left[\\begin{array}{l}x=\\dfrac{\\pi}{3}+k2\\pi\\\\x= -\\dfrac{\\pi}{3}+k2\\pi\\end{array}\\right. \\Leftrightarrow x=\\pm \\dfrac{\\pi}{3}+k2\\pi$, $k \\in \\mathbb{Z}$.<br>Vậy phương trình có nghiệm $x=\\pm \\dfrac{\\pi}{3}+k2\\pi$, $k \\in \\mathbb{Z}$."
   }
 ];

@@ -195,5 +195,11 @@ window.traLoiNgan1D14 = [
     "question": "Chiều cao so với mực nước biển trung bình tại thời điểm $t$ (giây) (với $t \\geq 0$) của một con sóng được cho bởi hàm số $h(t)=75\\sin \\left(\\dfrac{\\pi t}{8}\\right)$, trong đó $h(t)$ được tính bằng centimét. Trong 30 giây đầu tiên (kể từ mốc $t=0$ giây), có bao nhiêu thời điểm để con sóng đạt chiều cao lớn nhất?",
     "answer": "2",
     "explain": "Ta có $\\sin\\left(\\dfrac{\\pi t}{8}\\right)\\le 1\\Rightarrow 75 \\sin\\left(\\dfrac{\\pi t}{8}\\right)\\le 75$ hay $h(t)\\le 75$.<br>  Suy ra giá trị lớn nhất của $h(t)$ là $75$, khi đó $\\sin\\left(\\dfrac{\\pi t}{8}\\right)=1\\Rightarrow \\dfrac{\\pi t}{8}=\\dfrac{\\pi}{2}+k2\\pi$ ($k\\in\\mathbb{Z}$).<br>  $\\Rightarrow t=4+16k$ ($k\\in\\mathbb{Z}$). Vì $t\\in[0;30]\\Rightarrow t\\in\\{4;20\\}$ (ứng với $k$ bằng $0$ và $1$).<br>  Vậy có $2$ thời điểm để con sóng đạt nhiều cao lớn nhất."
+  },
+  {
+    "id": "1D148TL29",
+    "question": "Cho hai điểm $A$, $B$ thuộc đồ thị hàm số $y=\\sin x$ trên đoạn $[0;\\pi]$. Các điểm $C$, $D$ thuộc trục $Ox$ thoả mãn $ABCD$ là hình chữ nhật và $CD=\\dfrac{\\pi}{3}$. Độ dài cạnh $BC$ là bao nhiêu (kết quả làm tròn đến hàng phần trăm)?<br><img src=\"data/11/1D1/im1D14/1D14_tikz_038.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "answer": "0,87",
+    "explain": "Vì $CD=\\dfrac{\\pi}{3} \\Rightarrow OD=\\dfrac{\\pi}{3}$.<br>$\\Rightarrow x_D=x_A=\\dfrac{\\pi}{3} \\Rightarrow y_A=\\sin\\dfrac{\\pi}{3}=\\dfrac{\\sqrt{3}}{2}$.<br>Ta có $AD=\\dfrac{\\sqrt{3}}{2} \\Rightarrow BC=\\dfrac{\\sqrt{3}}{2}\\approx 0{,}87$.<br>"
   }
 ];
