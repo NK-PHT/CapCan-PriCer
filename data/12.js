@@ -1,9 +1,3 @@
-// =========================================================================
-// KHOI DU LIEU GOP - LOP 12 (tracNghiem + dungSai + traLoiNgan)
-// File nay duoc gop tu toan bo cac file .js rieng le theo tung bai/dang
-// truoc day trong data/12/**, de gon cau truc thu muc. Noi dung cau hoi
-// khong doi (van phan loai theo 4 ky tu dau cua id qua co che quet dong o app.js).
-// =========================================================================
 window.tracNghiem12 = [
  {
   "id": "2D112TN99",
