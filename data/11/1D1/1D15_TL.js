@@ -208,13 +208,8 @@ window.traLoiNgan1D15 = [
     "question": "Biết tổng các nghiệm của phương trình $\\sin \\left(\\pi \\sin 2x\\right)=1$ trên đoạn $[0;2\\pi]$ bằng $a\\pi$. Tìm $a$.",
     "answer": "3",
     "explain": "Ta có  $\\sin \\left(\\pi \\sin 2x\\right)=1 \\Leftrightarrow \\pi \\sin 2x=\\dfrac{\\pi}{2}+k2\\pi$<br>$\\Leftrightarrow \\sin 2x=\\dfrac{1}{2}+2k\\; \\left(k\\in \\mathbb{Z}\\right).$  Do $\\sin 2x\\in \\left[-1;1\\right]$ nên $-1\\le \\dfrac{1}{2}+2k \\le 1\\Leftrightarrow-\\dfrac{3}{4} \\le k\\le \\dfrac{1}{4}$, vì $k\\in \\mathbb{Z}$ nên $k=0$.<br>  Với $k=0$ ta có phương trình $\\sin 2x=\\dfrac{1}{2} \\Leftrightarrow 2x=\\dfrac{\\pi}{6}+l2\\pi \\text{ hoặc } 2x=\\dfrac{5\\pi}{6}+l2\\pi \\left(l\\in \\mathbb{Z}\\right)\\Leftrightarrow x=\\dfrac{\\pi}{12}+l\\pi \\text{ hoặc } x=\\dfrac{5\\pi}{12}+l\\pi.$<br>  Do $x\\in \\left[0;2\\pi \\right]$ nên $x\\in\\left\\{\\dfrac{\\pi}{12};\\dfrac{13\\pi}{12};\\dfrac{5\\pi}{12};\\dfrac{17\\pi}{12} \\right\\}$.<br>  Suy ra tổng các nghiệm của phương trình $\\sin \\left(\\pi \\sin 2x\\right)=1$ trên đoạn $\\left[0;\\; 2\\pi \\right]$ bằng $\\dfrac{\\pi}{12}+\\dfrac{13\\pi}{12}+\\dfrac{5\\pi}{12}+\\dfrac{17\\pi}{12}=3\\pi.$  Vậy $a=3$."
-  },
-  {
-    "id": "1D156TL32",
-    "question": "Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. Độ sâu $h$ (m) của mực nước trong kênh đó tính theo thời gian $t$ giờ được cho bởi công thức ${h = 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12}$ với ($0 \\leq t \\leq 24$). Độ sâu của mực nước trong con kênh đó đạt $14$ m lần đầu tiên trong ngày vào lúc mấy giờ?",
-    "answer": "20",
-    "explain": "Khi độ sau của mực nước là $14$ m, ta có \\[\\begin{array}{rcl} h&=&14 \\\\ 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12&=&14 \\\\ \\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) &=& 1 \\\\ \\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3} &=& k2\\pi \\\\ t &=&-4+24k\\quad (k\\in\\mathbb{Z}). \\end{array}\\] Ta có $0\\leq t \\leq 24$ nên $0\\leq -4+24k \\leq 24$, suy ra $\\dfrac{1}{6}\\leq t \\leq \\dfrac{7}{6}$.<br>Do $t\\in\\mathbb{Z}$ nên $t=1$.<br>Vậy độ sâu của mực nước trong con kênh đó đạt $14m$ lần đầu tiên trong ngày vào lúc $t=-4+24\\cdot1=20$ giờ."
-  },
+  }
+,
   {
     "id": "1D152TL28",
     "question": "Cho phương trình $\\cos3x=2m^2-3m+1\\quad (**)$. Có bao nhiêu giá trị nguyên của $m$ để phương trình $(**)$ có nghiệm?",
@@ -226,5 +221,23 @@ window.traLoiNgan1D15 = [
     "question": "Hằng ngày mực nước của con kênh lên xuống theo thuỷ triều, độ sâu $L$ (tính theo đơn vị mét) của mực nước trong kênh theo thời gian $t$ (giờ) được cho bởi công thức $L=3\\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)+14$. Thời gian ngắn nhất để mực nước của kênh cao nhất là $t=\\dfrac{a}{b}$ (giờ) với $\\dfrac{a}{b}$ là phân số tối giản. Tính giá trị của $a\\cdot b$?",
     "answer": "6",
     "explain": "Ta có \\[\\begin{array}{rcl} &&-1\\le \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)\\le 1 \\\\ &\\Leftrightarrow& -3\\le 3\\cdot \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)\\le 3 \\\\ &\\Leftrightarrow& 11\\le 3\\cdot \\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)+14\\le 17\\\\ &\\Leftrightarrow& 11\\le L \\le 17. \\end{array}\\] Suy ra $L$ đạt cực đại khi \\[\\begin{array}{rcl} &&\\sin\\left(\\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}\\right)=1 \\\\ &\\Leftrightarrow& \\dfrac{\\pi t}{4}+\\dfrac{\\pi}{3}=\\dfrac{\\pi}{2}+2k\\pi \\\\ &\\Leftrightarrow& \\dfrac{\\pi t}{4}=\\dfrac{\\pi}{6}+2k\\pi \\\\ &\\Leftrightarrow& t=\\dfrac{2}{3}+8k. \\end{array}\\] Thời gian ngắn nhất ứng với $k=0$ $\\Rightarrow t=\\dfrac{2}{3}$ $\\Rightarrow a=2$, $b=3$ $\\Rightarrow a\\cdot b=6$."
+  },
+  {
+    "id": "1D152TL29",
+    "question": "Tập hợp các giá trị của tham số $m$ để phương trình $\\cos(2x) + 2 = m$ có nghiệm là $[a;b]$. Khi đó $a + b$ bằng bao nhiêu?",
+    "answer": "4",
+    "explain": "Ta có $\\cos(2x) + 2 = m \\Leftrightarrow \\cos(2x) = m - 2$ có nghiệm khi và chỉ khi<br>$$-1\\le m - 2 \\le 1 \\Leftrightarrow 1 \\le m \\le 3 \\Leftrightarrow m \\in [1;3].$$<br>Vậy $a + b = 4$."
+  },
+  {
+    "id": "1D156TL34",
+    "question": "Gia tốc của một vật dao động điều hòa xung quanh vị trí cân bằng theo phương trình $x = 2 \\cos\\left(5t - \\dfrac{\\pi}{6}\\right)$. Ở đây, thời gian $t$ tính bằng giây và quãng đường $x$ tính bằng centimet. Hãy cho biết trong khoảng thời gian từ $0$ đến $6$ giây, vật đi qua vị trí cân bằng bao nhiêu lần?",
+    "answer": "9",
+    "explain": "Vị trí cân bằng là khi vật đứng yên $\\Rightarrow x = 0$.<br>$\\Rightarrow 2 \\cos\\left(5t - \\dfrac{\\pi}{6}\\right) = 0$<br>$\\Rightarrow \\cos\\left(5t - \\dfrac{\\pi}{6}\\right) = 0$<br>$\\Rightarrow 5t - \\dfrac{\\pi}{6} = \\dfrac{\\pi}{2} + k\\pi$<br>$\\Rightarrow 5t = \\dfrac{2\\pi}{3} + k\\pi$<br>$\\Rightarrow t = \\dfrac{2\\pi}{15} + \\dfrac{k\\pi}{5}$ ($k \\in \\mathbb{Z}$)<br>Thời gian từ $0$ đến $6s$:<br>$0 \\le t \\le 6$<br>$\\Rightarrow 0 \\le \\dfrac{2\\pi}{15} + \\dfrac{k\\pi}{5} \\le 6$<br>$\\Rightarrow -\\dfrac{2\\pi}{15} \\le \\dfrac{k\\pi}{5} \\le 6 - \\dfrac{2\\pi}{15}$<br>$\\Rightarrow -\\dfrac{2\\pi}{15} \\le \\dfrac{3k\\pi}{15} \\le \\dfrac{90 - 2\\pi}{15}$<br>$\\Rightarrow -2 \\le 3k \\le \\dfrac{90}{\\pi} - 2$<br>$\\Rightarrow -\\dfrac{2}{3} \\le k \\le \\dfrac{30}{\\pi} - \\dfrac{2}{3}$<br>Với $\\pi \\approx 3.14$, ta có:<br>$-\\dfrac{2}{3} \\le k \\le \\dfrac{30}{3.14} - \\dfrac{2}{3} \\approx 8.88$<br>Vì $k \\in \\mathbb{Z}$, nên $k = 0, 1, 2, 3, 4, 5, 6, 7, 8$.<br>$\\Rightarrow$ Vật đi qua vị trí cân bằng 9 lần."
+  },
+  {
+    "id": "1D156TL35",
+    "question": "Số giờ có ánh sáng mặt trời của một thành phố A ở vĩ độ $40^\\circ$ Bắc trong ngày thứ $t$ của một năm không nhuận được cho bởi hàm số có công thức $d(t)=3\\sin \\left[\\dfrac{\\pi}{182} (t-80) \\right]+12,$ với $t \\in \\mathbb{Z}$ và $0&lt; t \\le 365$. Biết rằng vào một ngày của tháng $6$ dương lịch trong năm đó thì thành phố A có đúng $15$ giờ có ánh sáng mặt trời. Hỏi ngày đó là ngày mấy của tháng $6$?",
+    "answer": "20",
+    "explain": "Giả sử thành phố A có đúng $15$ giờ có ánh sáng mặt trời vào ngày thứ $\\mathrm{t}_0$.<br>Ta có $d(t_0)=3 \\sin \\left[\\dfrac{\\pi}{182}\\left(t_0-80\\right)\\right]+12$.<br>Mà $d(t_0)=15$ nên ta có \\[\\begin{array}{rcl} && 3 \\sin \\left[\\dfrac{\\pi}{182}(t_0-80)\\right]+12=15 \\\\ & \\Leftrightarrow& 3 \\sin \\left[\\dfrac{\\pi}{182}(t_0-80)\\right]=3\\\\ & \\Leftrightarrow& \\sin \\left[\\dfrac{\\pi}{182}(t_0-80)\\right]=1\\\\ & \\Leftrightarrow& \\dfrac{\\pi}{182}(t_0-80)=\\dfrac{\\pi}{2}+k2\\pi, k \\in \\mathbb{Z} \\\\ & \\Leftrightarrow& t_0-80=91+364k, k \\in \\mathbb{Z} \\\\ & \\Leftrightarrow& t_0=364k+171, k \\in \\mathbb{Z}. \\end{array}\\] Mà $0 &lt; t_0 \\leq 365 \\Leftrightarrow -171 &lt; 364k \\leq 194\\Leftrightarrow -\\dfrac{171}{364} &lt; k \\leq \\dfrac{97}{182}$.<br>Mà $k \\in \\mathbb{Z}$ nên $k=0$ do đó $t_0=171$.<br>Vậy thành phố A có đúng $15$ giờ có ánh sáng mặt trời vào ngày thứ $171$ trong năm tức là vào ngày thứ $20$ của tháng $6$."
   }
 ];

@@ -42,9 +42,15 @@ window.traLoiNgan1D22 = [
     "explain": "Số phần tử của không gian mẫu là $n!$.<br>  Gọi $a$, $b$, $c$ lần lượt là số ghế của Khoa, Thảo, Khôi.<br>  Do $a$, $b$, $c$ theo thứ tự lập thành một cấp số cộng nên $a+c=2b$.<br>  Khi đó $a$, $c$ cùng chẵn hoặc cùng lẻ.<br>  Gọi $A$ là tập hợp các ghế số chẵn, $B$ là tập hợp các ghế số lẻ.<br>  Với hai phần tử $a$, $c$ thuộc $A$ hoặc $B$ thì hiển nhiên tồn tại cấp số cộng $a$, $b$, $c$.  <br>- Trường hợp $n$ chẵn.<br>  Khi đó, $A$ có $\\dfrac{n}{2}$ phần tử và $B$ có $\\dfrac{n}{2}$ phần tử.<br>  Có $C_{\\frac{n}{2}}^2 = \\dfrac{\\left(\\dfrac{n}{2}\\right)!}{2! \\cdot \\left(\\dfrac{n}{2}-2\\right)!} = \\dfrac{1}{2} \\cdot \\left(\\dfrac{n}{2}-1\\right) \\cdot \\left(\\dfrac{n}{2}\\right) = \\dfrac{1}{8} \\cdot (n-2)n$.<br>  Nên số cấp số cộng là $2 \\cdot C_{\\frac{n}{2}}^2 = \\dfrac{1}{4} \\cdot (n-2)n$.<br>  Và số kết quả thuận lợi là $\\dfrac{1}{4} \\cdot (n-2)n \\cdot (n-3)! \\cdot 2! = \\dfrac{1}{2} \\cdot (n-2)n \\cdot (n-3)!$ (Do mỗi bộ $(a, c)$ có $2$ thứ tự chọn để tạo ra $1$ cấp số cộng và ba bạn Khoa, Thảo, Khôi chỉ ngồi vào ba ghế có số ghế tạo thành cấp số cộng chứ không thay đổi vị trí).<br>  Theo đề, có phương trình  $\\dfrac{\\dfrac{1}{2} \\cdot (n-2)n \\cdot (n-3)!}{n!} = \\dfrac{13}{675} \\Leftrightarrow \\dfrac{1}{2(n-1)} = \\dfrac{13}{675}$<br>$\\Leftrightarrow n = \\dfrac{701}{26} \\text{ (loại).}$<br>- Trường hợp $n$ lẻ.<br>  Khi đó, $A$ có $\\dfrac{n-1}{2}$ phần tử và $B$ có $\\dfrac{n+1}{2}$ phần tử.<br>  Có $C_{\\frac{n-1}{2}}^2 = \\dfrac{\\left(\\dfrac{n-1}{2}\\right)!}{2! \\cdot \\left(\\dfrac{n-1}{2}-2\\right)!} = \\dfrac{1}{2} \\cdot \\left(\\dfrac{n-1}{2}-1\\right) \\cdot \\left(\\dfrac{n-1}{2}\\right) = \\dfrac{1}{8} \\cdot (n-3)(n-1)$.<br>  Và $C_{\\frac{n+1}{2}}^2 = \\dfrac{\\left(\\dfrac{n+1}{2}\\right)!}{2! \\cdot \\left(\\dfrac{n+1}{2}-2\\right)!} = \\dfrac{1}{2} \\cdot \\left(\\dfrac{n+1}{2}-1\\right) \\cdot \\left(\\dfrac{n+1}{2}\\right) = \\dfrac{1}{8} \\cdot (n-1)(n+1)$.<br>  Nên số cấp số cộng là $C_{\\frac{n-1}{2}}^2 + C_{\\frac{n+1}{2}}^2 = \\dfrac{1}{8}(n-1)(2n-2) = \\dfrac{1}{4}(n-1)^2$.<br>  Và số kết quả có thể là $\\dfrac{1}{4}(n-1)^2 \\cdot 2 \\cdot (n-3)! = \\dfrac{1}{2}(n-1)^2 \\cdot (n-3)!$ (Do mỗi bộ $\\{a;c\\}$ có $2$ cấp số cộng và ba bạn Khoa, Thảo, Khôi chỉ ngồi vào ba ghế có số ghế tạo thành cấp số cộng chứ không thay đổi vị trí).<br>  Theo đề, có phương trình  $\\dfrac{\\dfrac{1}{2} \\cdot (n-1)^2 \\cdot (n-3)!}{n!} = \\dfrac{13}{675} \\Leftrightarrow \\dfrac{n-1}{2n(n-2)} = \\dfrac{13}{675}$<br>$\\Leftrightarrow 26n^2 - 727n + 675 = 0$<br>$\\Leftrightarrow n = 27 \\text{ (nhận)} \\text{ hoặc } n = \\dfrac{25}{26} \\text{ (loại).}$  Vậy $n=27$."
   },
   {
-    "id": "1D227TL1",
-    "question": "Một hội trường có $10$ dãy ghế, mỗi dãy ghế kế tiếp nhiều hơn dãy ghế ngay trước nó là $4$ ghế. Biết dãy ghế cuối cùng có $45$ ghế, hỏi hội trường có bao nhiêu ghế?",
-    "answer": "270",
-    "explain": "Số ghế mỗi dãy lập thành một cấp số cộng với: <br>• Số hạng cuối $u_{10}=45$;<br>• Công sai $d=4$;<br>• Số hạng đầu $u_1=u_{10}-(10-1)\\cdot 4=45-36=9$. Tổng số ghế \\[\\begin{array}{rcl} S_{10}&=&\\dfrac{10}{2}(u_1+u_{10})=\\dfrac{10}{2}(9+45)=5\\cdot 54=270. \\end{array}\\]"
+    "id": "1D224TL1",
+    "question": "Cho dãy số $(u_n)$ là một cấp số cộng có $u_1=4$, công sai $d=-3$. Tìm $u_{10}$.",
+    "answer": "-24",
+    "explain": "Công thức số hạng tổng quát của cấp số cộng là $u_n = u_1 + (n - 1)d$.<br>Do đó $$u_{10} = u_1 + (10 - 1)d = 4 + 9 \\cdot (-3) = -24.$$"
+  },
+  {
+    "id": "1D224TL2",
+    "question": "Cho cấp số cộng $(u_n)$ có số hạng đầu $u_1 = -1$ và công sai $d = 3$. Tìm số hạng $u_2$.",
+    "answer": "2",
+    "explain": "Ta có: $u_2 = u_1 + d = -1 + 3 = 2$ Vậy: $u_2 = 2$"
   }
 ];

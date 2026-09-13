@@ -69,5 +69,17 @@ window.traLoiNgan1D12 = [
     "question": "Cho biết $\\cos \\alpha=\\dfrac{3}{5}, 0&lt; \\alpha &lt; \\dfrac{\\pi}{2}$. Giá trị $\\sin \\alpha$ bằng bao nhiêu?",
     "answer": "0,8",
     "explain": "Ta có công thức lượng giác cơ bản là $\\sin^2 \\alpha + \\cos^2 \\alpha = 1$.<br>  Suy ra  $\\sin^2 \\alpha = 1 - \\cos^2 \\alpha = 1 - \\left(\\dfrac{3}{5}\\right)^2 = 1 - \\dfrac{9}{25} = \\dfrac{16}{25}$.<br>  Vì $0 &lt; \\alpha &lt; \\dfrac{\\pi}{2}$ nên $\\sin \\alpha &gt; 0$.<br>  Vậy $\\sin \\alpha = \\sqrt{\\dfrac{16}{25}} = \\dfrac{4}{5}=0{,}8$."
+  },
+  {
+    "id": "1D124TL1",
+    "question": "Với mọi góc $\\alpha$, biểu thức $A=\\cos\\left( \\alpha - \\dfrac{\\pi}{2}\\right) + \\cos (\\alpha - \\pi)$ nhận giá trị bằng bao nhiêu?",
+    "answer": "0",
+    "explain": "Ta có $A=\\cos\\left( \\alpha- \\dfrac{\\pi}{2}\\right) + \\cos\\left( \\alpha - \\pi\\right) = \\cos\\left( \\dfrac{\\pi}{2}-\\alpha\\right) - \\cos(\\pi -\\alpha)=\\cos\\alpha - \\cos\\alpha = 0$."
+  },
+  {
+    "id": "1D124TL2",
+    "question": "Cho $x=\\dfrac{\\pi}{3}$. Tính giá trị của biểu thức $A=\\tan\\left(\\dfrac{17\\pi}{2}-x\\right)$ (\\textit{làm tròn đến hàng phần trăm}).",
+    "answer": "0,58",
+    "explain": "Ta có \\[\\begin{array}{rcl} A &=& \\tan\\left(\\dfrac{17\\pi}{2}-x\\right)\\\\ &= & \\tan\\left(8\\pi + \\dfrac{\\pi}{2} - x\\right)\\\\ &=& \\tan\\left(\\dfrac{\\pi}{2} - x\\right)\\\\ &=& \\cot x\\\\ &=& \\cot \\dfrac{\\pi}{3}\\\\ &=& \\dfrac{1}{\\sqrt{3}} \\approx 0{,}58. \\end{array}\\]"
   }
 ];

@@ -96,5 +96,28 @@ window.dungSai1H45 = [
       }
     ],
     "explain": "- Ta có $BD\\parallel B'D'$ và $CD'\\parallel A'B$ (tính chất các mặt của hình hộp), suy ra $(A'BD)\\parallel(B'D'C)$, tức là $(BDA')\\parallel(B'D'C)$. Vậy khẳng định này đúng.<br>- Gọi $O$ là tâm của hình bình hành đáy $ABCD$ (cũng là trung điểm $BD$ và $AC$), $O'$ là tâm của $A'B'C'D'$, và $I$ là trung điểm của $AC'$; vì $ACC'A'$ là hình bình hành nên $I$ cũng là trung điểm của $A'C$.<br>  Vì $G_1$ là trọng tâm tam giác $A'BD$ nên $\\dfrac{A'G_1}{A'O}=\\dfrac{2}{3}$; mà $A'O$ cũng là trung tuyến của tam giác $AA'C$ (do $O$ là trung điểm $AC$), nên $G_1$ cũng là trọng tâm tam giác $AA'C$, suy ra $G_1$ thuộc $AI\\equiv AC'$.<br>  Tương tự, $G_2$ là trọng tâm tam giác $CB'D'$ nên $G_2$ cũng là trọng tâm tam giác $CC'A'$, suy ra $G_2$ thuộc $C'I\\equiv AC'$. Vậy đường chéo $AC'$ đi qua cả $G_1$ và $G_2$: khẳng định này đúng.<br>- Từ chứng minh trên, $AG_1=CG_2=\\dfrac{2}{3}AI=\\dfrac{1}{3}AC'$; và $G_1G_2=AC'-AG_1-CG_2=\\dfrac{1}{3}AC'$, suy ra $AG_1=G_1G_2$ (không phải $AG_1=2G_1G_2$). Vậy khẳng định này sai.<br>- Gọi $P$ là trung điểm $CD'$; vì $P$ là trung điểm một cạnh của tam giác $CB'D'$ nên $B'P$ là trung tuyến của tam giác này và đi qua trọng tâm $G_2$, do đó $P\\in(A'B'G_2)$, tức mặt phẳng $(A'B'G_2)$ chính là $(A'B'P)$. Mặt phẳng này cắt mặt $(CDD'C')$ theo giao tuyến $\\Delta$ đi qua $P$ và song song với $A'B'$ (vì $A'B'\\parallel C'D'\\subset (CDD'C')$). Gọi $M$, $N$ lần lượt là giao điểm của $\\Delta$ với $CC'$, $DD'$; khi đó $MN\\parallel A'B'\\parallel C'D'$ và $MN=A'B'=C'D'$, suy ra $MNA'B'$ là hình bình hành. Mặt phẳng $(A'B'G_2)$ cắt các mặt $(ADD'A')$, $(BCC'B')$ của hình hộp lần lượt theo các đoạn $NA'$, $MB'$, nên thiết diện tạo bởi mặt phẳng này với hình hộp chính là tứ giác $MNA'B'$ - một hình bình hành. Vậy khẳng định này đúng."
+  },
+  {
+    "id": "1H452DS3",
+    "question": "Cho lăng trụ tam giác $ABC.A'B'C'$ có $I$, $K$, $G$ lần lượt là trọng tâm các tam giác $ABC$, $A'B'C'$, $A C C'$. Gọi $M, M', N$ lần lượt là trung điểm của $BC,$ $B'C'$, $C C'$. Khi đó: Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Đường thẳng $AN$ không cắt $A'C$",
+        "answer": false
+      },
+      {
+        "text": "$AM \\parallel A'M'$",
+        "answer": true
+      },
+      {
+        "text": "$IK \\parallel (BCC'B')$; $IG \\parallel (BCC'B')$",
+        "answer": true
+      },
+      {
+        "text": "$(A'KG) \\parallel (AIB')$",
+        "answer": true
+      }
+    ],
+    "explain": "<img src=\"data/11/1H4/im1H45/1H45_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br><br>- Ta có $AN\\subset (ACC'A')$, $A'C\\subset (ACC'A')$ và $ AN$ không song song với $A'C$ nên $AN$ cắt $A'C$ nhau.<br>- Ta có $M$ và $M'$ lần lượt là trung điểm của $BC$ và $B'C'$ nên $MM'$ là đường trung bình trong hình bình hành $BCC'B'$ do đó $MM'\\parallel BB'$ và $MM'=BB'$.<br>Mặt khác $BB'\\parallel AA'$ và $BB'=AA'$, do đó $MM'=AA'$ và $MM'\\parallel AA'$. Suy ra $AMM'A'$ là hình bình hành, suy ra $AM\\parallel A'M'$.<br>- Ta có $MI=\\dfrac{1}{3}AM$, $M'K=\\dfrac{1}{3}A'M'$ và $AM=A'M'$ nên $MI=M'K$ mà $MI\\parallel M'K$ nên $IMM'K$ là hình bình hành.<br>Do đó $IK\\parallel MM'$ mà $MM'\\subset (BCC'B')$ nên $IK\\parallel (BCC'B')$.<br>Ta có $\\dfrac{AI}{AM}=\\dfrac{2}{3}$ và $\\dfrac{AG}{AN}=\\dfrac{2}{3}$ nên $\\dfrac{AI}{AM}=\\dfrac{AG}{AN}$.<br>Do đó $IG\\parallel MC$ mà $MC\\subset (BCC'B')$ nên $IG\\parallel (BCC'B')$.<br>- Ta có $MC=\\dfrac{1}{2}BC$, $B'M'=\\dfrac{1}{2}B'C'$ và $BC=B'C'$ nên $MC=B'M'$, suy ra $MCM'B'$ là bình bình hành, do đó $CM'\\parallel MB'$.<br>Mặt khác $MB'\\subset (AIB')$ và $CM'\\not \\subset (AIB')$ nên $CM'\\parallel (AIB')$.<br>Ta lại có $CM'\\subset (A'KG)$ nên $(A'KG) \\parallel (AIB')$."
   }
 ];

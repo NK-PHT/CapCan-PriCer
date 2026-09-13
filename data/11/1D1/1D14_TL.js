@@ -201,5 +201,17 @@ window.traLoiNgan1D14 = [
     "question": "Cho hai điểm $A$, $B$ thuộc đồ thị hàm số $y=\\sin x$ trên đoạn $[0;\\pi]$. Các điểm $C$, $D$ thuộc trục $Ox$ thoả mãn $ABCD$ là hình chữ nhật và $CD=\\dfrac{\\pi}{3}$. Độ dài cạnh $BC$ là bao nhiêu (kết quả làm tròn đến hàng phần trăm)?<br><img src=\"data/11/1D1/im1D14/1D14_tikz_038.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
     "answer": "0,87",
     "explain": "Vì $CD=\\dfrac{\\pi}{3} \\Rightarrow OD=\\dfrac{\\pi}{3}$.<br>$\\Rightarrow x_D=x_A=\\dfrac{\\pi}{3} \\Rightarrow y_A=\\sin\\dfrac{\\pi}{3}=\\dfrac{\\sqrt{3}}{2}$.<br>Ta có $AD=\\dfrac{\\sqrt{3}}{2} \\Rightarrow BC=\\dfrac{\\sqrt{3}}{2}\\approx 0{,}87$.<br>"
+  },
+  {
+    "id": "1D148TL30",
+    "question": "Số giờ có ánh sáng của thành phố T ở vĩ độ $40^\\circ$ bắc trong ngày thứ $t$ của một năm không nhuận được cho bởi hàm số $d(t) = 3\\cdot \\cos\\left[ \\dfrac{\\pi}{182}(t-80)\\right] +12$ với $t \\in \\mathrm{Z}$ và $0&lt;t\\le 365$. Bạn An muốn đi tham quan thành phố T nhưng lại không thích ánh sáng mặt trời, vậy bạn An nên chọn đi vào ngày nào trong năm để thành phố T có ít giờ có ánh sáng mặt trời nhất?",
+    "answer": "353",
+    "explain": "Ta có $\\cos\\left[ \\dfrac{\\pi}{182}(t-80)\\right] \\le -1$ nên $d(t)$ nhỏ nhất khi $\\cos\\left[ \\dfrac{\\pi}{182}(t-80)\\right] = -1$.<br>\\[\\begin{array}{rcl} &&\\cos\\ \\left[\\dfrac{\\pi}{182}(t-80)\\right] = -1\\\\ &\\Leftrightarrow& \\dfrac{\\pi}{182}(t-80) = \\dfrac{3\\pi}{2} + 2k\\pi\\\\ &\\Leftrightarrow& t - 80 = 273 + 364k\\\\ &\\Leftrightarrow& t = 353 + 364k \\end{array}\\] Vì $t \\in \\mathrm{Z}$ và $0&lt;t\\le 365$ nên lấy $k =0$ ta có $t=353$."
+  },
+  {
+    "id": "1D146TL30",
+    "question": "Tìm giá trị nhỏ nhất $m$ của hàm số $y=-\\sqrt{3}\\cos (2024 x+2025)$ (kết quả làm tròn đến hàng phần mười).",
+    "answer": "-1,7",
+    "explain": "Hàm số đã cho có miền xác định $\\mathscr{D}=\\mathbb{R}$.<br>Với mọi $x \\in \\mathbb{R}$, ta luôn có \\begin{align*} \\cos (2024 x+2025) &\\le 1 <br>-\\sqrt{3}\\cos (2024 x+2025) &\\ge -\\sqrt{3}. \\end{align*} Do đó $$ m = \\min\\limits_{x \\in \\mathbb{R}} y = -\\sqrt{3} \\approx -1{,}7. $$"
   }
 ];

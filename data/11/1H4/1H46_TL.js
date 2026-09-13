@@ -16,4 +16,5 @@ window.traLoiNgan1H46 = [
     "answer": "0,33",
     "explain": "<br><img src=\"data/11/1H4/im1H46/dlts_11_DLTS19_010.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $N$ là hình chiếu song song của $M$ lên $(ABD)$ theo phương $CD$ nên $MN\\parallel CD$.<br>  Do $MN\\parallel CD$, áp dụng định lý Thales trong tam giác $\\triangle EDC$, ta có $\\dfrac{EN}{ED}=\\dfrac{EM}{EC}=\\dfrac{1}{3}\\approx 0{,}33$."
   }
+
 ];

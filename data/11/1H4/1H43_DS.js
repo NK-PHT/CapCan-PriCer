@@ -141,5 +141,28 @@ window.dungSai1H43 = [
       }
     ],
     "explain": "<img src=\"data/11/1H4/im1H43/1H43_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br><br>- <strong>Sai</strong>.<br>Trong $(ABCD)$ ta có $P=AC\\cap MD\\Rightarrow \\left\\{\\begin{array}{l}P\\in AC\\\\P\\in MD\\subset (SMD)\\end{array}\\right.\\Rightarrow AC\\cap (SMD)=\\{P\\}$.<br>Suy ra $P$ là giao điểm của hai đường thẳng $AC$ và $MD$.<br>- <strong>Đúng</strong>.<br>Trong $(SAC)$ ta có $K=AI\\cap SP\\Rightarrow \\left\\{\\begin{array}{l}K\\in AI\\\\K\\in SP\\subset (SMD)\\end{array}\\right.\\Rightarrow AI\\cap (SMD)=\\{K\\}$.<br>Suy ra $K$ là giao điểm của hai đường thẳng $AI$ và $SP$.<br>- <strong>Đúng</strong>.<br>Ta có $CM \\parallel AD\\Rightarrow \\dfrac{PC}{PA}=\\dfrac{MC}{AD}=\\dfrac{1}{2}$ và $\\dfrac{IC}{IS}=\\dfrac{1}{2}$.<br>Suy ra $IP\\parallel SA$ mà $SA\\subset (SAB)\\Rightarrow IP\\parallel (SAB)$.<br>- <strong>Sai</strong>.<br>Áp dụng định lí Menelaus vào $\\triangle SDP$, có $\\dfrac{HS}{HD} \\cdot \\dfrac{MD}{MP} \\cdot \\dfrac{KP}{KS}=1$.<br>Mà $\\dfrac{KP}{KS}=\\dfrac{IP}{SA}=\\dfrac{PC}{AC}=\\dfrac{1}{3}$ và $\\dfrac{MD}{MP}=3$.<br>Suy ra $\\dfrac{HS}{HD} \\cdot 3 \\cdot \\dfrac{1}{3}=1 \\Rightarrow HS=HD \\Rightarrow \\dfrac{SH}{SD}=\\dfrac{1}{2}$.<br>Áp dụng định lí Menelaus vào $\\triangle MDH$, có $\\dfrac{KM}{KH} \\cdot \\dfrac{SH}{SD} \\cdot \\dfrac{PD}{PM}=1$.<br>Lại có $\\dfrac{PD}{PM}=2$, suy ra $\\dfrac{KM}{KH} \\cdot \\dfrac{1}{2} \\cdot 2=1 \\Rightarrow KM=KH \\Rightarrow \\dfrac{MK}{MH}=\\dfrac{1}{2}$.<br>Khi đó $a=1$ và $b=2$. Vậy $a+b=1+2=3$."
+  },
+  {
+    "id": "1H433DS4",
+    "question": "Cho hình chóp $S.ABCD$ có đáy là hình thang, $AB \\parallel CD$ và $AB=2CD$, $O$ là giao điểm của hai đường thẳng $AC$ và $BD$. Gọi $M$, $N$ lần lượt là trung điểm $SA$ và $SB$.<br><img src=\"data/11/1H4/im1H43/1H43_tikz_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$AB \\parallel MC$",
+        "answer": false
+      },
+      {
+        "text": "Tứ giác $CDMN$ là hình thang cân",
+        "answer": false
+      },
+      {
+        "text": "$E$ là trung điểm của $SC$, $G$ là trọng tâm của tam giác $SBC$ , khi đó $OG$ song song với $DE$",
+        "answer": true
+      },
+      {
+        "text": "Giao tuyến của $(CDE)$ và $(SAC)$ là đường thẳng $EO$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Ta có $AB \\parallel MN$.<br>- Vì $MN$ là đường trung bình của $\\triangle SAB$ nên $\\left\\{\\begin{array}{l}MN\\parallel AB\\\\MN=\\dfrac{1}{2}AB.\\end{array}\\right.$<br>Mặt khác $\\left\\{\\begin{array}{l}CD\\parallel AB\\\\CD=\\dfrac{1}{2}AB.\\end{array}\\right.$<br>Do đó $\\left\\{\\begin{array}{l}MN\\parallel CD\\\\MN=CD.\\end{array}\\right.$<br>Do đó tứ giác $CDMN$ là hình bình hành.<br>- Ta có $\\dfrac{OD}{OB}=\\dfrac{CD}{AB}=\\dfrac{1}{2} \\Rightarrow \\dfrac{OD}{BD}=\\dfrac{1}{3} = \\dfrac{GE}{EB}$ nên theo định lý ta-lét $OG\\parallel DE$.<br>- Giao tuyến của $(CDE)$ và $(SAC)$ là $EC$."
   }
 ];

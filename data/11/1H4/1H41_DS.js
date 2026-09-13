@@ -95,5 +95,28 @@ window.dungSai1H41 = [
       }
     ],
     "explain": "- \"Các điểm $A$, $B$, $C$, $D$ là các đỉnh của hình tứ diện $ABCD$\" là khẳng định đúng.<br>- Các đoạn thẳng $AB$, $AC$, $AD$, $BC$, $BD$, $CD$ được gọi là các cạnh của hình tứ diện $ABCD$ (tứ diện không phân biệt \"cạnh bên\"/\"cạnh đáy\" như hình chóp). Do đó khẳng định \"Các đoạn thẳng $AB$, $AC$, $BC$ được gọi là các cạnh bên của hình tứ diện $ABCD$\" là sai.<br>- Hình tứ diện $ABCD$ có ba cặp cạnh đối diện, đó là $AB$ và $CD$; $AC$ và $BD$; $AD$ và $BC$. Khẳng định này đúng.<br>- Hình tứ diện $ABCD$ có đỉnh $A$ đối diện với mặt $(BCD)$; đỉnh $B$ đối diện với mặt $(ACD)$; đỉnh $C$ đối diện với mặt $(ABD)$; đỉnh $D$ đối diện với mặt $(ABC)$. Vậy có bốn (không phải ba) cặp đỉnh đối diện với mặt, nên khẳng định đã cho là sai."
+  },
+  {
+    "id": "1H413DS2",
+    "question": "Cho tứ giác $ABCD$ có $AC$ và $BD$ giao nhau tại $O$ và một điểm $S$ không thuộc mặt phẳng $(ABCD)$. Trên đoạn $SC$ lấy một điểm $M$ không trùng với $S$ và $C$ , $K=AM \\cap SO$. Khi đó:<br><img src=\"data/11/1H4/im1H41/1H41_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$SO$ là giao tuyến của hai mặt phẳng $(SAC)$ và $(ABC)$",
+        "answer": false
+      },
+      {
+        "text": "$SO$ là giao tuyến của hai mặt phẳng $(SAC)$ và $(SBD)$",
+        "answer": true
+      },
+      {
+        "text": "Giao điểm của đường thẳng $SO$ với mặt phẳng $(ABM)$ là điểm $K$",
+        "answer": true
+      },
+      {
+        "text": "Giao điểm của đường thẳng $SD$ với mặt phẳng $(ABM)$ là điểm $N$ thuộc đường thẳng $AK$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Ta có $(SAC)\\cap(ABC)=AC$.<br>- Ta có $(SAC)\\cap(SBD)=SO$.<br>- Tìm giao điểm của $SO$ và $(ABM)$.<br>Trong mặt phẳng $(SAC)$, gọi $K = AM \\cap SO$.<br>Ta có $\\left\\{\\begin{array}{l}K \\in AM, AM \\subset (ABM)\\\\K \\in SO\\end{array}\\right.\\Rightarrow K = SO \\cap (ABM)$.<br>- Tìm giao điểm của $SD$ và $(ABM)$.<br>Xét mặt phẳng phụ $(SBD)$ chứa $SD$.<br>Dễ thấy $B$ là điểm chung của hai mặt phẳng $(SBD)$ và $(ABM)$.<br>Ta có $\\left\\{\\begin{array}{l}K \\in AM, AM \\subset (ABM)\\\\K \\in SO, SO \\subset (SBD)\\end{array}\\right.\\Rightarrow K \\in (SBD) \\cap (ABM)$. <br>Do đó $BK = (SBD) \\cap (ABM)$. Trong mặt phẳng $(SBD)$, gọi $N = BK \\cap SD$.<br>Do $\\left\\{\\begin{array}{l}N \\in SD\\\\N \\in BK, BK \\subset (ABM)\\end{array}\\right.\\Rightarrow N = SD \\cap (ABM)$."
   }
 ];

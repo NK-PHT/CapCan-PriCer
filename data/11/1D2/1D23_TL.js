@@ -54,15 +54,9 @@ window.traLoiNgan1D23 = [
     "explain": "Lượng thuốc trong máu của bệnh nhân mỗi ngày lập thành một cấp số nhân có số hạng đầu $u_1 = 50$ và công bội $q = \\dfrac{1}{2}$.<br>  Tổng lượng thuốc trong máu sau $10$ ngày là tổng của $10$ số hạng đầu của cấp số nhân đó:  $S_{10} = \\dfrac{u_1 \\cdot\\left(1 - q^{10}\\right)}{1 - q}$<br>$= \\dfrac{50 \\cdot\\left(1 - \\left(\\dfrac{1}{2}\\right)^{10}\\right)}{1 - \\dfrac{1}{2}}$<br>$= 100 \\cdot \\left(1 - \\dfrac{1}{1024}\\right)$<br>$= \\dfrac{102\\,300}{1024}$<br>$\\approx 99{,}902.$  Làm tròn đến hàng phần mười, ta được kết quả là $99{,}9$ mg."
   },
   {
-    "id": "1D235TL7",
-    "question": "Tìm $x$ để ba số $1+x$; $9+x$; $33+x$ theo thứ tự đó lập thành một cấp số nhân.",
-    "answer": "3",
-    "explain": "Để ba số $(1+x);(9+x);(33+x)$ lập thành cấp số nhân thì \\[\\begin{array}{rcl} &&(9+x)^2=(1+x)(33+x) \\\\ &\\Leftrightarrow& 81+18x+x^2=33+34x+x^2 \\\\ &\\Leftrightarrow& 81+18x=33+34x \\\\ &\\Leftrightarrow& 48=16x\\\\ &\\Leftrightarrow& x=3. \\end{array}\\]"
-  },
-  {
-    "id": "1D238TL1",
-    "question": "Một loại vi khuẩn được nuôi cấy trong ống nghiệm, cứ $20$ phút vi khuẩn đó lại phân đôi một lần. Nếu ban đầu có $20$ vi khuẩn, tính số lượng vi khuẩn có trong ống nghiệm sau $2$ giờ.",
-    "answer": "1\\,280",
-    "explain": "$2$ giờ $=120$ phút. Mỗi $20$ phút vi khuẩn phân đôi một lần $\\Rightarrow$ có $6$ lần phân đôi.<br>Số vi khuẩn sau $6$ lần phân đôi là $20\\cdot 2^6=20\\cdot 64=1\\,280$."
+    "id": "1D234TL1",
+    "question": "Cho cấp số nhân $\\left(u_n\\right)$ có $u_1=-2$ và công bội $q=3$. Tìm số hạng thứ 5 của cấp số nhân?",
+    "answer": "-162",
+    "explain": "Số hạng thứ $5$ của cấp số nhân là $u_5=u_1\\cdot q^4=-2 \\cdot 3^4=-162$"
   }
 ];

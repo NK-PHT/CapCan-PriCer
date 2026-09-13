@@ -177,11 +177,6 @@ window.traLoiNgan1D13 = [
     "question": "Biết với mọi $x$ thì $\\sin^6x+\\cos^6x=a+b\\cos 4x$ với $a;b\\in \\mathbb{Q}$. Tính $a+b$.",
     "answer": "1",
     "explain": "Đặt $P=\\sin^6x+\\cos^6x$.<br>  Ta có $\\sin^6 x + \\cos^6 x = \\left( \\sin^2 x + \\cos^2 x\\right) \\left( \\sin^4 x - \\sin^2 x \\cos^2 x + \\cos^4 x\\right) =1 - 3\\sin^2 x \\cos^2 x$.<br>  Lại có $\\sin^2 x \\cos^2 x = \\dfrac{1}{4} \\sin^2 2x$.<br>  Vậy   $P= 1 - \\dfrac{3}{4} \\sin^2 2x = 1 - \\dfrac{3}{4} \\cdot \\left( \\dfrac{1 - \\cos 4x}{2} \\right)= \\dfrac{5}{8} + \\dfrac{3}{8} \\cos 4x$.<br>  Suy ra $a = \\dfrac{5}{8}$ và $b = \\dfrac{3}{8}$.<br>  Vậy $a + b = \\dfrac{5}{8} + \\dfrac{3}{8} = 1$."
-  },
-  {
-    "id": "1D133TL27",
-    "question": "Cho góc $\\alpha$ thỏa mãn $\\cos \\alpha = \\dfrac{-1}{2}$. Giá trị của $\\cos 2\\alpha$ bằng bao nhiêu? (kết quả làm tròn đến chữ số thập phân thứ nhất).",
-    "answer": "-0,5",
-    "explain": "Ta có $$\\cos2\\alpha=2\\cos^2\\alpha-1=2\\cdot\\left(-\\dfrac{1}{2}\\right)^2-1=-\\dfrac{1}{2}.$$ Vậy $\\cos2\\alpha=-\\dfrac{1}{2}=-0{,}5$."
   }
+
 ];

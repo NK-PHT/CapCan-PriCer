@@ -119,4 +119,5 @@ window.dungSai1H44 = [
     ],
     "explain": "<br><img src=\"data/11/1H4/im1H44/loc3_1_TL_TN_DS_THPT__008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- Ta có $M\\in (MBC)\\cap (SAD) \\text{ và } (MBC)\\supset BC\\parallel AD\\subset (SAD)\\Rightarrow(MBC)\\cap(SAD)=Mx\\parallel BC\\parallel AD$.<br>- Ta có $N$, $C$, $D\\in(ABCD)$, $M\\notin (ABCD)$, suy ra $MN$ và $CD$ chéo nhau.<br>- Ta có $MO\\parallel SC\\subset (SCD)$, suy ra $OM\\parallel (SCD)$.<br>- Ta có $(OMN)\\supset MN\\parallel SB\\subset (SBC) \\text{ và } (OMN)\\supset OM\\parallel SC\\subset (SBC)\\Rightarrow (OMN)\\parallel(SBC)$."
   }
+
 ];
