@@ -15,7 +15,8 @@ window.tracNghiem2D11 = [
       "$(-1;0)$"
     ],
     "answer": 3,
-    "explain": "Hàm số đã cho đồng biến trên khoảng $(-1;0)$ và $(1;+\\infty)$."
+    "explain": "Hàm số đã cho đồng biến trên khoảng $(-1;0)$ và $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN100",
@@ -27,7 +28,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $\\left(0;1\\right)$"
     ],
     "answer": 2,
-    "explain": "Tập xác định $ \\mathscr{D}=\\left[0;2\\right]$.<br>  Ta có $ y'=\\dfrac{2-2x}{2\\sqrt{2x-x^2}};y'=0\\Leftrightarrow x=1$.<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D11/dlts_12_DLTS1_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đồng biến trên khoảng $\\left(0;1\\right)$ và nghịch biến trên khoảng $\\left(1;2\\right)$."
+    "explain": "Tập xác định $ \\mathscr{D}=\\left[0;2\\right]$.<br>  Ta có $ y'=\\dfrac{2-2x}{2\\sqrt{2x-x^2}};y'=0\\Leftrightarrow x=1$.<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D11/dlts_12_DLTS1_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đồng biến trên khoảng $\\left(0;1\\right)$ và nghịch biến trên khoảng $\\left(1;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN101",
@@ -39,7 +41,8 @@ window.tracNghiem2D11 = [
       "$(5;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị $f'(x)$ ta có hàm số $y=f(x)$ nghịch biến trên các khoảng $(-\\infty;-2)$ và $(2;5)$.<br>  Do đó hàm số nghịch biến trên $(-3;-2)$."
+    "explain": "Dựa vào đồ thị $f'(x)$ ta có hàm số $y=f(x)$ nghịch biến trên các khoảng $(-\\infty;-2)$ và $(2;5)$.<br>  Do đó hàm số nghịch biến trên $(-3;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN102",
@@ -51,7 +54,8 @@ window.tracNghiem2D11 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ} }=-3$."
+    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ} }=-3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN103",
@@ -63,7 +67,8 @@ window.tracNghiem2D11 = [
       "$\\left(-1;1\\right)$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị hàm số ta thấy hàm số đã cho nghịch biến trên khoảng $\\left(-1;1\\right).$"
+    "explain": "Từ đồ thị hàm số ta thấy hàm số đã cho nghịch biến trên khoảng $\\left(-1;1\\right).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN104",
@@ -75,7 +80,8 @@ window.tracNghiem2D11 = [
       "Hàm số đồng biến trên các khoảng $\\left(-\\infty ;-1\\right)$ và $\\left(-1;+\\infty\\right)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định của hàm số là $\\mathscr{D}=\\mathbb{R}\\setminus\\left\\{ 1\\right\\}$.  Ta có $y'=\\dfrac{6}{(1-x)^2}&gt;0$, $\\forall x\\ne 1$ nên hàm số đồng biến trên các khoảng $\\left(-\\infty ;1\\right)$ và $\\left(1;+\\infty\\right)$."
+    "explain": "Tập xác định của hàm số là $\\mathscr{D}=\\mathbb{R}\\setminus\\left\\{ 1\\right\\}$.  Ta có $y'=\\dfrac{6}{(1-x)^2}&gt;0$, $\\forall x\\ne 1$ nên hàm số đồng biến trên các khoảng $\\left(-\\infty ;1\\right)$ và $\\left(1;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN105",
@@ -87,7 +93,8 @@ window.tracNghiem2D11 = [
       "$\\left(0; 3\\right)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$."
+    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN106",
@@ -99,7 +106,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $(0; 2)$"
     ],
     "answer": 3,
-    "explain": "Theo bảng xét dấu thì $y' &lt; 0$ khi $x \\in(0; 2)$ nên hàm số nghịch biến trên khoảng $(0; 2)$."
+    "explain": "Theo bảng xét dấu thì $y' &lt; 0$ khi $x \\in(0; 2)$ nên hàm số nghịch biến trên khoảng $(0; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN107",
@@ -111,7 +119,8 @@ window.tracNghiem2D11 = [
       "$38$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D113TN108",
@@ -123,7 +132,8 @@ window.tracNghiem2D11 = [
       "$(2;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định $\\mathscr{D}=[0;2]$ và có đạo hàm $y'=\\dfrac{-x+1}{\\sqrt{-x^2+2x}}$.<br>   Khi đó $y'\\geq 0\\Leftrightarrow -x+1\\geq 0 \\text{ và } -x^2+2x&gt;0\\Leftrightarrow x\\leq 1 \\text{ và } 0&lt;x&lt;2\\Leftrightarrow0&lt;x\\leq 1$.<br>   Suy ra hàm số đồng biến trên khoảng $(0;1)$."
+    "explain": "Tập xác định $\\mathscr{D}=[0;2]$ và có đạo hàm $y'=\\dfrac{-x+1}{\\sqrt{-x^2+2x}}$.<br>   Khi đó $y'\\geq 0\\Leftrightarrow -x+1\\geq 0 \\text{ và } -x^2+2x&gt;0\\Leftrightarrow x\\leq 1 \\text{ và } 0&lt;x&lt;2\\Leftrightarrow0&lt;x\\leq 1$.<br>   Suy ra hàm số đồng biến trên khoảng $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN109",
@@ -135,7 +145,8 @@ window.tracNghiem2D11 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Hàm số đạt cực tiểu tại $x=-2$ và $x=3$."
+    "explain": "Hàm số đạt cực tiểu tại $x=-2$ và $x=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN110",
@@ -147,7 +158,8 @@ window.tracNghiem2D11 = [
       "$\\left(\\dfrac{11}{2};+\\infty\\right)$"
     ],
     "answer": 1,
-    "explain": "Quan sát đồ thị, thấy hàm số đồng biến trên khoảng $\\left(\\dfrac{3}{2};\\dfrac{11}{2}\\right)$."
+    "explain": "Quan sát đồ thị, thấy hàm số đồng biến trên khoảng $\\left(\\dfrac{3}{2};\\dfrac{11}{2}\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN111",
@@ -159,7 +171,8 @@ window.tracNghiem2D11 = [
       "$(0;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Ta có $y'=-3x^2+6x+9=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên của hàm số  <br><img src=\"data/12/2D1/im2D11/loc2_2_TL_TN_DS_THPT__000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1;3)$. <br> Do đó hàm số đồng biến trên khoảng $(0;3)$."
+    "explain": "Ta có $y'=-3x^2+6x+9=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên của hàm số  <br><img src=\"data/12/2D1/im2D11/loc2_2_TL_TN_DS_THPT__000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1;3)$. <br> Do đó hàm số đồng biến trên khoảng $(0;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN2",
@@ -171,7 +184,8 @@ window.tracNghiem2D11 = [
       "$(0;1)$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị ta thấy  <br>- Hàm số nghịch biến trên $(-1;0)$ và $(1;3)$.<br>- Hàm số đồng biến trên $(0;1)$ và $(-\\infty;-1)$.  Trong các khoảng đã cho, chỉ có $(0;1)$ là khoảng đồng biến của hàm số."
+    "explain": "Từ đồ thị ta thấy  <br>- Hàm số nghịch biến trên $(-1;0)$ và $(1;3)$.<br>- Hàm số đồng biến trên $(0;1)$ và $(-\\infty;-1)$.  Trong các khoảng đã cho, chỉ có $(0;1)$ là khoảng đồng biến của hàm số.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN112",
@@ -183,7 +197,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty,1)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên, hàm số nghịch biến trên các khoảng $(-\\infty;-3)$, $(1;+\\infty)$."
+    "explain": "Từ bảng biến thiên, hàm số nghịch biến trên các khoảng $(-\\infty;-3)$, $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN4",
@@ -195,7 +210,8 @@ window.tracNghiem2D11 = [
       "$\\left(0; 3\\right)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$."
+    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN114",
@@ -207,7 +223,8 @@ window.tracNghiem2D11 = [
       "$\\left(1;2\\right)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $ (-\\infty; 1) $ và $ (2;+\\infty)$."
+    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $ (-\\infty; 1) $ và $ (2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN113",
@@ -219,7 +236,8 @@ window.tracNghiem2D11 = [
       "$(-1; 0)$"
     ],
     "answer": 0,
-    "explain": "Từ hình vẽ ta có hàm số đã cho nghịch biến trên khoảng $(0; 1)$."
+    "explain": "Từ hình vẽ ta có hàm số đã cho nghịch biến trên khoảng $(0; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN117",
@@ -231,7 +249,8 @@ window.tracNghiem2D11 = [
       "Hàm số đồng biến trên khoảng $(-1;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta có hàm số đồng biến trên khoảng $(-\\infty;-1)$ và $(1;+\\infty)$."
+    "explain": "Dựa vào bảng biến thiên ta có hàm số đồng biến trên khoảng $(-\\infty;-1)$ và $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN115",
@@ -243,7 +262,8 @@ window.tracNghiem2D11 = [
       "$(-1;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Từ giả thiết ta có hàm số nghịch biến trên $(-\\infty;-1)$."
+    "explain": "Từ giả thiết ta có hàm số nghịch biến trên $(-\\infty;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN118",
@@ -255,7 +275,8 @@ window.tracNghiem2D11 = [
       "$(0;1)$"
     ],
     "answer": 3,
-    "explain": "Tập xác định $\\mathscr{D}=(0;+\\infty)$.<br>  Ta có $f'(x)=x+1-\\dfrac{6}{x}=\\dfrac{x^2+x-6}{x}$.<br>   Khi đó $f'(x)=0\\Rightarrow x^2+x-6=0\\Rightarrow x=-3 \\text{ hoặc } x=2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D11/loc8_TT_KSCL_THPT_Le__002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên $(0;2)$. Do đó hàm số nghịch biến trên $(0;1)$."
+    "explain": "Tập xác định $\\mathscr{D}=(0;+\\infty)$.<br>  Ta có $f'(x)=x+1-\\dfrac{6}{x}=\\dfrac{x^2+x-6}{x}$.<br>   Khi đó $f'(x)=0\\Rightarrow x^2+x-6=0\\Rightarrow x=-3 \\text{ hoặc } x=2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D11/loc8_TT_KSCL_THPT_Le__002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên $(0;2)$. Do đó hàm số nghịch biến trên $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN116",
@@ -267,7 +288,8 @@ window.tracNghiem2D11 = [
       "Hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty;-3)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị $f'(x)$ cắt trục hoành tại $x = -3$; $x = -2$; $x = 0$ (nghiệm kép. <br>  Nên ta có bảng xét dấu như sau  <br><img src=\"data/12/2D1/im2D11/loc8_TT_QV1_TT1_LVT_B_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng xét dấu hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty;-3)$."
+    "explain": "Dựa vào đồ thị $f'(x)$ cắt trục hoành tại $x = -3$; $x = -2$; $x = 0$ (nghiệm kép. <br>  Nên ta có bảng xét dấu như sau  <br><img src=\"data/12/2D1/im2D11/loc8_TT_QV1_TT1_LVT_B_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng xét dấu hàm số $y = f(x)$ nghịch biến trên khoảng $(-\\infty;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN119",
@@ -279,7 +301,8 @@ window.tracNghiem2D11 = [
       "$(-1; 0)$"
     ],
     "answer": 2,
-    "explain": "Từ bảng biến thiên ta thấy hàm số đã cho đồng biến trên khoảng $(0; 1)$."
+    "explain": "Từ bảng biến thiên ta thấy hàm số đã cho đồng biến trên khoảng $(0; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN120",
@@ -291,7 +314,8 @@ window.tracNghiem2D11 = [
       "$(1;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Hàm số đã cho nghịch biến trên khoảng $(1;+\\infty)$."
+    "explain": "Hàm số đã cho nghịch biến trên khoảng $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN121",
@@ -303,7 +327,8 @@ window.tracNghiem2D11 = [
       "Hàm số $y=f(x)$ đồng biến trên khoảng $\\left(-\\infty;-3\\right)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị ta có $f'(x)&lt;0$, $\\forall x\\in \\left(-2;+\\infty \\right)$ nên hàm số $y=f(x)$ nghịch biến trên khoảng $\\left(-2;+\\infty \\right)$"
+    "explain": "Dựa vào đồ thị ta có $f'(x)&lt;0$, $\\forall x\\in \\left(-2;+\\infty \\right)$ nên hàm số $y=f(x)$ nghịch biến trên khoảng $\\left(-2;+\\infty \\right)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN122",
@@ -315,7 +340,8 @@ window.tracNghiem2D11 = [
       "$\\left(-2;2\\right)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào đồ thị ta suy ra hàm số đã cho đồng biến  trên khoảng $\\left(0;2\\right)$."
+    "explain": "Dựa vào đồ thị ta suy ra hàm số đã cho đồng biến  trên khoảng $\\left(0;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN9",
@@ -327,7 +353,8 @@ window.tracNghiem2D11 = [
       "$(0; 1)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, ta thấy $f'(x) &lt; 0$ trên các khoảng $(-\\infty; -1)$ và $(0; 1)$.<br>  Do đó hàm số nghịch biến trên khoảng $(0; 1)$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy $f'(x) &lt; 0$ trên các khoảng $(-\\infty; -1)$ và $(0; 1)$.<br>  Do đó hàm số nghịch biến trên khoảng $(0; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN123",
@@ -339,7 +366,8 @@ window.tracNghiem2D11 = [
       "Hàm số đã cho nghịch biến trên khoảng $(0;5)$"
     ],
     "answer": 2,
-    "explain": "Căn cứ bảng xét dấu đạo hàm suy ra chỉ có đáp án C đúng."
+    "explain": "Căn cứ bảng xét dấu đạo hàm suy ra chỉ có đáp án C đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN11",
@@ -351,7 +379,8 @@ window.tracNghiem2D11 = [
       "Hàm số đã cho không có điểm cực đại"
     ],
     "answer": 2,
-    "explain": "Từ đồ thị suy ra hàm số đã cho có một điểm cực đại và một điểm cực tiểu."
+    "explain": "Từ đồ thị suy ra hàm số đã cho có một điểm cực đại và một điểm cực tiểu.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN124",
@@ -363,7 +392,8 @@ window.tracNghiem2D11 = [
       "$(-2;0)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào đồ thị, ta thấy trên khoảng $(0;2)$ hàm số nghịch biến."
+    "explain": "Dựa vào đồ thị, ta thấy trên khoảng $(0;2)$ hàm số nghịch biến.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN13",
@@ -375,7 +405,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $(-\\infty;0)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng biến thiên ta suy ra hàm số đồng biến trên khoảng $(-1;0)$."
+    "explain": "Dựa vào bảng biến thiên ta suy ra hàm số đồng biến trên khoảng $(-1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN125",
@@ -387,7 +418,8 @@ window.tracNghiem2D11 = [
       "$(0;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Ta có $y=x^4-8x^2$.<br>  Suy ra $y'=4x^3-16x$.<br>  Khi đó $y'=0 \\Leftrightarrow 4x^3-16x=0 \\Leftrightarrow x=0 \\text{ hoặc } x=2 \\text{ hoặc } x=-2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D11/loc8_TT_THPT_NguyenVi_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta suy ra hàm số $y=x^4-8x^2$ đồng biến trên các khoảng $(-2; 0)$; $(2;+\\infty)$."
+    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Ta có $y=x^4-8x^2$.<br>  Suy ra $y'=4x^3-16x$.<br>  Khi đó $y'=0 \\Leftrightarrow 4x^3-16x=0 \\Leftrightarrow x=0 \\text{ hoặc } x=2 \\text{ hoặc } x=-2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D11/loc8_TT_THPT_NguyenVi_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta suy ra hàm số $y=x^4-8x^2$ đồng biến trên các khoảng $(-2; 0)$; $(2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D115TN2",
@@ -399,7 +431,8 @@ window.tracNghiem2D11 = [
       "Đồng biến trên $(0;25)$ và nghịch biến trên $(25;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Ta có $P'(x)=50-2x$. Cho $P'(x)=0 \\Rightarrow 50-2x=0 \\Rightarrow x=25$. Với $x \\in (0;25)$ thì $P'(x) &gt; 0$, hàm số đồng biến. Với $x \\in (25;+\\infty)$ thì $P'(x) &lt; 0$, hàm số nghịch biến. Vậy hàm số đồng biến trên $(0;25)$ và nghịch biến trên $(25;+\\infty)$."
+    "explain": "Ta có $P'(x)=50-2x$. Cho $P'(x)=0 \\Rightarrow 50-2x=0 \\Rightarrow x=25$. Với $x \\in (0;25)$ thì $P'(x) &gt; 0$, hàm số đồng biến. Với $x \\in (25;+\\infty)$ thì $P'(x) &lt; 0$, hàm số nghịch biến. Vậy hàm số đồng biến trên $(0;25)$ và nghịch biến trên $(25;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D115TN4",
@@ -411,7 +444,8 @@ window.tracNghiem2D11 = [
       "Nghịch biến trên $(0;50)$ và đồng biến trên $(50;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Ta có $P'(x)=100-2x$. Giải phương trình $P'(x)=0 \\Rightarrow x=50$. Qua điểm $x=50$, đạo hàm đổi dấu từ dương sang âm. Do đó, hàm số $P(x)$ đồng biến trên $(0;50)$ và nghịch biến trên $(50;+\\infty)$."
+    "explain": "Ta có $P'(x)=100-2x$. Giải phương trình $P'(x)=0 \\Rightarrow x=50$. Qua điểm $x=50$, đạo hàm đổi dấu từ dương sang âm. Do đó, hàm số $P(x)$ đồng biến trên $(0;50)$ và nghịch biến trên $(50;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN5",
@@ -423,7 +457,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $(-5;4)$"
     ],
     "answer": 0,
-    "explain": "Theo bảng biến thiên, trên khoảng $(1;2)$ ta có $f'(x) &gt; 0$. Do đó, hàm số đồng biến trên khoảng $(1;2)$."
+    "explain": "Theo bảng biến thiên, trên khoảng $(1;2)$ ta có $f'(x) &gt; 0$. Do đó, hàm số đồng biến trên khoảng $(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN6",
@@ -435,7 +470,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $(-5;4)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, ta thấy trên khoảng $(3;6)$ đạo hàm $f'(x)$ mang dấu $+$, vì vậy hàm số đồng biến trên khoảng $(3;6)$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy trên khoảng $(3;6)$ đạo hàm $f'(x)$ mang dấu $+$, vì vậy hàm số đồng biến trên khoảng $(3;6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN7",
@@ -447,7 +483,8 @@ window.tracNghiem2D11 = [
       "$(-2;-1)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số $y=f(x)$ đồng biến trên khoảng $(-2;0)$. Vì khoảng $(-2;-1)$ là tập con của khoảng $(-2;0)$ nên hàm số cũng đồng biến trên khoảng $(-2;-1)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số $y=f(x)$ đồng biến trên khoảng $(-2;0)$. Vì khoảng $(-2;-1)$ là tập con của khoảng $(-2;0)$ nên hàm số cũng đồng biến trên khoảng $(-2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN8",
@@ -459,7 +496,8 @@ window.tracNghiem2D11 = [
       "$\\left(2;3\\right)$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị của hàm số đạo hàm $y=f'(x)$, ta thấy $f'(x) &gt; 0$ trên khoảng $(1.5; +\\infty)$. Vì khoảng $(2;3) \\subset (1.5; +\\infty)$ nên hàm số $y=f(x)$ đồng biến trên khoảng $(2;3)$."
+    "explain": "Từ đồ thị của hàm số đạo hàm $y=f'(x)$, ta thấy $f'(x) &gt; 0$ trên khoảng $(1.5; +\\infty)$. Vì khoảng $(2;3) \\subset (1.5; +\\infty)$ nên hàm số $y=f(x)$ đồng biến trên khoảng $(2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN9",
@@ -471,7 +509,8 @@ window.tracNghiem2D11 = [
       "$y=\\dfrac{1}{x-1}$"
     ],
     "answer": 1,
-    "explain": "Xét hàm số bậc nhất $y=-2021x+1$, ta có hệ số góc $a = -2021 &lt; 0$ (hoặc đạo hàm $y' = -2021 &lt; 0, \\forall x \\in \\mathbb{R}$). Do đó hàm số này nghịch biến trên $\\mathbb{R}$."
+    "explain": "Xét hàm số bậc nhất $y=-2021x+1$, ta có hệ số góc $a = -2021 &lt; 0$ (hoặc đạo hàm $y' = -2021 &lt; 0, \\forall x \\in \\mathbb{R}$). Do đó hàm số này nghịch biến trên $\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN10",
@@ -483,7 +522,8 @@ window.tracNghiem2D11 = [
       "$(-2;1)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị, ta nhận thấy đồ thị hàm số đi xuống từ trái sang phải trên khoảng $(0;2)$. Do đó hàm số nghịch biến trên khoảng $(0;2)$."
+    "explain": "Dựa vào đồ thị, ta nhận thấy đồ thị hàm số đi xuống từ trái sang phải trên khoảng $(0;2)$. Do đó hàm số nghịch biến trên khoảng $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN11",
@@ -495,7 +535,8 @@ window.tracNghiem2D11 = [
       "$y=x^3-3x+2$"
     ],
     "answer": 0,
-    "explain": "Xét hàm số $y=\\dfrac{2x-1}{x+1}$, tập xác định $\\mathscr{D}=\\mathbb{R} \\setminus \\{-1\\}$. Ta có đạo hàm $y'=\\dfrac{2\\cdot 1 - (-1)\\cdot 1}{(x+1)^2} = \\dfrac{3}{(x+1)^2} &gt; 0, \\forall x \\neq -1$. Suy ra hàm số đồng biến trên từng khoảng xác định."
+    "explain": "Xét hàm số $y=\\dfrac{2x-1}{x+1}$, tập xác định $\\mathscr{D}=\\mathbb{R} \\setminus \\{-1\\}$. Ta có đạo hàm $y'=\\dfrac{2\\cdot 1 - (-1)\\cdot 1}{(x+1)^2} = \\dfrac{3}{(x+1)^2} &gt; 0, \\forall x \\neq -1$. Suy ra hàm số đồng biến trên từng khoảng xác định.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN12",
@@ -507,7 +548,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên khoảng $(-\\infty ; 1)$"
     ],
     "answer": 2,
-    "explain": "Từ bảng biến thiên, ta thấy trên khoảng $(0;1)$ đạo hàm $y'$ mang dấu $+$. Do đó, hàm số đồng biến trên khoảng $(0;1)$."
+    "explain": "Từ bảng biến thiên, ta thấy trên khoảng $(0;1)$ đạo hàm $y'$ mang dấu $+$. Do đó, hàm số đồng biến trên khoảng $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN13",
@@ -519,7 +561,8 @@ window.tracNghiem2D11 = [
       "$f\\left(2018\\right) &gt; f\\left(2019\\right)$"
     ],
     "answer": 1,
-    "explain": "Vì $f'(x) &gt; 0, \\forall x &gt; 0$ nên hàm số đồng biến trên khoảng $(0;+\\infty)$. Do $1 &lt; 2 &lt; 3 \\Rightarrow 2 = f(1) &lt; f(2) &lt; f(3)$, dẫn tới $f(2)+f(3) &gt; 4$ và $f(2) &gt; 2$. Đồng thời $f(2018) &lt; f(2019)$. Do đó chỉ có trường hợp $f(-1) = 2$ là có thể xảy ra do chưa có thông tin về dấu đạo hàm khi $x &lt; 0$."
+    "explain": "Vì $f'(x) &gt; 0, \\forall x &gt; 0$ nên hàm số đồng biến trên khoảng $(0;+\\infty)$. Do $1 &lt; 2 &lt; 3 \\Rightarrow 2 = f(1) &lt; f(2) &lt; f(3)$, dẫn tới $f(2)+f(3) &gt; 4$ và $f(2) &gt; 2$. Đồng thời $f(2018) &lt; f(2019)$. Do đó chỉ có trường hợp $f(-1) = 2$ là có thể xảy ra do chưa có thông tin về dấu đạo hàm khi $x &lt; 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN14",
@@ -531,7 +574,8 @@ window.tracNghiem2D11 = [
       "$(1;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị hàm số, đồ thị đi xuống từ điểm cực đại $(-1;2)$ đến điểm cực tiểu $(1;-2)$. Như vậy hàm số nghịch biến trên khoảng $(-1;1)$."
+    "explain": "Dựa vào đồ thị hàm số, đồ thị đi xuống từ điểm cực đại $(-1;2)$ đến điểm cực tiểu $(1;-2)$. Như vậy hàm số nghịch biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN15",
@@ -543,7 +587,8 @@ window.tracNghiem2D11 = [
       "$(2;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng xét dấu đạo hàm, ta có $f'(x) &gt; 0$ khi $x \\in (2;+\\infty)$. Vậy hàm số đã cho đồng biến trên khoảng $(2;+\\infty)$."
+    "explain": "Dựa vào bảng xét dấu đạo hàm, ta có $f'(x) &gt; 0$ khi $x \\in (2;+\\infty)$. Vậy hàm số đã cho đồng biến trên khoảng $(2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN16",
@@ -555,7 +600,8 @@ window.tracNghiem2D11 = [
       "Hàm số $f(x)$ đồng biến trên $\\mathbb{R}$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị hàm số $f’(x)$, ta thấy $f’(x) &gt; 0, \\forall x \\in (1;+\\infty)$. Theo định lý về tính đơn điệu, hàm số $f(x)$ đồng biến trên khoảng $(1;+\\infty)$."
+    "explain": "Dựa vào đồ thị hàm số $f’(x)$, ta thấy $f’(x) &gt; 0, \\forall x \\in (1;+\\infty)$. Theo định lý về tính đơn điệu, hàm số $f(x)$ đồng biến trên khoảng $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN17",
@@ -567,7 +613,8 @@ window.tracNghiem2D11 = [
       "$38$"
     ],
     "answer": 3,
-    "explain": "Dựa vào cấu trúc bảng biến thiên của hàm số, tại điểm cực đại $x=1$, giá trị tương ứng của hàm số là $f(1) = 38$. Vậy giá trị cực đại của hàm số là $38$."
+    "explain": "Dựa vào cấu trúc bảng biến thiên của hàm số, tại điểm cực đại $x=1$, giá trị tương ứng của hàm số là $f(1) = 38$. Vậy giá trị cực đại của hàm số là $38$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN18",
@@ -579,7 +626,8 @@ window.tracNghiem2D11 = [
       "4"
     ],
     "answer": 0,
-    "explain": "Điểm cực tiểu là điểm mà tại đó đạo hàm $f'(x)$ đổi dấu từ âm sang dương. Dựa vào bảng xét dấu, đạo hàm đổi dấu từ âm sang dương khi đi qua $x=-2$ và $x=3$. Vậy hàm số có 2 điểm cực tiểu."
+    "explain": "Điểm cực tiểu là điểm mà tại đó đạo hàm $f'(x)$ đổi dấu từ âm sang dương. Dựa vào bảng xét dấu, đạo hàm đổi dấu từ âm sang dương khi đi qua $x=-2$ và $x=3$. Vậy hàm số có 2 điểm cực tiểu.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN19",
@@ -591,7 +639,8 @@ window.tracNghiem2D11 = [
       "4"
     ],
     "answer": 1,
-    "explain": "Điểm cực đại xảy ra khi đạo hàm $f'(x)$ đổi dấu từ dương sang âm. Lập bảng xét dấu từ đồ thị $f'(x)$, ta thấy $f'(x)$ chỉ đổi dấu từ dương sang âm khi đi qua điểm $x=1$. Vậy hàm số có đúng 1 điểm cực đại."
+    "explain": "Điểm cực đại xảy ra khi đạo hàm $f'(x)$ đổi dấu từ dương sang âm. Lập bảng xét dấu từ đồ thị $f'(x)$, ta thấy $f'(x)$ chỉ đổi dấu từ dương sang âm khi đi qua điểm $x=1$. Vậy hàm số có đúng 1 điểm cực đại.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN22",
@@ -603,7 +652,8 @@ window.tracNghiem2D11 = [
       "Hàm số đồng biến trên $(-\\infty;0)$"
     ],
     "answer": 2,
-    "explain": "$y'&lt;0$ trên $(0;2)$ nên hàm số nghịch biến trên $(0;2)$."
+    "explain": "$y'&lt;0$ trên $(0;2)$ nên hàm số nghịch biến trên $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN23",
@@ -615,7 +665,8 @@ window.tracNghiem2D11 = [
       "$(0 ; 2)$"
     ],
     "answer": 3,
-    "explain": "Hàm số $y=-x^3+3 x^2-3$ có miền xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Đạo hàm $y' = -3x^2+6x$.<br>  Cho $y'=0$, ta được $x=0$ và $x=2$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y=-x^3+3 x^2-3$ đồng biến trên khoảng $(0 ; 2)$."
+    "explain": "Hàm số $y=-x^3+3 x^2-3$ có miền xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Đạo hàm $y' = -3x^2+6x$.<br>  Cho $y'=0$, ta được $x=0$ và $x=2$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y=-x^3+3 x^2-3$ đồng biến trên khoảng $(0 ; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN24",
@@ -627,7 +678,8 @@ window.tracNghiem2D11 = [
       "$\\left(1;2\\right)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $ (-\\infty; 1) $ và $ (2;+\\infty)$."
+    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $ (-\\infty; 1) $ và $ (2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN26",
@@ -639,7 +691,8 @@ window.tracNghiem2D11 = [
       "$(1;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, ta thấy $y' &gt; 0$ khi $x \\in (0;1)$.<br>  Do đó, hàm số đồng biến trên khoảng $(0;1)$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy $y' &gt; 0$ khi $x \\in (0;1)$.<br>  Do đó, hàm số đồng biến trên khoảng $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN27",
@@ -651,7 +704,8 @@ window.tracNghiem2D11 = [
       "$(-3;-1)$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị hàm số $y=f'(x)$, ta có   $f'(x) &gt; 0 \\Leftrightarrow x \\in (-3;-1) \\cup \\left(\\dfrac{1}{2};+\\infty\\right)$.<br>  Do đó hàm số $y=f(x)$ đồng biến trên các khoảng $(-3;-1)$ và $\\left(\\dfrac{1}{2};+\\infty\\right)$."
+    "explain": "Từ đồ thị hàm số $y=f'(x)$, ta có   $f'(x) &gt; 0 \\Leftrightarrow x \\in (-3;-1) \\cup \\left(\\dfrac{1}{2};+\\infty\\right)$.<br>  Do đó hàm số $y=f(x)$ đồng biến trên các khoảng $(-3;-1)$ và $\\left(\\dfrac{1}{2};+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN28",
@@ -663,7 +717,8 @@ window.tracNghiem2D11 = [
       "$f(1)&lt;f(3)$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2D1/im2D1/2D11_tikz_012.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu của $f' (x)$, ta thấy hàm số đồng biến trên khoảng $(-\\infty; 0)$. Do đó $f(-3)&lt;f(-1)$."
+    "explain": "<br><img src=\"data/12/2D1/im2D1/2D11_tikz_012.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu của $f' (x)$, ta thấy hàm số đồng biến trên khoảng $(-\\infty; 0)$. Do đó $f(-3)&lt;f(-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN29",
@@ -675,7 +730,8 @@ window.tracNghiem2D11 = [
       "$\\left(\\dfrac{11}{2};+\\infty\\right)$"
     ],
     "answer": 1,
-    "explain": "Quan sát đồ thị, thấy hàm số đồng biến trên khoảng $\\left(\\dfrac{3}{2};\\dfrac{11}{2}\\right)$."
+    "explain": "Quan sát đồ thị, thấy hàm số đồng biến trên khoảng $\\left(\\dfrac{3}{2};\\dfrac{11}{2}\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN30",
@@ -687,7 +743,8 @@ window.tracNghiem2D11 = [
       "$(-1;0)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $(-1;0)$ và $(1;+\\infty)$."
+    "explain": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $(-1;0)$ và $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN31",
@@ -699,7 +756,8 @@ window.tracNghiem2D11 = [
       "$(-3;-1)$ và $(1;2)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị ta có $f'(x) &gt;0$ với mọi $x \\in (-3;-1)$ và $x \\in (1;2)$.<br>  Do đó hàm số $y=f(x)$ đồng biến trên $(-3;-1)$ và $(1;2)$."
+    "explain": "Dựa vào đồ thị ta có $f'(x) &gt;0$ với mọi $x \\in (-3;-1)$ và $x \\in (1;2)$.<br>  Do đó hàm số $y=f(x)$ đồng biến trên $(-3;-1)$ và $(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN32",
@@ -711,7 +769,8 @@ window.tracNghiem2D11 = [
       "Hàm số đồng biến trên các khoảng $(-\\infty;1)$ và $(3;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Tập xác định của hàm số $\\mathscr{D}=\\mathbb{R} \\setminus \\{2\\}$.<br>  Ta có $y'=\\dfrac{x^2-4x+3}{(x-2)^2}$.<br>  $y'=0 \\Leftrightarrow x^2-4x+3=0 \\Leftrightarrow x=1 \\text{ hoặc } x=3$.<br>  Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_019.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đồng biên trên $(-\\infty;1)$ và $(3;+\\infty)$."
+    "explain": "Tập xác định của hàm số $\\mathscr{D}=\\mathbb{R} \\setminus \\{2\\}$.<br>  Ta có $y'=\\dfrac{x^2-4x+3}{(x-2)^2}$.<br>  $y'=0 \\Leftrightarrow x^2-4x+3=0 \\Leftrightarrow x=1 \\text{ hoặc } x=3$.<br>  Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_019.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đồng biên trên $(-\\infty;1)$ và $(3;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN33",
@@ -723,7 +782,8 @@ window.tracNghiem2D11 = [
       "$(-1;3)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị ta thấy hàm số $y=f(x)$ nghịch biến trên $(-2;1)$ và $(3;+\\infty)$."
+    "explain": "Dựa vào đồ thị ta thấy hàm số $y=f(x)$ nghịch biến trên $(-2;1)$ và $(3;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN34",
@@ -735,7 +795,8 @@ window.tracNghiem2D11 = [
       "$\\left(0; 3\\right)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$."
+    "explain": "Từ bảng biến thiên cho thấy hàm số nghịch biến trên khoảng $\\left(1;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN35",
@@ -747,7 +808,8 @@ window.tracNghiem2D11 = [
       "$(-1;0)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1; 0)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1; 0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN36",
@@ -759,7 +821,8 @@ window.tracNghiem2D11 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ} }=-3$."
+    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ} }=-3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN37",
@@ -771,7 +834,8 @@ window.tracNghiem2D11 = [
       "$\\left(-\\infty;+\\infty\\right)$"
     ],
     "answer": 0,
-    "explain": "Ta có: $y'=4x\\left(x^2+4\\right)$.<br>  $y'&gt;0\\Leftrightarrow x&gt;0$.<br>  Vậy hàm số đã cho đồng biến trên khoảng $\\left(0;+\\infty\\right)$."
+    "explain": "Ta có: $y'=4x\\left(x^2+4\\right)$.<br>  $y'&gt;0\\Leftrightarrow x&gt;0$.<br>  Vậy hàm số đã cho đồng biến trên khoảng $\\left(0;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN38",
@@ -783,7 +847,8 @@ window.tracNghiem2D11 = [
       "$\\left(-\\dfrac{3}{2};+\\infty\\right)$"
     ],
     "answer": 0,
-    "explain": "Hàm số đã cho đồng biến trên khoảng $(0;+\\infty)$."
+    "explain": "Hàm số đã cho đồng biến trên khoảng $(0;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN39",
@@ -795,7 +860,8 @@ window.tracNghiem2D11 = [
       "$(-2;2)$"
     ],
     "answer": 1,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y' = -4x^3 + 16x = 0 \\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_025.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đã cho đồng biến trên các khoảng $(-\\infty;-2)$; $(0;2)$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y' = -4x^3 + 16x = 0 \\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_025.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đã cho đồng biến trên các khoảng $(-\\infty;-2)$; $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN40",
@@ -807,7 +873,8 @@ window.tracNghiem2D11 = [
       "Hàm số luôn đồng biến trên $(2;6)$"
     ],
     "answer": 2,
-    "explain": "Đề bài cho $f'(x) &gt; 0$ $\\forall x \\in (2;5)$ nên hàm số $f(x)$ đồng biến trên khoảng $(2;5)$.<br>  Vì $(3;4) \\subset (2;5)$ nên hàm số luôn đồng biến trên $(3;4)$."
+    "explain": "Đề bài cho $f'(x) &gt; 0$ $\\forall x \\in (2;5)$ nên hàm số $f(x)$ đồng biến trên khoảng $(2;5)$.<br>  Vì $(3;4) \\subset (2;5)$ nên hàm số luôn đồng biến trên $(3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN41",
@@ -819,7 +886,8 @@ window.tracNghiem2D11 = [
       "$x=-4$"
     ],
     "answer": 2,
-    "explain": "Hàm số đã cho đạt cực tiểu tại điểm $x=2$."
+    "explain": "Hàm số đã cho đạt cực tiểu tại điểm $x=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN42",
@@ -831,7 +899,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;1)$"
     ],
     "answer": 0,
-    "explain": "Hàm số đã cho đồng biến trên khoảng $(-\\infty;-1)$ và $(3;+\\infty)$."
+    "explain": "Hàm số đã cho đồng biến trên khoảng $(-\\infty;-1)$ và $(3;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN43",
@@ -843,7 +912,8 @@ window.tracNghiem2D11 = [
       "$(0;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Hàm số đồng biến khi $y'&gt;0$. <br>  Từ bảng biến thiên ta thấy các khoảng có $y'&gt;0$ là $(-2;0)$, $(2;+\\infty)$.<br>  Vậy hàm số đã cho đồng biến trên khoảng $(-2;0)$."
+    "explain": "Hàm số đồng biến khi $y'&gt;0$. <br>  Từ bảng biến thiên ta thấy các khoảng có $y'&gt;0$ là $(-2;0)$, $(2;+\\infty)$.<br>  Vậy hàm số đã cho đồng biến trên khoảng $(-2;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN44",
@@ -855,7 +925,8 @@ window.tracNghiem2D11 = [
       "$(1;3)$"
     ],
     "answer": 0,
-    "explain": "Ta có $y'=3x^2-3$.<br>  $y'&lt;0 \\Leftrightarrow 3x^2-3&lt;0\\Leftrightarrow -1&lt;x&lt;1$. <br>  Do đó hàm số nghịch biến trên khoảng $(-1;1)$."
+    "explain": "Ta có $y'=3x^2-3$.<br>  $y'&lt;0 \\Leftrightarrow 3x^2-3&lt;0\\Leftrightarrow -1&lt;x&lt;1$. <br>  Do đó hàm số nghịch biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN45",
@@ -867,7 +938,8 @@ window.tracNghiem2D11 = [
       "$y=x^3-3x^2+1$"
     ],
     "answer": 2,
-    "explain": "<br>- Ta có $y=\\dfrac{x^2+2x-3}{x-1}=x+3$, hàm số này đồng biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$ (loại).<br>- Ta có $y=\\dfrac{x-2}{x-1}$ có $y'=\\dfrac{1}{(x-1)^2}&gt;0, \\forall x \\neq 1$, suy ra hàm số đồng biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$ (loại).<br>- Ta có $y=\\dfrac{-x+3}{x-1}$ có $y'=\\dfrac{-2}{(x-1)^2}&lt;0, \\forall x \\neq 1$, suy ra hàm số nghịch biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$. Ngoài ra, dễ thấy đồ thị hàm số có các tiệm cận đứng $x=1$ và tiệm cận ngang $y=-1$. Hàm số này phù hợp với bảng biến thiên.<br>- Hàm số $y=x^3-3x^2+1$ xác định trên toàn trục số nên loại."
+    "explain": "<br>- Ta có $y=\\dfrac{x^2+2x-3}{x-1}=x+3$, hàm số này đồng biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$ (loại).<br>- Ta có $y=\\dfrac{x-2}{x-1}$ có $y'=\\dfrac{1}{(x-1)^2}&gt;0, \\forall x \\neq 1$, suy ra hàm số đồng biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$ (loại).<br>- Ta có $y=\\dfrac{-x+3}{x-1}$ có $y'=\\dfrac{-2}{(x-1)^2}&lt;0, \\forall x \\neq 1$, suy ra hàm số nghịch biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$. Ngoài ra, dễ thấy đồ thị hàm số có các tiệm cận đứng $x=1$ và tiệm cận ngang $y=-1$. Hàm số này phù hợp với bảng biến thiên.<br>- Hàm số $y=x^3-3x^2+1$ xác định trên toàn trục số nên loại.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN46",
@@ -879,7 +951,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên $\\left(1;+\\infty\\right)$"
     ],
     "answer": 0,
-    "explain": "Ta có: $y=x^3-2x^2+x+1\\Rightarrow y'=3x^2-4x+1$. <br>  $y'=0\\Leftrightarrow x=1 \\text{ hoặc } x=\\dfrac{1}{3}$. Ta có bảng biến thiên sau:  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_033.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên, ta thấy hàm số nghịch biến trên khoảng $\\left(\\dfrac{1}{3};1\\right)$."
+    "explain": "Ta có: $y=x^3-2x^2+x+1\\Rightarrow y'=3x^2-4x+1$. <br>  $y'=0\\Leftrightarrow x=1 \\text{ hoặc } x=\\dfrac{1}{3}$. Ta có bảng biến thiên sau:  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_033.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên, ta thấy hàm số nghịch biến trên khoảng $\\left(\\dfrac{1}{3};1\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN47",
@@ -891,7 +964,8 @@ window.tracNghiem2D11 = [
       "$(-3;3)$"
     ],
     "answer": 0,
-    "explain": "Từ bảng biến thiên, ta thấy hàm số đồng biến trên khoảng $(-3;0)$."
+    "explain": "Từ bảng biến thiên, ta thấy hàm số đồng biến trên khoảng $(-3;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN48",
@@ -903,7 +977,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;-1)$"
     ],
     "answer": 2,
-    "explain": "Từ bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-1;0)$."
+    "explain": "Từ bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN49",
@@ -915,7 +990,8 @@ window.tracNghiem2D11 = [
       "$(-1;2)$"
     ],
     "answer": 1,
-    "explain": "Theo đồ thị, đồ thị hàm số dốc lên trên $(-2;-1)$ nên hàm số đồng biến $(-2;-1)$."
+    "explain": "Theo đồ thị, đồ thị hàm số dốc lên trên $(-2;-1)$ nên hàm số đồng biến $(-2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN50",
@@ -927,7 +1003,8 @@ window.tracNghiem2D11 = [
       "$(-1; 0)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1; 0)$ vì $f'(x) &gt; 0$ trên khoảng này."
+    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên khoảng $(-1; 0)$ vì $f'(x) &gt; 0$ trên khoảng này.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN51",
@@ -939,7 +1016,8 @@ window.tracNghiem2D11 = [
       "$(0 ; 4)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào Bảng biến thiên, ta thấy hàm số đã cho đồng biến trên khoảng $(4; +\\infty)$."
+    "explain": "Dựa vào Bảng biến thiên, ta thấy hàm số đã cho đồng biến trên khoảng $(4; +\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN52",
@@ -951,7 +1029,8 @@ window.tracNghiem2D11 = [
       "$\\left(-\\infty;1\\right)$"
     ],
     "answer": 1,
-    "explain": "Hàm số đã cho nghịch biến trong khoảng $\\left(2;3\\right)$."
+    "explain": "Hàm số đã cho nghịch biến trong khoảng $\\left(2;3\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN53",
@@ -963,7 +1042,8 @@ window.tracNghiem2D11 = [
       "$(0 ; 1)$"
     ],
     "answer": 3,
-    "explain": "Dựa trên bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-\\infty;-1)$ và $(0;1)$."
+    "explain": "Dựa trên bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-\\infty;-1)$ và $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN54",
@@ -975,7 +1055,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty ; 5)$"
     ],
     "answer": 2,
-    "explain": "Hàm số $y=\\dfrac{2x+8}{5x-9}$ nghịch biến trên các khoảng $\\left(-\\infty;\\dfrac{9}{5}\\right)$ và $\\left(\\dfrac{9}{5};+\\infty\\right)$."
+    "explain": "Hàm số $y=\\dfrac{2x+8}{5x-9}$ nghịch biến trên các khoảng $\\left(-\\infty;\\dfrac{9}{5}\\right)$ và $\\left(\\dfrac{9}{5};+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN55",
@@ -987,7 +1068,8 @@ window.tracNghiem2D11 = [
       "$(1;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào độ thị hàm số, ta thấy hàm số nghịch biến trên khoảng $(-1;1)$."
+    "explain": "Dựa vào độ thị hàm số, ta thấy hàm số nghịch biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN56",
@@ -999,7 +1081,8 @@ window.tracNghiem2D11 = [
       "$y=\\dfrac{2x-2}{x+1}$"
     ],
     "answer": 1,
-    "explain": "Ta có tập xác định của hàm số $y=3-2 x-x^3$ là $\\mathscr{D}=\\mathbb{R}$ và $y'=-2-3x^2\\le 0,\\forall x\\in\\mathbb{R}$"
+    "explain": "Ta có tập xác định của hàm số $y=3-2 x-x^3$ là $\\mathscr{D}=\\mathbb{R}$ và $y'=-2-3x^2\\le 0,\\forall x\\in\\mathbb{R}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN57",
@@ -1011,7 +1094,8 @@ window.tracNghiem2D11 = [
       "$(-1\\,;\\,2)$"
     ],
     "answer": 3,
-    "explain": "Từ bảng biến thiên, ta thấy hàm số đồng biến trên khoảng $(-1\\,;\\,2)$."
+    "explain": "Từ bảng biến thiên, ta thấy hàm số đồng biến trên khoảng $(-1\\,;\\,2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN58",
@@ -1023,7 +1107,8 @@ window.tracNghiem2D11 = [
       "$y = x^4 - 2x^2 - 3$"
     ],
     "answer": 2,
-    "explain": "<strong>Xét từng hàm số</strong>  <br>- Xét hàm số $y = x^3 + 3x^2 + 7x + 5$, ta có $y' = 3x^2 + 6x + 7$.<br>  Vì $y'$ là tam thức bậc hai có $\\Delta = 36 - 84 = -48 &lt; 0$ nên $y' &gt; 0$ với mọi $x \\in \\mathbb{R}$.<br>  Vậy hàm số đồng biến trên $\\mathbb{R}$.<br>- Hàm số $y = \\dfrac{3x - 1}{x - 2}$ xác định với $x \\ne 2$ và  $y' = \\dfrac{-5}{(x - 2)^2} &lt; 0$ với mọi $x \\ne 2$.<br>  Suy ra hàm số nghịch biến trên từng khoảng xác định, nhưng không nghịch biến trên $\\mathbb{R}$.<br>- Hàm số $y = -x^3 - 3x + 4 $ có $y' = -3x^2 - 3 = -3(x^2 + 1) &lt; 0$ với mọi $x \\in \\mathbb{R}$.<br>  Suy ra hàm số luôn nghịch biến trên $\\mathbb{R}$.<br>- Hàm số $y = x^4 - 2x^2 - 3 $ có $ y' = 4x^3 - 4x = 4x(x^2 - 1)$.<br>  Xét dấu $y'$ trên các khoảng: $(-\\infty, -1)$, $(-1, 0)$, $(0, 1)$, $(1, +\\infty)$ thì $y'$ đổi dấu.<br>  Vậy hàm số không nghịch biến trên toàn $\\mathbb{R}$."
+    "explain": "<strong>Xét từng hàm số</strong>  <br>- Xét hàm số $y = x^3 + 3x^2 + 7x + 5$, ta có $y' = 3x^2 + 6x + 7$.<br>  Vì $y'$ là tam thức bậc hai có $\\Delta = 36 - 84 = -48 &lt; 0$ nên $y' &gt; 0$ với mọi $x \\in \\mathbb{R}$.<br>  Vậy hàm số đồng biến trên $\\mathbb{R}$.<br>- Hàm số $y = \\dfrac{3x - 1}{x - 2}$ xác định với $x \\ne 2$ và  $y' = \\dfrac{-5}{(x - 2)^2} &lt; 0$ với mọi $x \\ne 2$.<br>  Suy ra hàm số nghịch biến trên từng khoảng xác định, nhưng không nghịch biến trên $\\mathbb{R}$.<br>- Hàm số $y = -x^3 - 3x + 4 $ có $y' = -3x^2 - 3 = -3(x^2 + 1) &lt; 0$ với mọi $x \\in \\mathbb{R}$.<br>  Suy ra hàm số luôn nghịch biến trên $\\mathbb{R}$.<br>- Hàm số $y = x^4 - 2x^2 - 3 $ có $ y' = 4x^3 - 4x = 4x(x^2 - 1)$.<br>  Xét dấu $y'$ trên các khoảng: $(-\\infty, -1)$, $(-1, 0)$, $(0, 1)$, $(1, +\\infty)$ thì $y'$ đổi dấu.<br>  Vậy hàm số không nghịch biến trên toàn $\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN59",
@@ -1035,7 +1120,8 @@ window.tracNghiem2D11 = [
       "$y = 3$"
     ],
     "answer": 3,
-    "explain": "Từ bảng biến thiên giá trị cực đại của hàm số là $y=3$."
+    "explain": "Từ bảng biến thiên giá trị cực đại của hàm số là $y=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN60",
@@ -1047,7 +1133,8 @@ window.tracNghiem2D11 = [
       "$ y = \\dfrac{2x - 3}{x + 1} $"
     ],
     "answer": 0,
-    "explain": "Từ đồ thị ta thấy hai đường tiệm cận đứng và ngang lần lượt là $x=1$, $y=2$."
+    "explain": "Từ đồ thị ta thấy hai đường tiệm cận đứng và ngang lần lượt là $x=1$, $y=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN61",
@@ -1059,7 +1146,8 @@ window.tracNghiem2D11 = [
       "$\\left(-\\infty;-1\\right)$"
     ],
     "answer": 0,
-    "explain": "Từ bảng xét dấu ta có $f'(x)&gt;0$ trên khoảng $\\left(1;3\\right)$. <br>  Vậy hàm số đồng biến trên khoảng $\\left(1;3\\right)$."
+    "explain": "Từ bảng xét dấu ta có $f'(x)&gt;0$ trên khoảng $\\left(1;3\\right)$. <br>  Vậy hàm số đồng biến trên khoảng $\\left(1;3\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN62",
@@ -1071,7 +1159,8 @@ window.tracNghiem2D11 = [
       "$\\left(0;3 \\right) $"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, ta thấy hàm số đã cho nghịch biến trên khoảng $\\left(0;3 \\right)$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy hàm số đã cho nghịch biến trên khoảng $\\left(0;3 \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN63",
@@ -1083,7 +1172,8 @@ window.tracNghiem2D11 = [
       "$(0;2)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên các khoảng $(-\\infty;-2)$ và $(0;2)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số đồng biến trên các khoảng $(-\\infty;-2)$ và $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN64",
@@ -1095,7 +1185,8 @@ window.tracNghiem2D11 = [
       "$(-1;1)$"
     ],
     "answer": 1,
-    "explain": "Hàm số nghịch biến trên khoảng $(0;1)$."
+    "explain": "Hàm số nghịch biến trên khoảng $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN65",
@@ -1107,7 +1198,8 @@ window.tracNghiem2D11 = [
       "$(2;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Để hàm số nghịch biến thì $f'(x)&lt; 0\\Rightarrow 2x+4&lt;0\\Leftrightarrow x&lt;-2$.<br>  Vậy hàm số nghịch biến trên $\\left(-\\infty;-2\\right)$."
+    "explain": "Để hàm số nghịch biến thì $f'(x)&lt; 0\\Rightarrow 2x+4&lt;0\\Leftrightarrow x&lt;-2$.<br>  Vậy hàm số nghịch biến trên $\\left(-\\infty;-2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN66",
@@ -1119,7 +1211,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;-2)$"
     ],
     "answer": 1,
-    "explain": "Theo bảng biến thiên, ta có hàm số đã cho đồng biến trên khoảng $(-2; 3)$."
+    "explain": "Theo bảng biến thiên, ta có hàm số đã cho đồng biến trên khoảng $(-2; 3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN67",
@@ -1131,7 +1224,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;4)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng dấu đạo hàm ta có $f'(x)&gt;0$ trên khoảng $(-1,3)$, nên hàm số đã cho đồng biến trên khoảng $(-1,3)$."
+    "explain": "Từ bảng dấu đạo hàm ta có $f'(x)&gt;0$ trên khoảng $(-1,3)$, nên hàm số đã cho đồng biến trên khoảng $(-1,3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN68",
@@ -1143,7 +1237,8 @@ window.tracNghiem2D11 = [
       "$(2;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định $D=\\mathbb{R}\\setminus\\{1\\}$.<br>  Ta có $y'=\\dfrac{x(x-2)}{(x-1)^2}$. Cho $y'=0\\Rightarrow x=0 \\text{ hoặc } x=2.$<br>  Lập bảng xét dấu   <br><img src=\"data/12/2D1/im2D1/2D11_tikz_055.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên khoảng $(1;2)$."
+    "explain": "Tập xác định $D=\\mathbb{R}\\setminus\\{1\\}$.<br>  Ta có $y'=\\dfrac{x(x-2)}{(x-1)^2}$. Cho $y'=0\\Rightarrow x=0 \\text{ hoặc } x=2.$<br>  Lập bảng xét dấu   <br><img src=\"data/12/2D1/im2D1/2D11_tikz_055.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên khoảng $(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D115TN69",
@@ -1155,7 +1250,8 @@ window.tracNghiem2D11 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": "Vận tốc $v(t)=s'(t)=-\\dfrac{3t^2}{2}+18t$.<br>  Ta có $v'(t)=-3t+18$.<br>   Giải $v'(t)=0\\Rightarrow t=6$.<br>  Lập bảng biến thiên của $v(t)$  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_056.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, vận tốc đạt cực đại tại $t=6$.<br>  Vậy chọn $6$."
+    "explain": "Vận tốc $v(t)=s'(t)=-\\dfrac{3t^2}{2}+18t$.<br>  Ta có $v'(t)=-3t+18$.<br>   Giải $v'(t)=0\\Rightarrow t=6$.<br>  Lập bảng biến thiên của $v(t)$  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_056.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, vận tốc đạt cực đại tại $t=6$.<br>  Vậy chọn $6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN70",
@@ -1167,7 +1263,8 @@ window.tracNghiem2D11 = [
       "$\\left(1; +\\infty\\right)$"
     ],
     "answer": 1,
-    "explain": "Hàm số nghịch biến trên khoảng $\\left(-\\infty; 2\\right)$."
+    "explain": "Hàm số nghịch biến trên khoảng $\\left(-\\infty; 2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN71",
@@ -1179,7 +1276,8 @@ window.tracNghiem2D11 = [
       "$(0 ;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị hàm số, nhận thấy hàm số đồng biến trên $(0 ; 2)$."
+    "explain": "Dựa vào đồ thị hàm số, nhận thấy hàm số đồng biến trên $(0 ; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN72",
@@ -1191,7 +1289,8 @@ window.tracNghiem2D11 = [
       "Hàm số nghịch biến trên $(-1;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng biến thiên, ta thấy hàm số đồng biến trên $(-1; 1)$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy hàm số đồng biến trên $(-1; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN73",
@@ -1203,7 +1302,8 @@ window.tracNghiem2D11 = [
       "$(-2;0)$"
     ],
     "answer": 2,
-    "explain": "Từ đồ thị ta thấy hàm số đồng biến trên khoảng $(-3;-2)$."
+    "explain": "Từ đồ thị ta thấy hàm số đồng biến trên khoảng $(-3;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN74",
@@ -1215,7 +1315,8 @@ window.tracNghiem2D11 = [
       "Hàm số $y=f(x)$ nghịch biến trên $(-2;-1)$"
     ],
     "answer": 0,
-    "explain": "Từ đồ thị ta thấy $f'(x)=0\\Leftrightarrow x=-1 \\text{ hoặc } x=2 \\text{ hoặc } x=4.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_063.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên suy ra hàm số đồng biến trên $(-1;2)$ và $(4;5)$."
+    "explain": "Từ đồ thị ta thấy $f'(x)=0\\Leftrightarrow x=-1 \\text{ hoặc } x=2 \\text{ hoặc } x=4.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_063.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên suy ra hàm số đồng biến trên $(-1;2)$ và $(4;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN75",
@@ -1227,7 +1328,8 @@ window.tracNghiem2D11 = [
       "$(-1; 3)$"
     ],
     "answer": 1,
-    "explain": "Theo bảng biến thiên, hàm số đồng biến trên khoảng $(-2;2)$.<br>  Mà $(-1;1)\\subset (-2;2)$ nên hàm số đồng biến trên khoảng $(-1;1)$."
+    "explain": "Theo bảng biến thiên, hàm số đồng biến trên khoảng $(-2;2)$.<br>  Mà $(-1;1)\\subset (-2;2)$ nên hàm số đồng biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN76",
@@ -1239,7 +1341,8 @@ window.tracNghiem2D11 = [
       "$(0;1)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số nghịch biến trên khoảng $(0;1)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số nghịch biến trên khoảng $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN77",
@@ -1251,7 +1354,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;0)$"
     ],
     "answer": 2,
-    "explain": "Ta có $y'=-3x^2+6x$, hàm số đồng biến khi  \\[y'\\ge0\\Leftrightarrow-3x^2+6x\\ge0\\Leftrightarrow0\\le x\\le2.\\]  Vậy hàm số đồng biến trên khoảng $(0;2)$."
+    "explain": "Ta có $y'=-3x^2+6x$, hàm số đồng biến khi  \\[y'\\ge0\\Leftrightarrow-3x^2+6x\\ge0\\Leftrightarrow0\\le x\\le2.\\]  Vậy hàm số đồng biến trên khoảng $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN78",
@@ -1263,7 +1367,8 @@ window.tracNghiem2D11 = [
       "$(0;2)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số nghịch biến trên khoảng $(0;2)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số nghịch biến trên khoảng $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN79",
@@ -1275,7 +1380,8 @@ window.tracNghiem2D11 = [
       "$(-2;1)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào đồ thị hàm số, ta thấy hàm số đã cho đồng biến trên khoảng $(-1;1)$."
+    "explain": "Dựa vào đồ thị hàm số, ta thấy hàm số đã cho đồng biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN80",
@@ -1287,7 +1393,8 @@ window.tracNghiem2D11 = [
       "$(1;4)$"
     ],
     "answer": 1,
-    "explain": "Cho $f'(x)=-x^2+5x-4 \\Leftrightarrow x=1 \\text{ hoặc } x=4.$<br>  Ta có bảng xét dấu:  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_068.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu, ta thấy hàm số đã cho nghịch biến trên khoảng $(4;+\\infty)$. <br>  Do đó hàm số cũng nghịch biến trên khoảng $(5;+\\infty)$."
+    "explain": "Cho $f'(x)=-x^2+5x-4 \\Leftrightarrow x=1 \\text{ hoặc } x=4.$<br>  Ta có bảng xét dấu:  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_068.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu, ta thấy hàm số đã cho nghịch biến trên khoảng $(4;+\\infty)$. <br>  Do đó hàm số cũng nghịch biến trên khoảng $(5;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN81",
@@ -1299,7 +1406,8 @@ window.tracNghiem2D11 = [
       "$(-1;1)$"
     ],
     "answer": 3,
-    "explain": "Hàm số $f(x)$ đồng biến khi  \\[f'(x)\\ge0\\Leftrightarrow-x^2+1\\ge0\\Leftrightarrow-1\\le x\\le1.\\]  Vậy hàm số $f(x)$ đồng biến trên khoảng $(-1;1)$."
+    "explain": "Hàm số $f(x)$ đồng biến khi  \\[f'(x)\\ge0\\Leftrightarrow-x^2+1\\ge0\\Leftrightarrow-1\\le x\\le1.\\]  Vậy hàm số $f(x)$ đồng biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN82",
@@ -1311,7 +1419,8 @@ window.tracNghiem2D11 = [
       "$(2; 4)$"
     ],
     "answer": 0,
-    "explain": "Hàm số $y=f(x)$ đồng biến trên khoảng"
+    "explain": "Hàm số $y=f(x)$ đồng biến trên khoảng",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN83",
@@ -1323,7 +1432,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty; 5)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y'=3x^2-16x+5$.<br>  $y'=0\\Leftrightarrow x=5 \\text{ hoặc } x=\\dfrac{1}{3}.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_071.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên khoảng $\\left(\\dfrac{1}{3}; 5\\right)$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y'=3x^2-16x+5$.<br>  $y'=0\\Leftrightarrow x=5 \\text{ hoặc } x=\\dfrac{1}{3}.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_071.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số nghịch biến trên khoảng $\\left(\\dfrac{1}{3}; 5\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN84",
@@ -1335,7 +1445,8 @@ window.tracNghiem2D11 = [
       "$(2;4)$"
     ],
     "answer": 3,
-    "explain": "Hàm số đã cho đồng biến trên khoảng $(0;2)$ và $(2;4)$."
+    "explain": "Hàm số đã cho đồng biến trên khoảng $(0;2)$ và $(2;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN85",
@@ -1347,7 +1458,8 @@ window.tracNghiem2D11 = [
       "Hàm số đồng biến trên $\\mathbb{R}$"
     ],
     "answer": 1,
-    "explain": "Hàm số $y=\\dfrac{x}{x-1}$ có miền xác định $\\mathscr{D} = \\mathbb{R} \\backslash \\{1\\}$ và đạo hàm  $  y' = \\dfrac{-1}{(x-1)^2} &lt; 0,\\quad \\forall x \\in \\mathscr{D}.  $  Do vậy hàm số đã cho nghịch biến trên các khoảng $(-\\infty ; 1)$ và $(1 ;+\\infty)$."
+    "explain": "Hàm số $y=\\dfrac{x}{x-1}$ có miền xác định $\\mathscr{D} = \\mathbb{R} \\backslash \\{1\\}$ và đạo hàm  $  y' = \\dfrac{-1}{(x-1)^2} &lt; 0,\\quad \\forall x \\in \\mathscr{D}.  $  Do vậy hàm số đã cho nghịch biến trên các khoảng $(-\\infty ; 1)$ và $(1 ;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN86",
@@ -1359,7 +1471,8 @@ window.tracNghiem2D11 = [
       "$(0;1)$"
     ],
     "answer": 1,
-    "explain": "Từ đồ thị hàm số ta có, hàm số đồng biến trên $(1;+\\infty)$."
+    "explain": "Từ đồ thị hàm số ta có, hàm số đồng biến trên $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN87",
@@ -1371,7 +1484,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty; 1)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta thấy hàm số nghịch biến trên khoảng $(1;3)$."
+    "explain": "Dựa vào bảng biến thiên ta thấy hàm số nghịch biến trên khoảng $(1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN88",
@@ -1383,7 +1497,8 @@ window.tracNghiem2D11 = [
       "$(-1; 1)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị, hàm số nghịch biến trên khoảng $(-1; 1)$."
+    "explain": "Dựa vào đồ thị, hàm số nghịch biến trên khoảng $(-1; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN89",
@@ -1395,7 +1510,8 @@ window.tracNghiem2D11 = [
       "$g(-3)&lt;g(3)$"
     ],
     "answer": 3,
-    "explain": "Ta có $g'(x)=f'(x)+3x^2=(x+3)\\left(9-x^2\\right)-3 x^2+3x^2=(x+3)^2(3-x)$.<br>  Khi đó $g'(x)=0\\Leftrightarrow x=3 \\text{ hoặc } x=-3.$<br>  Trong đó số $-3$ là nghiệm kép, còn $3$ là nghiệm đơn.  Do đó ta có bảng biến thiên sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_078.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên trên ta suy ra $g(-3)&lt;g(3)$."
+    "explain": "Ta có $g'(x)=f'(x)+3x^2=(x+3)\\left(9-x^2\\right)-3 x^2+3x^2=(x+3)^2(3-x)$.<br>  Khi đó $g'(x)=0\\Leftrightarrow x=3 \\text{ hoặc } x=-3.$<br>  Trong đó số $-3$ là nghiệm kép, còn $3$ là nghiệm đơn.  Do đó ta có bảng biến thiên sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_078.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên trên ta suy ra $g(-3)&lt;g(3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D113TN90",
@@ -1407,7 +1523,8 @@ window.tracNghiem2D11 = [
       "$m&gt;\\dfrac{1}{2}$"
     ],
     "answer": 0,
-    "explain": "Điều kiện $\\cos x\\ne m$.<br>  Ta có $y'=\\dfrac{-2\\sin x(\\cos x-m)+\\sin x(2\\cos x-1)}{(\\cos x-m)^2}=\\dfrac{2m\\sin x-\\sin x}{(\\cos x-m)^2}=\\dfrac{(2m-1)\\sin x}{(\\cos x-m)^2}$.<br>  Với $x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$ suy ra $\\cos x\\in (0;1)$ và $\\sin x&gt;0$.<br>  Do đó để hàm số đồng biến trên khoảng $\\left(0;\\dfrac{\\pi}{2}\\right)$ thì  $y'&gt;0, \\forall x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$<br>$\\Leftrightarrow \\dfrac{2m-1}{(\\cos x-m)^2}&gt;0, \\forall x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$<br>$\\Leftrightarrow 2m-1&gt;0 \\text{ và } m\\notin (0;1)$<br>$\\Leftrightarrow m&gt;\\dfrac{1}{2} \\text{ và } m \\le 0 \\text{ hoặc } m\\ge 1.$<br>$\\Leftrightarrow m\\ge 1.$  Vậy $m\\ge 1$."
+    "explain": "Điều kiện $\\cos x\\ne m$.<br>  Ta có $y'=\\dfrac{-2\\sin x(\\cos x-m)+\\sin x(2\\cos x-1)}{(\\cos x-m)^2}=\\dfrac{2m\\sin x-\\sin x}{(\\cos x-m)^2}=\\dfrac{(2m-1)\\sin x}{(\\cos x-m)^2}$.<br>  Với $x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$ suy ra $\\cos x\\in (0;1)$ và $\\sin x&gt;0$.<br>  Do đó để hàm số đồng biến trên khoảng $\\left(0;\\dfrac{\\pi}{2}\\right)$ thì  $y'&gt;0, \\forall x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$<br>$\\Leftrightarrow \\dfrac{2m-1}{(\\cos x-m)^2}&gt;0, \\forall x\\in \\left(0;\\dfrac{\\pi}{2}\\right)$<br>$\\Leftrightarrow 2m-1&gt;0 \\text{ và } m\\notin (0;1)$<br>$\\Leftrightarrow m&gt;\\dfrac{1}{2} \\text{ và } m \\le 0 \\text{ hoặc } m\\ge 1.$<br>$\\Leftrightarrow m\\ge 1.$  Vậy $m\\ge 1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN91",
@@ -1419,7 +1536,8 @@ window.tracNghiem2D11 = [
       "$(0;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị, hàm số đồng biến trên $(-2;0)$."
+    "explain": "Dựa vào đồ thị, hàm số đồng biến trên $(-2;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN92",
@@ -1431,7 +1549,8 @@ window.tracNghiem2D11 = [
       "$f(3)=f(5)$"
     ],
     "answer": 1,
-    "explain": "Ta có $f'(x) &gt; 0, \\forall x &gt; 0$ nên hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$.<br>  Suy ra $f(3)&lt;f(5)\\Rightarrow f(3)-f(5)&lt;0$."
+    "explain": "Ta có $f'(x) &gt; 0, \\forall x &gt; 0$ nên hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$.<br>  Suy ra $f(3)&lt;f(5)\\Rightarrow f(3)-f(5)&lt;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN93",
@@ -1443,7 +1562,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;0)$"
     ],
     "answer": 3,
-    "explain": "Hàm số đã cho đồng biến trên $(-\\infty;0)$ và $(2;+\\infty)$."
+    "explain": "Hàm số đã cho đồng biến trên $(-\\infty;0)$ và $(2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN94",
@@ -1455,7 +1575,8 @@ window.tracNghiem2D11 = [
       "$(1;+\\infty)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-2;1)$."
+    "explain": "Dựa vào bảng biến thiên, hàm số đã cho đồng biến trên khoảng $(-2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN95",
@@ -1467,7 +1588,8 @@ window.tracNghiem2D11 = [
       "$y=-x^4+2x^2+3$"
     ],
     "answer": 0,
-    "explain": "Xét $y=-x^3-2x-3$.<br>  Ta có $y'= -3x^2 -2 $<br>  Suy ra hàm số $ y=-x^3-2x-3$ nghịch biến trên $\\mathbb{R}$.<br>  $y'&lt;0,\\, \\forall x \\in \\mathbb{R}$."
+    "explain": "Xét $y=-x^3-2x-3$.<br>  Ta có $y'= -3x^2 -2 $<br>  Suy ra hàm số $ y=-x^3-2x-3$ nghịch biến trên $\\mathbb{R}$.<br>  $y'&lt;0,\\, \\forall x \\in \\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN96",
@@ -1479,7 +1601,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty; 0)$"
     ],
     "answer": 2,
-    "explain": "Hàm số nghịch biến trên khoảng $(-1;1)$."
+    "explain": "Hàm số nghịch biến trên khoảng $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D111TN97",
@@ -1491,7 +1614,8 @@ window.tracNghiem2D11 = [
       "$(-\\infty;\\infty)$"
     ],
     "answer": 2,
-    "explain": "Tập xác định $\\mathscr{D} =\\mathbb{R}$.<br>  Ta có $y = x^4 - 8x^2 +2\\,025$<br>  Đạo hàm $y' = 4x^3 - 16x=0$<br>  Xét $y'=0$<br>  $\\Leftrightarrow 4x=0 \\text{ hoặc } x^2 -4 =0$<br>  $\\Leftrightarrow x=0 \\text{ hoặc } x =2 \\text{ hoặc } x=-2$  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_090.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y = x^4 - 8x^2 +2\\,025$ đồng biến trên $(-2;0)$."
+    "explain": "Tập xác định $\\mathscr{D} =\\mathbb{R}$.<br>  Ta có $y = x^4 - 8x^2 +2\\,025$<br>  Đạo hàm $y' = 4x^3 - 16x=0$<br>  Xét $y'=0$<br>  $\\Leftrightarrow 4x=0 \\text{ hoặc } x^2 -4 =0$<br>  $\\Leftrightarrow x=0 \\text{ hoặc } x =2 \\text{ hoặc } x=-2$  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_090.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y = x^4 - 8x^2 +2\\,025$ đồng biến trên $(-2;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D112TN98",
@@ -1503,6 +1627,7 @@ window.tracNghiem2D11 = [
       "$(-\\infty,1)$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên, hàm số nghịch biến trên các khoảng $(-\\infty;-3)$, $(1;+\\infty)$."
+    "explain": "Từ bảng biến thiên, hàm số nghịch biến trên các khoảng $(-\\infty;-3)$, $(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

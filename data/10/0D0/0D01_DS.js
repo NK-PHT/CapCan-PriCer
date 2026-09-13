@@ -29,7 +29,8 @@ window.dungSai0D01 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Xúc xắc có $6$ mặt với số chấm từ $1$ đến $6$.<br>- <strong>Đúng</strong>. $|\\Omega|=6$.<br>- <strong>Sai</strong>. Các số nguyên tố có mặt trên xúc xắc (từ $1$ đến $6$) là $2,3,5$, nên $A=\\{2;3;5\\}$ (không có $7$ vì $7\\notin\\Omega$).<br>- <strong>Đúng</strong>. Không có mặt nào có số chấm lớn hơn $6$ nên $B=\\varnothing$, là biến cố không thể."
+    "explain": "<br>- <strong>Đúng</strong>. Xúc xắc có $6$ mặt với số chấm từ $1$ đến $6$.<br>- <strong>Đúng</strong>. $|\\Omega|=6$.<br>- <strong>Sai</strong>. Các số nguyên tố có mặt trên xúc xắc (từ $1$ đến $6$) là $2,3,5$, nên $A=\\{2;3;5\\}$ (không có $7$ vì $7\\notin\\Omega$).<br>- <strong>Đúng</strong>. Không có mặt nào có số chấm lớn hơn $6$ nên $B=\\varnothing$, là biến cố không thể.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D011DS2",
@@ -52,6 +53,7 @@ window.dungSai0D01 = [
         "answer": false
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Mỗi đồng xu có $2$ khả năng nên $\\Omega$ có $2\\times 2=4$ phần tử.<br>- <strong>Đúng</strong>. Liệt kê trực tiếp từ $\\Omega$.<br>- <strong>Đúng</strong>. Hai biến cố đối nhau khi hợp của chúng là $\\Omega$ và giao là $\\varnothing$; ở đây $\\{NN\\}$ và $\\{SS;SN;NS\\}$ thỏa mãn điều đó.<br>- <strong>Sai</strong>. Chỉ gieo $2$ đồng xu nên không thể có $3$ mặt sấp; đây là biến cố không thể ($\\varnothing$), không phải biến cố chắc chắn."
+    "explain": "<br>- <strong>Đúng</strong>. Mỗi đồng xu có $2$ khả năng nên $\\Omega$ có $2\\times 2=4$ phần tử.<br>- <strong>Đúng</strong>. Liệt kê trực tiếp từ $\\Omega$.<br>- <strong>Đúng</strong>. Hai biến cố đối nhau khi hợp của chúng là $\\Omega$ và giao là $\\varnothing$; ở đây $\\{NN\\}$ và $\\{SS;SN;NS\\}$ thỏa mãn điều đó.<br>- <strong>Sai</strong>. Chỉ gieo $2$ đồng xu nên không thể có $3$ mặt sấp; đây là biến cố không thể ($\\varnothing$), không phải biến cố chắc chắn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

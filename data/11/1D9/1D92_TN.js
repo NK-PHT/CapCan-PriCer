@@ -15,7 +15,8 @@ window.tracNghiem1D92 = [
       "$0{,}8$"
     ],
     "answer": 2,
-    "explain": "Ta có $P\\left(A\\cup B\\right) = P(A)+P(B)-P(AB) = 0{,}4 + 0{,}3 - 0{,}1 = 0{,}6$."
+    "explain": "Ta có $P\\left(A\\cup B\\right) = P(A)+P(B)-P(AB) = 0{,}4 + 0{,}3 - 0{,}1 = 0{,}6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D923TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D92 = [
       "$\\dfrac{1}{3}$"
     ],
     "answer": 0,
-    "explain": "Vì $A$, $B$ là hai biến cố xung khắc nên $\\mathrm{P}(A \\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$.<br>  Vậy $\\mathrm{P}(A)=\\mathrm{P}(A \\cup B)-\\mathrm{P}(A)=\\dfrac{1}{4}$."
+    "explain": "Vì $A$, $B$ là hai biến cố xung khắc nên $\\mathrm{P}(A \\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$.<br>  Vậy $\\mathrm{P}(A)=\\mathrm{P}(A \\cup B)-\\mathrm{P}(A)=\\dfrac{1}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D92 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Ta có $A\\cup B=\\{1; 2; 3; 5\\}$ nên $n(A\\cup B)=4$."
+    "explain": "Ta có $A\\cup B=\\{1; 2; 3; 5\\}$ nên $n(A\\cup B)=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D92 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Ta có $A = \\{2; 4; 6\\}$, $B = \\{3; 6\\}$.<br>  Suy ra $A \\cup B = \\{2; 3; 4; 6\\}$.<br>  Vậy số phần tử của tập hợp $A \\cup B$ là $4$."
+    "explain": "Ta có $A = \\{2; 4; 6\\}$, $B = \\{3; 6\\}$.<br>  Suy ra $A \\cup B = \\{2; 3; 4; 6\\}$.<br>  Vậy số phần tử của tập hợp $A \\cup B$ là $4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D92 = [
       "không giao với nhau"
     ],
     "answer": 2,
-    "explain": "Nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia thì hai biến cố $A$ và $B$ được gọi là độc lập với nhau."
+    "explain": "Nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia thì hai biến cố $A$ và $B$ được gọi là độc lập với nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D92 = [
       "biến cố đối của $B$"
     ],
     "answer": 2,
-    "explain": "Cho hai biến cố $A$ và $B$. Biến cố “$A$ hoặc $B$ xảy ra”~được gọi là biến cố hợp của $A$ và $B$."
+    "explain": "Cho hai biến cố $A$ và $B$. Biến cố “$A$ hoặc $B$ xảy ra”~được gọi là biến cố hợp của $A$ và $B$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D921TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D92 = [
       "$\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$"
     ],
     "answer": 3,
-    "explain": "Nếu $A$ và $B$ là hai biến cố xung khắc thì $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$."
+    "explain": "Nếu $A$ và $B$ là hai biến cố xung khắc thì $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D923TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1D92 = [
       "$\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)\\cdot\\mathrm{P}(B)$"
     ],
     "answer": 0,
-    "explain": "Nếu $A$ và $B$ là hai biến cố xung khắc thì $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$."
+    "explain": "Nếu $A$ và $B$ là hai biến cố xung khắc thì $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1D92 = [
       "$A$ hoặc $B$ xảy ra"
     ],
     "answer": 3,
-    "explain": "Biến cố hợp của $A$ và $B$ có nghĩa là $A$ hoặc $B$ xảy ra."
+    "explain": "Biến cố hợp của $A$ và $B$ có nghĩa là $A$ hoặc $B$ xảy ra.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1D92 = [
       "$\\dfrac{21}{36}$"
     ],
     "answer": 1,
-    "explain": "Gọi $A$ là biến cố lấy được hai quyển sách Toán.<br>  Gọi $B$ là biến cố lấy được hai quyển sách Văn.<br>  Theo đề bài, ta có $\\mathrm{P}(A)=\\dfrac{7}{20}$ và $\\mathrm{P}(B)=\\dfrac{19}{30}$.<br>  Vì hai biến cố $A$ và $B$ là xung khắc nên ta có  $\\mathrm{P}(A \\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B) =\\dfrac{7}{20}+\\dfrac{19}{30}=\\dfrac{59}{60}$."
+    "explain": "Gọi $A$ là biến cố lấy được hai quyển sách Toán.<br>  Gọi $B$ là biến cố lấy được hai quyển sách Văn.<br>  Theo đề bài, ta có $\\mathrm{P}(A)=\\dfrac{7}{20}$ và $\\mathrm{P}(B)=\\dfrac{19}{30}$.<br>  Vì hai biến cố $A$ và $B$ là xung khắc nên ta có  $\\mathrm{P}(A \\cup B)=\\mathrm{P}(A)+\\mathrm{P}(B) =\\dfrac{7}{20}+\\dfrac{19}{30}=\\dfrac{59}{60}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D922TN11",
@@ -135,6 +145,7 @@ window.tracNghiem1D92 = [
       "$\\dfrac{17}{39}$"
     ],
     "answer": 2,
-    "explain": "Lấy ngẫu nhiên $2$ quả cầu từ $13$ quả cầu, số phần tử của không gian mẫu là $n(\\Omega) = \\mathrm{C}_{13}^2 = 78$.<br>  Gọi $A$ là biến cố “ Lấy được $2$ quả cầu cùng màu”.<br>  Số kết quả thuận lợi cho biến cố $A$ (hoặc lấy được $2$ quả trắng, hoặc lấy được $2$ quả đen) là  $n(A) = \\mathrm{C}_8^2 + \\mathrm{C}_5^2 = 28 + 10 = 38.$  Xác suất của biến cố $A$ là $\\mathrm{P}(A) = \\dfrac{n(A)}{n(\\Omega)} = \\dfrac{38}{78} = \\dfrac{19}{39}$."
+    "explain": "Lấy ngẫu nhiên $2$ quả cầu từ $13$ quả cầu, số phần tử của không gian mẫu là $n(\\Omega) = \\mathrm{C}_{13}^2 = 78$.<br>  Gọi $A$ là biến cố “ Lấy được $2$ quả cầu cùng màu”.<br>  Số kết quả thuận lợi cho biến cố $A$ (hoặc lấy được $2$ quả trắng, hoặc lấy được $2$ quả đen) là  $n(A) = \\mathrm{C}_8^2 + \\mathrm{C}_5^2 = 28 + 10 = 38.$  Xác suất của biến cố $A$ là $\\mathrm{P}(A) = \\dfrac{n(A)}{n(\\Omega)} = \\dfrac{38}{78} = \\dfrac{19}{39}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

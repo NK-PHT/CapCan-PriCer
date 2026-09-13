@@ -26,7 +26,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Các câu mệnh đề là (2), (3). Suy ra mệnh đề sai.<br>- Hai câu không phải mệnh đề là (1) và (4). Suy ra mệnh đề đúng.<br>- Câu (3) là mệnh đề. Suy ra mệnh đề đúng.<br>- Câu (1), (4) không phải là mệnh đề. Suy ra mệnh đề đúng."
+    "explain": "<br>- Các câu mệnh đề là (2), (3). Suy ra mệnh đề sai.<br>- Hai câu không phải mệnh đề là (1) và (4). Suy ra mệnh đề đúng.<br>- Câu (3) là mệnh đề. Suy ra mệnh đề đúng.<br>- Câu (1), (4) không phải là mệnh đề. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111DS2",
@@ -49,7 +50,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Câu (1), (4) là mệnh đề. Suy ra mệnh đề đúng.<br>- Chỉ có hai mệnh đề đúng là (1) và (4). Suy ra mệnh đề sai.<br>- Câu (1) (2) là mệnh đề toán học. Suy ra mệnh đề sai.<br>- Câu (2) là mệnh đề và câu (3) không phải là mệnh đề. Suy ra mệnh đề sai."
+    "explain": "<br>- Câu (1), (4) là mệnh đề. Suy ra mệnh đề đúng.<br>- Chỉ có hai mệnh đề đúng là (1) và (4). Suy ra mệnh đề sai.<br>- Câu (1) (2) là mệnh đề toán học. Suy ra mệnh đề sai.<br>- Câu (2) là mệnh đề và câu (3) không phải là mệnh đề. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112DS3",
@@ -72,7 +74,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Một tam giác cân thì ba góc đều bằng $60^{\\circ}$. Suy ra mệnh đề đúng.<br>- Tích của hai số tự nhiên là một số lẻ khi và chỉ khi cả hai số đều là số lẻ. Suy ra mệnh đề đúng.<br>- $1$ là không phải số nguyên tố. Suy ra mệnh đề sai.<br>- Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi. Suy ra mệnh đề đúng."
+    "explain": "<br>- Một tam giác cân thì ba góc đều bằng $60^{\\circ}$. Suy ra mệnh đề đúng.<br>- Tích của hai số tự nhiên là một số lẻ khi và chỉ khi cả hai số đều là số lẻ. Suy ra mệnh đề đúng.<br>- $1$ là không phải số nguyên tố. Suy ra mệnh đề sai.<br>- Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111DS4",
@@ -95,7 +98,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- (1) là $1$ mệnh đề chứa biến $x$. Suy ra mệnh đề đúng.<br>- Khi $x=1$ thì (1) trở thành $1&lt;3$ đúng. Suy ra mệnh đề đúng.<br>- Khi $x=-2$ thì (2) trở thành $(-2)^4-(-2)^2&gt;0$. Suy ra mệnh đề đúng.<br>- Kkhi $x=-2$ thì (1) và (2) đều đúng. Suy ra mệnh đề sai."
+    "explain": "<br>- (1) là $1$ mệnh đề chứa biến $x$. Suy ra mệnh đề đúng.<br>- Khi $x=1$ thì (1) trở thành $1&lt;3$ đúng. Suy ra mệnh đề đúng.<br>- Khi $x=-2$ thì (2) trở thành $(-2)^4-(-2)^2&gt;0$. Suy ra mệnh đề đúng.<br>- Kkhi $x=-2$ thì (1) và (2) đều đúng. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112DS5",
@@ -118,7 +122,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $P(1)=5$ không chia hết cho 3. Suy ra mệnh đề sai.<br>- $P(2)=2$ là số chẵn. Suy ra mệnh đề sai.<br>- Với $n=1$, $P(2n)=P(2)=2;P(n)-1=P(2)-1=1$. Suy ra mệnh đề đúng.<br>- $\\dfrac{2 P(n)-1}{n-3}=\\dfrac{2(n-3)^2+1}{n-3}=2(n-3)+\\dfrac{1}{n-3}$. Với $n=4$ thì $\\dfrac{2 P(n)-1}{n-3}$ là số nguyên. Suy ra mệnh đề đúng."
+    "explain": "<br>- $P(1)=5$ không chia hết cho 3. Suy ra mệnh đề sai.<br>- $P(2)=2$ là số chẵn. Suy ra mệnh đề sai.<br>- Với $n=1$, $P(2n)=P(2)=2;P(n)-1=P(2)-1=1$. Suy ra mệnh đề đúng.<br>- $\\dfrac{2 P(n)-1}{n-3}=\\dfrac{2(n-3)^2+1}{n-3}=2(n-3)+\\dfrac{1}{n-3}$. Với $n=4$ thì $\\dfrac{2 P(n)-1}{n-3}$ là số nguyên. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D116DS6",
@@ -141,7 +146,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Có $7$ học sinh giỏi Toán. Suy ra mệnh đề sai.<br>- Có $1$ học sinh giỏi cả ba môn Toán, Lý, Hóa. Suy ra mệnh đề sai.<br>- Số học sinh giỏi Toán và Lý hoặc giỏi Toán và Hóa của lớp $10 B$ là $1+2+1+3+1+1+1=10$.  <br><img src=\"data/10/0D1/im0D11/dlts_sbh_ds10cd13_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra mệnh đề đúng.<br>- Số học sinh giỏi ít nhất một môn trong ba môn Toán, Lý, Hóa của lớp $10 B$ bằng $11$. Suy ra mệnh đề sai."
+    "explain": "<br>- Có $7$ học sinh giỏi Toán. Suy ra mệnh đề sai.<br>- Có $1$ học sinh giỏi cả ba môn Toán, Lý, Hóa. Suy ra mệnh đề sai.<br>- Số học sinh giỏi Toán và Lý hoặc giỏi Toán và Hóa của lớp $10 B$ là $1+2+1+3+1+1+1=10$.  <br><img src=\"data/10/0D1/im0D11/dlts_sbh_ds10cd13_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra mệnh đề đúng.<br>- Số học sinh giỏi ít nhất một môn trong ba môn Toán, Lý, Hóa của lớp $10 B$ bằng $11$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D116DS7",
@@ -164,7 +170,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Số $6$ là một số hoàn hảo. Suy ra mệnh đề sai.<br>- Ta có $10\\ne 1+2+5$. Suy ra mệnh đề đúng.<br>- Số nguyên tố chỉ có một ước thực sự là số $1$. Suy ra mệnh đề đúng.<br>- Ta có $2020\\ne 1+2+5+101$. Suy ra mệnh đề đúng."
+    "explain": "<br>- Số $6$ là một số hoàn hảo. Suy ra mệnh đề sai.<br>- Ta có $10\\ne 1+2+5$. Suy ra mệnh đề đúng.<br>- Số nguyên tố chỉ có một ước thực sự là số $1$. Suy ra mệnh đề đúng.<br>- Ta có $2020\\ne 1+2+5+101$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111DS8",
@@ -187,7 +194,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Mệnh đề $P$ là mệnh đề đúng. Suy ra mệnh đề đúng.<br>- Số 7 là số nguyên tố. Suy ra mệnh đề sai.<br>- Vì $P$ đúng và $Q$ sai nên $P \\Rightarrow Q$ là mệnh đề sai. Suy ra mệnh đề sai.<br>- Vì $Q$ sai và $Q$ đúng nên $Q \\Rightarrow P$ là mệnh đề đúng. Suy ra mệnh đề đúng."
+    "explain": "<br>- Mệnh đề $P$ là mệnh đề đúng. Suy ra mệnh đề đúng.<br>- Số 7 là số nguyên tố. Suy ra mệnh đề sai.<br>- Vì $P$ đúng và $Q$ sai nên $P \\Rightarrow Q$ là mệnh đề sai. Suy ra mệnh đề sai.<br>- Vì $Q$ sai và $Q$ đúng nên $Q \\Rightarrow P$ là mệnh đề đúng. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115DS9",
@@ -210,7 +218,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Với $x=0,1$ để $x&gt;x^2$ nên $P$ là mệnh đề đúng. Suy ra mệnh đề đúng.<br>- Với $x=0$ thì $0^2=0$ nên $Q$ là mệnh đề sai nên $\\overline{Q}$ là mệnh đề đúng. Suy ra mệnh đề sai.<br>- Vì $P$ đúng, $Q$ sai nên $P \\Rightarrow Q$ là mệnh đề sai.<br>- vì $\\overline{P} \\Rightarrow Q$ đúng, $P \\Rightarrow \\overline{Q}$ sai nên $(\\overline{P}\\Rightarrow Q) \\Rightarrow (P \\Rightarrow \\overline{Q}$ mệnh đề sai."
+    "explain": "<br>- Với $x=0,1$ để $x&gt;x^2$ nên $P$ là mệnh đề đúng. Suy ra mệnh đề đúng.<br>- Với $x=0$ thì $0^2=0$ nên $Q$ là mệnh đề sai nên $\\overline{Q}$ là mệnh đề đúng. Suy ra mệnh đề sai.<br>- Vì $P$ đúng, $Q$ sai nên $P \\Rightarrow Q$ là mệnh đề sai.<br>- vì $\\overline{P} \\Rightarrow Q$ đúng, $P \\Rightarrow \\overline{Q}$ sai nên $(\\overline{P}\\Rightarrow Q) \\Rightarrow (P \\Rightarrow \\overline{Q}$ mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112DS10",
@@ -233,7 +242,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $(-3)^2&gt;(-2)^2$ nhưng $-3&lt;-2$. Suy ra mệnh đề sai.<br>- $a^3&gt;b^3 \\Leftrightarrow a&gt;b$. Suy ra mệnh đề đúng.<br>- Với $a=1, b=2$ không chia hết cho $3$ nhưng $a+b$ chia hết cho $3$. Suy ra mệnh đề sai.<br>- Nếu $a+b&gt;2$ thì có ít nhất một trong hai số $a, b$ lớn hơn 1. Ngược lại với $a=2;b=-1$ thì $a+b=1$. Suy ra mệnh đề sai."
+    "explain": "<br>- $(-3)^2&gt;(-2)^2$ nhưng $-3&lt;-2$. Suy ra mệnh đề sai.<br>- $a^3&gt;b^3 \\Leftrightarrow a&gt;b$. Suy ra mệnh đề đúng.<br>- Với $a=1, b=2$ không chia hết cho $3$ nhưng $a+b$ chia hết cho $3$. Suy ra mệnh đề sai.<br>- Nếu $a+b&gt;2$ thì có ít nhất một trong hai số $a, b$ lớn hơn 1. Ngược lại với $a=2;b=-1$ thì $a+b=1$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112DS11",
@@ -256,7 +266,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Tứ giác $A B C D$ là hình bình hành thì nó có hai đường chéo bằng nhau có thể không bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác $A B C D$ là hình bình hành khi và chỉ khi nó có hai đường chéo cắt nhau tại trung điểm mỗi đường. Suy ra mệnh đề đúng.<br>- Tứ giác $A B C D$ là hình vuông khi và chỉ khi tứ giác là hình chữ nhật có hai cạnh kề bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác có hai đường chéo vuông góc với nhau chưa chắc là hình vuông. Suy ra mệnh đề sai."
+    "explain": "<br>- Tứ giác $A B C D$ là hình bình hành thì nó có hai đường chéo bằng nhau có thể không bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác $A B C D$ là hình bình hành khi và chỉ khi nó có hai đường chéo cắt nhau tại trung điểm mỗi đường. Suy ra mệnh đề đúng.<br>- Tứ giác $A B C D$ là hình vuông khi và chỉ khi tứ giác là hình chữ nhật có hai cạnh kề bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác có hai đường chéo vuông góc với nhau chưa chắc là hình vuông. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115DS12",
@@ -279,7 +290,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Với $n=1$ thì $1^2=1$. Suy ra mệnh đề $A$ sai.<br>- Mệnh đề phủ định của mệnh đề $A$ là $\\overline{A}$ : ``$\\exists n \\in \\mathbb{N}, n^2 \\leq n$''. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của mệnh đề $B$ là $\\overline{B}:$ ``$\\forall n \\in \\mathbb{N}: n^2+3 n$ không chia hết cho $3$''. Suy ra mệnh đề đúng.<br>- Mệnh đề $B$ là mệnh đề đúng nên mệnh đề $\\overline{B}$ là mệnh đề sai. Suy ra mệnh đề sai."
+    "explain": "<br>- Với $n=1$ thì $1^2=1$. Suy ra mệnh đề $A$ sai.<br>- Mệnh đề phủ định của mệnh đề $A$ là $\\overline{A}$ : ``$\\exists n \\in \\mathbb{N}, n^2 \\leq n$''. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của mệnh đề $B$ là $\\overline{B}:$ ``$\\forall n \\in \\mathbb{N}: n^2+3 n$ không chia hết cho $3$''. Suy ra mệnh đề đúng.<br>- Mệnh đề $B$ là mệnh đề đúng nên mệnh đề $\\overline{B}$ là mệnh đề sai. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115DS13",
@@ -302,7 +314,8 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $n^2-8=0\\Leftrightarrow n=2\\sqrt{2}\\notin\\mathbb{Z}$. Do đó Mệnh đề $A$ sai. Suy ra mệnh đề đúng.<br>- Với $x=2$ thì $(2-2)^2=2-2 \\Rightarrow$ Mệnh $B$ sai. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của mệnh đề $C$ là $\\overline{C}: ``\\forall n \\in \\mathbb{N}, n^2+11 n+2$ không chia hết cho $11$''. Suy ra mệnh đề sai.<br>- Với $n=3$ thì $n^2+11 n+2$ chia hết cho $11 \\Rightarrow$ mệnh đề $C$ là đúng.<br> Do đó $\\overline{C}$ là mệnh đề sai. Suy ra mệnh đề sai."
+    "explain": "<br>- $n^2-8=0\\Leftrightarrow n=2\\sqrt{2}\\notin\\mathbb{Z}$. Do đó Mệnh đề $A$ sai. Suy ra mệnh đề đúng.<br>- Với $x=2$ thì $(2-2)^2=2-2 \\Rightarrow$ Mệnh $B$ sai. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của mệnh đề $C$ là $\\overline{C}: ``\\forall n \\in \\mathbb{N}, n^2+11 n+2$ không chia hết cho $11$''. Suy ra mệnh đề sai.<br>- Với $n=3$ thì $n^2+11 n+2$ chia hết cho $11 \\Rightarrow$ mệnh đề $C$ là đúng.<br> Do đó $\\overline{C}$ là mệnh đề sai. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115DS14",
@@ -325,7 +338,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Mệnh đề $\\mathrm{A}$ sai. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của $\\mathrm{A}$ là: $\\overline{A}: \\exists x \\in \\mathbb{R}: x-3\\le 0$. Suy ra mệnh đề sai.<br>- Với $n=3$, $\\sqrt{2^n+1}=3$ là số nguyên. Mệnh đề $\\mathrm{B}$ đúng. Suy ra mệnh đề sai.<br>- Với $n=9$ thì $n^2 ~\\vdots ~ 9$ và $n~ \\vdots~ 9 \\Rightarrow C$ là mệnh đề đúng. Suy ra mệnh đề đúng."
+    "explain": "<br>- Mệnh đề $\\mathrm{A}$ sai. Suy ra mệnh đề sai.<br>- Mệnh đề phủ định của $\\mathrm{A}$ là: $\\overline{A}: \\exists x \\in \\mathbb{R}: x-3\\le 0$. Suy ra mệnh đề sai.<br>- Với $n=3$, $\\sqrt{2^n+1}=3$ là số nguyên. Mệnh đề $\\mathrm{B}$ đúng. Suy ra mệnh đề sai.<br>- Với $n=9$ thì $n^2 ~\\vdots ~ 9$ và $n~ \\vdots~ 9 \\Rightarrow C$ là mệnh đề đúng. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115DS15",
@@ -348,7 +362,8 @@ window.dungSai0D11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $\\forall x \\in \\mathbb{R}, x^2-x+1=\\left(x-\\dfrac{1}{2}\\right)^2+\\dfrac{3}{4}&gt;0$ (đúng). Suy ra mệnh đề đúng.<br>- $x^2=3\\Leftrightarrow x=\\pm\\sqrt{3} \\notin\\mathbb{Q}$. Suy ra mệnh đề sai.<br>- Với $x=1, \\forall y \\in \\mathbb{R}, x+y^2 \\geq 0$ (đúng). Suy ra mệnh đề đúng.<br>- Với $n=7$ thì $n(n+11)+6=132$ chia hết cho $11$ (đúng). Suy ra mệnh đề đúng."
+    "explain": "<br>- $\\forall x \\in \\mathbb{R}, x^2-x+1=\\left(x-\\dfrac{1}{2}\\right)^2+\\dfrac{3}{4}&gt;0$ (đúng). Suy ra mệnh đề đúng.<br>- $x^2=3\\Leftrightarrow x=\\pm\\sqrt{3} \\notin\\mathbb{Q}$. Suy ra mệnh đề sai.<br>- Với $x=1, \\forall y \\in \\mathbb{R}, x+y^2 \\geq 0$ (đúng). Suy ra mệnh đề đúng.<br>- Với $n=7$ thì $n(n+11)+6=132$ chia hết cho $11$ (đúng). Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112DS12",
@@ -371,6 +386,7 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Đúng. Mệnh đề $P \\Rightarrow Q$ được phát biểu là \\text{“}Nếu số tự nhiên $n$ có chữ số tận cùng bằng 5 thì $n$ chia hết cho 5\\text{”}.<br>- Đúng. Trong mệnh đề $P \\Rightarrow Q$ thì $P$ là điều kiện đủ để có $Q$<br>- Sai. Số tự nhiên $n$ có chữ số tận cùng bằng $5$ thì số đó chia hết cho $5$.<br>- Sai. Trong mệnh đề $P \\Rightarrow Q$ thì $Q$ là điều kiện cần để có $P$."
+    "explain": "<br>- Đúng. Mệnh đề $P \\Rightarrow Q$ được phát biểu là \\text{“}Nếu số tự nhiên $n$ có chữ số tận cùng bằng 5 thì $n$ chia hết cho 5\\text{”}.<br>- Đúng. Trong mệnh đề $P \\Rightarrow Q$ thì $P$ là điều kiện đủ để có $Q$<br>- Sai. Số tự nhiên $n$ có chữ số tận cùng bằng $5$ thì số đó chia hết cho $5$.<br>- Sai. Trong mệnh đề $P \\Rightarrow Q$ thì $Q$ là điều kiện cần để có $P$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -29,6 +29,7 @@ window.dungSai0C11 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Giải hệ (bằng phép trừ các phương trình) cho đúng một bộ nghiệm.<br>- <strong>Đúng</strong>. Thử lại: $1+2+3=6$; $1-2+3=2$; $1+2-3=0$, đều đúng.<br>- <strong>Sai</strong>. $x+y+z=1+2+3=6$ (chính là vế phải của phương trình (1)), không phải $5$.<br>- <strong>Đúng</strong>. Thay $(2;2;2)$: pt (1): $2+2+2=6$ ✓; pt (2): $2-2+2=2$ ✓; pt (3): $2+2-2=2\\ne 0$, không thỏa."
+    "explain": "<br>- <strong>Đúng</strong>. Giải hệ (bằng phép trừ các phương trình) cho đúng một bộ nghiệm.<br>- <strong>Đúng</strong>. Thử lại: $1+2+3=6$; $1-2+3=2$; $1+2-3=0$, đều đúng.<br>- <strong>Sai</strong>. $x+y+z=1+2+3=6$ (chính là vế phải của phương trình (1)), không phải $5$.<br>- <strong>Đúng</strong>. Thay $(2;2;2)$: pt (1): $2+2+2=6$ ✓; pt (2): $2-2+2=2$ ✓; pt (3): $2+2-2=2\\ne 0$, không thỏa.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

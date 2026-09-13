@@ -14,7 +14,8 @@ window.tracNghiem0D61 = [
       "$45$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D612TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D61 = [
       "$1,44$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D613TN2",
@@ -38,7 +40,8 @@ window.tracNghiem0D61 = [
       "$0,159$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D612TN2",
@@ -50,6 +53,7 @@ window.tracNghiem0D61 = [
       "$32 \\pm 0,8~cm$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

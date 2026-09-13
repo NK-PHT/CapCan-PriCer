@@ -25,7 +25,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $1\\notin A$. Suy ra mệnh đề sai.<br>- $B=\\{3\\}$. Suy ra mệnh đề sai.<br>- $A=\\{2;3;5;7\\}$. Suy ra mệnh đề đúng.<br>- Số phần tử của tập $A$ gấp $4$ lần số phần tử của tập hợp $B$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $1\\notin A$. Suy ra mệnh đề sai.<br>- $B=\\{3\\}$. Suy ra mệnh đề sai.<br>- $A=\\{2;3;5;7\\}$. Suy ra mệnh đề đúng.<br>- Số phần tử của tập $A$ gấp $4$ lần số phần tử của tập hợp $B$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS2",
@@ -48,7 +49,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $x^2-6 x+5=0\\Leftrightarrow x=1;x=5 \\Rightarrow 1 \\in A$. Suy ra mệnh đề đúng.<br>- $A$ có $2$ hoặc $3$ phần tử. Suy ra mệnh đề sai.<br>- Với $m=1$ hoặc $m=5$ thì $A=\\{1;5\\}$. Suy ra mệnh đề đúng.<br>- Có $3$ giá trị $m=1;m=5;m=0$ để tổng tất cả các phần tử của tập $A$ bằng $6$. Suy ra mệnh đề sai."
+    "explain": "<br>- $x^2-6 x+5=0\\Leftrightarrow x=1;x=5 \\Rightarrow 1 \\in A$. Suy ra mệnh đề đúng.<br>- $A$ có $2$ hoặc $3$ phần tử. Suy ra mệnh đề sai.<br>- Với $m=1$ hoặc $m=5$ thì $A=\\{1;5\\}$. Suy ra mệnh đề đúng.<br>- Có $3$ giá trị $m=1;m=5;m=0$ để tổng tất cả các phần tử của tập $A$ bằng $6$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS3",
@@ -71,7 +73,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $A=\\{3;1\\}$. Suy ra mệnh đề sai.<br>- $A$ có 4 tập con. Suy ra mệnh đề đúng.<br>- $2x^2-x+3=0$ vô nghiệm do đó tập hợp $B$ là tập hợp rỗng. Suy ra mệnh đề đúng.<br>- Tổng các phần tử của tập hợp $A$ và tập hợp $B$ là 2. Suy ra mệnh đề sai."
+    "explain": "<br>- $A=\\{3;1\\}$. Suy ra mệnh đề sai.<br>- $A$ có 4 tập con. Suy ra mệnh đề đúng.<br>- $2x^2-x+3=0$ vô nghiệm do đó tập hợp $B$ là tập hợp rỗng. Suy ra mệnh đề đúng.<br>- Tổng các phần tử của tập hợp $A$ và tập hợp $B$ là 2. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS4",
@@ -94,7 +97,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $(-\\infty ;-3) \\backslash[-5 ; 2)=(-\\infty ;-5)$. Suy ra mệnh đề đúng.<br>- $M=[-3 ; 6]$ và $N=(-\\infty ;-2) \\cup(3 ;+\\infty)$. Khi đó $M \\cap N=[-3;-2) \\cup(3 ; 6]$. Suy ra mệnh đề sai.<br>- $Z=\\{-3;4\\}$; $Y=(-2;5)$ và $X \\cup Y=(-4;5)$. Suy ra mệnh đề đúng.<br>- $(-\\infty ; 9 a) \\cap\\left(\\dfrac{4}{a};+\\infty\\right) \\neq \\varnothing \\Leftrightarrow \\dfrac{4}{a}&lt;9a \\Leftrightarrow 4&gt;9a^2 \\Leftrightarrow -\\dfrac{2}{3}&lt;a&lt;\\dfrac{2}{3}$. Vì $a&lt;0$ nên $-\\dfrac{2}{3}&lt;a&lt;0$.<br> Suy ra mệnh đề đúng."
+    "explain": "<br>- $(-\\infty ;-3) \\backslash[-5 ; 2)=(-\\infty ;-5)$. Suy ra mệnh đề đúng.<br>- $M=[-3 ; 6]$ và $N=(-\\infty ;-2) \\cup(3 ;+\\infty)$. Khi đó $M \\cap N=[-3;-2) \\cup(3 ; 6]$. Suy ra mệnh đề sai.<br>- $Z=\\{-3;4\\}$; $Y=(-2;5)$ và $X \\cup Y=(-4;5)$. Suy ra mệnh đề đúng.<br>- $(-\\infty ; 9 a) \\cap\\left(\\dfrac{4}{a};+\\infty\\right) \\neq \\varnothing \\Leftrightarrow \\dfrac{4}{a}&lt;9a \\Leftrightarrow 4&gt;9a^2 \\Leftrightarrow -\\dfrac{2}{3}&lt;a&lt;\\dfrac{2}{3}$. Vì $a&lt;0$ nên $-\\dfrac{2}{3}&lt;a&lt;0$.<br> Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS5",
@@ -117,7 +121,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A\\cap B \\ne \\varnothing$ khi và chỉ khi $m\\le 2m+1 \\Leftrightarrow m\\ge -1$. Suy ra mệnh đề sai.<br>- $\\mathrm{B}$ nằm trong $\\mathrm{A}$ khi $2m\\ge m \\Leftrightarrow m\\ge 0$. Suy ra mệnh đề sai.<br>- Với $m=2$ thì $\\mathrm{A}=[2 ; +\\infty)$. Suy ra mệnh đề đúng.<br>- $A\\cap B \\ne \\varnothing$ khi và chỉ khi $m\\le 2m+1 \\Leftrightarrow m\\ge -1$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A\\cap B \\ne \\varnothing$ khi và chỉ khi $m\\le 2m+1 \\Leftrightarrow m\\ge -1$. Suy ra mệnh đề sai.<br>- $\\mathrm{B}$ nằm trong $\\mathrm{A}$ khi $2m\\ge m \\Leftrightarrow m\\ge 0$. Suy ra mệnh đề sai.<br>- Với $m=2$ thì $\\mathrm{A}=[2 ; +\\infty)$. Suy ra mệnh đề đúng.<br>- $A\\cap B \\ne \\varnothing$ khi và chỉ khi $m\\le 2m+1 \\Leftrightarrow m\\ge -1$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS6",
@@ -140,7 +145,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A=\\left\\{2;5\\right\\}$. Suy ra mệnh đề đúng.<br>- $2\\notin B$. Suy ra mệnh đề sai.<br>- $\\{3 ; 4 ; 5\\}\\subset B$. Suy ra mệnh đề đúng.<br>- Vì $m\\ne 2, m\\ne 5$ nên $A\\ne C$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A=\\left\\{2;5\\right\\}$. Suy ra mệnh đề đúng.<br>- $2\\notin B$. Suy ra mệnh đề sai.<br>- $\\{3 ; 4 ; 5\\}\\subset B$. Suy ra mệnh đề đúng.<br>- Vì $m\\ne 2, m\\ne 5$ nên $A\\ne C$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS7",
@@ -163,7 +169,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "Ta có $A=\\left\\{1\\right\\}$, $B=\\{1\\}$, $X=\\{-2;-1;0;1;2\\}$ và $Y=\\{-1;1;-2;2\\}$  <br>- Mệnh đề đúng.<br>- Mệnh đề đúng.<br>- $B$ có $2$ tập con. Suy ra mệnh đề đúng.<br>- Mệnh đề sai."
+    "explain": "Ta có $A=\\left\\{1\\right\\}$, $B=\\{1\\}$, $X=\\{-2;-1;0;1;2\\}$ và $Y=\\{-1;1;-2;2\\}$  <br>- Mệnh đề đúng.<br>- Mệnh đề đúng.<br>- $B$ có $2$ tập con. Suy ra mệnh đề đúng.<br>- Mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121DS8",
@@ -186,7 +193,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A=\\left\\{0;2\\right\\}$, $B=\\{0;1;2;3\\}$ suy ra $A \\cup B=\\{0 ;1; 2;3\\}$. Suy ra mệnh đề sai.<br>- $B \\backslash A=\\{1 ; 3\\}$. Suy ra mệnh đề đúng.<br>- $A \\backslash B=\\varnothing$ nên $(A \\backslash B) \\cap A=\\varnothing$. Suy ra mệnh đề đúng.<br>- $A \\cap B=\\{0;2\\}$ nên $(A \\cap B) \\cup(B \\backslash A)=B$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A=\\left\\{0;2\\right\\}$, $B=\\{0;1;2;3\\}$ suy ra $A \\cup B=\\{0 ;1; 2;3\\}$. Suy ra mệnh đề sai.<br>- $B \\backslash A=\\{1 ; 3\\}$. Suy ra mệnh đề đúng.<br>- $A \\backslash B=\\varnothing$ nên $(A \\backslash B) \\cap A=\\varnothing$. Suy ra mệnh đề đúng.<br>- $A \\cap B=\\{0;2\\}$ nên $(A \\cap B) \\cup(B \\backslash A)=B$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121DS9",
@@ -209,7 +217,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A \\cap \\mathbb{N}=\\{1 ; 2 ; 3 ; 5 ; 7\\}$. Suy ra mệnh đề đúng.<br>- $B=\\{0;1;2\\}$ nên $A \\cap B=\\{1 ; 2\\}$. Suy ra mệnh đề sai.<br>- $ A \\cup B=\\{-1 ; 0 ; 1 ; 2 ; 3 ; 5 ; 7\\}$. Suy ra mệnh đề sai.<br>- $A \\backslash B=\\{-1;3;5;7\\}$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A \\cap \\mathbb{N}=\\{1 ; 2 ; 3 ; 5 ; 7\\}$. Suy ra mệnh đề đúng.<br>- $B=\\{0;1;2\\}$ nên $A \\cap B=\\{1 ; 2\\}$. Suy ra mệnh đề sai.<br>- $ A \\cup B=\\{-1 ; 0 ; 1 ; 2 ; 3 ; 5 ; 7\\}$. Suy ra mệnh đề sai.<br>- $A \\backslash B=\\{-1;3;5;7\\}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS10",
@@ -232,7 +241,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Khi $m=1$ thì tập $B=[2;6]$ chứa $5$ giá trị nguyên. Suy ra mệnh đề sai.<br>- Với $m=2$ thì $A=(-\\infty;2)$ và $B=[5;9]$, suy ra $A \\cap B=\\varnothing$. Suy ra mệnh đề đúng.<br>- $B \\subset A$ khi $3m+3&lt;m \\Leftrightarrow m&lt;-\\dfrac{3}{2}$. Suy ra mệnh đề sai.<br>- $C_{\\mathbb{R}}A=[m;+\\infty)$. Ta có $C_{\\mathbb{R}}A \\cap B \\neq \\varnothing$ khi $3m+3\\ge m \\Leftrightarrow m \\geq-\\dfrac{3}{2}$. Suy ra mệnh đề đúng."
+    "explain": "<br>- Khi $m=1$ thì tập $B=[2;6]$ chứa $5$ giá trị nguyên. Suy ra mệnh đề sai.<br>- Với $m=2$ thì $A=(-\\infty;2)$ và $B=[5;9]$, suy ra $A \\cap B=\\varnothing$. Suy ra mệnh đề đúng.<br>- $B \\subset A$ khi $3m+3&lt;m \\Leftrightarrow m&lt;-\\dfrac{3}{2}$. Suy ra mệnh đề sai.<br>- $C_{\\mathbb{R}}A=[m;+\\infty)$. Ta có $C_{\\mathbb{R}}A \\cap B \\neq \\varnothing$ khi $3m+3\\ge m \\Leftrightarrow m \\geq-\\dfrac{3}{2}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121DS11",
@@ -255,7 +265,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A \\cap B=B$. Suy ra mệnh đề sai.<br>- $C \\backslash A=\\{10 k+5 \\mid k \\in \\mathbb{N}\\}$. Suy ra mệnh đề đúng.<br>- $B \\cap C=\\{n \\in N \\mid n ~\\vdots~ 20\\}$. Suy ra mệnh đề đúng.<br>- $A \\cup C=\\{0;2;4;6;8;\\ldots; 5;15;25;\\ldots\\}$. Ta có $0;2;4;\\ldots;98$ có $50$ số và $5;15;25;\\ldots;95$ có $19$ số. Do đó có $69$ phần tử nhỏ hơn $100$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A \\cap B=B$. Suy ra mệnh đề sai.<br>- $C \\backslash A=\\{10 k+5 \\mid k \\in \\mathbb{N}\\}$. Suy ra mệnh đề đúng.<br>- $B \\cap C=\\{n \\in N \\mid n ~\\vdots~ 20\\}$. Suy ra mệnh đề đúng.<br>- $A \\cup C=\\{0;2;4;6;8;\\ldots; 5;15;25;\\ldots\\}$. Ta có $0;2;4;\\ldots;98$ có $50$ số và $5;15;25;\\ldots;95$ có $19$ số. Do đó có $69$ phần tử nhỏ hơn $100$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS12",
@@ -278,7 +289,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Trong tập $A$ có đúng 6 số nguyên. Suy ra mệnh đề sai.<br>- $B \\subset A\\Leftrightarrow 2a&lt;3a+1 \\text{ và } 2a\\ge 0 \\text{ và } 3a+1\\le 5\\Leftrightarrow 0\\le a\\le \\dfrac{4}{3}$. Suy ra mệnh đề sai.<br>- Nếu $a=0$ thì $B=(0;1] \\Rightarrow A \\cap B=(0;1]$. Suy ra mệnh đề sai.<br>- $A \\cap B \\neq \\varnothing \\Leftrightarrow2a&lt;3a+1 \\text{ và } 0&lt;2a&lt;5 \\text{ hoặc } 0\\le 3a+1\\le 5 \\Leftrightarrow-\\dfrac{1}{3}\\leq a&lt;\\dfrac{5}{2}$. Suy ra mệnh đề đúng."
+    "explain": "<br>- Trong tập $A$ có đúng 6 số nguyên. Suy ra mệnh đề sai.<br>- $B \\subset A\\Leftrightarrow 2a&lt;3a+1 \\text{ và } 2a\\ge 0 \\text{ và } 3a+1\\le 5\\Leftrightarrow 0\\le a\\le \\dfrac{4}{3}$. Suy ra mệnh đề sai.<br>- Nếu $a=0$ thì $B=(0;1] \\Rightarrow A \\cap B=(0;1]$. Suy ra mệnh đề sai.<br>- $A \\cap B \\neq \\varnothing \\Leftrightarrow2a&lt;3a+1 \\text{ và } 0&lt;2a&lt;5 \\text{ hoặc } 0\\le 3a+1\\le 5 \\Leftrightarrow-\\dfrac{1}{3}\\leq a&lt;\\dfrac{5}{2}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122DS13",
@@ -301,7 +313,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Tập $A=[1;10]$ có vô số phần tử. Suy ra mệnh đề sai.<br>- Tập $B$ có $10$ phần tử. Suy ra mệnh đề đúng.<br>- Tập $A$ chỉ có $4$ số nguyên tố là $2;3;5;7$. Suy ra mệnh đề đúng.<br>- $x^4+3 x^2-2548=0\\Leftrightarrow x=7;x=-7\\Rightarrow C=\\left\\{-7;7\\right\\}\\not\\subset A$. Suy ra mệnh đề sai."
+    "explain": "<br>- Tập $A=[1;10]$ có vô số phần tử. Suy ra mệnh đề sai.<br>- Tập $B$ có $10$ phần tử. Suy ra mệnh đề đúng.<br>- Tập $A$ chỉ có $4$ số nguyên tố là $2;3;5;7$. Suy ra mệnh đề đúng.<br>- $x^4+3 x^2-2548=0\\Leftrightarrow x=7;x=-7\\Rightarrow C=\\left\\{-7;7\\right\\}\\not\\subset A$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122DS14",
@@ -324,7 +337,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Tập $A=\\{1;2;3\\}$. Suy ra mệnh đề đúng.<br>- Tập $A \\cup B=\\{1;2;3;5\\}$. Suy ra mệnh đề sai.<br>- Tập $A \\not\\subset B$. Suy ra mệnh đề sai.<br>- Tập $B \\not\\subset A$. Suy ra mệnh đề sai."
+    "explain": "<br>- Tập $A=\\{1;2;3\\}$. Suy ra mệnh đề đúng.<br>- Tập $A \\cup B=\\{1;2;3;5\\}$. Suy ra mệnh đề sai.<br>- Tập $A \\not\\subset B$. Suy ra mệnh đề sai.<br>- Tập $B \\not\\subset A$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS15",
@@ -347,7 +361,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A=(-\\infty;-4)\\cup (4;+\\infty)$ và $B=[-4;6)$ nên $B \\backslash A=[-4 ; 4]$. Suy ra mệnh đề đúng.<br>- $A \\cap B=(4;6)$. Suy ra mệnh đề đúng.<br>- $\\mathbb{R}\\backslash(A \\cap B)=(-\\infty ; 4] \\cup[6 ;+\\infty)$. Suy ra mệnh đề sai.<br>- $A \\cup B=\\mathbb{R}\\Rightarrow \\mathbb{R}\\backslash(A \\cup B)=\\varnothing$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A=(-\\infty;-4)\\cup (4;+\\infty)$ và $B=[-4;6)$ nên $B \\backslash A=[-4 ; 4]$. Suy ra mệnh đề đúng.<br>- $A \\cap B=(4;6)$. Suy ra mệnh đề đúng.<br>- $\\mathbb{R}\\backslash(A \\cap B)=(-\\infty ; 4] \\cup[6 ;+\\infty)$. Suy ra mệnh đề sai.<br>- $A \\cup B=\\mathbb{R}\\Rightarrow \\mathbb{R}\\backslash(A \\cup B)=\\varnothing$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS16",
@@ -370,7 +385,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $A \\cap B=[-1 ; 3]$. Suy ra mệnh đề đúng.<br>- $A \\cup B=(-\\infty ; 5)$. Suy ra mệnh đề đúng.<br>- $A \\backslash B=(-\\infty ;-1)$. Suy ra mệnh đề sai.<br>- Tập hợp $B \\backslash A=(3;5)$ chứa $1$ số nguyên. Suy ra mệnh đề sai."
+    "explain": "<br>- $A \\cap B=[-1 ; 3]$. Suy ra mệnh đề đúng.<br>- $A \\cup B=(-\\infty ; 5)$. Suy ra mệnh đề đúng.<br>- $A \\backslash B=(-\\infty ;-1)$. Suy ra mệnh đề sai.<br>- Tập hợp $B \\backslash A=(3;5)$ chứa $1$ số nguyên. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS17",
@@ -393,7 +409,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Tập $\\mathbb{Z}$ có vô số phần tử. Suy ra mệnh đề đúng.<br>- Với $m=2$ thì tập hợp $A=(-5 ; 0]$. Suy ra mệnh đề đúng.<br>- Với $m&lt;7$ thì tập hợp $\\mathbb{Z}\\cap A$ là tập rỗng hoặc các số nguyên. Suy ra mệnh đề sai.<br>- Tập hợp $\\mathbb{Z}\\cap A$ chứa không quá 10 phần tử khi và chỉ khi $ m&lt;7, 2-m\\le 5 \\Leftrightarrow -3 \\leq m&lt;7$. Suy ra mệnh đề đúng."
+    "explain": "<br>- Tập $\\mathbb{Z}$ có vô số phần tử. Suy ra mệnh đề đúng.<br>- Với $m=2$ thì tập hợp $A=(-5 ; 0]$. Suy ra mệnh đề đúng.<br>- Với $m&lt;7$ thì tập hợp $\\mathbb{Z}\\cap A$ là tập rỗng hoặc các số nguyên. Suy ra mệnh đề sai.<br>- Tập hợp $\\mathbb{Z}\\cap A$ chứa không quá 10 phần tử khi và chỉ khi $ m&lt;7, 2-m\\le 5 \\Leftrightarrow -3 \\leq m&lt;7$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS18",
@@ -416,7 +433,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A \\cup B=[-2 ; 6]$. Suy ra mệnh đề đúng.<br>- $A \\cap B=(0;4) \\Rightarrow (A \\cap B) \\cup C=(0;+\\infty)$. Suy ra mệnh đề sai.<br>- $B \\cup C=(0;+\\infty)\\Rightarrow A \\backslash(B \\cup C)=[-2;0]$. Suy ra mệnh đề sai.<br>- $A \\cap B \\cap C=(1;4)$ chứa 3 giá trị nguyên. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A \\cup B=[-2 ; 6]$. Suy ra mệnh đề đúng.<br>- $A \\cap B=(0;4) \\Rightarrow (A \\cap B) \\cup C=(0;+\\infty)$. Suy ra mệnh đề sai.<br>- $B \\cup C=(0;+\\infty)\\Rightarrow A \\backslash(B \\cup C)=[-2;0]$. Suy ra mệnh đề sai.<br>- $A \\cap B \\cap C=(1;4)$ chứa 3 giá trị nguyên. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS19",
@@ -439,7 +457,8 @@ window.dungSai0D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $A \\neq \\varnothing\\Leftrightarrow \\dfrac{m+3}{2}\\ge1-m \\Leftrightarrow m \\geq -\\dfrac{1}{3}$. Suy ra mệnh đề đúng.<br>- Với $m=3$ thì $A=[-2;3] \\Rightarrow A \\cap B= \\varnothing$. Suy ra mệnh đề sai.<br>- $A \\subset B$ khi $m \\geq -\\dfrac{1}{3} \\text{ và } 1-m&gt;3 \\text{ hoặc } \\dfrac{m+3}{2}&lt;-3 \\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } m&lt;-2 \\text{ hoặc } m&lt;-9$ không tồn tại $m$. Suy ra mệnh đề sai.<br>- $A \\cup B=\\mathbb{R}\\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } 1-m\\le -3 \\text{ và } \\dfrac{m+3}{2}\\ge 3 \\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } m\\ge 4 \\text{ và } m\\ge 3 \\Leftrightarrow m\\ge 3$. Có $7$ giá trị nguyên nhỏ hơn $10$. Suy ra mệnh đề đúng."
+    "explain": "<br>- $A \\neq \\varnothing\\Leftrightarrow \\dfrac{m+3}{2}\\ge1-m \\Leftrightarrow m \\geq -\\dfrac{1}{3}$. Suy ra mệnh đề đúng.<br>- Với $m=3$ thì $A=[-2;3] \\Rightarrow A \\cap B= \\varnothing$. Suy ra mệnh đề sai.<br>- $A \\subset B$ khi $m \\geq -\\dfrac{1}{3} \\text{ và } 1-m&gt;3 \\text{ hoặc } \\dfrac{m+3}{2}&lt;-3 \\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } m&lt;-2 \\text{ hoặc } m&lt;-9$ không tồn tại $m$. Suy ra mệnh đề sai.<br>- $A \\cup B=\\mathbb{R}\\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } 1-m\\le -3 \\text{ và } \\dfrac{m+3}{2}\\ge 3 \\Leftrightarrow m \\geq -\\dfrac{1}{3} \\text{ và } m\\ge 4 \\text{ và } m\\ge 3 \\Leftrightarrow m\\ge 3$. Có $7$ giá trị nguyên nhỏ hơn $10$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123DS20",
@@ -462,7 +481,8 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- $B \\subset A \\Leftrightarrow m\\ge -10 \\text{ và } m+7\\le 1 \\Leftrightarrow m\\ge -10 \\text{ và } m\\le -6\\Leftrightarrow -10 \\leq m \\leq-6$. Suy ra mệnh đề đúng.<br>- $A \\cap B=\\varnothing\\Leftrightarrow m+7\\le -10 \\text{ hoặc } m\\ge 1 \\Leftrightarrow m\\le -17 \\text{ hoặc } m\\ge 1$. Suy ra mệnh đề đúng.<br>- $A \\backslash B \\neq \\varnothing \\Leftrightarrow A\\not\\subset B$. Độ dài của $A$ là $1-(-10)=11$ và độ dài của $B$ là $(m+7)-m=7$. Vì $11&gt;7$ nên $A\\not\\subset B$ với mọi $m$. Suy ra mệnh đề sai.<br>- $A \\cup B$ là một khoảng có độ dài bằng $12$ khi $-10&lt;m&lt;1;m+7+10=12 \\text{ hoặc } -10&lt;m+7&lt;1; 1-m=12 \\Leftrightarrow m=-5;m=-11.$  Tổng các giá trị $m$ bằng $-16$. Suy ra mệnh đề sai."
+    "explain": "<br>- $B \\subset A \\Leftrightarrow m\\ge -10 \\text{ và } m+7\\le 1 \\Leftrightarrow m\\ge -10 \\text{ và } m\\le -6\\Leftrightarrow -10 \\leq m \\leq-6$. Suy ra mệnh đề đúng.<br>- $A \\cap B=\\varnothing\\Leftrightarrow m+7\\le -10 \\text{ hoặc } m\\ge 1 \\Leftrightarrow m\\le -17 \\text{ hoặc } m\\ge 1$. Suy ra mệnh đề đúng.<br>- $A \\backslash B \\neq \\varnothing \\Leftrightarrow A\\not\\subset B$. Độ dài của $A$ là $1-(-10)=11$ và độ dài của $B$ là $(m+7)-m=7$. Vì $11&gt;7$ nên $A\\not\\subset B$ với mọi $m$. Suy ra mệnh đề sai.<br>- $A \\cup B$ là một khoảng có độ dài bằng $12$ khi $-10&lt;m&lt;1;m+7+10=12 \\text{ hoặc } -10&lt;m+7&lt;1; 1-m=12 \\Leftrightarrow m=-5;m=-11.$  Tổng các giá trị $m$ bằng $-16$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122DS1",
@@ -485,6 +505,7 @@ window.dungSai0D12 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Tập rỗng là tập con của mọi tập hợp.<br>- $2$ là một phần tử của tập hợp $A$.<br>- Các tập con có $1$ phần tử là $\\{2\\}, \\{4\\}, \\{6\\}, \\{8\\}$. Có $4$ tập con.<br>- Với $k=0$, ta có $n=0$. $0 \\notin A$."
+    "explain": "<br>- Tập rỗng là tập con của mọi tập hợp.<br>- $2$ là một phần tử của tập hợp $A$.<br>- Các tập con có $1$ phần tử là $\\{2\\}, \\{4\\}, \\{6\\}, \\{8\\}$. Có $4$ tập con.<br>- Với $k=0$, ta có $n=0$. $0 \\notin A$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

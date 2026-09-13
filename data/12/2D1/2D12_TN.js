@@ -15,7 +15,8 @@ window.tracNghiem2D12 = [
       "$x=-1$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, hàm số đã cho đạt cực tiểu tại $x=1$ và $x=-1$."
+    "explain": "Dựa vào bảng biến thiên, hàm số đã cho đạt cực tiểu tại $x=1$ và $x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": "Ta có $f'(x)=0 \\Leftrightarrow x=-2 \\text{ hoặc } x=3 \\text{ hoặc } x=\\dfrac{3}{2}.$<br>  Vì $x=3$ là nghiệm bậc chẵn nên không phải điểm cực trị.<br>  Vậy hàm số có $2$ điểm cực trị tại $x=-2$ và $x=\\dfrac{3}{2}$."
+    "explain": "Ta có $f'(x)=0 \\Leftrightarrow x=-2 \\text{ hoặc } x=3 \\text{ hoặc } x=\\dfrac{3}{2}.$<br>  Vì $x=3$ là nghiệm bậc chẵn nên không phải điểm cực trị.<br>  Vậy hàm số có $2$ điểm cực trị tại $x=-2$ và $x=\\dfrac{3}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2D12 = [
       "Hàm số đạt cực đại tại $x=-1$"
     ],
     "answer": 1,
-    "explain": "$(1,-2)$ là điểm cực tiểu của <strong>đồ thị hàm số</strong>."
+    "explain": "$(1,-2)$ là điểm cực tiểu của <strong>đồ thị hàm số</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2D12 = [
       "$-2$"
     ],
     "answer": 1,
-    "explain": "Hàm số $y=2 x \\sqrt{8-x^2}$ có miền xác định $\\mathscr{D} = [-2\\sqrt{2};2\\sqrt{2}]$.<br>  Ta tính được  $  y' = \\dfrac{16-4x^2}{\\sqrt{8-x^2}}.  $  Giải phương trình $y'=0$, ta được $x=2 \\text{ hoặc } x=-2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó, ta thấy điểm cực đại của hàm số là $x=2$"
+    "explain": "Hàm số $y=2 x \\sqrt{8-x^2}$ có miền xác định $\\mathscr{D} = [-2\\sqrt{2};2\\sqrt{2}]$.<br>  Ta tính được  $  y' = \\dfrac{16-4x^2}{\\sqrt{8-x^2}}.  $  Giải phương trình $y'=0$, ta được $x=2 \\text{ hoặc } x=-2.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó, ta thấy điểm cực đại của hàm số là $x=2$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2D12 = [
       "$\\left(2;\\,3\\right)$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị suy ra đồ thị hàm số có điểm cực tiểu là $ \\left(0;\\,-1\\right) $."
+    "explain": "Dựa vào đồ thị suy ra đồ thị hàm số có điểm cực tiểu là $ \\left(0;\\,-1\\right) $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng biến thiên ta có hàm số đạt cực đại tại $ x=-1 $ và $ x=1 $."
+    "explain": "Dựa vào bảng biến thiên ta có hàm số đạt cực đại tại $ x=-1 $ và $ x=1 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2D12 = [
       "$x = 0$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta có hàm số đạt cực đại tại điểm $x=1$."
+    "explain": "Dựa vào bảng biến thiên ta có hàm số đạt cực đại tại điểm $x=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": "Ta có $f'(x) = 0 \\Leftrightarrow (x+2)x^2(x-1) =0 \\Leftrightarrow x = -2 \\text{ hoặc } x = 0 \\text{ hoặc } x = 1. $<br>  Xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_009.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $f'(x)$ đổi dấu tại điểm $x=-2$ và $x=1$ nên hàm số $f(x)$ có $2$ điểm cực trị."
+    "explain": "Ta có $f'(x) = 0 \\Leftrightarrow (x+2)x^2(x-1) =0 \\Leftrightarrow x = -2 \\text{ hoặc } x = 0 \\text{ hoặc } x = 1. $<br>  Xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_009.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $f'(x)$ đổi dấu tại điểm $x=-2$ và $x=1$ nên hàm số $f(x)$ có $2$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Ta có bảng xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng xét dấu ta thấy $ f(x) $ có $2$ điểm cực trị."
+    "explain": "Ta có bảng xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng xét dấu ta thấy $ f(x) $ có $2$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2D12 = [
       "Hàm số đạt cực tiểu tại $x=0$"
     ],
     "answer": 0,
-    "explain": "Hàm số $y=x^3-3x^2$ có đạo hàm $y'=3x^2-6x$.<br>  Cho $y'=0$ ta được $3x^2-6x=0\\Leftrightarrow x=0$; $x=2$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_013.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta thấy hàm số có giá trị cực tiểu bằng $-4$."
+    "explain": "Hàm số $y=x^3-3x^2$ có đạo hàm $y'=3x^2-6x$.<br>  Cho $y'=0$ ta được $3x^2-6x=0\\Leftrightarrow x=0$; $x=2$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_013.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta thấy hàm số có giá trị cực tiểu bằng $-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN11",
@@ -135,7 +145,8 @@ window.tracNghiem2D12 = [
       "$(2;0)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng biến thiên ta thấy điểm cực tiểu của đồ thị hàm số là $(3;-4)$."
+    "explain": "Dựa vào bảng biến thiên ta thấy điểm cực tiểu của đồ thị hàm số là $(3;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN12",
@@ -147,7 +158,8 @@ window.tracNghiem2D12 = [
       "$x=-1$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó hàm số $y=f(x)$ đạt cực tiểu tại $x=-1$."
+    "explain": "Dựa vào đồ thị ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó hàm số $y=f(x)$ đạt cực tiểu tại $x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN13",
@@ -159,7 +171,8 @@ window.tracNghiem2D12 = [
       "Hàm số đạt cực đại tại $x=\\dfrac{1}{3}$, giá trị cực đại là $\\dfrac{94}{27}$"
     ],
     "answer": 1,
-    "explain": "Ta có $y'=3x^2+8x-3$.<br>  $y'=0 \\Leftrightarrow 3x^2+8x-3=0 \\Leftrightarrow x=\\frac{1}{3} \\text{ hoặc } x=-3$.<br>  Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_017.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên, hàm số đạt cực đại tại $x=-3$ và giá trị cực đại là $f(-3)=22$."
+    "explain": "Ta có $y'=3x^2+8x-3$.<br>  $y'=0 \\Leftrightarrow 3x^2+8x-3=0 \\Leftrightarrow x=\\frac{1}{3} \\text{ hoặc } x=-3$.<br>  Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_017.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên, hàm số đạt cực đại tại $x=-3$ và giá trị cực đại là $f(-3)=22$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN14",
@@ -171,7 +184,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 0,
-    "explain": "$f'(x)=0 \\Leftrightarrow x(x-1)^2(x+2)^4=0 \\Leftrightarrow x=0 \\text{ hoặc } x=1 \\text{ hoặc } x=-2.$<br>  Vì $x=1$ và $x=-2$ đều là nghiệm bội chẵn nên hàm số đã cho chỉ có một điểm cực trị tại $x=0$."
+    "explain": "$f'(x)=0 \\Leftrightarrow x(x-1)^2(x+2)^4=0 \\Leftrightarrow x=0 \\text{ hoặc } x=1 \\text{ hoặc } x=-2.$<br>  Vì $x=1$ và $x=-2$ đều là nghiệm bội chẵn nên hàm số đã cho chỉ có một điểm cực trị tại $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN15",
@@ -183,7 +197,8 @@ window.tracNghiem2D12 = [
       "$y=2$"
     ],
     "answer": 3,
-    "explain": "Giá trị cực đại của hàm số $y=f(x)$ là $y=2$."
+    "explain": "Giá trị cực đại của hàm số $y=f(x)$ là $y=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN16",
@@ -195,7 +210,8 @@ window.tracNghiem2D12 = [
       "$-2$"
     ],
     "answer": 1,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có  $y' = 8x^3 - 8x=0 \\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 1.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_020.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy giá trị cực đại của hàm số là $4$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có  $y' = 8x^3 - 8x=0 \\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 1.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_020.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy giá trị cực đại của hàm số là $4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN17",
@@ -207,7 +223,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng biến thiên, ta thấy giá trị cực tiểu của hàm số là $-4$."
+    "explain": "Dựa vào bảng biến thiên, ta thấy giá trị cực tiểu của hàm số là $-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN18",
@@ -219,7 +236,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 0,
-    "explain": "Từ bảng biến thiên, $f'(x)=0$ có $x=1$ và $x=-1$ là các nghiệm đơn nên hàm số có $2$ điểm cự trị."
+    "explain": "Từ bảng biến thiên, $f'(x)=0$ có $x=1$ và $x=-1$ là các nghiệm đơn nên hàm số có $2$ điểm cự trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN19",
@@ -231,7 +249,8 @@ window.tracNghiem2D12 = [
       "Hàm số đạt cực đại tại $x=0$, $x=1$ và đạt cực tiểu tại $x=2$"
     ],
     "answer": 0,
-    "explain": "Theo bảng biến thiên $y'$ đổi dấu qua $x=1$, $x=2$ nên hàm số có đúng hai cực trị."
+    "explain": "Theo bảng biến thiên $y'$ đổi dấu qua $x=1$, $x=2$ nên hàm số có đúng hai cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN20",
@@ -243,7 +262,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": "Hàm số đã cho có $2$ điểm cực trị."
+    "explain": "Hàm số đã cho có $2$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN21",
@@ -255,7 +275,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng xét dấu của $f^{\\prime}(x)$ ta thấy $f^{\\prime}(x)$ đổi dấu từ dương sang âm hai lần. Do đó hàm số đã cho có hai điểm cực đại."
+    "explain": "Dựa vào bảng xét dấu của $f^{\\prime}(x)$ ta thấy $f^{\\prime}(x)$ đổi dấu từ dương sang âm hai lần. Do đó hàm số đã cho có hai điểm cực đại.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN22",
@@ -267,7 +288,8 @@ window.tracNghiem2D12 = [
       "$5$"
     ],
     "answer": 2,
-    "explain": "Dựa vào hình vẽ, ta thấy giá trị cực tiểu của hàm số $f(x)$ bằng $-1$."
+    "explain": "Dựa vào hình vẽ, ta thấy giá trị cực tiểu của hàm số $f(x)$ bằng $-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN23",
@@ -279,7 +301,8 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị hàm số $f'(x)$ có $3$ nghiệm đơn gồm $x=-2$; $x=0$; $x=2$.<br>   Vậy hàm số có $3$ điểm cực trị."
+    "explain": "Dựa vào đồ thị hàm số $f'(x)$ có $3$ nghiệm đơn gồm $x=-2$; $x=0$; $x=2$.<br>   Vậy hàm số có $3$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN24",
@@ -291,7 +314,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Cho $f'(x)=0\\Leftrightarrow x=0 \\text{ hoặc } x=-4 \\text{ hoặc } x=1\\quad \\text{(bội chẵn).}$<br>  Suy ra hàm số $f(x)$ có $2$ điểm cực trị."
+    "explain": "Cho $f'(x)=0\\Leftrightarrow x=0 \\text{ hoặc } x=-4 \\text{ hoặc } x=1\\quad \\text{(bội chẵn).}$<br>  Suy ra hàm số $f(x)$ có $2$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN25",
@@ -303,7 +327,8 @@ window.tracNghiem2D12 = [
       "Hàm số có $2$ điểm cực tiểu"
     ],
     "answer": 3,
-    "explain": "Từ bảng xét dấu, ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_038.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Từ bảng biến thiên, ta thấy hàm số có $2$ điểm cực tiểu, $1$ điểm cực đại."
+    "explain": "Từ bảng xét dấu, ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_038.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Từ bảng biến thiên, ta thấy hàm số có $2$ điểm cực tiểu, $1$ điểm cực đại.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN26",
@@ -315,7 +340,8 @@ window.tracNghiem2D12 = [
       "$(0 ; 2)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị suy ra hàm số đã cho đồng biến trên khoảng $(0;2)$."
+    "explain": "Dựa vào đồ thị suy ra hàm số đã cho đồng biến trên khoảng $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN27",
@@ -327,7 +353,8 @@ window.tracNghiem2D12 = [
       "$x=3$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng xét dấu, ta thấy $f'(x)$ đổi dấu từ $+$ sang $-$ khi qua $x=0$ nên hàm số đã cho đạt cực đại tại điểm $x=0$."
+    "explain": "Dựa vào bảng xét dấu, ta thấy $f'(x)$ đổi dấu từ $+$ sang $-$ khi qua $x=0$ nên hàm số đã cho đạt cực đại tại điểm $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN28",
@@ -339,7 +366,8 @@ window.tracNghiem2D12 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Giá trị cực đại của hàm số đã cho bằng $3$."
+    "explain": "Giá trị cực đại của hàm số đã cho bằng $3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN29",
@@ -351,7 +379,8 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, điểm cực tiểu của hàm số đã cho là $x=7$."
+    "explain": "Dựa vào bảng biến thiên, điểm cực tiểu của hàm số đã cho là $x=7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN30",
@@ -363,7 +392,8 @@ window.tracNghiem2D12 = [
       "$x=-3$"
     ],
     "answer": 2,
-    "explain": "Ta có $y'=3x^2-6x-9$.<br>  $y'=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_045.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y=x^3-3x^2-9x+2024$ đạt cực tiểu tại $x=3$."
+    "explain": "Ta có $y'=3x^2-6x-9$.<br>  $y'=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_045.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số $y=x^3-3x^2-9x+2024$ đạt cực tiểu tại $x=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN31",
@@ -375,7 +405,8 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 0,
-    "explain": "Giá trị cực đại của hàm số là $-2$."
+    "explain": "Giá trị cực đại của hàm số là $-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN32",
@@ -387,7 +418,8 @@ window.tracNghiem2D12 = [
       "$-1$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị hàm số ta có $y_{\\text{CĐ}}=3$."
+    "explain": "Dựa vào đồ thị hàm số ta có $y_{\\text{CĐ}}=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN33",
@@ -399,7 +431,8 @@ window.tracNghiem2D12 = [
       "$x=-1$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị, hàm số đạt cực đại tại $x=-1$."
+    "explain": "Từ đồ thị, hàm số đạt cực đại tại $x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN34",
@@ -411,7 +444,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Nhận xét hàm số $f(x)$ xác định trên $\\mathbb{R}$ và có $f'(x)$ đổi dấu $2$ lần qua $0$ và $1$ nên hàm số đã cho có $2$ điểm cực trị."
+    "explain": "Nhận xét hàm số $f(x)$ xác định trên $\\mathbb{R}$ và có $f'(x)$ đổi dấu $2$ lần qua $0$ và $1$ nên hàm số đã cho có $2$ điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN35",
@@ -423,7 +457,8 @@ window.tracNghiem2D12 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Điểm cực đại của hàm số đã cho bằng $-1$."
+    "explain": "Điểm cực đại của hàm số đã cho bằng $-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN36",
@@ -435,7 +470,8 @@ window.tracNghiem2D12 = [
       "$\\sqrt{85}$"
     ],
     "answer": 2,
-    "explain": "Ta có $y' = -3x^2 + 6x$.<br>  Cho $y'=0 \\Leftrightarrow -3x^2 + 6x = 0 \\Leftrightarrow -3x(x-2) = 0 \\Leftrightarrow x=0 \\text{ hoặc } x=2.$<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_053.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Dựa vào bảng biến thiên điểm cực tiểu là $A(0; 5)$.<br>   Độ dài đoạn thẳng $OA$ là $OA = 5$.<br>"
+    "explain": "Ta có $y' = -3x^2 + 6x$.<br>  Cho $y'=0 \\Leftrightarrow -3x^2 + 6x = 0 \\Leftrightarrow -3x(x-2) = 0 \\Leftrightarrow x=0 \\text{ hoặc } x=2.$<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_053.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Dựa vào bảng biến thiên điểm cực tiểu là $A(0; 5)$.<br>   Độ dài đoạn thẳng $OA$ là $OA = 5$.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN37",
@@ -447,7 +483,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng bxets dấu $f'(x)$, nhận thấy $f'(x)$ đổi dấu $2$ lần tại $x=-1$ và $x=1$ nên hàm số $f(x)$ có hai điểm cực trị."
+    "explain": "Dựa vào bảng bxets dấu $f'(x)$, nhận thấy $f'(x)$ đổi dấu $2$ lần tại $x=-1$ và $x=1$ nên hàm số $f(x)$ có hai điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN38",
@@ -459,7 +496,8 @@ window.tracNghiem2D12 = [
       "$(-1;-2)$"
     ],
     "answer": 0,
-    "explain": "Điểm cực đại của đồ thị hàm số đã cho có tọa độ $(1;2)$."
+    "explain": "Điểm cực đại của đồ thị hàm số đã cho có tọa độ $(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN39",
@@ -471,7 +509,8 @@ window.tracNghiem2D12 = [
       "$-4$"
     ],
     "answer": 3,
-    "explain": "Từ bảng biến thiên ta thấy giá trị cực đại của hàm số đã cho là $y=2$."
+    "explain": "Từ bảng biến thiên ta thấy giá trị cực đại của hàm số đã cho là $y=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN40",
@@ -483,7 +522,8 @@ window.tracNghiem2D12 = [
       "$x=2$"
     ],
     "answer": 0,
-    "explain": "Ta có $y'=3x^2-6x$.<br>  $y'=0\\Leftrightarrow x=0 \\text{ hoặc } x=2. $  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_061.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đạt cực đại tại $x=0$."
+    "explain": "Ta có $y'=3x^2-6x$.<br>  $y'=0\\Leftrightarrow x=0 \\text{ hoặc } x=2. $  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_061.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đạt cực đại tại $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D124TN41",
@@ -495,7 +535,8 @@ window.tracNghiem2D12 = [
       "$T=3-\\sqrt{3}$"
     ],
     "answer": 2,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y'=3x^2-6mx+9$.<br>  Hàm số có hai điểm cực trị $x_1$, $x_2\\Leftrightarrow \\Delta'=9m^2-27&gt;0\\Leftrightarrow m&lt;-\\sqrt{3} \\text{ hoặc } m&gt;\\sqrt{3}. $<br>  Theo định lí Vi-et ta có $S=x_1+x_2=2m \\text{ và } P=x_1x_2=3. $<br>  Ta có   $\\left|x_1-x_2\\right|\\leq 2$<br>$\\Leftrightarrow (x_1-x_2)^2\\leq 4$<br>$\\Leftrightarrow S^2-4P\\leq 4$<br>$\\Leftrightarrow 4m^2-12\\leq 4$<br>$\\Leftrightarrow m\\in [-2;2].$  Kết hợp điều kiện và $m&gt;0$ ta có $m\\in \\left(\\sqrt{3};2\\right]$.<br>  Suy ra $a=\\sqrt{3}$, $b=2$.<br>  Vậy $T=a+b=2+\\sqrt{3}$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Ta có $y'=3x^2-6mx+9$.<br>  Hàm số có hai điểm cực trị $x_1$, $x_2\\Leftrightarrow \\Delta'=9m^2-27&gt;0\\Leftrightarrow m&lt;-\\sqrt{3} \\text{ hoặc } m&gt;\\sqrt{3}. $<br>  Theo định lí Vi-et ta có $S=x_1+x_2=2m \\text{ và } P=x_1x_2=3. $<br>  Ta có   $\\left|x_1-x_2\\right|\\leq 2$<br>$\\Leftrightarrow (x_1-x_2)^2\\leq 4$<br>$\\Leftrightarrow S^2-4P\\leq 4$<br>$\\Leftrightarrow 4m^2-12\\leq 4$<br>$\\Leftrightarrow m\\in [-2;2].$  Kết hợp điều kiện và $m&gt;0$ ta có $m\\in \\left(\\sqrt{3};2\\right]$.<br>  Suy ra $a=\\sqrt{3}$, $b=2$.<br>  Vậy $T=a+b=2+\\sqrt{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN42",
@@ -507,7 +548,8 @@ window.tracNghiem2D12 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Ta có $y'=\\dfrac{5}{(x+1)^2}&gt;0$, $\\forall x\\in\\mathbb{R}\\setminus\\{-1\\}$ nên hàm số không có điểm cực trị."
+    "explain": "Ta có $y'=\\dfrac{5}{(x+1)^2}&gt;0$, $\\forall x\\in\\mathbb{R}\\setminus\\{-1\\}$ nên hàm số không có điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN43",
@@ -519,7 +561,8 @@ window.tracNghiem2D12 = [
       "$x=3$"
     ],
     "answer": 1,
-    "explain": "Ta có $y'=3x^2-6x-9$.<br>  $y'=0\\Leftrightarrow3x^2-6x-9=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên của hàm số như hình vẽ  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_063.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đạt cực đại tại điểm $x=-1$."
+    "explain": "Ta có $y'=3x^2-6x-9$.<br>  $y'=0\\Leftrightarrow3x^2-6x-9=0\\Leftrightarrow x=-1 \\text{ hoặc } x=3.$<br>  Bảng biến thiên của hàm số như hình vẽ  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_063.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đạt cực đại tại điểm $x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN44",
@@ -531,7 +574,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 1,
-    "explain": "Từ bảng biến thiên, hàm số đã cho đạt cực đại tại điểm $x=-1$."
+    "explain": "Từ bảng biến thiên, hàm số đã cho đạt cực đại tại điểm $x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN45",
@@ -543,7 +587,8 @@ window.tracNghiem2D12 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, điểm cực tiểu của hàm số đã cho là $x=2$."
+    "explain": "Dựa vào bảng biến thiên, điểm cực tiểu của hàm số đã cho là $x=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN46",
@@ -555,7 +600,8 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 3,
-    "explain": "Cho $f'(x)=0 \\Leftrightarrow (x^2-4)(1-x)^3(4-2x)=0 \\Leftrightarrow x^2-4=0 \\text{ hoặc } (1-x)^3 \\text{ hoặc } 4-2x=0 \\Leftrightarrow x=2 \\text{ hoặc } x=-2 \\text{ hoặc } x=1 \\text{ hoặc } x=2.$<br>  Ta thấy $x=2$ là nghiệm bội chẵn nên $f(x)$ chỉ có $2$ điểm cực trị $x=-2$ và $x=1$."
+    "explain": "Cho $f'(x)=0 \\Leftrightarrow (x^2-4)(1-x)^3(4-2x)=0 \\Leftrightarrow x^2-4=0 \\text{ hoặc } (1-x)^3 \\text{ hoặc } 4-2x=0 \\Leftrightarrow x=2 \\text{ hoặc } x=-2 \\text{ hoặc } x=1 \\text{ hoặc } x=2.$<br>  Ta thấy $x=2$ là nghiệm bội chẵn nên $f(x)$ chỉ có $2$ điểm cực trị $x=-2$ và $x=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN47",
@@ -567,7 +613,8 @@ window.tracNghiem2D12 = [
       "$x = 3$"
     ],
     "answer": 3,
-    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Ta có $y' = 3x^2 - 6x - 9$.<br>  Suy ra $y' = 0 \\Leftrightarrow 3x^2 - 6x - 9 = 0 \\Leftrightarrow x = 3 \\text{ hoặc } x = -1.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_071.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đã cho có điểm cực tiểu là $x = 3$."
+    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Ta có $y' = 3x^2 - 6x - 9$.<br>  Suy ra $y' = 0 \\Leftrightarrow 3x^2 - 6x - 9 = 0 \\Leftrightarrow x = 3 \\text{ hoặc } x = -1.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_071.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, hàm số đã cho có điểm cực tiểu là $x = 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN48",
@@ -579,7 +626,8 @@ window.tracNghiem2D12 = [
       "$x=-1$"
     ],
     "answer": 1,
-    "explain": "Dựa vào đồ thị của hàm số $y=f(x)$, ta có điểm cực đại của hàm số đã cho là $x=0$."
+    "explain": "Dựa vào đồ thị của hàm số $y=f(x)$, ta có điểm cực đại của hàm số đã cho là $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN49",
@@ -591,7 +639,8 @@ window.tracNghiem2D12 = [
       "$y_{\\text{CĐ}}=4$"
     ],
     "answer": 3,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  $y'=3x^2-3$.<br>  $y'=0\\Leftrightarrow x=1 \\text{ hoặc } x=-1. $ <br>  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_074.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $y_{\\text{CĐ}}=4$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  $y'=3x^2-3$.<br>  $y'=0\\Leftrightarrow x=1 \\text{ hoặc } x=-1. $ <br>  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_074.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $y_{\\text{CĐ}}=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN50",
@@ -603,7 +652,8 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 3,
-    "explain": "Tập xác định $\\mathscr{D}=[-15;15]$.<br>  Ta có $y'=\\dfrac{-9x}{\\sqrt{2025-9x^2}}$.<br>  $y'=0\\Rightarrow x=0$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_079.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số có điểm cực đại là $x=0$."
+    "explain": "Tập xác định $\\mathscr{D}=[-15;15]$.<br>  Ta có $y'=\\dfrac{-9x}{\\sqrt{2025-9x^2}}$.<br>  $y'=0\\Rightarrow x=0$.<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_079.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số có điểm cực đại là $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN51",
@@ -615,7 +665,8 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 2,
-    "explain": "Từ bảng biến thiên ta có, hàm số đạt cực đại tại $x=6$."
+    "explain": "Từ bảng biến thiên ta có, hàm số đạt cực đại tại $x=6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN52",
@@ -627,7 +678,8 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 0,
-    "explain": "Giá trị cực tiểu của hàm số là $y=-4$."
+    "explain": "Giá trị cực tiểu của hàm số là $y=-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN53",
@@ -639,7 +691,8 @@ window.tracNghiem2D12 = [
       "$-2$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng biến thiên:  <br>- Hàm số đạt cực đại tại $x_{\\text{CĐ}}=-1$ và $y_{\\text{CĐ}}=3$, suy ra $D=3$.<br>- Hàm số đạt cực tiểu tại $x_{\\text{CT}}=1$ và $y_{\\text{CT}}=-2$, suy ra $d=-2$.  Vậy $D-d=3-(-2)=5$."
+    "explain": "Dựa vào bảng biến thiên:  <br>- Hàm số đạt cực đại tại $x_{\\text{CĐ}}=-1$ và $y_{\\text{CĐ}}=3$, suy ra $D=3$.<br>- Hàm số đạt cực tiểu tại $x_{\\text{CT}}=1$ và $y_{\\text{CT}}=-2$, suy ra $d=-2$.  Vậy $D-d=3-(-2)=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D123TN54",
@@ -651,7 +704,8 @@ window.tracNghiem2D12 = [
       "$m=4$"
     ],
     "answer": 2,
-    "explain": "Ta có $y'=x^2-2mx+m^2-m-1$.  <br>  Để hàm số $y=\\dfrac{1}{3} x^3-m x^2+\\left(m^2-m-1\\right) x$ đạt cực đại tại $x=1$ thì   \\[y'(1)=0\\Leftrightarrow 1-2m+m^2-m-1=0\\Leftrightarrow m^2-3m=0\\Leftrightarrow m=0 \\text{ hoặc } m=3.\\]  <br>- Với $m=0$, $y'=x^2-1=0\\Leftrightarrow x=1 \\text{ hoặc } x=-1.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_088.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra với $m=0$ không thỏa mãn bài toán.<br>- Với $m=3$, $y'=x^2-6x+5=0\\Leftrightarrow x=1 \\text{ hoặc } x=5.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_089.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra với $m=3$ thỏa mãn bài toán."
+    "explain": "Ta có $y'=x^2-2mx+m^2-m-1$.  <br>  Để hàm số $y=\\dfrac{1}{3} x^3-m x^2+\\left(m^2-m-1\\right) x$ đạt cực đại tại $x=1$ thì   \\[y'(1)=0\\Leftrightarrow 1-2m+m^2-m-1=0\\Leftrightarrow m^2-3m=0\\Leftrightarrow m=0 \\text{ hoặc } m=3.\\]  <br>- Với $m=0$, $y'=x^2-1=0\\Leftrightarrow x=1 \\text{ hoặc } x=-1.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_088.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra với $m=0$ không thỏa mãn bài toán.<br>- Với $m=3$, $y'=x^2-6x+5=0\\Leftrightarrow x=1 \\text{ hoặc } x=5.$<br>  Ta có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_089.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra với $m=3$ thỏa mãn bài toán.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN55",
@@ -663,7 +717,8 @@ window.tracNghiem2D12 = [
       "$-1$"
     ],
     "answer": 0,
-    "explain": "Từ bảng biến thiên, ta thấy hàm số đạt cực tiểu tại $x = 2$ và giá trị cực tiểu là $-2$.<br>  Vậy giá trị cực tiểu của hàm số là $-2$."
+    "explain": "Từ bảng biến thiên, ta thấy hàm số đạt cực tiểu tại $x = 2$ và giá trị cực tiểu là $-2$.<br>  Vậy giá trị cực tiểu của hàm số là $-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN56",
@@ -675,7 +730,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 3,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Đạo hàm $y'=4x^3-4x$.<br>  Cho $y'=0 \\Leftrightarrow 4x^3-4x=0\\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 1.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_095.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đạt cực đại tại $x=0$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br>  Đạo hàm $y'=4x^3-4x$.<br>  Cho $y'=0 \\Leftrightarrow 4x^3-4x=0\\Leftrightarrow x=0 \\text{ hoặc } x=\\pm 1.$<br>  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_095.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số đạt cực đại tại $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN57",
@@ -687,7 +743,8 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": "Hàm số có giá trị cực đại là $0$."
+    "explain": "Hàm số có giá trị cực đại là $0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN58",
@@ -699,7 +756,8 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN59",
@@ -711,7 +769,8 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 1,
-    "explain": "Dựa vào bảng biến thiên của hàm số $y = f(x)$, ta có  <br>- $f'(x)$ đổi dấu từ dương sang âm tại $x = -1$, nghĩa là hàm số đạt cực đại tại $x = -1$.<br>- $f'(x)$ đổi dấu từ âm sang dương tại $x = 0$, nghĩa là hàm số đạt cực tiểu tại $x = 0$.  Vậy điểm cực đại của hàm số là $x = -1$."
+    "explain": "Dựa vào bảng biến thiên của hàm số $y = f(x)$, ta có  <br>- $f'(x)$ đổi dấu từ dương sang âm tại $x = -1$, nghĩa là hàm số đạt cực đại tại $x = -1$.<br>- $f'(x)$ đổi dấu từ âm sang dương tại $x = 0$, nghĩa là hàm số đạt cực tiểu tại $x = 0$.  Vậy điểm cực đại của hàm số là $x = -1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN60",
@@ -723,7 +782,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Ta có đồ thị hàm số $y=f'(x)$ cắt trục hoành tại ba điểm có hoành độ lần lượt là $-2$, $0$, $2$ nên  $f'(x)=0 \\Leftrightarrow x=-2 \\text{ hoặc } x=0 \\text{ hoặc } x=2.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_104.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số $y=f(x)$ có $3$ điểm cực trị là $x=-2$, $x=0$, $x=2$."
+    "explain": "Ta có đồ thị hàm số $y=f'(x)$ cắt trục hoành tại ba điểm có hoành độ lần lượt là $-2$, $0$, $2$ nên  $f'(x)=0 \\Leftrightarrow x=-2 \\text{ hoặc } x=0 \\text{ hoặc } x=2.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_104.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số $y=f(x)$ có $3$ điểm cực trị là $x=-2$, $x=0$, $x=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN61",
@@ -735,7 +795,8 @@ window.tracNghiem2D12 = [
       "$y = 1$"
     ],
     "answer": 0,
-    "explain": "Xét hàm số $y = x^3 - 3x^2 + 1$ có $y' = 3x^2 - 6x$, $y' = 0 \\Leftrightarrow x = 2 \\text{ hoặc } x = 0.$<br>  Bảng biến thiên   <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS1_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta có: điểm cực đại của hàm số $y = x^3 - 3x^2 + 1$ là $x = 0$."
+    "explain": "Xét hàm số $y = x^3 - 3x^2 + 1$ có $y' = 3x^2 - 6x$, $y' = 0 \\Leftrightarrow x = 2 \\text{ hoặc } x = 0.$<br>  Bảng biến thiên   <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS1_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên ta có: điểm cực đại của hàm số $y = x^3 - 3x^2 + 1$ là $x = 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN62",
@@ -747,7 +808,8 @@ window.tracNghiem2D12 = [
       "Hàm số đạt cực đại tại $ x=0$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị hàm số ta có <br>  Hàm số có giá trị cực tiểu bằng $-2$.<br>  Hàm số có hai điểm cực trị.<br>  Hàm số có giá trị cực đại bằng $2$.<br>  Hàm số có đạt cực đại tại $ x=0$."
+    "explain": "Dựa vào đồ thị hàm số ta có <br>  Hàm số có giá trị cực tiểu bằng $-2$.<br>  Hàm số có hai điểm cực trị.<br>  Hàm số có giá trị cực đại bằng $2$.<br>  Hàm số có đạt cực đại tại $ x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN63",
@@ -759,7 +821,8 @@ window.tracNghiem2D12 = [
       "Hàm số có giá trị cực đại bằng 0"
     ],
     "answer": 3,
-    "explain": "Dựa vào BBT, suy ra hàm số có giá trị cực đại bằng $3$."
+    "explain": "Dựa vào BBT, suy ra hàm số có giá trị cực đại bằng $3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN64",
@@ -771,7 +834,8 @@ window.tracNghiem2D12 = [
       "$y_{\\text{ct}}=-3$"
     ],
     "answer": 1,
-    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\left\\{-1\\right\\}$. Ta có $f'(x)=\\dfrac{\\left(2x+1\\right)\\left(x+1\\right)-\\left(x^2+x+4\\right)}{\\left(x+1\\right)^2}=\\dfrac{x^2+2x-3}{\\left(x+1\\right)^2}.$  Suy ra $f'(x)=0\\Leftrightarrow x=-3$ hoặc $x=1$. Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS2_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số có giá trị cực tiểu là $y_{CT}=3$."
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\left\\{-1\\right\\}$. Ta có $f'(x)=\\dfrac{\\left(2x+1\\right)\\left(x+1\\right)-\\left(x^2+x+4\\right)}{\\left(x+1\\right)^2}=\\dfrac{x^2+2x-3}{\\left(x+1\\right)^2}.$  Suy ra $f'(x)=0\\Leftrightarrow x=-3$ hoặc $x=1$. Ta có bảng biến thiên  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS2_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số có giá trị cực tiểu là $y_{CT}=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D121TN65",
@@ -783,7 +847,8 @@ window.tracNghiem2D12 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Ta có bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS2_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ đó suy ra hàm số $f(x)$ có hai điểm cực tiểu là $x_1=-4$ và $x_2=1$."
+    "explain": "Ta có bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS2_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ đó suy ra hàm số $f(x)$ có hai điểm cực tiểu là $x_1=-4$ và $x_2=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN66",
@@ -795,7 +860,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": "Ta có $f’(x)$ đổi dấu từ + sang âm khi $x$ qua $-1$ và $1$. Vậy hàm số có hai điểm cực đại."
+    "explain": "Ta có $f’(x)$ đổi dấu từ + sang âm khi $x$ qua $-1$ và $1$. Vậy hàm số có hai điểm cực đại.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN67",
@@ -807,7 +873,8 @@ window.tracNghiem2D12 = [
       "$-6$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên, ta có điểm cực đại của hàm số đã cho là $x=-2$."
+    "explain": "Dựa vào bảng biến thiên, ta có điểm cực đại của hàm số đã cho là $x=-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN68",
@@ -819,7 +886,8 @@ window.tracNghiem2D12 = [
       "$y=1$"
     ],
     "answer": 0,
-    "explain": "Hàm số đã cho có điểm cực đại là $x=0$."
+    "explain": "Hàm số đã cho có điểm cực đại là $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN69",
@@ -831,7 +899,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 2,
-    "explain": "Ta có $f'(x)=0\\Leftrightarrow x=-2 \\text{ hoặc } x=-1 \\text{ hoặc } x=0.$<br>  Bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS8_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu, thấy có $2$ lần $f'(x)$ đổi dấu từ âm sang dương nên hàm số có $2$ điểm cực tiểu"
+    "explain": "Ta có $f'(x)=0\\Leftrightarrow x=-2 \\text{ hoặc } x=-1 \\text{ hoặc } x=0.$<br>  Bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/dlts_12_DLTS8_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng xét dấu, thấy có $2$ lần $f'(x)$ đổi dấu từ âm sang dương nên hàm số có $2$ điểm cực tiểu",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN70",
@@ -843,7 +912,8 @@ window.tracNghiem2D12 = [
       "$ y_{\\text{CĐ}}=5$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên giá trị cực đại của hàm số là $ y_{\\text{CĐ}}=5$."
+    "explain": "Dựa vào bảng biến thiên giá trị cực đại của hàm số là $ y_{\\text{CĐ}}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN71",
@@ -855,7 +925,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": "Ta có $f'(x)=x^2\\left(x^2-5x+4\\right)=0\\Leftrightarrow x=0 \\,\\text{(nghiệm kép)} \\text{ hoặc } x=4 \\text{ hoặc } x=1.$<br>  Bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/loc8_TT_KSCL_THPT_Le__001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số có $1$ điểm cực tiểu."
+    "explain": "Ta có $f'(x)=x^2\\left(x^2-5x+4\\right)=0\\Leftrightarrow x=0 \\,\\text{(nghiệm kép)} \\text{ hoặc } x=4 \\text{ hoặc } x=1.$<br>  Bảng xét dấu  <br><img src=\"data/12/2D1/im2D12/loc8_TT_KSCL_THPT_Le__001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số có $1$ điểm cực tiểu.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN72",
@@ -867,7 +938,8 @@ window.tracNghiem2D12 = [
       "$0$"
     ],
     "answer": 3,
-    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số $y=f(x)$ là $0$. <br>"
+    "explain": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số $y=f(x)$ là $0$. <br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN4",
@@ -879,7 +951,8 @@ window.tracNghiem2D12 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": "Ta có $f'(x)=0\\Leftrightarrow \\left(\\mathrm{e}^x-1\\right)\\left(x^2-x\\right)=0\\Leftrightarrow \\mathrm{e}^x-1=0 \\text{ hoặc } x^2-x=0\\Leftrightarrow x=0 \\text{ hoặc } x=1.$<br>  Bảng xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_DaoDuyTu_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra hàm số đã cho có một điểm cực trị."
+    "explain": "Ta có $f'(x)=0\\Leftrightarrow \\left(\\mathrm{e}^x-1\\right)\\left(x^2-x\\right)=0\\Leftrightarrow \\mathrm{e}^x-1=0 \\text{ hoặc } x^2-x=0\\Leftrightarrow x=0 \\text{ hoặc } x=1.$<br>  Bảng xét dấu của $f'(x)$  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_DaoDuyTu_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Suy ra hàm số đã cho có một điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN73",
@@ -891,7 +964,8 @@ window.tracNghiem2D12 = [
       "Hàm số đã cho đồng biến trên khoảng $\\left(-\\infty;+\\infty \\right)$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị ta có hàm số đã cho có hai điểm cực trị."
+    "explain": "Dựa vào đồ thị ta có hàm số đã cho có hai điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN74",
@@ -903,7 +977,8 @@ window.tracNghiem2D12 = [
       "$13$"
     ],
     "answer": 3,
-    "explain": "$f'(x)=\\dfrac{2x^2-8x}{(x-2)^2}; f'(x)=0\\Leftrightarrow x=0 \\text{ hoặc } x=4.$  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Điểm cực tiểu của hàm số là $x=4$ nên giá trị cực tiểu $y=13$"
+    "explain": "$f'(x)=\\dfrac{2x^2-8x}{(x-2)^2}; f'(x)=0\\Leftrightarrow x=0 \\text{ hoặc } x=4.$  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Điểm cực tiểu của hàm số là $x=4$ nên giá trị cực tiểu $y=13$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN75",
@@ -915,7 +990,8 @@ window.tracNghiem2D12 = [
       "Hàm số $f(x)$ đạt cực tiểu tại điểm $x_0=-2$"
     ],
     "answer": 3,
-    "explain": "Từ giả thiết ta có $f'(x)=3(x+2)(x-3)=0\\Leftrightarrow x=-2 \\text{ hoặc } x=3.$.  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đạt cực đại tại $x=-2$."
+    "explain": "Từ giả thiết ta có $f'(x)=3(x+2)(x-3)=0\\Leftrightarrow x=-2 \\text{ hoặc } x=3.$.  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đạt cực đại tại $x=-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN76",
@@ -927,7 +1003,8 @@ window.tracNghiem2D12 = [
       "$111$"
     ],
     "answer": 1,
-    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Đạo hàm $f'(x)=6x^2-18x-24$.<br>  Cho $f'(x)=0 \\Leftrightarrow x=-1 \\text{ hoặc } x=4.$<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ}} = 14$ tại $x = -1$."
+    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R}$.<br>  Đạo hàm $f'(x)=6x^2-18x-24$.<br>  Cho $f'(x)=0 \\Leftrightarrow x=-1 \\text{ hoặc } x=4.$<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenKh_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y_{\\text{CĐ}} = 14$ tại $x = -1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN77",
@@ -939,6 +1016,7 @@ window.tracNghiem2D12 = [
       "$x=-3$"
     ],
     "answer": 2,
-    "explain": "Dựa vào bảng biến thiên ta thấy điểm cực đại của hàm số là $x=-4$."
+    "explain": "Dựa vào bảng biến thiên ta thấy điểm cực đại của hàm số là $x=-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

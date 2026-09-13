@@ -14,7 +14,8 @@ window.tracNghiem1H44 = [
       "$\\left(A_1C_1C\\right)$"
     ],
     "answer": 2,
-    "explain": "<img src=\"data/11/1H4/im1H44/1H44_tikz_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Ta có<br>Vì $\\left\\{\\begin{array}{l}AD_1 \\parallel BC_1\\\\D_1B_1 \\parallel DB\\end{array}\\right.$ nên $(AB_1D_1) \\parallel (BC_1D)$."
+    "explain": "<img src=\"data/11/1H4/im1H44/1H44_tikz_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Ta có<br>Vì $\\left\\{\\begin{array}{l}AD_1 \\parallel BC_1\\\\D_1B_1 \\parallel DB\\end{array}\\right.$ nên $(AB_1D_1) \\parallel (BC_1D)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H442TN2",
@@ -26,7 +27,8 @@ window.tracNghiem1H44 = [
       "$MN \\parallel BC$"
     ],
     "answer": 3,
-    "explain": "<img src=\"data/11/1H4/im1H44/1H44_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> <br>• Xét khẳng định: $MP \\parallel (ABCD)$<br>Do $M$ và $P$ lần lượt là trung điểm của $SA$ và $SC$.<br>$\\Rightarrow MP$ là đường trung bình của tam giác $SAC$ và $MP \\parallel AC$.<br>Mà $AC \\subset (ABCD)$ nên $MP \\parallel (ABCD)$. (1)<br>• Xét khẳng định: $(MNP) \\parallel (ABCD)$<br>Do $M$ và $N$ lần lượt là trung điểm của $SA$ và $SB$.<br>$\\Rightarrow MN$ là đường trung bình của tam giác $SAB$ và $MN \\parallel AB$.<br>Mà $AB \\subset (ABCD)$ nên $MN \\parallel (ABCD)$. (2)<br>Từ (1) và (2) suy ra $(MNP) \\parallel (ABCD)$.<br>• Xét khẳng định: $PN \\parallel BC$<br>Do $P$ và $N$ lần lượt là trung điểm của $SC$ và $SB$.<br>$\\Rightarrow PN \\parallel BC$ mà $BC \\parallel AD$ (do $ABCD$ là hình bình hành) nên $PN \\parallel AD$. <br>Từ các chứng minh trên nên $MN \\parallel BC$ là sai."
+    "explain": "<img src=\"data/11/1H4/im1H44/1H44_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> <br>• Xét khẳng định: $MP \\parallel (ABCD)$<br>Do $M$ và $P$ lần lượt là trung điểm của $SA$ và $SC$.<br>$\\Rightarrow MP$ là đường trung bình của tam giác $SAC$ và $MP \\parallel AC$.<br>Mà $AC \\subset (ABCD)$ nên $MP \\parallel (ABCD)$. (1)<br>• Xét khẳng định: $(MNP) \\parallel (ABCD)$<br>Do $M$ và $N$ lần lượt là trung điểm của $SA$ và $SB$.<br>$\\Rightarrow MN$ là đường trung bình của tam giác $SAB$ và $MN \\parallel AB$.<br>Mà $AB \\subset (ABCD)$ nên $MN \\parallel (ABCD)$. (2)<br>Từ (1) và (2) suy ra $(MNP) \\parallel (ABCD)$.<br>• Xét khẳng định: $PN \\parallel BC$<br>Do $P$ và $N$ lần lượt là trung điểm của $SC$ và $SB$.<br>$\\Rightarrow PN \\parallel BC$ mà $BC \\parallel AD$ (do $ABCD$ là hình bình hành) nên $PN \\parallel AD$. <br>Từ các chứng minh trên nên $MN \\parallel BC$ là sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H447TN1",
@@ -38,7 +40,8 @@ window.tracNghiem1H44 = [
       "$45$ cm"
     ],
     "answer": 3,
-    "explain": "Áp dụng định lí Thalès trong không gian cho ba mặt phẳng song song $(ABCD)$, $(EFGH)$, $(IJKL)$ ta được<br>\\[ \\dfrac{EI}{EA}=\\dfrac{GK}{GC}~\\text{hay}~ GK=\\dfrac{EI}{EA}\\cdot GC=\\dfrac{39\\cdot 135}{117}=45.\\]"
+    "explain": "Áp dụng định lí Thalès trong không gian cho ba mặt phẳng song song $(ABCD)$, $(EFGH)$, $(IJKL)$ ta được<br>\\[ \\dfrac{EI}{EA}=\\dfrac{GK}{GC}~\\text{hay}~ GK=\\dfrac{EI}{EA}\\cdot GC=\\dfrac{39\\cdot 135}{117}=45.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H441TN1",
@@ -50,7 +53,8 @@ window.tracNghiem1H44 = [
       "Hai mặt phẳng song song với một mặt phẳng thứ $3$ thì song song với nhau"
     ],
     "answer": 3,
-    "explain": "Hai mặt phẳng song song với một mặt phẳng thứ $3$ thì song song hoặc trùng nhau."
+    "explain": "Hai mặt phẳng song song với một mặt phẳng thứ $3$ thì song song hoặc trùng nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H441TN2",
@@ -62,7 +66,8 @@ window.tracNghiem1H44 = [
       "chúng không có điểm chung"
     ],
     "answer": 3,
-    "explain": "Hai mặt phẳng được gọi là song song với nhau nếu chúng không có điểm chung."
+    "explain": "Hai mặt phẳng được gọi là song song với nhau nếu chúng không có điểm chung.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H441TN3",
@@ -74,6 +79,7 @@ window.tracNghiem1H44 = [
       "Qua một điểm ở ngoài mặt phẳng $(\\alpha)$ có duy nhất một đường thẳng song song với $(\\alpha)$"
     ],
     "answer": 1,
-    "explain": "Theo lý thuyết ta có \" Nếu hai mặt phẳng phân biệt cùng song song với một mặt phẳng thứ ba thì hai mặt phẳng đó song song với nhau\"."
+    "explain": "Theo lý thuyết ta có \" Nếu hai mặt phẳng phân biệt cùng song song với một mặt phẳng thứ ba thì hai mặt phẳng đó song song với nhau\".",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

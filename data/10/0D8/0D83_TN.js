@@ -14,6 +14,7 @@ window.tracNghiem0D83 = [
       "$(x+1)^5$"
     ],
     "answer": 3,
-    "explain": "Ta có $P(x)=x^5+5x^4+10x^3+10x^2+5x+1=(x+1)^5$."
+    "explain": "Ta có $P(x)=x^5+5x^4+10x^3+10x^2+5x+1=(x+1)^5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

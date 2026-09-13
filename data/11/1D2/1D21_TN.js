@@ -14,7 +14,8 @@ window.tracNghiem1D21 = [
       "$5$"
     ],
     "answer": 2,
-    "explain": "Ta có $u_5= \\dfrac{5+2}{3\\cdot 5 +3}= \\dfrac{7}{18}$."
+    "explain": "Ta có $u_5= \\dfrac{5+2}{3\\cdot 5 +3}= \\dfrac{7}{18}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN2",
@@ -26,7 +27,8 @@ window.tracNghiem1D21 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Do $-19$ là một số hạng của dãy số $(u_n)$ nên tồn tại số nguyên dương $k$ sao cho $u_k=-19$, suy ra<br>\\[\\begin{array}{rcl} && -k^2+k+1=-19 \\\\ &\\Leftrightarrow& -k^2+k+20=0 \\\\ &\\Leftrightarrow& \\left[\\begin{array}{ll}k=5 &\\quad\\text{(nhận)}\\\\k =-4. &\\quad\\text{(loại)}\\end{array}\\right. \\end{array}\\] Vậy $-19$ là số hạng thứ $5$ của dãy số $(u_n)$."
+    "explain": "Do $-19$ là một số hạng của dãy số $(u_n)$ nên tồn tại số nguyên dương $k$ sao cho $u_k=-19$, suy ra<br>\\[\\begin{array}{rcl} && -k^2+k+1=-19 \\\\ &\\Leftrightarrow& -k^2+k+20=0 \\\\ &\\Leftrightarrow& \\left[\\begin{array}{ll}k=5 &\\quad\\text{(nhận)}\\\\k =-4. &\\quad\\text{(loại)}\\end{array}\\right. \\end{array}\\] Vậy $-19$ là số hạng thứ $5$ của dãy số $(u_n)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D211TN1",
@@ -38,7 +40,8 @@ window.tracNghiem1D21 = [
       "$u_{n+1}=2(n+1)$"
     ],
     "answer": 2,
-    "explain": "Ta có $u_{n+1}=2^{n+1}=2^n \\cdot 2$."
+    "explain": "Ta có $u_{n+1}=2^{n+1}=2^n \\cdot 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D214TN1",
@@ -50,7 +53,8 @@ window.tracNghiem1D21 = [
       "$\\dfrac{1}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\dfrac{3n-1}{3n+1}=\\dfrac{3n+1 -2}{3n +1}=1-\\dfrac{2}{3n+1}$.<br>Với mọi $n \\in \\mathbb{N}^*$ ta có $3n+1 &gt;0$, suy ra $\\dfrac{2}{3n+1}&gt;0 \\Leftrightarrow -\\dfrac{2}{3n+1} &lt; 0 \\Leftrightarrow 1-\\dfrac{2}{3n+1} &lt; 1$.<br>Suy ra $u_n &lt; 1$ với mọi $n \\in \\mathbb{N}^*$.<br>Vậy dãy số $(u_n)$ bị chặn trên bởi $1$."
+    "explain": "Ta có $\\dfrac{3n-1}{3n+1}=\\dfrac{3n+1 -2}{3n +1}=1-\\dfrac{2}{3n+1}$.<br>Với mọi $n \\in \\mathbb{N}^*$ ta có $3n+1 &gt;0$, suy ra $\\dfrac{2}{3n+1}&gt;0 \\Leftrightarrow -\\dfrac{2}{3n+1} &lt; 0 \\Leftrightarrow 1-\\dfrac{2}{3n+1} &lt; 1$.<br>Suy ra $u_n &lt; 1$ với mọi $n \\in \\mathbb{N}^*$.<br>Vậy dãy số $(u_n)$ bị chặn trên bởi $1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN3",
@@ -62,7 +66,8 @@ window.tracNghiem1D21 = [
       "$-\\dfrac{1}{2}$; $-\\dfrac{2}{3}$; $-\\dfrac{3}{4}$; $-\\dfrac{4}{5}$; $-\\dfrac{5}{6}$"
     ],
     "answer": 3,
-    "explain": "Ta có <br>• $u_1=\\dfrac{-1}{1+1}=-\\dfrac{1}{2}$;<br>• $u_2=\\dfrac{-2}{2+1}=-\\dfrac{2}{3}$;<br>• $u_3=\\dfrac{-3}{3+1}=-\\dfrac{3}{4}$;<br>• $u_4=\\dfrac{-4}{4+1}=-\\dfrac{4}{5}$;<br>• $u_5=\\dfrac{-4}{5+1}=-\\dfrac{5}{6}$. Vậy năm số hạng đầu tiên của dãy số đó lần lượt là $-\\dfrac{1}{2}$; $-\\dfrac{2}{3}$; $-\\dfrac{3}{4}$; $-\\dfrac{4}{5}$; $-\\dfrac{5}{6}$."
+    "explain": "Ta có <br>• $u_1=\\dfrac{-1}{1+1}=-\\dfrac{1}{2}$;<br>• $u_2=\\dfrac{-2}{2+1}=-\\dfrac{2}{3}$;<br>• $u_3=\\dfrac{-3}{3+1}=-\\dfrac{3}{4}$;<br>• $u_4=\\dfrac{-4}{4+1}=-\\dfrac{4}{5}$;<br>• $u_5=\\dfrac{-4}{5+1}=-\\dfrac{5}{6}$. Vậy năm số hạng đầu tiên của dãy số đó lần lượt là $-\\dfrac{1}{2}$; $-\\dfrac{2}{3}$; $-\\dfrac{3}{4}$; $-\\dfrac{4}{5}$; $-\\dfrac{5}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN4",
@@ -74,7 +79,8 @@ window.tracNghiem1D21 = [
       "$u_2 = -1$"
     ],
     "answer": 3,
-    "explain": "Ta có $u_2 = 2 - u_1=2 - 3 = -1$."
+    "explain": "Ta có $u_2 = 2 - u_1=2 - 3 = -1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D213TN1",
@@ -86,7 +92,8 @@ window.tracNghiem1D21 = [
       "$1; \\dfrac{1}{2}; \\dfrac{1}{4}; \\dfrac{1}{8}; \\dfrac{1}{16}; \\ldots$"
     ],
     "answer": 2,
-    "explain": "Ta có <br>• $1; 1; 1; 1; 1; 1; \\ldots$ là dãy số không đổi.<br>• $1;-\\dfrac{1}{2}; \\dfrac{1}{4};-\\dfrac{1}{8}; \\dfrac{1}{16}; \\ldots$ là dãy số không tăng không giảm.<br>• $1; 3; 5; 7; 9; \\ldots$ là dãy số tăng.<br>• $1; \\dfrac{1}{2}; \\dfrac{1}{4}; \\dfrac{1}{8}; \\dfrac{1}{16}; \\ldots$ là dãy số giảm."
+    "explain": "Ta có <br>• $1; 1; 1; 1; 1; 1; \\ldots$ là dãy số không đổi.<br>• $1;-\\dfrac{1}{2}; \\dfrac{1}{4};-\\dfrac{1}{8}; \\dfrac{1}{16}; \\ldots$ là dãy số không tăng không giảm.<br>• $1; 3; 5; 7; 9; \\ldots$ là dãy số tăng.<br>• $1; \\dfrac{1}{2}; \\dfrac{1}{4}; \\dfrac{1}{8}; \\dfrac{1}{16}; \\ldots$ là dãy số giảm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D211TN2",
@@ -98,7 +105,8 @@ window.tracNghiem1D21 = [
       "$u_n=n-2$"
     ],
     "answer": 1,
-    "explain": "Cho dãy số có các số hạng đầu là $-2$; $0$; $2$; $4$; $6$; $\\ldots$.<br>Số hạng tổng quát của dãy số này là công thức $u_n=2n-4$."
+    "explain": "Cho dãy số có các số hạng đầu là $-2$; $0$; $2$; $4$; $6$; $\\ldots$.<br>Số hạng tổng quát của dãy số này là công thức $u_n=2n-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN5",
@@ -110,7 +118,8 @@ window.tracNghiem1D21 = [
       "$u_{10} = \\dfrac{3}{4}$"
     ],
     "answer": 2,
-    "explain": "Để tìm số hạng thứ 10, ta thay $n = 10$ vào công thức của dãy số $$u_{10} = \\dfrac{2(10)^2 - 1}{10^2 + 2} = \\dfrac{2(100) - 1}{100 + 2} = \\dfrac{200 - 1}{102} = \\dfrac{199}{102}.$$"
+    "explain": "Để tìm số hạng thứ 10, ta thay $n = 10$ vào công thức của dãy số $$u_{10} = \\dfrac{2(10)^2 - 1}{10^2 + 2} = \\dfrac{2(100) - 1}{100 + 2} = \\dfrac{200 - 1}{102} = \\dfrac{199}{102}.$$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D213TN2",
@@ -122,7 +131,8 @@ window.tracNghiem1D21 = [
       "$24$, $15$, $14$, $16$, $19$"
     ],
     "answer": 1,
-    "explain": "Ta có $0$, $-1$, $-3$, $-5$, $-7$ là dãy số giảm."
+    "explain": "Ta có $0$, $-1$, $-3$, $-5$, $-7$ là dãy số giảm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D213TN3",
@@ -134,7 +144,8 @@ window.tracNghiem1D21 = [
       "$u_n=2008$, $ \\forall n \\in \\mathbb{N}^{*}$"
     ],
     "answer": 1,
-    "explain": "<br>• Xét $(u_n)$ với $u_n=2n$ có $u_{n+1}=2(n+1)$, suy ra $u_{n+1}-u_n=2&gt;0$.<br>Do đó $u_{n+1}&gt;u_n$ nên $(u_n)$ là dãy số tăng.<br>• Xét $(u_n)$ với $u_n=1-3n$ có $u_{n+1}=1-3(n+1)=-3n-2$, suy ra $u_{n+1}-u_n=-3&lt;0$.<br>Do đó $u_{n+1}&lt;u_n$ nên $(u_n)$ là dãy số giảm.<br>• Xét $(u_n)$ với $u_n=(-1)^n$ có<br>Nếu $n$ là số chẵn $\\Rightarrow u_n=1&gt;0$<br>Nếu $n$ là số lẻ $\\Rightarrow u_n=-1&lt;0$<br>$\\Rightarrow u_n$ không tăng không giảm.<br>• Xét $(u_n)$ với $u_n=2\\,008$ là dãy không tăng không giảm."
+    "explain": "<br>• Xét $(u_n)$ với $u_n=2n$ có $u_{n+1}=2(n+1)$, suy ra $u_{n+1}-u_n=2&gt;0$.<br>Do đó $u_{n+1}&gt;u_n$ nên $(u_n)$ là dãy số tăng.<br>• Xét $(u_n)$ với $u_n=1-3n$ có $u_{n+1}=1-3(n+1)=-3n-2$, suy ra $u_{n+1}-u_n=-3&lt;0$.<br>Do đó $u_{n+1}&lt;u_n$ nên $(u_n)$ là dãy số giảm.<br>• Xét $(u_n)$ với $u_n=(-1)^n$ có<br>Nếu $n$ là số chẵn $\\Rightarrow u_n=1&gt;0$<br>Nếu $n$ là số lẻ $\\Rightarrow u_n=-1&lt;0$<br>$\\Rightarrow u_n$ không tăng không giảm.<br>• Xét $(u_n)$ với $u_n=2\\,008$ là dãy không tăng không giảm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN6",
@@ -146,7 +157,8 @@ window.tracNghiem1D21 = [
       "$-1; 2; 5$"
     ],
     "answer": 3,
-    "explain": "Ta có $u_{n+1}-u_n=3$ nên dãy số đã cho là cấp số cộng có $u_1=-1$, công sai $d=3$.<br>Do đó ba số hạng đầu tiên của dãy số đó là $-1; 2; 5$."
+    "explain": "Ta có $u_{n+1}-u_n=3$ nên dãy số đã cho là cấp số cộng có $u_1=-1$, công sai $d=3$.<br>Do đó ba số hạng đầu tiên của dãy số đó là $-1; 2; 5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN7",
@@ -158,7 +170,8 @@ window.tracNghiem1D21 = [
       "$u_3 = \\dfrac{1}{8}$"
     ],
     "answer": 0,
-    "explain": "Ta thấy $u_4 =\\dfrac{4}{2^4}=\\dfrac{1}{4}$."
+    "explain": "Ta thấy $u_4 =\\dfrac{4}{2^4}=\\dfrac{1}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN8",
@@ -170,7 +183,8 @@ window.tracNghiem1D21 = [
       "$u_5=\\dfrac{11}{10}$"
     ],
     "answer": 1,
-    "explain": "Thay $n=5$ vào công thức của $u_n$, ta có<br>$u_5=\\dfrac{2 \\cdot 5+1}{5+2}=\\dfrac{10+1}{7}=\\dfrac{11}{7}$."
+    "explain": "Thay $n=5$ vào công thức của $u_n$, ta có<br>$u_5=\\dfrac{2 \\cdot 5+1}{5+2}=\\dfrac{10+1}{7}=\\dfrac{11}{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D212TN9",
@@ -182,6 +196,7 @@ window.tracNghiem1D21 = [
       "$15$"
     ],
     "answer": 1,
-    "explain": "Ta có<br>$u_1=5$.<br>$u_2=u_1+1=5+1=6$.<br>$u_3=u_2+2=6+2=8$.<br>$u_4=u_3+3=8+3=11$.<br>Vậy số hạng thứ $4$ của dãy số là $u_4=11$."
+    "explain": "Ta có<br>$u_1=5$.<br>$u_2=u_1+1=5+1=6$.<br>$u_3=u_2+2=6+2=8$.<br>$u_4=u_3+3=8+3=11$.<br>Vậy số hạng thứ $4$ của dãy số là $u_4=11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

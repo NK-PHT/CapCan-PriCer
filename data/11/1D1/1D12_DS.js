@@ -24,6 +24,7 @@ window.dungSai1D12 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Vì $\\alpha$ thuộc góc phần tư thứ II nên $\\cos\\alpha &lt; 0$.<br>- Ta có $\\cos\\alpha = -\\sqrt{1-\\sin^2\\alpha} = -\\sqrt{1-\\left(\\dfrac{3}{4}\\right)^2} = -\\dfrac{4}{5}$.<br>- Ta có $\\tan\\alpha = \\dfrac{\\sin\\alpha}{\\cos\\alpha} = -\\dfrac{3}{4}$.<br>- Ta có $\\sin2\\alpha = 2\\sin\\alpha\\cos\\alpha = 2\\cdot\\dfrac{3}{5}\\cdot\\left(-\\dfrac{4}{5}\\right) = -\\dfrac{24}{25}$."
+    "explain": "<br>- Vì $\\alpha$ thuộc góc phần tư thứ II nên $\\cos\\alpha &lt; 0$.<br>- Ta có $\\cos\\alpha = -\\sqrt{1-\\sin^2\\alpha} = -\\sqrt{1-\\left(\\dfrac{3}{4}\\right)^2} = -\\dfrac{4}{5}$.<br>- Ta có $\\tan\\alpha = \\dfrac{\\sin\\alpha}{\\cos\\alpha} = -\\dfrac{3}{4}$.<br>- Ta có $\\sin2\\alpha = 2\\sin\\alpha\\cos\\alpha = 2\\cdot\\dfrac{3}{5}\\cdot\\left(-\\dfrac{4}{5}\\right) = -\\dfrac{24}{25}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

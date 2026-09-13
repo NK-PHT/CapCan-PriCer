@@ -18,7 +18,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "$\\sin x+\\cos x=\\sqrt{2}\\sin\\left(x+\\dfrac{\\pi}{4}\\right)=1\\Leftrightarrow \\sin\\left(x+\\dfrac{\\pi}{4}\\right)=\\dfrac{\\sqrt{2}}{2}.<br>\\Leftrightarrow x+\\dfrac{\\pi}{4}=\\dfrac{\\pi}{4}+k2\\pi$ hoặc $x+\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{4}+k2\\pi.<br>\\Leftrightarrow x=k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$."
+    "explain": "$\\sin x+\\cos x=\\sqrt{2}\\sin\\left(x+\\dfrac{\\pi}{4}\\right)=1\\Leftrightarrow \\sin\\left(x+\\dfrac{\\pi}{4}\\right)=\\dfrac{\\sqrt{2}}{2}.<br>\\Leftrightarrow x+\\dfrac{\\pi}{4}=\\dfrac{\\pi}{4}+k2\\pi$ hoặc $x+\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{4}+k2\\pi.<br>\\Leftrightarrow x=k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN2",
@@ -30,7 +31,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "$\\sqrt{3}\\sin x-\\cos x=2\\sin\\left(x-\\dfrac{\\pi}{6}\\right)=1\\Leftrightarrow \\sin\\left(x-\\dfrac{\\pi}{6}\\right)=\\dfrac{1}{2}.<br>\\Leftrightarrow x-\\dfrac{\\pi}{6}=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x-\\dfrac{\\pi}{6}=\\dfrac{5\\pi}{6}+k2\\pi.<br>\\Leftrightarrow x=\\dfrac{\\pi}{3}+k2\\pi$ hoặc $x=\\pi+k2\\pi$."
+    "explain": "$\\sqrt{3}\\sin x-\\cos x=2\\sin\\left(x-\\dfrac{\\pi}{6}\\right)=1\\Leftrightarrow \\sin\\left(x-\\dfrac{\\pi}{6}\\right)=\\dfrac{1}{2}.<br>\\Leftrightarrow x-\\dfrac{\\pi}{6}=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x-\\dfrac{\\pi}{6}=\\dfrac{5\\pi}{6}+k2\\pi.<br>\\Leftrightarrow x=\\dfrac{\\pi}{3}+k2\\pi$ hoặc $x=\\pi+k2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN3",
@@ -42,7 +44,8 @@ window.tracNghiem1D16 = [
       "Với mọi giá trị của $m$"
     ],
     "answer": 0,
-    "explain": "Phương trình có dạng $a\\sin x+b\\cos x=c$ với $a=1,\\,b=m-1,\\,c=m$.<br>Điều kiện có nghiệm: $a^2+b^2\\ge c^2\\Leftrightarrow 1+(m-1)^2\\ge m^2\\Leftrightarrow 1+m^2-2m+1\\ge m^2\\Leftrightarrow -2m+2\\ge 0\\Leftrightarrow m\\le 1$."
+    "explain": "Phương trình có dạng $a\\sin x+b\\cos x=c$ với $a=1,\\,b=m-1,\\,c=m$.<br>Điều kiện có nghiệm: $a^2+b^2\\ge c^2\\Leftrightarrow 1+(m-1)^2\\ge m^2\\Leftrightarrow 1+m^2-2m+1\\ge m^2\\Leftrightarrow -2m+2\\ge 0\\Leftrightarrow m\\le 1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN4",
@@ -54,7 +57,8 @@ window.tracNghiem1D16 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Đặt $t=\\sin x$ $(-1\\le t\\le 1)$: $2t^2-3t+1=0\\Leftrightarrow t=1$ hoặc $t=\\dfrac{1}{2}$.<br>$t=1$: $x=\\dfrac{\\pi}{2}+k2\\pi$ (1 điểm).<br>$t=\\dfrac{1}{2}$: $x=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{5\\pi}{6}+k2\\pi$ (2 điểm).<br>Tổng cộng có $3$ điểm biểu diễn nghiệm."
+    "explain": "Đặt $t=\\sin x$ $(-1\\le t\\le 1)$: $2t^2-3t+1=0\\Leftrightarrow t=1$ hoặc $t=\\dfrac{1}{2}$.<br>$t=1$: $x=\\dfrac{\\pi}{2}+k2\\pi$ (1 điểm).<br>$t=\\dfrac{1}{2}$: $x=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{5\\pi}{6}+k2\\pi$ (2 điểm).<br>Tổng cộng có $3$ điểm biểu diễn nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN5",
@@ -66,7 +70,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "$\\cos 2x=2\\cos^2x-1$ nên phương trình trở thành $2\\cos^2x-3\\cos x+1=0\\Leftrightarrow (2\\cos x-1)(\\cos x-1)=0.<br>\\Leftrightarrow \\cos x=\\dfrac{1}{2}$ hoặc $\\cos x=1\\Leftrightarrow x=\\pm\\dfrac{\\pi}{3}+k2\\pi$ hoặc $x=k2\\pi$."
+    "explain": "$\\cos 2x=2\\cos^2x-1$ nên phương trình trở thành $2\\cos^2x-3\\cos x+1=0\\Leftrightarrow (2\\cos x-1)(\\cos x-1)=0.<br>\\Leftrightarrow \\cos x=\\dfrac{1}{2}$ hoặc $\\cos x=1\\Leftrightarrow x=\\pm\\dfrac{\\pi}{3}+k2\\pi$ hoặc $x=k2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN6",
@@ -78,7 +83,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "Đặt $t=\\tan x$: $t^2-(1+\\sqrt{3})t+\\sqrt{3}=0\\Leftrightarrow (t-1)(t-\\sqrt{3})=0\\Leftrightarrow t=1$ hoặc $t=\\sqrt{3}.<br>\\Leftrightarrow \\tan x=1$ hoặc $\\tan x=\\sqrt{3}\\Leftrightarrow x=\\dfrac{\\pi}{4}+k\\pi$ hoặc $x=\\dfrac{\\pi}{3}+k\\pi$."
+    "explain": "Đặt $t=\\tan x$: $t^2-(1+\\sqrt{3})t+\\sqrt{3}=0\\Leftrightarrow (t-1)(t-\\sqrt{3})=0\\Leftrightarrow t=1$ hoặc $t=\\sqrt{3}.<br>\\Leftrightarrow \\tan x=1$ hoặc $\\tan x=\\sqrt{3}\\Leftrightarrow x=\\dfrac{\\pi}{4}+k\\pi$ hoặc $x=\\dfrac{\\pi}{3}+k\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN7",
@@ -90,7 +96,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "Xét $\\cos x=0$: vế trái $=1\\ne 0$ nên $\\cos x=0$ không thỏa mãn, do đó $\\cos x\\ne 0$ với mọi nghiệm.<br>Chia hai vế cho $\\cos^2x$: $\\tan^2x-2\\tan x-3=0\\Leftrightarrow (\\tan x-3)(\\tan x+1)=0.<br>\\Leftrightarrow \\tan x=3$ hoặc $\\tan x=-1\\Leftrightarrow x=\\arctan 3+k\\pi$ hoặc $x=-\\dfrac{\\pi}{4}+k\\pi$."
+    "explain": "Xét $\\cos x=0$: vế trái $=1\\ne 0$ nên $\\cos x=0$ không thỏa mãn, do đó $\\cos x\\ne 0$ với mọi nghiệm.<br>Chia hai vế cho $\\cos^2x$: $\\tan^2x-2\\tan x-3=0\\Leftrightarrow (\\tan x-3)(\\tan x+1)=0.<br>\\Leftrightarrow \\tan x=3$ hoặc $\\tan x=-1\\Leftrightarrow x=\\arctan 3+k\\pi$ hoặc $x=-\\dfrac{\\pi}{4}+k\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN8",
@@ -102,7 +109,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "Xét $\\cos x=0$: vế trái $=3\\ne 0$ nên $\\cos x\\ne 0$ với mọi nghiệm.<br>Chia hai vế cho $\\cos^2x$: $3\\tan^2x+4\\tan x-4=0\\Leftrightarrow \\tan x=\\dfrac{2}{3}$ hoặc $\\tan x=-2$ (theo công thức nghiệm bậc hai với $\\Delta=64$).<br>Vậy $x=\\arctan\\dfrac{2}{3}+k\\pi$ hoặc $x=\\arctan(-2)+k\\pi$."
+    "explain": "Xét $\\cos x=0$: vế trái $=3\\ne 0$ nên $\\cos x\\ne 0$ với mọi nghiệm.<br>Chia hai vế cho $\\cos^2x$: $3\\tan^2x+4\\tan x-4=0\\Leftrightarrow \\tan x=\\dfrac{2}{3}$ hoặc $\\tan x=-2$ (theo công thức nghiệm bậc hai với $\\Delta=64$).<br>Vậy $x=\\arctan\\dfrac{2}{3}+k\\pi$ hoặc $x=\\arctan(-2)+k\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN9",
@@ -114,7 +122,8 @@ window.tracNghiem1D16 = [
       "Phương trình vô nghiệm"
     ],
     "answer": 0,
-    "explain": "$\\cos 2x=1-2\\sin^2x$ nên phương trình trở thành $1-2\\sin^2x+\\sin x=0\\Leftrightarrow 2\\sin^2x-\\sin x-1=0.<br>\\Leftrightarrow (2\\sin x+1)(\\sin x-1)=0\\Leftrightarrow \\sin x=-\\dfrac{1}{2}$ hoặc $\\sin x=1.<br>\\Leftrightarrow x=-\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{7\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$."
+    "explain": "$\\cos 2x=1-2\\sin^2x$ nên phương trình trở thành $1-2\\sin^2x+\\sin x=0\\Leftrightarrow 2\\sin^2x-\\sin x-1=0.<br>\\Leftrightarrow (2\\sin x+1)(\\sin x-1)=0\\Leftrightarrow \\sin x=-\\dfrac{1}{2}$ hoặc $\\sin x=1.<br>\\Leftrightarrow x=-\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{7\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D161TN10",
@@ -126,6 +135,7 @@ window.tracNghiem1D16 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Đặt $t=\\cos x$: $2t^2-3t+1=0\\Leftrightarrow t=1$ hoặc $t=\\dfrac{1}{2}$.<br>$\\cos x=1\\Leftrightarrow x=0$ hoặc $x=2\\pi$ (thuộc đoạn).<br>$\\cos x=\\dfrac{1}{2}\\Leftrightarrow x=\\dfrac{\\pi}{3}$ hoặc $x=\\dfrac{5\\pi}{3}$ (thuộc đoạn).<br>Vậy có $4$ nghiệm phân biệt: $0,\\dfrac{\\pi}{3},\\dfrac{5\\pi}{3},2\\pi$."
+    "explain": "Đặt $t=\\cos x$: $2t^2-3t+1=0\\Leftrightarrow t=1$ hoặc $t=\\dfrac{1}{2}$.<br>$\\cos x=1\\Leftrightarrow x=0$ hoặc $x=2\\pi$ (thuộc đoạn).<br>$\\cos x=\\dfrac{1}{2}\\Leftrightarrow x=\\dfrac{\\pi}{3}$ hoặc $x=\\dfrac{5\\pi}{3}$ (thuộc đoạn).<br>Vậy có $4$ nghiệm phân biệt: $0,\\dfrac{\\pi}{3},\\dfrac{5\\pi}{3},2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

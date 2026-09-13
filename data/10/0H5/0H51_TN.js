@@ -14,7 +14,8 @@ window.tracNghiem0H51 = [
       "$\\vec{MN}$ và $\\vec{MP}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/10/0H5/im0H51/loc2_0_TL_TN_DS_THPT__000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">"
+    "explain": "<br><img src=\"data/10/0H5/im0H51/loc2_0_TL_TN_DS_THPT__000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H511TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H51 = [
       "$\\vec{FO}, \\vec{OC}, \\vec{ED}$"
     ],
     "answer": 3,
-    "explain": "Các vectơ bằng $\\vec{AB}$ là $\\vec{OC}$, $\\vec{FO}$ và $\\vec{ED}$."
+    "explain": "Các vectơ bằng $\\vec{AB}$ là $\\vec{OC}$, $\\vec{FO}$ và $\\vec{ED}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H511TN3",
@@ -38,6 +40,7 @@ window.tracNghiem0H51 = [
       "$\\left| \\overrightarrow{DE}\\right| $"
     ],
     "answer": 1,
-    "explain": "Vectơ có điểm đầu $D$, điểm cuối $E$ được kí hiệu là $\\overrightarrow{DE}$."
+    "explain": "Vectơ có điểm đầu $D$, điểm cuối $E$ được kí hiệu là $\\overrightarrow{DE}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

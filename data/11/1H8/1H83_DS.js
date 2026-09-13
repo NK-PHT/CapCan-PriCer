@@ -26,6 +26,7 @@ window.dungSai1H83 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Vì $SA\\perp(ABCD)$ nên $S$ chiếu thành $A$, còn $C\\in(ABCD)$ giữ nguyên, do đó $SC$ chiếu thành $AC$.<br>- <strong>Đúng</strong>. Vì $ABCD$ là hình vuông nên $BD\\perp AC$; lại có $SA\\perp(ABCD)\\Rightarrow SA\\perp BD$. Suy ra $BD\\perp(SAC)$. Vì $O\\in BD$ và $O\\in AC\\subset(SAC)$ nên $O$ chính là hình chiếu vuông góc của $B$ trên $(SAC)$.<br>- <strong>Sai</strong>. Vì $S\\notin(ABCD)$ nên hình chiếu của $S$ là $A$; hình chiếu của tam giác $SAB$ trên $(ABCD)$ chỉ còn là đoạn thẳng $AB$ (suy biến), không phải tam giác $SAB$.<br>- <strong>Đúng</strong>. Theo định nghĩa, khi $SA\\perp(ABCD)$ thì góc giữa $SA$ và $(ABCD)$ bằng $90^{\\circ}$."
+    "explain": "<br>- <strong>Đúng</strong>. Vì $SA\\perp(ABCD)$ nên $S$ chiếu thành $A$, còn $C\\in(ABCD)$ giữ nguyên, do đó $SC$ chiếu thành $AC$.<br>- <strong>Đúng</strong>. Vì $ABCD$ là hình vuông nên $BD\\perp AC$; lại có $SA\\perp(ABCD)\\Rightarrow SA\\perp BD$. Suy ra $BD\\perp(SAC)$. Vì $O\\in BD$ và $O\\in AC\\subset(SAC)$ nên $O$ chính là hình chiếu vuông góc của $B$ trên $(SAC)$.<br>- <strong>Sai</strong>. Vì $S\\notin(ABCD)$ nên hình chiếu của $S$ là $A$; hình chiếu của tam giác $SAB$ trên $(ABCD)$ chỉ còn là đoạn thẳng $AB$ (suy biến), không phải tam giác $SAB$.<br>- <strong>Đúng</strong>. Theo định nghĩa, khi $SA\\perp(ABCD)$ thì góc giữa $SA$ và $(ABCD)$ bằng $90^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

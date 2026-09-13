@@ -14,7 +14,8 @@ window.tracNghiem0H54 = [
       "$\\overrightarrow{A B} \\cdot \\overrightarrow{B C}=\\dfrac{-a^2 \\sqrt{3}}{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{A B} \\cdot \\overrightarrow{B C}=-\\overrightarrow{BA} \\cdot \\overrightarrow{B C}=-a\\cdot a\\cdot \\cos 60^\\circ=\\dfrac{-a^2}{2}$."
+    "explain": "Ta có $\\overrightarrow{A B} \\cdot \\overrightarrow{B C}=-\\overrightarrow{BA} \\cdot \\overrightarrow{B C}=-a\\cdot a\\cdot \\cos 60^\\circ=\\dfrac{-a^2}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H541TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H54 = [
       "$\\overrightarrow{a} \\cdot \\overrightarrow{b}=-\\left| \\overrightarrow{b}\\right| \\cdot \\left| \\overrightarrow{a}\\right| $"
     ],
     "answer": 1,
-    "explain": "Theo định nghĩa ta có $\\overrightarrow{a} \\cdot \\overrightarrow{b}=|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cos(\\overrightarrow{a}, \\overrightarrow{b})$ suy ra $\\left|\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right| =|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cdot \\left| \\cos(\\overrightarrow{a}, \\overrightarrow{b})\\right| $."
+    "explain": "Theo định nghĩa ta có $\\overrightarrow{a} \\cdot \\overrightarrow{b}=|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cos(\\overrightarrow{a}, \\overrightarrow{b})$ suy ra $\\left|\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right| =|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cdot \\left| \\cos(\\overrightarrow{a}, \\overrightarrow{b})\\right| $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H541TN3",
@@ -38,6 +40,7 @@ window.tracNghiem0H54 = [
       "$\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\overrightarrow{0}$"
     ],
     "answer": 1,
-    "explain": "Vì hai vectơ ngược hướng nhau nên $\\overrightarrow{a}\\cdot\\overrightarrow{b}=-\\left| \\overrightarrow{a}\\right| \\cdot\\left| \\overrightarrow{b}\\right| $."
+    "explain": "Vì hai vectơ ngược hướng nhau nên $\\overrightarrow{a}\\cdot\\overrightarrow{b}=-\\left| \\overrightarrow{a}\\right| \\cdot\\left| \\overrightarrow{b}\\right| $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

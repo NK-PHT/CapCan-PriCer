@@ -19,7 +19,8 @@ window.tracNghiem0C21 = [
       "Chứng minh $P(n)$ đúng với $n=1,2,3$ là đủ"
     ],
     "answer": 0,
-    "explain": "Phương pháp quy nạp toán học gồm hai bước: (1) bước cơ sở - kiểm tra mệnh đề đúng tại giá trị bắt đầu (thường là $n=1$); (2) bước quy nạp - giả sử mệnh đề đúng với $n=k$ (giả thiết quy nạp) và chứng minh nó cũng đúng với $n=k+1$."
+    "explain": "Phương pháp quy nạp toán học gồm hai bước: (1) bước cơ sở - kiểm tra mệnh đề đúng tại giá trị bắt đầu (thường là $n=1$); (2) bước quy nạp - giả sử mệnh đề đúng với $n=k$ (giả thiết quy nạp) và chứng minh nó cũng đúng với $n=k+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN2",
@@ -31,7 +32,8 @@ window.tracNghiem0C21 = [
       "$P(1)$ sai vì vế trái bằng $0$"
     ],
     "answer": 0,
-    "explain": "Với $n=1$, vế trái là $1$, vế phải là $\\dfrac{1\\cdot 2}{2}=1$. Hai vế bằng nhau nên $P(1)$ đúng."
+    "explain": "Với $n=1$, vế trái là $1$, vế phải là $\\dfrac{1\\cdot 2}{2}=1$. Hai vế bằng nhau nên $P(1)$ đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN3",
@@ -43,7 +45,8 @@ window.tracNghiem0C21 = [
       "$1+2+\\cdots+(k+1)=\\dfrac{k(k+1)}{2}$"
     ],
     "answer": 0,
-    "explain": "Bước quy nạp yêu cầu chứng minh $P(k+1)$ đúng, tức là $1+2+\\cdots+k+(k+1)=\\dfrac{(k+1)((k+1)+1)}{2}=\\dfrac{(k+1)(k+2)}{2}$."
+    "explain": "Bước quy nạp yêu cầu chứng minh $P(k+1)$ đúng, tức là $1+2+\\cdots+k+(k+1)=\\dfrac{(k+1)((k+1)+1)}{2}=\\dfrac{(k+1)(k+2)}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN4",
@@ -55,7 +58,8 @@ window.tracNghiem0C21 = [
       "$\\dfrac{k(k+1)}{2}+1$"
     ],
     "answer": 0,
-    "explain": "$\\dfrac{k(k+1)}{2}+(k+1)=(k+1)\\left(\\dfrac{k}{2}+1\\right)=(k+1)\\cdot\\dfrac{k+2}{2}=\\dfrac{(k+1)(k+2)}{2}$."
+    "explain": "$\\dfrac{k(k+1)}{2}+(k+1)=(k+1)\\left(\\dfrac{k}{2}+1\\right)=(k+1)\\cdot\\dfrac{k+2}{2}=\\dfrac{(k+1)(k+2)}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN5",
@@ -67,7 +71,8 @@ window.tracNghiem0C21 = [
       "Không xác định được"
     ],
     "answer": 0,
-    "explain": "$2^3-2=8-2=6=3\\cdot 2$, chia hết cho $3$."
+    "explain": "$2^3-2=8-2=6=3\\cdot 2$, chia hết cho $3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN6",
@@ -79,7 +84,8 @@ window.tracNghiem0C21 = [
       "$30$"
     ],
     "answer": 0,
-    "explain": "$1+3+5+7+9=25=5^2$."
+    "explain": "$1+3+5+7+9=25=5^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN7",
@@ -91,7 +97,8 @@ window.tracNghiem0C21 = [
       "$k^2+1$"
     ],
     "answer": 0,
-    "explain": "$k^2+2k+1=(k+1)^2$."
+    "explain": "$k^2+2k+1=(k+1)^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN8",
@@ -103,7 +110,8 @@ window.tracNghiem0C21 = [
       "Không kiểm tra được"
     ],
     "answer": 0,
-    "explain": "$2^1=2$ và $2>1$ nên mệnh đề đúng tại $n=1$."
+    "explain": "$2^1=2$ và $2>1$ nên mệnh đề đúng tại $n=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN9",
@@ -115,7 +123,8 @@ window.tracNghiem0C21 = [
       "Công thức cho kết quả khác với tổng trực tiếp"
     ],
     "answer": 0,
-    "explain": "Tổng trực tiếp: $1+4+9=14$. Theo công thức: $\\dfrac{3\\cdot 4\\cdot 7}{6}=\\dfrac{84}{6}=14$. Hai kết quả khớp nhau."
+    "explain": "Tổng trực tiếp: $1+4+9=14$. Theo công thức: $\\dfrac{3\\cdot 4\\cdot 7}{6}=\\dfrac{84}{6}=14$. Hai kết quả khớp nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C211TN10",
@@ -127,6 +136,7 @@ window.tracNghiem0C21 = [
       "Một số là số nguyên tố"
     ],
     "answer": 0,
-    "explain": "Quy nạp toán học là phương pháp chứng minh một mệnh đề $P(n)$ đúng với mọi số nguyên $n$ kể từ một giá trị bắt đầu cho trước (thường là $n=1$ hoặc $n=n_0$)."
+    "explain": "Quy nạp toán học là phương pháp chứng minh một mệnh đề $P(n)$ đúng với mọi số nguyên $n$ kể từ một giá trị bắt đầu cho trước (thường là $n=1$ hoặc $n=n_0$).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -18,7 +18,8 @@ window.tracNghiem0C11 = [
       "$(x;y;z)=(1;3;2)$"
     ],
     "answer": 0,
-    "explain": "Lấy (1) trừ (2): $2y=4\\Rightarrow y=2$. Lấy (1) trừ (3): $2z=6\\Rightarrow z=3$. Thay vào (1): $x=6-2-3=1$. Vậy $(x;y;z)=(1;2;3)$."
+    "explain": "Lấy (1) trừ (2): $2y=4\\Rightarrow y=2$. Lấy (1) trừ (3): $2z=6\\Rightarrow z=3$. Thay vào (1): $x=6-2-3=1$. Vậy $(x;y;z)=(1;2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN2",
@@ -30,7 +31,8 @@ window.tracNghiem0C11 = [
       "$(x;y;z)=(3;-1;2)$"
     ],
     "answer": 0,
-    "explain": "Thử trực tiếp $(2;-1;3)$: $2+(-1)+3=4$ ✓; $2\\cdot 2-(-1)+3=8$ ✓; $2+2(-1)-3=-3$ ✓. Vậy nghiệm của hệ là $(2;-1;3)$."
+    "explain": "Thử trực tiếp $(2;-1;3)$: $2+(-1)+3=4$ ✓; $2\\cdot 2-(-1)+3=8$ ✓; $2+2(-1)-3=-3$ ✓. Vậy nghiệm của hệ là $(2;-1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN3",
@@ -42,7 +44,8 @@ window.tracNghiem0C11 = [
       "Có đúng hai nghiệm"
     ],
     "answer": 0,
-    "explain": "Nhân hai vế của phương trình (1) với $2$ ta được $2x+2y+2z=12$, mâu thuẫn với phương trình (3) là $2x+2y+2z=10$. Vậy hệ vô nghiệm."
+    "explain": "Nhân hai vế của phương trình (1) với $2$ ta được $2x+2y+2z=12$, mâu thuẫn với phương trình (3) là $2x+2y+2z=10$. Vậy hệ vô nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN4",
@@ -54,7 +57,8 @@ window.tracNghiem0C11 = [
       "Chỉ có nghiệm $(0;0;0)$"
     ],
     "answer": 0,
-    "explain": "Phương trình (3) chính là $2$ lần phương trình (1) ($2x+2y+2z=2\\cdot 6=12$), nên phương trình (3) không cho thêm thông tin mới. Hệ chỉ còn thực chất $2$ phương trình độc lập với $3$ ẩn nên có vô số nghiệm."
+    "explain": "Phương trình (3) chính là $2$ lần phương trình (1) ($2x+2y+2z=2\\cdot 6=12$), nên phương trình (3) không cho thêm thông tin mới. Hệ chỉ còn thực chất $2$ phương trình độc lập với $3$ ẩn nên có vô số nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN5",
@@ -66,7 +70,8 @@ window.tracNghiem0C11 = [
       "$20$"
     ],
     "answer": 0,
-    "explain": "Gọi ba số là $a,b,c$. Ta có hệ $\\begin{cases}a+b+c=30\\\\a=2b\\\\c=a+b\\end{cases}$. Thế $a=2b$ và $c=3b$ vào phương trình đầu: $2b+b+3b=30\\Rightarrow 6b=30\\Rightarrow b=5$. Suy ra $a=10,\\,c=15$."
+    "explain": "Gọi ba số là $a,b,c$. Ta có hệ $\\begin{cases}a+b+c=30\\\\a=2b\\\\c=a+b\\end{cases}$. Thế $a=2b$ và $c=3b$ vào phương trình đầu: $2b+b+3b=30\\Rightarrow 6b=30\\Rightarrow b=5$. Suy ra $a=10,\\,c=15$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN6",
@@ -78,7 +83,8 @@ window.tracNghiem0C11 = [
       "$(x;y;z)=(3;4;2)$"
     ],
     "answer": 0,
-    "explain": "Từ phương trình (3): $z=2$. Thay vào (2): $y=5-2=3$. Thay vào (1): $x=9-3-2=4$. Vậy $(x;y;z)=(4;3;2)$."
+    "explain": "Từ phương trình (3): $z=2$. Thay vào (2): $y=5-2=3$. Thay vào (1): $x=9-3-2=4$. Vậy $(x;y;z)=(4;3;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN7",
@@ -90,7 +96,8 @@ window.tracNghiem0C11 = [
       "Không thể áp dụng cho hệ ba ẩn"
     ],
     "answer": 0,
-    "explain": "Phương pháp Gauss (khử ẩn liên tiếp) đưa hệ phương trình về dạng tam giác, từ đó giải lần lượt từ phương trình cuối (chứa ít ẩn nhất) lên phương trình đầu."
+    "explain": "Phương pháp Gauss (khử ẩn liên tiếp) đưa hệ phương trình về dạng tam giác, từ đó giải lần lượt từ phương trình cuối (chứa ít ẩn nhất) lên phương trình đầu.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN8",
@@ -102,7 +109,8 @@ window.tracNghiem0C11 = [
       "$-6$"
     ],
     "answer": 0,
-    "explain": "Với $(x;y;z)=(1;2;3)$ ta có $x\\cdot y\\cdot z=1\\cdot 2\\cdot 3=6$."
+    "explain": "Với $(x;y;z)=(1;2;3)$ ta có $x\\cdot y\\cdot z=1\\cdot 2\\cdot 3=6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN9",
@@ -114,7 +122,8 @@ window.tracNghiem0C11 = [
       "Cả ba ẩn số đều bằng $0$"
     ],
     "answer": 0,
-    "explain": "Khi một phương trình có thể suy ra từ hai phương trình còn lại (không cung cấp thêm ràng buộc mới) mà hệ vẫn có nghiệm, số ẩn thực chất nhiều hơn số phương trình độc lập nên hệ có vô số nghiệm."
+    "explain": "Khi một phương trình có thể suy ra từ hai phương trình còn lại (không cung cấp thêm ràng buộc mới) mà hệ vẫn có nghiệm, số ẩn thực chất nhiều hơn số phương trình độc lập nên hệ có vô số nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0C111TN10",
@@ -126,6 +135,7 @@ window.tracNghiem0C11 = [
       "$(x;y;z)=(2;3;1)$"
     ],
     "answer": 0,
-    "explain": "Từ (3): $z=1$. Thay vào (2): $y=4-2\\cdot 1=2$. Thay vào (1): $x=6-2-1=3$. Vậy $(x;y;z)=(3;2;1)$."
+    "explain": "Từ (3): $z=1$. Thay vào (2): $y=4-2\\cdot 1=2$. Thay vào (1): $x=6-2-1=3$. Vậy $(x;y;z)=(3;2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

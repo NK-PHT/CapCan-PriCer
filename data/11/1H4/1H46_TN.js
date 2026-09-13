@@ -13,7 +13,8 @@ window.tracNghiem1H46 = [
       "Hình chiếu song song của một đường thẳng là một đường thẳng"
     ],
     "answer": 2,
-    "explain": "Hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau."
+    "explain": "Hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H461TN2",
@@ -25,7 +26,8 @@ window.tracNghiem1H46 = [
       "Phép chiếu song song giữ nguyên tỉ số độ dài của hai đoạn thẳng cùng nằm trên một đường thẳng hoặc nằm trên hai đường thẳng song song"
     ],
     "answer": 2,
-    "explain": "Phép chiếu song song biến một tam giác đều thành một tam giác bất kì."
+    "explain": "Phép chiếu song song biến một tam giác đều thành một tam giác bất kì.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H461TN3",
@@ -37,7 +39,8 @@ window.tracNghiem1H46 = [
       "Phép chiếu song song bảo toàn khoảng cách giữa hai điểm"
     ],
     "answer": 2,
-    "explain": "Ta có $C$ đúng vì theo tính chất của phép chiếu song song.<br>$A$,$B$ sai vì hình biểu diễn của một hình chữ nhật, một hình vuông là một hình bình hành.<br>$D$ sai vì phép chiếu song song không bảo toàn khoảng cách giữa hai điểm.<br>"
+    "explain": "Ta có $C$ đúng vì theo tính chất của phép chiếu song song.<br>$A$,$B$ sai vì hình biểu diễn của một hình chữ nhật, một hình vuông là một hình bình hành.<br>$D$ sai vì phép chiếu song song không bảo toàn khoảng cách giữa hai điểm.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H462TN1",
@@ -49,6 +52,7 @@ window.tracNghiem1H46 = [
       "Hình thoi"
     ],
     "answer": 1,
-    "explain": "Hình chiếu song song của hình chữ nhật không thể là hình thang vì \" Hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau\"."
+    "explain": "Hình chiếu song song của hình chữ nhật không thể là hình thang vì \" Hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau\".",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

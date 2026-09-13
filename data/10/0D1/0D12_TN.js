@@ -14,7 +14,8 @@ window.tracNghiem0D12 = [
       "$X = [-3; 2)$"
     ],
     "answer": 2,
-    "explain": "Ta có $X = (-3; 2]$."
+    "explain": "Ta có $X = (-3; 2]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D12 = [
       "$X=\\{-\\sqrt{2}; \\sqrt{2}\\}$"
     ],
     "answer": 2,
-    "explain": "Ta có $x^2-2=0\\Leftrightarrow x= \\pm \\sqrt{2}$. Vì $x \\in \\mathbb{Z}$ nên $X=\\varnothing$."
+    "explain": "Ta có $x^2-2=0\\Leftrightarrow x= \\pm \\sqrt{2}$. Vì $x \\in \\mathbb{Z}$ nên $X=\\varnothing$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN2",
@@ -38,7 +40,8 @@ window.tracNghiem0D12 = [
       "$7 \\leq \\mathbb{N}$"
     ],
     "answer": 1,
-    "explain": "Mệnh đề đúng là $7 \\in \\mathbb{N}$."
+    "explain": "Mệnh đề đúng là $7 \\in \\mathbb{N}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN3",
@@ -50,7 +53,8 @@ window.tracNghiem0D12 = [
       "$\\sqrt{2} \\in \\mathbb{Q}$"
     ],
     "answer": 2,
-    "explain": "Khẳng định đúng là $\\sqrt{2} \\notin \\mathbb{Q}$."
+    "explain": "Khẳng định đúng là $\\sqrt{2} \\notin \\mathbb{Q}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN3",
@@ -62,7 +66,8 @@ window.tracNghiem0D12 = [
       "$A=\\{-1\\}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\left(x^{2}-1\\right)\\left(x^{2}+2\\right)=0\\Leftrightarrow x^2-1=0 \\text{ hoặc } x^2+2=0\\Leftrightarrow x^2=1 \\text{ hoặc } x^2=-2\\Leftrightarrow x=\\pm1 \\text{ hoặc } x\\in\\varnothing.$<br>  Vì $x\\in\\mathbb{R}$ nên $A=\\{-1 ; 1\\}$."
+    "explain": "Ta có $\\left(x^{2}-1\\right)\\left(x^{2}+2\\right)=0\\Leftrightarrow x^2-1=0 \\text{ hoặc } x^2+2=0\\Leftrightarrow x^2=1 \\text{ hoặc } x^2=-2\\Leftrightarrow x=\\pm1 \\text{ hoặc } x\\in\\varnothing.$<br>  Vì $x\\in\\mathbb{R}$ nên $A=\\{-1 ; 1\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN4",
@@ -74,7 +79,8 @@ window.tracNghiem0D12 = [
       "$X=\\left\\lbrace 1 ; \\dfrac{3}{2}\\right\\rbrace$"
     ],
     "answer": 1,
-    "explain": "Ta có $(x+2)\\left(2 x^{2}-5 x+3\\right)=0\\Leftrightarrow x+2=0 \\text{ hoặc } 2 x^{2}-5 x+3=0\\Leftrightarrow x=-2 \\text{ hoặc } x=1,x=\\dfrac{3}{2}.$<br>  Vì $x\\in\\mathbb{N}$ nên $X=\\{1\\}$."
+    "explain": "Ta có $(x+2)\\left(2 x^{2}-5 x+3\\right)=0\\Leftrightarrow x+2=0 \\text{ hoặc } 2 x^{2}-5 x+3=0\\Leftrightarrow x=-2 \\text{ hoặc } x=1,x=\\dfrac{3}{2}.$<br>  Vì $x\\in\\mathbb{N}$ nên $X=\\{1\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN5",
@@ -86,7 +92,8 @@ window.tracNghiem0D12 = [
       "$X=\\{-2 ;-\\sqrt 2;\\sqrt 2; 2\\}$"
     ],
     "answer": 0,
-    "explain": "Ta có $x^4-6x^2+8=0\\Leftrightarrow (x^2-3)^2=1\\Leftrightarrow x^2=4 \\text{ hoặc } x^2=2\\Leftrightarrow x=\\pm2 \\text{ hoặc } x=\\pm\\sqrt{2}.$<br>  Vì $x\\in \\mathbb{Z}$ nên $x=\\pm 2$."
+    "explain": "Ta có $x^4-6x^2+8=0\\Leftrightarrow (x^2-3)^2=1\\Leftrightarrow x^2=4 \\text{ hoặc } x^2=2\\Leftrightarrow x=\\pm2 \\text{ hoặc } x=\\pm\\sqrt{2}.$<br>  Vì $x\\in \\mathbb{Z}$ nên $x=\\pm 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN6",
@@ -98,7 +105,8 @@ window.tracNghiem0D12 = [
       "$X=\\{x\\in\\mathbb{Q}\\mid-\\sqrt 5\\leq x\\leq 3\\}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\left(x^2-x-6\\right)\\left(x^2-5\\right)=0\\Leftrightarrow x^2-x-6=0 \\text{ hoặc } x^2-5=0\\Leftrightarrow x=-2 \\text{ hoặc } x=3 \\text{ hoặc } x=\\pm \\sqrt{5}\\notin \\mathbb{Q}.$"
+    "explain": "Ta có $\\left(x^2-x-6\\right)\\left(x^2-5\\right)=0\\Leftrightarrow x^2-x-6=0 \\text{ hoặc } x^2-5=0\\Leftrightarrow x=-2 \\text{ hoặc } x=3 \\text{ hoặc } x=\\pm \\sqrt{5}\\notin \\mathbb{Q}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN7",
@@ -110,7 +118,8 @@ window.tracNghiem0D12 = [
       "$M=\\{0 ; 1 ; 4 ; 16 ; 64\\}$"
     ],
     "answer": 2,
-    "explain": "Ta có $8\\not\\vdots\\sqrt{2}$ do đó loại $M=\\{1 ; 2 ; 4 ; 8\\}$ và $M=\\{0 ; 1 ; 2 ; 4 ; 8\\}$.<br>  Ta có $0$ không là ước của $8$ nên loại $M=\\{0 ; 1 ; 4 ; 16 ; 64\\}$.<br>  Chỉ có $M=\\{1 ; 4 ; 16 ; 64\\}$ thỏa đề bài."
+    "explain": "Ta có $8\\not\\vdots\\sqrt{2}$ do đó loại $M=\\{1 ; 2 ; 4 ; 8\\}$ và $M=\\{0 ; 1 ; 2 ; 4 ; 8\\}$.<br>  Ta có $0$ không là ước của $8$ nên loại $M=\\{0 ; 1 ; 4 ; 16 ; 64\\}$.<br>  Chỉ có $M=\\{1 ; 4 ; 16 ; 64\\}$ thỏa đề bài.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN8",
@@ -122,7 +131,8 @@ window.tracNghiem0D12 = [
       "$5$"
     ],
     "answer": 2,
-    "explain": "Ta có $k\\in\\mathbb{Z}$ và $| k\\mid\\leq 2$ nên $k\\in \\{-2 ; -1 ; 0 ; 1 ; 2\\}$.<br>  Thay các giá trị của $k$ vào $k^2+1$ ta được $3$ giá trị là $5; 2;0$."
+    "explain": "Ta có $k\\in\\mathbb{Z}$ và $| k\\mid\\leq 2$ nên $k\\in \\{-2 ; -1 ; 0 ; 1 ; 2\\}$.<br>  Thay các giá trị của $k$ vào $k^2+1$ ta được $3$ giá trị là $5; 2;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN9",
@@ -134,7 +144,8 @@ window.tracNghiem0D12 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN10",
@@ -146,7 +157,8 @@ window.tracNghiem0D12 = [
       "$9$"
     ],
     "answer": 2,
-    "explain": "Số tập con của $X$ là $2^3=8$."
+    "explain": "Số tập con của $X$ là $2^3=8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN11",
@@ -158,7 +170,8 @@ window.tracNghiem0D12 = [
       "$8$"
     ],
     "answer": 1,
-    "explain": "Số tập con của $X$ có hai phần tử là   $\\{0 ; 2\\}$, $\\{0 ; 4\\}$, $\\{0 ; 6\\}$, $\\{2 ; 4\\}$, $\\{2 ; 6\\}$, $\\{4 ; 6\\}$."
+    "explain": "Số tập con của $X$ có hai phần tử là   $\\{0 ; 2\\}$, $\\{0 ; 4\\}$, $\\{0 ; 6\\}$, $\\{2 ; 4\\}$, $\\{2 ; 6\\}$, $\\{4 ; 6\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN12",
@@ -170,7 +183,8 @@ window.tracNghiem0D12 = [
       "$m &gt;-2$"
     ],
     "answer": 1,
-    "explain": "$(A \\cup B) = \\mathbb{R} \\Leftrightarrow -1 \\leq m+1 \\Leftrightarrow m\\geq-2$."
+    "explain": "$(A \\cup B) = \\mathbb{R} \\Leftrightarrow -1 \\leq m+1 \\Leftrightarrow m\\geq-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN13",
@@ -182,7 +196,8 @@ window.tracNghiem0D12 = [
       "$-\\dfrac{2}{3} \\le m &lt; \\dfrac{5}{6}$"
     ],
     "answer": 2,
-    "explain": "<br>- Nếu $A =\\varnothing \\Leftrightarrow 1-2m &gt;m+3 \\Leftrightarrow m &lt; -\\dfrac{2}{3} $ thì $A \\cap B =\\varnothing$.<br>- Nếu $A \\ne \\varnothing \\Leftrightarrow 1-2m \\le m+3 \\Leftrightarrow m \\ge -\\dfrac{2}{3}$. Khi đó  $A \\cap B =\\varnothing \\Leftrightarrow m+3 &lt;8-5m \\Leftrightarrow m &lt; \\dfrac{5}{6}.$  Vậy tất cả $m$ thỏa bài toán là $m &lt; \\dfrac{5}{6}$."
+    "explain": "<br>- Nếu $A =\\varnothing \\Leftrightarrow 1-2m &gt;m+3 \\Leftrightarrow m &lt; -\\dfrac{2}{3} $ thì $A \\cap B =\\varnothing$.<br>- Nếu $A \\ne \\varnothing \\Leftrightarrow 1-2m \\le m+3 \\Leftrightarrow m \\ge -\\dfrac{2}{3}$. Khi đó  $A \\cap B =\\varnothing \\Leftrightarrow m+3 &lt;8-5m \\Leftrightarrow m &lt; \\dfrac{5}{6}.$  Vậy tất cả $m$ thỏa bài toán là $m &lt; \\dfrac{5}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN13",
@@ -194,7 +209,8 @@ window.tracNghiem0D12 = [
       "$(-1 ; 5]$"
     ],
     "answer": 3,
-    "explain": "$A \\cap B=(-1;5]$."
+    "explain": "$A \\cap B=(-1;5]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122TN2",
@@ -206,7 +222,8 @@ window.tracNghiem0D12 = [
       "$7$"
     ],
     "answer": 1,
-    "explain": "Tập con có hai phần tử của $A$ là $\\{a;b\\};\\{a;c\\};\\{a;d\\};\\{b;c\\};\\{b;d\\};\\{c;d\\}$.<br>  Vậy tập $A$ có $6$ tập hợp con."
+    "explain": "Tập con có hai phần tử của $A$ là $\\{a;b\\};\\{a;c\\};\\{a;d\\};\\{b;c\\};\\{b;d\\};\\{c;d\\}$.<br>  Vậy tập $A$ có $6$ tập hợp con.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN14",
@@ -218,7 +235,8 @@ window.tracNghiem0D12 = [
       "$A=\\{0;1;2;3;4\\}$"
     ],
     "answer": 1,
-    "explain": "Vì $x \\in \\mathbb{N}$ (tập hợp số tự nhiên, bao gồm số $0$) và $x \\le 5$, nên các phần tử của $A$ là $0, 1, 2, 3, 4, 5$.<br>  Vậy $A = \\{0; 1; 2; 3; 4; 5\\}$."
+    "explain": "Vì $x \\in \\mathbb{N}$ (tập hợp số tự nhiên, bao gồm số $0$) và $x \\le 5$, nên các phần tử của $A$ là $0, 1, 2, 3, 4, 5$.<br>  Vậy $A = \\{0; 1; 2; 3; 4; 5\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122TN3",
@@ -230,7 +248,8 @@ window.tracNghiem0D12 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Tập hợp $A=\\{1; 2\\}$ có $2$ phần tử nên tập $A$ có $2^2=4$ tập con."
+    "explain": "Tập hợp $A=\\{1; 2\\}$ có $2$ phần tử nên tập $A$ có $2^2=4$ tập con.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN14",
@@ -242,7 +261,8 @@ window.tracNghiem0D12 = [
       "$[1; 6]$"
     ],
     "answer": 1,
-    "explain": "Ta có $x \\in \\mathbb{R} \\text{ và } 1\\leq x &lt; 6\\Rightarrow M=[1; 6)$."
+    "explain": "Ta có $x \\in \\mathbb{R} \\text{ và } 1\\leq x &lt; 6\\Rightarrow M=[1; 6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D122TN1",
@@ -254,7 +274,8 @@ window.tracNghiem0D12 = [
       "$\\left\\{ 1;5\\right\\}\\subset A$"
     ],
     "answer": 1,
-    "explain": "$\\left\\{ 1\\right\\}\\in A$ là khẳng định sai."
+    "explain": "$\\left\\{ 1\\right\\}\\in A$ là khẳng định sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN2",
@@ -266,7 +287,8 @@ window.tracNghiem0D12 = [
       "$ B=\\left(-\\dfrac{1}{2};3\\right]$"
     ],
     "answer": 3,
-    "explain": "$ B=\\left(-\\dfrac{1}{2};3\\right]$."
+    "explain": "$ B=\\left(-\\dfrac{1}{2};3\\right]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN15",
@@ -278,7 +300,8 @@ window.tracNghiem0D12 = [
       "$(-\\infty;2) \\cup [5;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào hình vẽ, ta thấy phần <strong>không bị gạch</strong> biểu diễn tập hợp $\\left(-\\infty;2\\right)\\cup\\left[5;+\\infty\\right)$."
+    "explain": "Dựa vào hình vẽ, ta thấy phần <strong>không bị gạch</strong> biểu diễn tập hợp $\\left(-\\infty;2\\right)\\cup\\left[5;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN4",
@@ -290,7 +313,8 @@ window.tracNghiem0D12 = [
       "$X=\\left\\{-3;1;\\dfrac{5}{2}\\right\\}$"
     ],
     "answer": 0,
-    "explain": "Ta có<br>  $\\begin{aligned}[c]  (x+3)(2x^2-7x+5) &=0 \\\\  x + 3 = 0\\ \\text{hoặc}\\ & 2x^2 - 7X + 5 = 0 \\\\  x = -3 \\ \\text{hoặc}\\ & x = \\dfrac{5}{2} \\ \\text{hoặc}\\ x = 1.   \\end{aligned}$<br>  Do $x \\in \\mathbb{N}$ nên ta nhận $x = 1$.  Vậy $X=\\{x\\in\\mathbb{N}\\mid (x+3)(2x^2-7x+5)=0\\}=\\{1\\}$."
+    "explain": "Ta có<br>  $\\begin{aligned}[c]  (x+3)(2x^2-7x+5) &=0 \\\\  x + 3 = 0\\ \\text{hoặc}\\ & 2x^2 - 7X + 5 = 0 \\\\  x = -3 \\ \\text{hoặc}\\ & x = \\dfrac{5}{2} \\ \\text{hoặc}\\ x = 1.   \\end{aligned}$<br>  Do $x \\in \\mathbb{N}$ nên ta nhận $x = 1$.  Vậy $X=\\{x\\in\\mathbb{N}\\mid (x+3)(2x^2-7x+5)=0\\}=\\{1\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN15",
@@ -302,7 +326,8 @@ window.tracNghiem0D12 = [
       "$A$ có $3$ phần tử"
     ],
     "answer": 3,
-    "explain": "Các số tự nhiên khác $0$, nhỏ hơn $10$ và chia hết cho $3$ là $3$, $6$, $9$. <br>  Suy ra $A=\\{3;6;9\\}$  Vậy tập hợp $A$ có $3$ phần tử."
+    "explain": "Các số tự nhiên khác $0$, nhỏ hơn $10$ và chia hết cho $3$ là $3$, $6$, $9$. <br>  Suy ra $A=\\{3;6;9\\}$  Vậy tập hợp $A$ có $3$ phần tử.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D121TN6",
@@ -314,7 +339,8 @@ window.tracNghiem0D12 = [
       "$X=0$"
     ],
     "answer": 0,
-    "explain": "Xét phương trình $x^2+x+1=0$.<br>  Ta có $\\Delta = 1^2 - 4\\cdot 1 \\cdot 1 = -3 &lt; 0$.<br>  Phương trình vô nghiệm trên $\\mathbb{R}$.<br>  Vậy $X=\\varnothing$."
+    "explain": "Xét phương trình $x^2+x+1=0$.<br>  Ta có $\\Delta = 1^2 - 4\\cdot 1 \\cdot 1 = -3 &lt; 0$.<br>  Phương trình vô nghiệm trên $\\mathbb{R}$.<br>  Vậy $X=\\varnothing$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D123TN7",
@@ -326,6 +352,7 @@ window.tracNghiem0D12 = [
       "$(-\\infty;+\\infty)$"
     ],
     "answer": 1,
-    "explain": "Ta thấy $(-2; +\\infty) \\subset (-3; +\\infty)$ vì $-2 &gt; -3$."
+    "explain": "Ta thấy $(-2; +\\infty) \\subset (-3; +\\infty)$ vì $-2 &gt; -3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -15,7 +15,8 @@ window.tracNghiem0H53 = [
       "$\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}=2\\overrightarrow{MG}$"
     ],
     "answer": 3,
-    "explain": "Vì $G$ là trọng tâm nên với mọi điểm $M$, ta có $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}=3\\overrightarrow{MG}$."
+    "explain": "Vì $G$ là trọng tâm nên với mọi điểm $M$, ta có $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}=3\\overrightarrow{MG}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H531TN2",
@@ -27,6 +28,7 @@ window.tracNghiem0H53 = [
       "$\\left(k\\overrightarrow{a}\\right) \\cdot \\overrightarrow{b} = k\\left(\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right) = \\overrightarrow{a} \\cdot \\left(k\\overrightarrow{b}\\right)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\left(\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right)^2 = \\left[|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cdot \\cos(\\overrightarrow{a}, \\overrightarrow{b})\\right]^2$.<br>  $\\left(\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right)^2=\\overrightarrow{a}^2 \\cdot \\overrightarrow{b}^2$ xảy ra khi hai véc-tơ cùng phương."
+    "explain": "Ta có $\\left(\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right)^2 = \\left[|\\overrightarrow{a}| \\cdot |\\overrightarrow{b}| \\cdot \\cos(\\overrightarrow{a}, \\overrightarrow{b})\\right]^2$.<br>  $\\left(\\overrightarrow{a} \\cdot \\overrightarrow{b}\\right)^2=\\overrightarrow{a}^2 \\cdot \\overrightarrow{b}^2$ xảy ra khi hai véc-tơ cùng phương.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

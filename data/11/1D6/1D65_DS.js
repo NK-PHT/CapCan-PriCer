@@ -28,6 +28,7 @@ window.dungSai1D65 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Đưa về cùng cơ số $2$: $2^{3(x^2-3x+4)}\\le 2^{-2(3x-15)} \\Leftrightarrow 3(x^2-3x+4)\\le -2(3x-15) \\Leftrightarrow x^2-x-6\\le 0$.<br>- <strong>Đúng</strong>. $x^2-x-6\\le 0 \\Leftrightarrow (x-3)(x+2)\\le 0 \\Leftrightarrow -2\\le x\\le 3$.<br>- <strong>Đúng</strong>. Caác số ngòo đoương trong $1�m�B�2;I�CI�\n� là $\\{1;2;;\\}$: có $3$ số.<br>- <strong>Đúng</strong>. Caic số nguyên (không cần dương) trong $[-2;3]$ là $\\{-2;-1;0;1;2;3\\}$: có $6$ số."
+    "explain": "<br>- <strong>Đúng</strong>. Đưa về cùng cơ số $2$: $2^{3(x^2-3x+4)}\\le 2^{-2(3x-15)} \\Leftrightarrow 3(x^2-3x+4)\\le -2(3x-15) \\Leftrightarrow x^2-x-6\\le 0$.<br>- <strong>Đúng</strong>. $x^2-x-6\\le 0 \\Leftrightarrow (x-3)(x+2)\\le 0 \\Leftrightarrow -2\\le x\\le 3$.<br>- <strong>Đúng</strong>. Các số nguyên dương trong $[-2;3]$ là $\\{1;2;3\\}$: có $3$ số.<br>- <strong>Đúng</strong>. Các số nguyên (không cần dương) trong $[-2;3]$ là $\\{-2;-1;0;1;2;3\\}$: có $6$ số.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

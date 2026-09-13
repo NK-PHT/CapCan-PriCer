@@ -13,7 +13,8 @@ window.tracNghiem1H81 = [
       "$\\widehat{SAD}$"
     ],
     "answer": 2,
-    "explain": "Vì $BC\\parallel AD$ nên $\\left( BC,SD \\right)=\\left(AD, SD \\right)=\\widehat{SDA}$ (vì $\\widehat{SDA}$ là góc nhọn)."
+    "explain": "Vì $BC\\parallel AD$ nên $\\left( BC,SD \\right)=\\left(AD, SD \\right)=\\widehat{SDA}$ (vì $\\widehat{SDA}$ là góc nhọn).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN2",
@@ -25,7 +26,8 @@ window.tracNghiem1H81 = [
       "$90^\\circ$"
     ],
     "answer": 2,
-    "explain": "Ta có $AD\\parallel BC$ suy ra $(AD,CB_1) = (BC,CB_1) = \\widehat{BCB_1} = 45^\\circ$."
+    "explain": "Ta có $AD\\parallel BC$ suy ra $(AD,CB_1) = (BC,CB_1) = \\widehat{BCB_1} = 45^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN3",
@@ -37,7 +39,8 @@ window.tracNghiem1H81 = [
       "$\\widehat{SDA}$"
     ],
     "answer": 0,
-    "explain": "Ta có $CD\\parallel AB$ suy ra $(SB,CD) = (SB,AB) = \\widehat{SBA}$."
+    "explain": "Ta có $CD\\parallel AB$ suy ra $(SB,CD) = (SB,AB) = \\widehat{SBA}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN4",
@@ -49,7 +52,8 @@ window.tracNghiem1H81 = [
       "$120^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "Ta có $(AB,BC)=\\widehat{ABC}=60^\\circ$ vì $\\triangle ABC$ đều."
+    "explain": "Ta có $(AB,BC)=\\widehat{ABC}=60^\\circ$ vì $\\triangle ABC$ đều.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN5",
@@ -61,7 +65,8 @@ window.tracNghiem1H81 = [
       "từ $0^{\\circ}$ đến $90^{\\circ}$"
     ],
     "answer": 1,
-    "explain": "Hai đường thẳng được gọi là vuông góc với nhau nếu góc giữa chúng có số đo bằng $90^{\\circ}$."
+    "explain": "Hai đường thẳng được gọi là vuông góc với nhau nếu góc giữa chúng có số đo bằng $90^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H811TN6",
@@ -73,7 +78,8 @@ window.tracNghiem1H81 = [
       "$BC\\perp CD$"
     ],
     "answer": 1,
-    "explain": "$AB\\perp (BCD) \\Rightarrow AB\\perp CD,BC\\Rightarrow$ Đáp án A và C đúng.<br>   $BCD$ là tam giác vuông tại $C \\Rightarrow BC\\perp CD\\Rightarrow$ Đáp án D đúng.<br>"
+    "explain": "$AB\\perp (BCD) \\Rightarrow AB\\perp CD,BC\\Rightarrow$ Đáp án A và C đúng.<br>   $BCD$ là tam giác vuông tại $C \\Rightarrow BC\\perp CD\\Rightarrow$ Đáp án D đúng.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN7",
@@ -85,7 +91,8 @@ window.tracNghiem1H81 = [
       "$60^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "Ta có $BC\\parallel B'C'\\Rightarrow \\left(BD,B'C'\\right)=\\left(BD,BC\\right)=\\widehat{CBD}=45^{\\circ}$."
+    "explain": "Ta có $BC\\parallel B'C'\\Rightarrow \\left(BD,B'C'\\right)=\\left(BD,BC\\right)=\\widehat{CBD}=45^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN8",
@@ -97,7 +104,8 @@ window.tracNghiem1H81 = [
       "$0^\\circ$"
     ],
     "answer": 2,
-    "explain": "Ta có $AC\\parallel A'C' \\text{ và } BD\\perp AC\\Rightarrow BD\\perp A'C'$.<br>  Vậy góc giữa hai đường thẳng $BD$ và $A'C'$ là $90^\\circ$."
+    "explain": "Ta có $AC\\parallel A'C' \\text{ và } BD\\perp AC\\Rightarrow BD\\perp A'C'$.<br>  Vậy góc giữa hai đường thẳng $BD$ và $A'C'$ là $90^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN9",
@@ -109,7 +117,8 @@ window.tracNghiem1H81 = [
       "$30^\\circ$"
     ],
     "answer": 1,
-    "explain": "Vì $M'Q'\\parallel MQ$ nên $(MN,M'Q')=(MN,MQ)=\\widehat{NMQ}=90^\\circ$."
+    "explain": "Vì $M'Q'\\parallel MQ$ nên $(MN,M'Q')=(MN,MQ)=\\widehat{NMQ}=90^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN10",
@@ -121,7 +130,8 @@ window.tracNghiem1H81 = [
       "Hai đường thẳng cắt nhau và tương ứng vuông góc với hai đường thẳng đó"
     ],
     "answer": 0,
-    "explain": "Góc giữa hai đường thẳng bất kỳ trong không gian là góc giữa hai đường thẳng cùng đi qua một điểm và lần lượt song song hoặc trùng với hai đường thẳng đó."
+    "explain": "Góc giữa hai đường thẳng bất kỳ trong không gian là góc giữa hai đường thẳng cùng đi qua một điểm và lần lượt song song hoặc trùng với hai đường thẳng đó.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H812TN11",
@@ -133,7 +143,8 @@ window.tracNghiem1H81 = [
       "$45^\\circ$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/11/1H8/im1H81/dlts_11_DLTS29_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do $CC' \\parallel BB'$ nên $\\big(A'B,CC'\\big)=\\big(A'B,BB'\\big)=\\widehat{A'BB'}$.<br>  Mặc khác, do mặt bên $(ABB'A')$ là hình vuông nên $\\widehat{A'BB'}=45^\\circ$."
+    "explain": "<br><img src=\"data/11/1H8/im1H81/dlts_11_DLTS29_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do $CC' \\parallel BB'$ nên $\\big(A'B,CC'\\big)=\\big(A'B,BB'\\big)=\\widehat{A'BB'}$.<br>  Mặc khác, do mặt bên $(ABB'A')$ là hình vuông nên $\\widehat{A'BB'}=45^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN12",
@@ -145,7 +156,8 @@ window.tracNghiem1H81 = [
       "$AB$"
     ],
     "answer": 0,
-    "explain": "Ta có $SA \\perp \\left(SBC\\right)$.  Mà $BC \\subset \\left(SBC\\right)$.  Do đó $SA \\perp BC$."
+    "explain": "Ta có $SA \\perp \\left(SBC\\right)$.  Mà $BC \\subset \\left(SBC\\right)$.  Do đó $SA \\perp BC$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN13",
@@ -157,7 +169,8 @@ window.tracNghiem1H81 = [
       "$CD$"
     ],
     "answer": 2,
-    "explain": "Do $ABCD.A'B'C'D'$ là hình lập phương nên $BD \\parallel B'D'$. Mà $B'D' \\perp A'C'$ do $A'B'C'D'$ là hình vuông, nên $BD \\perp A'C'$."
+    "explain": "Do $ABCD.A'B'C'D'$ là hình lập phương nên $BD \\parallel B'D'$. Mà $B'D' \\perp A'C'$ do $A'B'C'D'$ là hình vuông, nên $BD \\perp A'C'$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN14",
@@ -169,7 +182,8 @@ window.tracNghiem1H81 = [
       "$120^{\\circ}$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/11/1H8/im1H81/dlts_12_DLTS36_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $DG\\parallel AF$ nên $(AF, EG)=(DG,EG)$.<br>  Mặt khác $DG=EG=ED=a \\sqrt{2}$ (với $\\alpha$ là độ dài cạnh hình lập phương).<br>  Nên $\\triangle DEG$ đều $\\Rightarrow(DG, EG)=60^{\\circ}$."
+    "explain": "<br><img src=\"data/11/1H8/im1H81/dlts_12_DLTS36_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $DG\\parallel AF$ nên $(AF, EG)=(DG,EG)$.<br>  Mặt khác $DG=EG=ED=a \\sqrt{2}$ (với $\\alpha$ là độ dài cạnh hình lập phương).<br>  Nên $\\triangle DEG$ đều $\\Rightarrow(DG, EG)=60^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H813TN15",
@@ -181,6 +195,7 @@ window.tracNghiem1H81 = [
       "$\\dfrac{5}{2}$"
     ],
     "answer": 2,
-    "explain": "Hạ $CH \\perp AB \\Rightarrow AB \\perp\\left(CHC'\\right)$.<br>  Vì góc giữa mặt phẳng $(ABC)$ và mặt phẳng $(P)$ là $60^{\\circ} \\Rightarrow \\widehat{CHC'}=60^{\\circ}$.<br>  Xét $\\triangle ABC$ có<br>  $CA=4, CB=3 \\Rightarrow AB=5 \\Rightarrow CH=\\dfrac{CA \\cdot CB}{AB}=\\dfrac{12}{5}$.<br>  Xét $\\triangle CHC'$ có<br>  \\[CC'=CH \\cdot \\sin 60^{\\circ}=\\dfrac{12}{5} \\cdot \\dfrac{\\sqrt{3}}{2}=\\dfrac{6 \\sqrt{3}}{5}.\\]"
+    "explain": "Hạ $CH \\perp AB \\Rightarrow AB \\perp\\left(CHC'\\right)$.<br>  Vì góc giữa mặt phẳng $(ABC)$ và mặt phẳng $(P)$ là $60^{\\circ} \\Rightarrow \\widehat{CHC'}=60^{\\circ}$.<br>  Xét $\\triangle ABC$ có<br>  $CA=4, CB=3 \\Rightarrow AB=5 \\Rightarrow CH=\\dfrac{CA \\cdot CB}{AB}=\\dfrac{12}{5}$.<br>  Xét $\\triangle CHC'$ có<br>  \\[CC'=CH \\cdot \\sin 60^{\\circ}=\\dfrac{12}{5} \\cdot \\dfrac{\\sqrt{3}}{2}=\\dfrac{6 \\sqrt{3}}{5}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

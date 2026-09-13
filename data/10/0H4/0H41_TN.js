@@ -14,7 +14,8 @@ window.tracNghiem0H41 = [
       "$\\sin \\left(90^\\circ - x \\right) = - \\cos x$"
     ],
     "answer": 2,
-    "explain": "Khẳng định đúng là $\\sin \\left(180^\\circ - x \\right) = \\sin x$."
+    "explain": "Khẳng định đúng là $\\sin \\left(180^\\circ - x \\right) = \\sin x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H41 = [
       "$\\sin \\alpha=\\dfrac{3}{4}$"
     ],
     "answer": 1,
-    "explain": "Vì $\\alpha \\in\\left(0^\\circ; 180^\\circ\\right)$ nên $\\sin \\alpha &gt;0$.<br>  Khi đó $\\sin \\alpha =\\sqrt{1-\\cos^2\\alpha}=\\sqrt{1-\\left(-\\dfrac{4}{5}\\right)^2}=\\dfrac{3}{5}$."
+    "explain": "Vì $\\alpha \\in\\left(0^\\circ; 180^\\circ\\right)$ nên $\\sin \\alpha &gt;0$.<br>  Khi đó $\\sin \\alpha =\\sqrt{1-\\cos^2\\alpha}=\\sqrt{1-\\left(-\\dfrac{4}{5}\\right)^2}=\\dfrac{3}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0H41 = [
       "$\\tan(180^\\circ - \\alpha) = \\tan \\alpha$"
     ],
     "answer": 0,
-    "explain": "Ta sử dụng công thức lượng giác cho hai góc bù nhau ($180^\\circ - \\alpha$ và $\\alpha$) là $\\sin(180^\\circ - \\alpha) = \\sin \\alpha$."
+    "explain": "Ta sử dụng công thức lượng giác cho hai góc bù nhau ($180^\\circ - \\alpha$ và $\\alpha$) là $\\sin(180^\\circ - \\alpha) = \\sin \\alpha$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN4",
@@ -50,7 +53,8 @@ window.tracNghiem0H41 = [
       "$0^\\circ \\leq \\alpha \\leq 90^\\circ$"
     ],
     "answer": 2,
-    "explain": "Với $0^\\circ \\leq \\alpha &lt; 90^\\circ$ thì $\\cos \\alpha &gt; 0$."
+    "explain": "Với $0^\\circ \\leq \\alpha &lt; 90^\\circ$ thì $\\cos \\alpha &gt; 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN5",
@@ -62,7 +66,8 @@ window.tracNghiem0H41 = [
       "$\\cot \\left(180^{\\circ}-\\alpha\\right)=-\\cot \\alpha$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\cot \\left(180^{\\circ}-\\alpha\\right)=-\\cot \\alpha$, với $0^{\\circ} &lt; \\alpha &lt; 180^{\\circ}$, $\\alpha \\neq 90^{\\circ}$."
+    "explain": "Ta có $\\cot \\left(180^{\\circ}-\\alpha\\right)=-\\cot \\alpha$, với $0^{\\circ} &lt; \\alpha &lt; 180^{\\circ}$, $\\alpha \\neq 90^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN6",
@@ -74,7 +79,8 @@ window.tracNghiem0H41 = [
       "$\\dfrac{1}{2}$"
     ],
     "answer": 2,
-    "explain": "Ta có $a=\\cos30^\\circ=\\dfrac{\\sqrt{3}}{2}$."
+    "explain": "Ta có $a=\\cos30^\\circ=\\dfrac{\\sqrt{3}}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN7",
@@ -86,7 +92,8 @@ window.tracNghiem0H41 = [
       "$\\cos\\left(180^\\circ-\\alpha\\right)=-\\cos\\alpha $"
     ],
     "answer": 3,
-    "explain": "$\\cos\\left(180^\\circ-\\alpha\\right)=-\\cos\\alpha $."
+    "explain": "$\\cos\\left(180^\\circ-\\alpha\\right)=-\\cos\\alpha $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN8",
@@ -98,7 +105,8 @@ window.tracNghiem0H41 = [
       "$\\cot\\alpha=\\dfrac{1}{2}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\cot \\alpha = \\dfrac{1}{\\tan\\alpha}=\\dfrac{1}{\\dfrac{1}{3}}=3$."
+    "explain": "Ta có $\\cot \\alpha = \\dfrac{1}{\\tan\\alpha}=\\dfrac{1}{\\dfrac{1}{3}}=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN9",
@@ -110,7 +118,8 @@ window.tracNghiem0H41 = [
       "$\\cos\\left(180^\\circ-x\\right)=\\cos x$"
     ],
     "answer": 2,
-    "explain": "Đối với hai góc bù nhau, ta có  $\\sin\\left(180^\\circ-x\\right)=\\sin x;$  $\\cos\\left(180^\\circ-x\\right)=-\\cos x;$  $\\tan\\left(180^\\circ-x\\right)=-\\tan x;$  $\\cot\\left(180^\\circ-x\\right)=-\\cot x;$  Vậy $\\sin\\left(180^\\circ-x\\right)=\\sin x$."
+    "explain": "Đối với hai góc bù nhau, ta có  $\\sin\\left(180^\\circ-x\\right)=\\sin x;$  $\\cos\\left(180^\\circ-x\\right)=-\\cos x;$  $\\tan\\left(180^\\circ-x\\right)=-\\tan x;$  $\\cot\\left(180^\\circ-x\\right)=-\\cot x;$  Vậy $\\sin\\left(180^\\circ-x\\right)=\\sin x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN10",
@@ -122,7 +131,8 @@ window.tracNghiem0H41 = [
       "$\\tan 54^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $36^\\circ+54^\\circ=90^\\circ$. <br>  Với hai góc phụ nhau, ta có $\\tan x=\\cot (90^\\circ-x)$. <br>   Do đó, $\\tan 36^\\circ=\\cot 54^\\circ$."
+    "explain": "Ta có $36^\\circ+54^\\circ=90^\\circ$. <br>  Với hai góc phụ nhau, ta có $\\tan x=\\cot (90^\\circ-x)$. <br>   Do đó, $\\tan 36^\\circ=\\cot 54^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN11",
@@ -134,7 +144,8 @@ window.tracNghiem0H41 = [
       "$\\sin 120^{\\circ}+\\cos 30^{\\circ}=0$"
     ],
     "answer": 3,
-    "explain": "<br>- $\\sin 45^{\\circ}+\\cos 45^{\\circ} = \\dfrac{\\sqrt{2}}{2} + \\dfrac{\\sqrt{2}}{2} = \\sqrt{2}$ (Đúng).<br>- $\\sin 30^{\\circ}+\\cos 60^{\\circ} = \\dfrac{1}{2} + \\dfrac{1}{2} = 1$ (Đúng).<br>- $\\sin 60^{\\circ}+\\cos 150^{\\circ} = \\dfrac{\\sqrt{3}}{2} + \\left(-\\dfrac{\\sqrt{3}}{2}\\right) = 0$ (Đúng).<br>- $\\sin 120^{\\circ}+\\cos 30^{\\circ} = \\dfrac{\\sqrt{3}}{2} + \\dfrac{\\sqrt{3}}{2} = \\sqrt{3} \\ne 0$ (Sai)."
+    "explain": "<br>- $\\sin 45^{\\circ}+\\cos 45^{\\circ} = \\dfrac{\\sqrt{2}}{2} + \\dfrac{\\sqrt{2}}{2} = \\sqrt{2}$ (Đúng).<br>- $\\sin 30^{\\circ}+\\cos 60^{\\circ} = \\dfrac{1}{2} + \\dfrac{1}{2} = 1$ (Đúng).<br>- $\\sin 60^{\\circ}+\\cos 150^{\\circ} = \\dfrac{\\sqrt{3}}{2} + \\left(-\\dfrac{\\sqrt{3}}{2}\\right) = 0$ (Đúng).<br>- $\\sin 120^{\\circ}+\\cos 30^{\\circ} = \\dfrac{\\sqrt{3}}{2} + \\dfrac{\\sqrt{3}}{2} = \\sqrt{3} \\ne 0$ (Sai).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H412TN12",
@@ -146,6 +157,7 @@ window.tracNghiem0H41 = [
       "$\\cot \\alpha &gt; 0$"
     ],
     "answer": 1,
-    "explain": "Vì $\\alpha$ là góc tù ($90^\\circ &lt; \\alpha &lt; 180^\\circ$) nên điểm biểu diễn trên đường tròn lượng giác thuộc góc phần tư thứ II.  Do đó $\\sin\\alpha &gt; 0$, $\\cos\\alpha &lt; 0$, $\\tan\\alpha &lt; 0$, $\\cot\\alpha &lt; 0$."
+    "explain": "Vì $\\alpha$ là góc tù ($90^\\circ &lt; \\alpha &lt; 180^\\circ$) nên điểm biểu diễn trên đường tròn lượng giác thuộc góc phần tư thứ II.  Do đó $\\sin\\alpha &gt; 0$, $\\cos\\alpha &lt; 0$, $\\tan\\alpha &lt; 0$, $\\cot\\alpha &lt; 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

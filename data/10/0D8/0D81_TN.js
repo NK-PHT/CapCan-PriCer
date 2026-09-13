@@ -14,7 +14,8 @@ window.tracNghiem0D81 = [
       "$500$"
     ],
     "answer": 2,
-    "explain": "Phương án $1$: Chọn $1$ bạn nữ có $20$ cách chọn.<br>  Phương án $2$: Chọn $1$ bạn nam có $25$ cách chọn.<br>  Áp dụng quy tắc cộng ta có $ 20+25=45$ cách chọn."
+    "explain": "Phương án $1$: Chọn $1$ bạn nữ có $20$ cách chọn.<br>  Phương án $2$: Chọn $1$ bạn nam có $25$ cách chọn.<br>  Áp dụng quy tắc cộng ta có $ 20+25=45$ cách chọn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D811TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0D81 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Số cách chọn một con gà trống là $5$ (cách).<br>  Số cách chọn một con gà mái là $4$ (cách).<br>  Áp dụng quy tắc nhân ta có $ 5\\cdot 4=20$ (cách)."
+    "explain": "Số cách chọn một con gà trống là $5$ (cách).<br>  Số cách chọn một con gà mái là $4$ (cách).<br>  Áp dụng quy tắc nhân ta có $ 5\\cdot 4=20$ (cách).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D811TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0D81 = [
       "$22$"
     ],
     "answer": 1,
-    "explain": "Việc chọn $1$ học sinh trong lớp $10$A chia thành 2 phương án: <br>- <em>Phương án 1</em>: chọn $1$ học sinh nam, có $15$ cách chọn.<br>- <em>Phương án 2</em>: chọn $1$ học sinh nữ, có $22$ cách chọn. Theo quy tắc cộng, ta có $15+22=37$ cách chọn một học sinh trong lớp $10$A."
+    "explain": "Việc chọn $1$ học sinh trong lớp $10$A chia thành 2 phương án: <br>- <em>Phương án 1</em>: chọn $1$ học sinh nam, có $15$ cách chọn.<br>- <em>Phương án 2</em>: chọn $1$ học sinh nữ, có $22$ cách chọn. Theo quy tắc cộng, ta có $15+22=37$ cách chọn một học sinh trong lớp $10$A.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D811TN4",
@@ -50,6 +53,7 @@ window.tracNghiem0D81 = [
       "$8$"
     ],
     "answer": 0,
-    "explain": "Việc tung đồng thời một đồng xu và một con xúc xắc chia làm $2$ công đoạn. <br>- <em>Công đoạn 1</em>: mặt xuất hiện trên đồng xu, có $2$ khả năng.<br>- <em>Công đoạn 2</em>: số chấm xuất hiện trên con xúc xắc, có $6$ khả năng. Theo quy tắc nhân, ta có $2\\cdot 6=12$ kết quả."
+    "explain": "Việc tung đồng thời một đồng xu và một con xúc xắc chia làm $2$ công đoạn. <br>- <em>Công đoạn 1</em>: mặt xuất hiện trên đồng xu, có $2$ khả năng.<br>- <em>Công đoạn 2</em>: số chấm xuất hiện trên con xúc xắc, có $6$ khả năng. Theo quy tắc nhân, ta có $2\\cdot 6=12$ kết quả.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

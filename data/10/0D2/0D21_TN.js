@@ -14,7 +14,8 @@ window.tracNghiem0D21 = [
       "$(4;0)$"
     ],
     "answer": 1,
-    "explain": "Thay $(-1;0)$ vào bất phương trình $x+2y-3&gt;0$ ta được $-1+2\\cdot 0-3=-4&lt;0$.<br>  Vậy $(-1;0)$ không là nghiệm của bất phương trình $x+2y-3&gt;0$."
+    "explain": "Thay $(-1;0)$ vào bất phương trình $x+2y-3&gt;0$ ta được $-1+2\\cdot 0-3=-4&lt;0$.<br>  Vậy $(-1;0)$ không là nghiệm của bất phương trình $x+2y-3&gt;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D21 = [
       "$2x-4y &gt; 8$"
     ],
     "answer": 1,
-    "explain": "Từ hình vẽ ta thấy đường thẳng đi qua $(4;0)$ và $(0;-2)$ là đường thẳng $2x-4y=8$ và điểm $O(0;0)$ không thuộc $2x-4y \\geq 8$ nên phần không bị gạch chéo là miền nghiệm của bất phương trình $2x-4y \\geq 8$."
+    "explain": "Từ hình vẽ ta thấy đường thẳng đi qua $(4;0)$ và $(0;-2)$ là đường thẳng $2x-4y=8$ và điểm $O(0;0)$ không thuộc $2x-4y \\geq 8$ nên phần không bị gạch chéo là miền nghiệm của bất phương trình $2x-4y \\geq 8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN2",
@@ -38,7 +40,8 @@ window.tracNghiem0D21 = [
       "$(0 ; 1)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN2",
@@ -50,7 +53,8 @@ window.tracNghiem0D21 = [
       "$2 x-y+4&gt;0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN3",
@@ -62,7 +66,8 @@ window.tracNghiem0D21 = [
       "$a \\geq 0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN4",
@@ -74,7 +79,8 @@ window.tracNghiem0D21 = [
       "không chứa bờ $d$ và không chứa điểm $O(0 ; 0)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN5",
@@ -86,7 +92,8 @@ window.tracNghiem0D21 = [
       "$2 x-y&gt;1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN6",
@@ -98,7 +105,8 @@ window.tracNghiem0D21 = [
       "$2 x-y-1&lt;0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN7",
@@ -110,7 +118,8 @@ window.tracNghiem0D21 = [
       "<br><img src=\"data/10/0D2/im0D21/dlts_sbh_ds10cd145_012.png\" alt=\"hinh ve\" class=\"option-graph-img\">"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN8",
@@ -122,7 +131,8 @@ window.tracNghiem0D21 = [
       "nửa mặt phẳng không chứa điểm $O$ có bờ là đường thẳng $2 x+3 y-2=0$ (kể cả bờ)"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN9",
@@ -134,7 +144,8 @@ window.tracNghiem0D21 = [
       "Nửa mặt phẳng chứa gốc tọa độ, bờ là đường thẳng $y=\\dfrac{1}{2} x+\\dfrac{5}{2}$ (không bao gồm đường thẳng)"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN10",
@@ -146,7 +157,8 @@ window.tracNghiem0D21 = [
       "$G(-\\sqrt{2} ; 2+\\sqrt{3})$ và $H(1 ; 4)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN11",
@@ -158,7 +170,8 @@ window.tracNghiem0D21 = [
       "$12$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN12",
@@ -170,7 +183,8 @@ window.tracNghiem0D21 = [
       "$\\sqrt{17}+2 \\sqrt{5}+2 \\sqrt{2}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN13",
@@ -182,7 +196,8 @@ window.tracNghiem0D21 = [
       "$m \\in[7-3 \\sqrt{2} ;+\\infty)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN14",
@@ -194,7 +209,8 @@ window.tracNghiem0D21 = [
       "$H\\left(0 ;-1-m^{2}\\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN15",
@@ -206,7 +222,8 @@ window.tracNghiem0D21 = [
       "$m \\geq \\dfrac{1}{8}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN16",
@@ -218,7 +235,8 @@ window.tracNghiem0D21 = [
       "$\\left\\{\\begin{array}{l}x>0 \\\\ 5 x-4 y \\leq 10 \\\\ 4 x+5 y \\leq 10\\end{array}\\right.$"
     ],
     "answer": 2,
-    "explain": "Dựa vào hình vẽ, ta thấy đồ thị gồm các đường thẳng:  $  \\begin{aligned}  &\\left(d_{1}\\right): x=0 \\\\  &\\left(d_{2}\\right): 4 x+5 y=10 \\\\  &\\left(d_{3}\\right): 5 x-4 y=10  \\end{aligned}  $  Miền nghiệm gần phần mặt phẳng nhận giá trị $x$ dương (kể cả bờ $\\left(d_{1}\\right)$ ). Lại có $(0 ; 0)$ là nghiệm của cả hai bất phương trình $4 x+5 y \\leq 10$ và $5 x-4 y \\leq 10$."
+    "explain": "Dựa vào hình vẽ, ta thấy đồ thị gồm các đường thẳng:  $  \\begin{aligned}  &\\left(d_{1}\\right): x=0 \\\\  &\\left(d_{2}\\right): 4 x+5 y=10 \\\\  &\\left(d_{3}\\right): 5 x-4 y=10  \\end{aligned}  $  Miền nghiệm gần phần mặt phẳng nhận giá trị $x$ dương (kể cả bờ $\\left(d_{1}\\right)$ ). Lại có $(0 ; 0)$ là nghiệm của cả hai bất phương trình $4 x+5 y \\leq 10$ và $5 x-4 y \\leq 10$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN17",
@@ -230,7 +248,8 @@ window.tracNghiem0D21 = [
       "$I(0; 0)$"
     ],
     "answer": 0,
-    "explain": "Thay $x=2, y=1$ vào bất phương trình trên, ta được $0 \\le -5$ (sai). Do đó điểm $I(2;1)$ không thuộc miền nghiệm của bất phương trình."
+    "explain": "Thay $x=2, y=1$ vào bất phương trình trên, ta được $0 \\le -5$ (sai). Do đó điểm $I(2;1)$ không thuộc miền nghiệm của bất phương trình.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN18",
@@ -242,7 +261,8 @@ window.tracNghiem0D21 = [
       "<br><img src=\"data/10/0D2/im0D21/loc_ghk1hv_005.png\" alt=\"hinh ve\" class=\"option-graph-img\">"
     ],
     "answer": 2,
-    "explain": "Đường thẳng $3x-2y=-6$ đi qua hai điểm $\\left(-2;0\\right),\\left(0;3\\right)$.<br>  Thay toạ độ điểm $O$ vào bất phương trình ta có $3\\cdot 0-2\\cdot 0&lt;-6$.<br>  Miền nghiệm của bất phương trình là phần mặt phẳng chứa điểm $O$ (phần bị gạch đậm) không kể bờ đường thẳng $3x-2y=-6$.<br>  Miền nghiệm của bất phương trình được biểu diễn ở hình bên dưới  <br><img src=\"data/10/0D2/im0D21/loc_ghk1hv_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">"
+    "explain": "Đường thẳng $3x-2y=-6$ đi qua hai điểm $\\left(-2;0\\right),\\left(0;3\\right)$.<br>  Thay toạ độ điểm $O$ vào bất phương trình ta có $3\\cdot 0-2\\cdot 0&lt;-6$.<br>  Miền nghiệm của bất phương trình là phần mặt phẳng chứa điểm $O$ (phần bị gạch đậm) không kể bờ đường thẳng $3x-2y=-6$.<br>  Miền nghiệm của bất phương trình được biểu diễn ở hình bên dưới  <br><img src=\"data/10/0D2/im0D21/loc_ghk1hv_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN19",
@@ -254,7 +274,8 @@ window.tracNghiem0D21 = [
       "$x - 2y &gt; 4$"
     ],
     "answer": 0,
-    "explain": "Gọi $d$ là đường thẳng đi qua hai điểm thuộc trục tọa độ là $(4; 0)$ và $(0; -2)$. <br>  Suy ra $d \\colon x - 2y = 4$.<br>  Thay điểm $O(0;0)$ vào bất phương trình $x-2y \\ge 4$, ta được $0 - 2 \\cdot 0 = 0 \\ge 4$ (sai)."
+    "explain": "Gọi $d$ là đường thẳng đi qua hai điểm thuộc trục tọa độ là $(4; 0)$ và $(0; -2)$. <br>  Suy ra $d \\colon x - 2y = 4$.<br>  Thay điểm $O(0;0)$ vào bất phương trình $x-2y \\ge 4$, ta được $0 - 2 \\cdot 0 = 0 \\ge 4$ (sai).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN20",
@@ -266,7 +287,8 @@ window.tracNghiem0D21 = [
       "$Q(-1; -3)$"
     ],
     "answer": 0,
-    "explain": "Để kiểm tra điểm nào thuộc miền nghiệm của bất phương trình $2x + y &gt; 3$, ta thay tọa độ $(x; y)$ của từng điểm vào bất phương trình.<br>  Xét điểm $M\\left(1; \\dfrac{3}{2}\\right)$, ta có $2\\cdot 1 + \\dfrac{3}{2} = 2 + 1{,}5 = 3{,}5$. Vì $3{,}5 &gt; 3$ nên $M$ thuộc miền nghiệm.<br>  Xét điểm $N(1; 1)$, ta có $2\\cdot 1 + 1 = 3$. Vì $3 \\ngtr 3$ nên $N$ không thuộc miền nghiệm.<br>  Xét điểm $P\\left(-1; \\dfrac{3}{2}\\right)$, ta có $2\\cdot (-1) + \\dfrac{3}{2} = -2 + 1{,}5 = -0{,}5$. Vì $-0{,}5 \\ngtr 3$ nên $P$ không thuộc miền nghiệm.<br>  Xét điểm $Q(-1; -3)$, ta có $2\\cdot (-1) + (-3) = -5$. Vì $-5 \\ngtr 3$ nên $Q$ không thuộc miền nghiệm.<br>  Vậy điểm $M$ thuộc miền nghiệm của bất phương trình đã cho."
+    "explain": "Để kiểm tra điểm nào thuộc miền nghiệm của bất phương trình $2x + y &gt; 3$, ta thay tọa độ $(x; y)$ của từng điểm vào bất phương trình.<br>  Xét điểm $M\\left(1; \\dfrac{3}{2}\\right)$, ta có $2\\cdot 1 + \\dfrac{3}{2} = 2 + 1{,}5 = 3{,}5$. Vì $3{,}5 &gt; 3$ nên $M$ thuộc miền nghiệm.<br>  Xét điểm $N(1; 1)$, ta có $2\\cdot 1 + 1 = 3$. Vì $3 \\ngtr 3$ nên $N$ không thuộc miền nghiệm.<br>  Xét điểm $P\\left(-1; \\dfrac{3}{2}\\right)$, ta có $2\\cdot (-1) + \\dfrac{3}{2} = -2 + 1{,}5 = -0{,}5$. Vì $-0{,}5 \\ngtr 3$ nên $P$ không thuộc miền nghiệm.<br>  Xét điểm $Q(-1; -3)$, ta có $2\\cdot (-1) + (-3) = -5$. Vì $-5 \\ngtr 3$ nên $Q$ không thuộc miền nghiệm.<br>  Vậy điểm $M$ thuộc miền nghiệm của bất phương trình đã cho.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN21",
@@ -278,7 +300,8 @@ window.tracNghiem0D21 = [
       "$3x-2y &lt; 0$"
     ],
     "answer": 0,
-    "explain": "Phần miền nghiệm chứa điểm $(0;0)$ và $3 \\cdot 0 -2 \\cdot 0 =0&gt;-6$."
+    "explain": "Phần miền nghiệm chứa điểm $(0;0)$ và $3 \\cdot 0 -2 \\cdot 0 =0&gt;-6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN4",
@@ -290,7 +313,8 @@ window.tracNghiem0D21 = [
       "$(-2;0)$"
     ],
     "answer": 1,
-    "explain": "Ta có $2 \\cdot 2 +(-1)=3&gt;1$ nên $(-2;1)$ là nghiệm của bất phương trình đã cho."
+    "explain": "Ta có $2 \\cdot 2 +(-1)=3&gt;1$ nên $(-2;1)$ là nghiệm của bất phương trình đã cho.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN22",
@@ -302,7 +326,8 @@ window.tracNghiem0D21 = [
       "$2x+3y-6\\geq 0$"
     ],
     "answer": 1,
-    "explain": "Dựa vào hình vẽ, ta thấy miền nghiệm của bất phương trình  <br>- không chứa điểm $O$.<br>- biên của miền nghiệm là đường thẳng đi qua điểm $(0;3)$ và $(2;0)$.  Do đó, Phần mặt phẳng không bị gạch ở hình vẽ bên (kể cả biên) biểu diễn miền nghiệm của bất phương trình $3x+2y-6\\leq 0$."
+    "explain": "Dựa vào hình vẽ, ta thấy miền nghiệm của bất phương trình  <br>- không chứa điểm $O$.<br>- biên của miền nghiệm là đường thẳng đi qua điểm $(0;3)$ và $(2;0)$.  Do đó, Phần mặt phẳng không bị gạch ở hình vẽ bên (kể cả biên) biểu diễn miền nghiệm của bất phương trình $3x+2y-6\\leq 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN8",
@@ -314,7 +339,8 @@ window.tracNghiem0D21 = [
       "$2xy-x-3\\ge0$"
     ],
     "answer": 2,
-    "explain": "Bất phương trình $2y-x-3&gt;0$ là bất phương trình bậc nhất hai ẩn."
+    "explain": "Bất phương trình $2y-x-3&gt;0$ là bất phương trình bậc nhất hai ẩn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN9",
@@ -326,7 +352,8 @@ window.tracNghiem0D21 = [
       "$ x+4y-3xy&gt;0$"
     ],
     "answer": 0,
-    "explain": "$ 2x-y&gt;0$ là bất phương trình bậc nhất hai ẩn $x$, $y$."
+    "explain": "$ 2x-y&gt;0$ là bất phương trình bậc nhất hai ẩn $x$, $y$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN23",
@@ -338,7 +365,8 @@ window.tracNghiem0D21 = [
       "$\\left(1;1\\right)$"
     ],
     "answer": 0,
-    "explain": "Thế tọa độ $\\left(3;1\\right)$ vào ta bất phương trình ta thấy thỏa mãn."
+    "explain": "Thế tọa độ $\\left(3;1\\right)$ vào ta bất phương trình ta thấy thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN24",
@@ -350,7 +378,8 @@ window.tracNghiem0D21 = [
       "$A(-1;-2)$"
     ],
     "answer": 3,
-    "explain": "Rút gọn bất phương trình $x+3+2(2y+5)&lt;2(1-x)$ ta được bất phương trình $3x+4y&lt;-11$.<br>  Thế lần lượt tọa độ các điểm đã cho vào biểu thức $3x+4y$, ta được  <br>- $D(-4; 0)$: $3x+4y=3\\cdot(-4)+4\\cdot 0=-12&lt;-11$ nên $D$ thuộc miền nghiệm.<br>- $C(0; -3)$: $3x+4y=3\\cdot 0+4\\cdot(-3)=-12&lt;-11$ nên $C$ thuộc miền nghiệm.<br>- $B(1; -7)$: $3x+4y=3\\cdot 1+4\\cdot(-7)=-25&lt;-11$ nên $B$ thuộc miền nghiệm.<br>- $A)(-1; -2)$: $3x+4y=3\\cdot(-1)+4\\cdot(-2)=-11$ nên $A$ không thuộc miền nghiệm.   Vậy miền nghiệm của bất phương trình đã cho <strong>không chứa</strong> điểm $A(-1; -2)$."
+    "explain": "Rút gọn bất phương trình $x+3+2(2y+5)&lt;2(1-x)$ ta được bất phương trình $3x+4y&lt;-11$.<br>  Thế lần lượt tọa độ các điểm đã cho vào biểu thức $3x+4y$, ta được  <br>- $D(-4; 0)$: $3x+4y=3\\cdot(-4)+4\\cdot 0=-12&lt;-11$ nên $D$ thuộc miền nghiệm.<br>- $C(0; -3)$: $3x+4y=3\\cdot 0+4\\cdot(-3)=-12&lt;-11$ nên $C$ thuộc miền nghiệm.<br>- $B(1; -7)$: $3x+4y=3\\cdot 1+4\\cdot(-7)=-25&lt;-11$ nên $B$ thuộc miền nghiệm.<br>- $A)(-1; -2)$: $3x+4y=3\\cdot(-1)+4\\cdot(-2)=-11$ nên $A$ không thuộc miền nghiệm.   Vậy miền nghiệm của bất phương trình đã cho <strong>không chứa</strong> điểm $A(-1; -2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN10",
@@ -362,7 +391,8 @@ window.tracNghiem0D21 = [
       "$x-y\\le 0$"
     ],
     "answer": 1,
-    "explain": "$2x+xy\\le 4$ không là bất phương trình bậc nhất hai ẩn."
+    "explain": "$2x+xy\\le 4$ không là bất phương trình bậc nhất hai ẩn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN5",
@@ -374,7 +404,8 @@ window.tracNghiem0D21 = [
       "$200x+300y\\le 12\\,000$"
     ],
     "answer": 3,
-    "explain": "Gọi $x$, $y$ lần lượt là số sản phẩm loại A và loại B được nhập ($x\\ge 0$, $y\\ge 0$). <br>  Mỗi sản phẩm loại A giá $200$ nghìn đồng, mỗi sản phẩm loại B giá $300$ nghìn đồng nên tổng chi phí (nghìn đồng) là $200x+300y$. <br>  Do cửa hàng có số tiền tối đa $12\\,000$ nghìn đồng để nhập hàng, ta có điều kiện  $  200x+300y\\le 12\\,000.  $"
+    "explain": "Gọi $x$, $y$ lần lượt là số sản phẩm loại A và loại B được nhập ($x\\ge 0$, $y\\ge 0$). <br>  Mỗi sản phẩm loại A giá $200$ nghìn đồng, mỗi sản phẩm loại B giá $300$ nghìn đồng nên tổng chi phí (nghìn đồng) là $200x+300y$. <br>  Do cửa hàng có số tiền tối đa $12\\,000$ nghìn đồng để nhập hàng, ta có điều kiện  $  200x+300y\\le 12\\,000.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D211TN6",
@@ -386,7 +417,8 @@ window.tracNghiem0D21 = [
       "$x+3y^{2}-2x+1\\le0$"
     ],
     "answer": 3,
-    "explain": "Bất phương trình $x+3y^{2}-2x+1\\le0$ có chứa $y^2$ (bậc 2) nên không phải là bất phương trình bậc nhất hai ẩn."
+    "explain": "Bất phương trình $x+3y^{2}-2x+1\\le0$ có chứa $y^2$ (bậc 2) nên không phải là bất phương trình bậc nhất hai ẩn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D212TN25",
@@ -398,6 +430,7 @@ window.tracNghiem0D21 = [
       "$x-2y&gt;0$"
     ],
     "answer": 2,
-    "explain": "Thay toạ độ $A(2;1)$ vào các phương án, ta thấy  <br>- Phương án $x-y+1&lt;0$: $2-1+1 = 2 &lt; 0$ (Sai).<br>- Phương án $-2x+y-2&gt;0$: $-2(2)+1-2 = -5 &gt; 0$ (Sai).<br>- Phương án $2x-y+1&gt;0$: $2(2)-1+1 = 4 &gt; 0$ (Đúng).<br>- Phương án $x-2y&gt;0$: $2-2(1) = 0 &gt; 0$ (Sai)."
+    "explain": "Thay toạ độ $A(2;1)$ vào các phương án, ta thấy  <br>- Phương án $x-y+1&lt;0$: $2-1+1 = 2 &lt; 0$ (Sai).<br>- Phương án $-2x+y-2&gt;0$: $-2(2)+1-2 = -5 &gt; 0$ (Sai).<br>- Phương án $2x-y+1&gt;0$: $2(2)-1+1 = 4 &gt; 0$ (Đúng).<br>- Phương án $x-2y&gt;0$: $2-2(1) = 0 &gt; 0$ (Sai).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

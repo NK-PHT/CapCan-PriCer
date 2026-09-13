@@ -14,7 +14,8 @@ window.tracNghiem0H52 = [
       "$\\overrightarrow{B I}+\\overrightarrow{C I}=\\overrightarrow{0}$"
     ],
     "answer": 3,
-    "explain": "Vì $I$ là trung điểm $B C$ nên $\\overrightarrow{B I}+\\overrightarrow{C I}=\\overrightarrow{0}$."
+    "explain": "Vì $I$ là trung điểm $B C$ nên $\\overrightarrow{B I}+\\overrightarrow{C I}=\\overrightarrow{0}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H521TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H52 = [
       "$\\overrightarrow{MQ}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{MN}-\\overrightarrow{QP}+\\overrightarrow{RN}-\\overrightarrow{PN}+\\overrightarrow{QR}$<br>$= \\overrightarrow{MN}+\\overrightarrow{PQ}+\\overrightarrow{RN}+\\overrightarrow{NP}+\\overrightarrow{QR}$<br>$= \\overrightarrow{MN}+ \\overrightarrow{NP}+\\overrightarrow{PQ}+\\overrightarrow{QR}+\\overrightarrow{RN}$<br>$= \\overrightarrow{MP}+\\overrightarrow{PR}+\\overrightarrow{RN}=\\overrightarrow{MR}+\\overrightarrow{RN}=\\overrightarrow{MN}.$"
+    "explain": "Ta có $\\overrightarrow{MN}-\\overrightarrow{QP}+\\overrightarrow{RN}-\\overrightarrow{PN}+\\overrightarrow{QR}$<br>$= \\overrightarrow{MN}+\\overrightarrow{PQ}+\\overrightarrow{RN}+\\overrightarrow{NP}+\\overrightarrow{QR}$<br>$= \\overrightarrow{MN}+ \\overrightarrow{NP}+\\overrightarrow{PQ}+\\overrightarrow{QR}+\\overrightarrow{RN}$<br>$= \\overrightarrow{MP}+\\overrightarrow{PR}+\\overrightarrow{RN}=\\overrightarrow{MR}+\\overrightarrow{RN}=\\overrightarrow{MN}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H521TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0H52 = [
       "$\\overrightarrow{DC}+\\overrightarrow{BC}=\\overrightarrow{CA}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/10/0H5/im0H52/loc2_0_TN_DS_TL_SGD_B_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có   <br>- $\\overrightarrow{BC}+\\overrightarrow{AB}=\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}$.<br>- $\\overrightarrow{OC}+\\overrightarrow{AO}=\\overrightarrow{AO}+\\overrightarrow{OC}=\\overrightarrow{AC}$.<br>- $\\overrightarrow{BA}+\\overrightarrow{DA}=\\overrightarrow{CA}=\\overrightarrow{CD}+\\overrightarrow{CB}=\\overrightarrow{CA}$ (vì $ABCD$ là hình bình hành).<br>- $\\overrightarrow{DC}+\\overrightarrow{BC}=\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$ (vì $ABCD$ là hình bình hành).  Do đó, $\\overrightarrow{BA}+\\overrightarrow{DA}=\\overrightarrow{CA}$ là khẳng định đúng."
+    "explain": "<br><img src=\"data/10/0H5/im0H52/loc2_0_TN_DS_TL_SGD_B_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có   <br>- $\\overrightarrow{BC}+\\overrightarrow{AB}=\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}$.<br>- $\\overrightarrow{OC}+\\overrightarrow{AO}=\\overrightarrow{AO}+\\overrightarrow{OC}=\\overrightarrow{AC}$.<br>- $\\overrightarrow{BA}+\\overrightarrow{DA}=\\overrightarrow{CA}=\\overrightarrow{CD}+\\overrightarrow{CB}=\\overrightarrow{CA}$ (vì $ABCD$ là hình bình hành).<br>- $\\overrightarrow{DC}+\\overrightarrow{BC}=\\overrightarrow{AB}+\\overrightarrow{AD}=\\overrightarrow{AC}$ (vì $ABCD$ là hình bình hành).  Do đó, $\\overrightarrow{BA}+\\overrightarrow{DA}=\\overrightarrow{CA}$ là khẳng định đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H521TN4",
@@ -50,7 +53,8 @@ window.tracNghiem0H52 = [
       "$\\overrightarrow{MP}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{MN}-\\overrightarrow{MP}=\\overrightarrow{PN}$."
+    "explain": "Ta có $\\overrightarrow{MN}-\\overrightarrow{MP}=\\overrightarrow{PN}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H521TN5",
@@ -62,6 +66,7 @@ window.tracNghiem0H52 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AF}=\\overrightarrow{OA}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{AB}+\\overrightarrow{AF}=\\overrightarrow{AB}+\\overrightarrow{BO}=\\overrightarrow{AO}$."
+    "explain": "Ta có $\\overrightarrow{AB}+\\overrightarrow{AF}=\\overrightarrow{AB}+\\overrightarrow{BO}=\\overrightarrow{AO}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

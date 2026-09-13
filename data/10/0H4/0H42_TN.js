@@ -14,7 +14,8 @@ window.tracNghiem0H42 = [
       "$AC=5\\sqrt{2}$"
     ],
     "answer": 2,
-    "explain": "Theo định lý Sin, ta có $\\dfrac{AC}{\\sin B}=\\dfrac{AB}{\\sin C}$ <br>  $\\Rightarrow AC=\\dfrac{AB\\sin B}{\\sin C}=\\dfrac{5\\sin 30^{\\circ}}{\\sin 45^{\\circ}}=\\dfrac{5\\sqrt{2}}{2}$."
+    "explain": "Theo định lý Sin, ta có $\\dfrac{AC}{\\sin B}=\\dfrac{AB}{\\sin C}$ <br>  $\\Rightarrow AC=\\dfrac{AB\\sin B}{\\sin C}=\\dfrac{5\\sin 30^{\\circ}}{\\sin 45^{\\circ}}=\\dfrac{5\\sqrt{2}}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H42 = [
       "$49$"
     ],
     "answer": 0,
-    "explain": "Áp dụng định lí côsin trong tam giác $ABC$ ta được  $b^2=a^2+c^2-2ac\\cos \\widehat{B}=8^2+ 3^2-2\\cdot8\\cdot3\\cdot\\cos 60^{\\circ}=49 \\Rightarrow b=7.$"
+    "explain": "Áp dụng định lí côsin trong tam giác $ABC$ ta được  $b^2=a^2+c^2-2ac\\cos \\widehat{B}=8^2+ 3^2-2\\cdot8\\cdot3\\cdot\\cos 60^{\\circ}=49 \\Rightarrow b=7.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0H42 = [
       "$BC=\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": "Áp dụng định lí côsin trong $\\triangle ABC$<br>  $BC^2 = AB^2 + AC^2 - 2 \\cdot AB \\cdot AC \\cdot \\cos(\\widehat{BAC})$<br>$= 2^2 + 1^2 - 2 \\cdot 2 \\cdot 1 \\cdot \\cos(60^\\circ)$<br>$= 4 + 1 - 4 \\cdot \\left(\\dfrac{1}{2}\\right) = 5 - 2 = 3$<br>$\\Rightarrow BC = \\sqrt{3}.$"
+    "explain": "Áp dụng định lí côsin trong $\\triangle ABC$<br>  $BC^2 = AB^2 + AC^2 - 2 \\cdot AB \\cdot AC \\cdot \\cos(\\widehat{BAC})$<br>$= 2^2 + 1^2 - 2 \\cdot 2 \\cdot 1 \\cdot \\cos(60^\\circ)$<br>$= 4 + 1 - 4 \\cdot \\left(\\dfrac{1}{2}\\right) = 5 - 2 = 3$<br>$\\Rightarrow BC = \\sqrt{3}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN4",
@@ -50,7 +53,8 @@ window.tracNghiem0H42 = [
       "$12$"
     ],
     "answer": 1,
-    "explain": "Nửa chu vi $p = \\dfrac{AB+BC+CA}{2} = \\dfrac{26+28+30}{2} = \\dfrac{84}{2} = 42.$  Diện tích   $S = \\sqrt{p(p-AB)(p-BC)(p-CA)}$<br>$= \\sqrt{42(42-28)(42-30)(42-26)}$<br>$= 336.$  Mặt khác, $S = \\dfrac{1}{2} \\cdot a \\cdot h_a = \\dfrac{1}{2} \\cdot BC \\cdot AH$ nên  $336 = \\dfrac{1}{2} \\cdot 28 \\cdot AH$<br>$\\Rightarrow AH = \\dfrac{336}{14} = 24.$"
+    "explain": "Nửa chu vi $p = \\dfrac{AB+BC+CA}{2} = \\dfrac{26+28+30}{2} = \\dfrac{84}{2} = 42.$  Diện tích   $S = \\sqrt{p(p-AB)(p-BC)(p-CA)}$<br>$= \\sqrt{42(42-28)(42-30)(42-26)}$<br>$= 336.$  Mặt khác, $S = \\dfrac{1}{2} \\cdot a \\cdot h_a = \\dfrac{1}{2} \\cdot BC \\cdot AH$ nên  $336 = \\dfrac{1}{2} \\cdot 28 \\cdot AH$<br>$\\Rightarrow AH = \\dfrac{336}{14} = 24.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN5",
@@ -62,7 +66,8 @@ window.tracNghiem0H42 = [
       "$AB = \\sqrt{13}$"
     ],
     "answer": 3,
-    "explain": "Áp dụng định lý côsin trong tam giác $ABC$<br>  $AB^2 = AC^2 + BC^2 - 2 \\cdot AC \\cdot BC \\cdot \\cos {C}$<br>  Thay $AC = 2$, $BC = \\sqrt{3}$, $\\widehat{C} = 150^\\circ$ vào công thức trên, ta được  $AB^2 = 2^2 + (\\sqrt{3})^2 - 2 \\cdot 2 \\cdot \\sqrt{3} \\cdot \\cos {150^\\circ}$<br>$= 2^2 + (\\sqrt{3})^2 - 2 \\cdot 2 \\cdot \\sqrt{3} \\cdot \\left(-\\dfrac{\\sqrt{3}}{2}\\right)$<br>$= 13.$  Vậy cạnh $AB = \\sqrt{13}$."
+    "explain": "Áp dụng định lý côsin trong tam giác $ABC$<br>  $AB^2 = AC^2 + BC^2 - 2 \\cdot AC \\cdot BC \\cdot \\cos {C}$<br>  Thay $AC = 2$, $BC = \\sqrt{3}$, $\\widehat{C} = 150^\\circ$ vào công thức trên, ta được  $AB^2 = 2^2 + (\\sqrt{3})^2 - 2 \\cdot 2 \\cdot \\sqrt{3} \\cdot \\cos {150^\\circ}$<br>$= 2^2 + (\\sqrt{3})^2 - 2 \\cdot 2 \\cdot \\sqrt{3} \\cdot \\left(-\\dfrac{\\sqrt{3}}{2}\\right)$<br>$= 13.$  Vậy cạnh $AB = \\sqrt{13}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN6",
@@ -74,7 +79,8 @@ window.tracNghiem0H42 = [
       "$a^2=b^2+c^2-2bc \\cos A$"
     ],
     "answer": 0,
-    "explain": "Theo định lí côsin ta có $c^2=b^2+a^2-2ab \\cos C$."
+    "explain": "Theo định lí côsin ta có $c^2=b^2+a^2-2ab \\cos C$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H422TN4",
@@ -86,7 +92,8 @@ window.tracNghiem0H42 = [
       "$S=\\dfrac{1}{2} c\\cdot a\\cdot \\sin B$"
     ],
     "answer": 0,
-    "explain": "“$a^2=b^2+c^2+2b c\\cdot \\cos A$”\\, là khẳng định sai vì $a^2=b^2+c^2-2b c\\cdot \\cos A$."
+    "explain": "“$a^2=b^2+c^2+2b c\\cdot \\cos A$”\\, là khẳng định sai vì $a^2=b^2+c^2-2b c\\cdot \\cos A$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN7",
@@ -98,7 +105,8 @@ window.tracNghiem0H42 = [
       "$2\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $AC^2=AB^2+BC^2-2\\cdot AB \\cdot BC\\cdot\\cos\\widehat{ABC}\\Rightarrow AC=\\sqrt{3^2+6^2-2\\cdot3\\cdot6\\cdot\\cos60^\\circ}=3\\sqrt{3}$."
+    "explain": "Ta có $AC^2=AB^2+BC^2-2\\cdot AB \\cdot BC\\cdot\\cos\\widehat{ABC}\\Rightarrow AC=\\sqrt{3^2+6^2-2\\cdot3\\cdot6\\cdot\\cos60^\\circ}=3\\sqrt{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H422TN2",
@@ -110,7 +118,8 @@ window.tracNghiem0H42 = [
       "$c^{2}=a^{2}+b^{2}-2ab \\cos C$"
     ],
     "answer": 1,
-    "explain": "Theo định lý sin, ta có $\\dfrac{a}{\\sin A} = 2R \\Rightarrow R = \\dfrac{a}{2\\sin A}$."
+    "explain": "Theo định lý sin, ta có $\\dfrac{a}{\\sin A} = 2R \\Rightarrow R = \\dfrac{a}{2\\sin A}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H421TN8",
@@ -122,6 +131,7 @@ window.tracNghiem0H42 = [
       "$\\sqrt{129}$"
     ],
     "answer": 0,
-    "explain": "Áp dụng định lý cô-sin trong $\\triangle ABC$:  $b^2 = a^2 + c^2 - 2ac \\cos B$<br>$= 8^2 + 5^2 - 2 \\cdot 8 \\cdot 5 \\cdot \\cos 60^\\circ$<br>$= 64 + 25 - 80 \\cdot \\dfrac{1}{2}$<br>$= 89 - 40 = 49.$  Suy ra $b = \\sqrt{49} = 7$."
+    "explain": "Áp dụng định lý cô-sin trong $\\triangle ABC$:  $b^2 = a^2 + c^2 - 2ac \\cos B$<br>$= 8^2 + 5^2 - 2 \\cdot 8 \\cdot 5 \\cdot \\cos 60^\\circ$<br>$= 64 + 25 - 80 \\cdot \\dfrac{1}{2}$<br>$= 89 - 40 = 49.$  Suy ra $b = \\sqrt{49} = 7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

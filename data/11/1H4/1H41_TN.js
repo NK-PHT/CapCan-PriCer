@@ -14,7 +14,8 @@ window.tracNghiem1H41 = [
       "$M \\subset (P)$"
     ],
     "answer": 0,
-    "explain": "Cách viết đúng là $M \\in (P)$."
+    "explain": "Cách viết đúng là $M \\in (P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN2",
@@ -26,7 +27,8 @@ window.tracNghiem1H41 = [
       "đi qua một điểm và một đường thẳng"
     ],
     "answer": 0,
-    "explain": "Theo tính chất 2: \" Có một và chỉ một mặt phẳng đi qua ba điểm không thẳng hàng cho trước\"."
+    "explain": "Theo tính chất 2: \" Có một và chỉ một mặt phẳng đi qua ba điểm không thẳng hàng cho trước\".",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN3",
@@ -38,7 +40,8 @@ window.tracNghiem1H41 = [
       "Nếu hai đường thẳng phân biệt cùng song song với một mặt phẳng thì hai đường thẳng đó song song với nhau"
     ],
     "answer": 1,
-    "explain": "Nếu một đường thẳng có hai điểm phân biệt cùng thuộc một mặt phẳng thì tất cả các điểm của đường thẳng đều thuộc mặt phẳng đó."
+    "explain": "Nếu một đường thẳng có hai điểm phân biệt cùng thuộc một mặt phẳng thì tất cả các điểm của đường thẳng đều thuộc mặt phẳng đó.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN4",
@@ -50,7 +53,8 @@ window.tracNghiem1H41 = [
       "$5$ mặt, $10$ cạnh"
     ],
     "answer": 2,
-    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Một hình chóp có đáy là ngũ giác có số mặt và số cạnh lần lượt là $6$ mặt, $10$ cạnh."
+    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Một hình chóp có đáy là ngũ giác có số mặt và số cạnh lần lượt là $6$ mặt, $10$ cạnh.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN5",
@@ -62,7 +66,8 @@ window.tracNghiem1H41 = [
       "Bốn điểm phân biệt"
     ],
     "answer": 2,
-    "explain": "Hai đường thẳng cắt nhau xác định duy nhất một mặt phẳng."
+    "explain": "Hai đường thẳng cắt nhau xác định duy nhất một mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN6",
@@ -74,7 +79,8 @@ window.tracNghiem1H41 = [
       "$6$ mặt, $5$ cạnh"
     ],
     "answer": 1,
-    "explain": "Hình chóp có đáy là ngũ giác có $10$ cạnh và $6$ mặt (gồm $5$ mặt bên và $1$ mặt đáy)."
+    "explain": "Hình chóp có đáy là ngũ giác có $10$ cạnh và $6$ mặt (gồm $5$ mặt bên và $1$ mặt đáy).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H413TN1",
@@ -86,7 +92,8 @@ window.tracNghiem1H41 = [
       "Đường thẳng $SC$"
     ],
     "answer": 2,
-    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Ta thấy $(SAC)\\cap (SAD)=SA$."
+    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Ta thấy $(SAC)\\cap (SAD)=SA$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H411TN7",
@@ -98,7 +105,8 @@ window.tracNghiem1H41 = [
       "$d$ và $(Q)$ có vô số điểm chung"
     ],
     "answer": 2,
-    "explain": "Ta có đường thẳng $d$ nằm trên mặt phẳng $(Q)$, mà $M \\in d$ nên $M \\in(Q)$."
+    "explain": "Ta có đường thẳng $d$ nằm trên mặt phẳng $(Q)$, mà $M \\in d$ nên $M \\in(Q)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H413TN2",
@@ -110,6 +118,7 @@ window.tracNghiem1H41 = [
       "đường thẳng $MN$"
     ],
     "answer": 1,
-    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Gọi $G=AN\\cap DM$. <br>Khi đó $\\left\\{\\begin{array}{l}G\\in AN\\subset(ABN)\\\\G\\in \\mathscr{D}M\\subset(MBD)\\end{array}\\right.$, suy ra $(ABN)\\cap(MBD)=G$<br>Lại có $(ABN)\\cap(MBD)=B$.<br>Do đó giao tuyến của hai mặt phẳng $(MBD)$ và $(ABN)$ là đường thẳng $BG$.<br>Mà $AN$ và $DM$ là các đương trung tuyến của $\\triangle ACD$ nên $G$ là trọng tâm của tam giác $ACD$."
+    "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Gọi $G=AN\\cap DM$. <br>Khi đó $\\left\\{\\begin{array}{l}G\\in AN\\subset(ABN)\\\\G\\in \\mathscr{D}M\\subset(MBD)\\end{array}\\right.$, suy ra $(ABN)\\cap(MBD)=G$<br>Lại có $(ABN)\\cap(MBD)=B$.<br>Do đó giao tuyến của hai mặt phẳng $(MBD)$ và $(ABN)$ là đường thẳng $BG$.<br>Mà $AN$ và $DM$ là các đương trung tuyến của $\\triangle ACD$ nên $G$ là trọng tâm của tam giác $ACD$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -15,7 +15,8 @@ window.tracNghiem1D64 = [
       "$\\left(-\\infty; \\log_2 3\\right)$"
     ],
     "answer": 2,
-    "explain": "Ta có $3^x &lt; 2\\Leftrightarrow x&lt;\\log_3 2$.<br>  Tập nghiệm của bất phương trình $3^x &lt; 2$ là $\\left(-\\infty; \\log_3 2\\right)$."
+    "explain": "Ta có $3^x &lt; 2\\Leftrightarrow x&lt;\\log_3 2$.<br>  Tập nghiệm của bất phương trình $3^x &lt; 2$ là $\\left(-\\infty; \\log_3 2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D64 = [
       "$x=-2$"
     ],
     "answer": 0,
-    "explain": "$2^{2x-1}=\\dfrac{1}{8}\\Rightarrow 2x-1=\\log _2\\left(\\dfrac{1}{8}\\right)\\Rightarrow 2x-1=-3\\Rightarrow x=-1$."
+    "explain": "$2^{2x-1}=\\dfrac{1}{8}\\Rightarrow 2x-1=\\log _2\\left(\\dfrac{1}{8}\\right)\\Rightarrow 2x-1=-3\\Rightarrow x=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D64 = [
       "$87$"
     ],
     "answer": 1,
-    "explain": "Điều kiện: $3x-2&gt;0\\Leftrightarrow x&gt;\\dfrac{2}{3}$.<br>  Ta có:  $\\log_3(3x-2)=3$<br>$\\Leftrightarrow 3x-2=3^3$<br>$\\Leftrightarrow 3x=29$<br>$\\Leftrightarrow x=\\dfrac{29}{3}.$  Nghiệm thỏa mãn điều kiện.<br>  Vậy nghiệm là $x=\\dfrac{29}{3}$."
+    "explain": "Điều kiện: $3x-2&gt;0\\Leftrightarrow x&gt;\\dfrac{2}{3}$.<br>  Ta có:  $\\log_3(3x-2)=3$<br>$\\Leftrightarrow 3x-2=3^3$<br>$\\Leftrightarrow 3x=29$<br>$\\Leftrightarrow x=\\dfrac{29}{3}.$  Nghiệm thỏa mãn điều kiện.<br>  Vậy nghiệm là $x=\\dfrac{29}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D64 = [
       "$x=9$"
     ],
     "answer": 1,
-    "explain": "Ta có:  $3^{x-1}=27$<br>$\\Leftrightarrow 3^{x-1}=3^3$<br>$\\Leftrightarrow x-1=3$<br>$\\Leftrightarrow x=4.$  Vậy nghiệm là $x=4$."
+    "explain": "Ta có:  $3^{x-1}=27$<br>$\\Leftrightarrow 3^{x-1}=3^3$<br>$\\Leftrightarrow x-1=3$<br>$\\Leftrightarrow x=4.$  Vậy nghiệm là $x=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D64 = [
       "$x=-\\dfrac{1}{5}$"
     ],
     "answer": 0,
-    "explain": "$2^{x-2}=8 \\Leftrightarrow 2^{x-2}=2^3$<br>$\\Leftrightarrow x-2=3$<br>$\\Leftrightarrow x=5.$  Vậy phương trình đã cho có nghiệm $x=5$."
+    "explain": "$2^{x-2}=8 \\Leftrightarrow 2^{x-2}=2^3$<br>$\\Leftrightarrow x-2=3$<br>$\\Leftrightarrow x=5.$  Vậy phương trình đã cho có nghiệm $x=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D64 = [
       "$x = 1$"
     ],
     "answer": 2,
-    "explain": "Ta có  $3^{x-1} = 9$<br>$\\Leftrightarrow 3^{x-1} = 3^2$<br>$\\Leftrightarrow x-1=2$<br>$\\Leftrightarrow x=3.$  Vậy phương trình đã cho có nghiệm $x=3$."
+    "explain": "Ta có  $3^{x-1} = 9$<br>$\\Leftrightarrow 3^{x-1} = 3^2$<br>$\\Leftrightarrow x-1=2$<br>$\\Leftrightarrow x=3.$  Vậy phương trình đã cho có nghiệm $x=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D64 = [
       "$S = (-2; 0]$"
     ],
     "answer": 3,
-    "explain": "Điều kiện xác định $2x+4&gt;0\\Leftrightarrow x&gt;-2$.<br>  Ta có   $\\log_2(2x + 4) - 2 \\le 0$<br>$\\Leftrightarrow \\log_2(2x + 4) \\le 2$<br>$\\Leftrightarrow 2x+4\\le 4$<br>$\\Leftrightarrow x\\le 0.$  Vậy tập nghiệm của bất phương trình đã cho là $S=(-2; 0]$."
+    "explain": "Điều kiện xác định $2x+4&gt;0\\Leftrightarrow x&gt;-2$.<br>  Ta có   $\\log_2(2x + 4) - 2 \\le 0$<br>$\\Leftrightarrow \\log_2(2x + 4) \\le 2$<br>$\\Leftrightarrow 2x+4\\le 4$<br>$\\Leftrightarrow x\\le 0.$  Vậy tập nghiệm của bất phương trình đã cho là $S=(-2; 0]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1D64 = [
       "$\\left(-\\infty; \\log_2 6\\right)$"
     ],
     "answer": 0,
-    "explain": "Ta có $2^x&gt;6\\Leftrightarrow x&gt;\\log_2 6$.<br>  Tập nghiệm của bất phương trình $2^x&gt;6$ là $\\left(\\log_2 6;+\\infty\\right)$."
+    "explain": "Ta có $2^x&gt;6\\Leftrightarrow x&gt;\\log_2 6$.<br>  Tập nghiệm của bất phương trình $2^x&gt;6$ là $\\left(\\log_2 6;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1D64 = [
       "$x=8$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\log_3(5x)=2\\Leftrightarrow 5x=9\\Leftrightarrow x=\\dfrac{9}{5}$."
+    "explain": "Ta có $\\log_3(5x)=2\\Leftrightarrow 5x=9\\Leftrightarrow x=\\dfrac{9}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1D64 = [
       "$x = \\sqrt{7}$"
     ],
     "answer": 0,
-    "explain": "Ta có $7^x=2 \\Leftrightarrow x=\\log_7 2$."
+    "explain": "Ta có $7^x=2 \\Leftrightarrow x=\\log_7 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN11",
@@ -135,7 +145,8 @@ window.tracNghiem1D64 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": "Ta có $2^x=\\dfrac{1}{8} \\Leftrightarrow 2^x=2^{-3} \\Leftrightarrow x=-3$."
+    "explain": "Ta có $2^x=\\dfrac{1}{8} \\Leftrightarrow 2^x=2^{-3} \\Leftrightarrow x=-3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN12",
@@ -147,7 +158,8 @@ window.tracNghiem1D64 = [
       "$\\left\\{-\\dfrac{1}{5}\\right\\}$"
     ],
     "answer": 1,
-    "explain": "Điều kiện $x+1 &gt;0 \\text{ và } 2-4x &gt; 0 \\Leftrightarrow x&gt;-1 \\text{ và } x&lt;\\dfrac{1}{2} \\Leftrightarrow-1&lt;x&lt;\\dfrac{1}{2}$.<br>  Ta có  $\\log_2(x+1)=\\log_2(2-4x) \\Leftrightarrow   x+1=2-4x$<br>$\\Leftrightarrow x=\\dfrac{1}{5}.$"
+    "explain": "Điều kiện $x+1 &gt;0 \\text{ và } 2-4x &gt; 0 \\Leftrightarrow x&gt;-1 \\text{ và } x&lt;\\dfrac{1}{2} \\Leftrightarrow-1&lt;x&lt;\\dfrac{1}{2}$.<br>  Ta có  $\\log_2(x+1)=\\log_2(2-4x) \\Leftrightarrow   x+1=2-4x$<br>$\\Leftrightarrow x=\\dfrac{1}{5}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN13",
@@ -159,7 +171,8 @@ window.tracNghiem1D64 = [
       "$(15;+\\infty)$"
     ],
     "answer": 1,
-    "explain": "Điều kiện: $x-7&gt;0\\Leftrightarrow x&gt;7$.<br>  Biến đổi bất phương trình ta được  \\[\\log_{0{,}5}(x-7)&gt;-3\\Leftrightarrow x-7&lt;0{,}5^{-3}\\Leftrightarrow x-7&lt;8\\Leftrightarrow x&lt;15.\\]  So điều kiện, tập nghiệm của bất phương trình là $(7;15)$."
+    "explain": "Điều kiện: $x-7&gt;0\\Leftrightarrow x&gt;7$.<br>  Biến đổi bất phương trình ta được  \\[\\log_{0{,}5}(x-7)&gt;-3\\Leftrightarrow x-7&lt;0{,}5^{-3}\\Leftrightarrow x-7&lt;8\\Leftrightarrow x&lt;15.\\]  So điều kiện, tập nghiệm của bất phương trình là $(7;15)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN14",
@@ -171,7 +184,8 @@ window.tracNghiem1D64 = [
       "$7$"
     ],
     "answer": 1,
-    "explain": "Điều kiện $x-1&gt;0 \\text{ và } 11-2x&gt;0\\Leftrightarrow x&gt;1 \\text{ và } x&lt;\\dfrac{11}{2}\\Leftrightarrow 1&lt;x&lt;\\dfrac{11}{2}$.<br>  Ta có  $\\log_{\\frac{1}{5}}(x-1) + \\log_5(11-2x) \\geq 0$<br>$\\Rightarrow \\log_5(11-2x) \\geq \\log_{5}(x-1)$<br>$\\Rightarrow 11-2x \\geq x-1$<br>$\\Rightarrow x \\leq 4$  Kết hợp điều kiện $1&lt;x&lt;\\dfrac{11}{2}$, ta được $1&lt;x\\leq 4$.<br>  Suy ra $a = 1$, $b= 4$. <br>  Vậy $a+b=5$."
+    "explain": "Điều kiện $x-1&gt;0 \\text{ và } 11-2x&gt;0\\Leftrightarrow x&gt;1 \\text{ và } x&lt;\\dfrac{11}{2}\\Leftrightarrow 1&lt;x&lt;\\dfrac{11}{2}$.<br>  Ta có  $\\log_{\\frac{1}{5}}(x-1) + \\log_5(11-2x) \\geq 0$<br>$\\Rightarrow \\log_5(11-2x) \\geq \\log_{5}(x-1)$<br>$\\Rightarrow 11-2x \\geq x-1$<br>$\\Rightarrow x \\leq 4$  Kết hợp điều kiện $1&lt;x&lt;\\dfrac{11}{2}$, ta được $1&lt;x\\leq 4$.<br>  Suy ra $a = 1$, $b= 4$. <br>  Vậy $a+b=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN15",
@@ -183,7 +197,8 @@ window.tracNghiem1D64 = [
       "$x=11$"
     ],
     "answer": 1,
-    "explain": "Điều kiện xác định $x-5&gt;0 \\Leftrightarrow x&gt;5$.<br>  Phương trình $\\log _2(x-5)=3 \\Rightarrow x-5=2^{3} \\Leftrightarrow x=8+5=13$ (nhận).<br>  Vậy phương trình $\\log _2(x-5)=3$ có nghiệm $x=13$."
+    "explain": "Điều kiện xác định $x-5&gt;0 \\Leftrightarrow x&gt;5$.<br>  Phương trình $\\log _2(x-5)=3 \\Rightarrow x-5=2^{3} \\Leftrightarrow x=8+5=13$ (nhận).<br>  Vậy phương trình $\\log _2(x-5)=3$ có nghiệm $x=13$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN16",
@@ -195,7 +210,8 @@ window.tracNghiem1D64 = [
       "$x=2$"
     ],
     "answer": 1,
-    "explain": "Ta có $2^{x-1} = 8 \\Leftrightarrow 2^{x-1} = 2^3 \\Leftrightarrow x-1=3 \\Leftrightarrow x=4$."
+    "explain": "Ta có $2^{x-1} = 8 \\Leftrightarrow 2^{x-1} = 2^3 \\Leftrightarrow x-1=3 \\Leftrightarrow x=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN17",
@@ -207,7 +223,8 @@ window.tracNghiem1D64 = [
       "$-5$"
     ],
     "answer": 3,
-    "explain": "Ta có $2^{x^2+2x}=8^{2-x}\\Leftrightarrow 2^{x^2+2x}=2^{3(2-x)}\\Leftrightarrow x^2+2x=6-3x\\Leftrightarrow x^2+5x-6=0.$<br>  $\\Rightarrow$ phương trình có hai nghiệm trái dấu và tổng hai nghiệm bằng $-5$ (theo Vi-ét)."
+    "explain": "Ta có $2^{x^2+2x}=8^{2-x}\\Leftrightarrow 2^{x^2+2x}=2^{3(2-x)}\\Leftrightarrow x^2+2x=6-3x\\Leftrightarrow x^2+5x-6=0.$<br>  $\\Rightarrow$ phương trình có hai nghiệm trái dấu và tổng hai nghiệm bằng $-5$ (theo Vi-ét).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN18",
@@ -219,7 +236,8 @@ window.tracNghiem1D64 = [
       "$(0;\\dfrac{3}{2})$"
     ],
     "answer": 0,
-    "explain": "Ta có $3^{2x}&lt;27\\Leftrightarrow3^{2x}&lt;3^3\\Leftrightarrow2x&lt;3\\Leftrightarrow x&lt;\\dfrac{3}{2}$."
+    "explain": "Ta có $3^{2x}&lt;27\\Leftrightarrow3^{2x}&lt;3^3\\Leftrightarrow2x&lt;3\\Leftrightarrow x&lt;\\dfrac{3}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN19",
@@ -231,7 +249,8 @@ window.tracNghiem1D64 = [
       "$A=-2\\sqrt{5}$"
     ],
     "answer": 0,
-    "explain": "Do $x$ là số thực dương suy ra $3^x&gt;1$ nên $3^x-3^{-x}=\\dfrac{3^{2x}-1}{3^x}&gt;0$.<br>  Ta có $9^x+9^{-x}=18\\Leftrightarrow (3^x-3^{-x})^2+2\\cdot 3^x\\cdot 3^{-x}=18\\Leftrightarrow (3^x-3^{-x})^2=16$.<br>  Suy ra $3^x-3^{-x}=4$. Vậy $3^{-x}-3^{x}=-4$."
+    "explain": "Do $x$ là số thực dương suy ra $3^x&gt;1$ nên $3^x-3^{-x}=\\dfrac{3^{2x}-1}{3^x}&gt;0$.<br>  Ta có $9^x+9^{-x}=18\\Leftrightarrow (3^x-3^{-x})^2+2\\cdot 3^x\\cdot 3^{-x}=18\\Leftrightarrow (3^x-3^{-x})^2=16$.<br>  Suy ra $3^x-3^{-x}=4$. Vậy $3^{-x}-3^{x}=-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN20",
@@ -243,7 +262,8 @@ window.tracNghiem1D64 = [
       "$S=\\left\\{ -4;3 \\right\\}$"
     ],
     "answer": 2,
-    "explain": "Ta có  $\\log_3 \\left( 18-{x^2} \\right)=2 \\Leftrightarrow 18-x^2 gt;0 \\text{ và } 18-x^2=9$<br>$\\Leftrightarrow -3\\sqrt{2} lt;x lt;3\\sqrt{2} \\text{ và } x=\\pm 3$<br>$\\Leftrightarrow x=\\pm 3.$"
+    "explain": "Ta có  $\\log_3 \\left( 18-{x^2} \\right)=2 \\Leftrightarrow 18-x^2 gt;0 \\text{ và } 18-x^2=9$<br>$\\Leftrightarrow -3\\sqrt{2} lt;x lt;3\\sqrt{2} \\text{ và } x=\\pm 3$<br>$\\Leftrightarrow x=\\pm 3.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN21",
@@ -255,7 +275,8 @@ window.tracNghiem1D64 = [
       "$\\left(1;\\dfrac{3}{2} \\right)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\log_{0{,}5} \\left(x-1\\right) &gt; 1\\Leftrightarrow {x-1&gt; 0} \\text{ và } {x-1&lt; \\dfrac{1}{2}}\\Leftrightarrow {x &gt; 1} \\text{ và } {x &lt; \\dfrac{3}{2}}\\Leftrightarrow 1&lt; x &lt; \\dfrac{3}{2}$. <br>  Vậy tập nghiệm của bất phương trình đã cho là $S=\\left(1;\\dfrac{3}{2} \\right)$."
+    "explain": "Ta có $\\log_{0{,}5} \\left(x-1\\right) &gt; 1\\Leftrightarrow {x-1&gt; 0} \\text{ và } {x-1&lt; \\dfrac{1}{2}}\\Leftrightarrow {x &gt; 1} \\text{ và } {x &lt; \\dfrac{3}{2}}\\Leftrightarrow 1&lt; x &lt; \\dfrac{3}{2}$. <br>  Vậy tập nghiệm của bất phương trình đã cho là $S=\\left(1;\\dfrac{3}{2} \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN22",
@@ -267,7 +288,8 @@ window.tracNghiem1D64 = [
       "$(2;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Điều kiện $2x-1&gt;0\\Leftrightarrow x&gt;\\dfrac{1}{2}$.<br>  Bất phương trình tương đương $2x-1&lt;27^\\frac{1}{3}=3\\Leftrightarrow 2x&lt;4\\Leftrightarrow x&lt;2$.<br>  Kết hợp điều kiện ta được $\\dfrac{1}{2}&lt;x&lt;2$."
+    "explain": "Điều kiện $2x-1&gt;0\\Leftrightarrow x&gt;\\dfrac{1}{2}$.<br>  Bất phương trình tương đương $2x-1&lt;27^\\frac{1}{3}=3\\Leftrightarrow 2x&lt;4\\Leftrightarrow x&lt;2$.<br>  Kết hợp điều kiện ta được $\\dfrac{1}{2}&lt;x&lt;2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644TN23",
@@ -279,7 +301,8 @@ window.tracNghiem1D64 = [
       "$(-1;8]$"
     ],
     "answer": 3,
-    "explain": "Điều kiện là $x+1&gt; 0\\Leftrightarrow x &gt;-1$.<br>   $\\log_3 (x+1)\\le 2\\Leftrightarrow x+1\\le 9\\Leftrightarrow x\\le 8$.<br>  Kết hợp với điều kiện, bất phương trình có tập nghiệm là $S=(-1;8]$."
+    "explain": "Điều kiện là $x+1&gt; 0\\Leftrightarrow x &gt;-1$.<br>   $\\log_3 (x+1)\\le 2\\Leftrightarrow x+1\\le 9\\Leftrightarrow x\\le 8$.<br>  Kết hợp với điều kiện, bất phương trình có tập nghiệm là $S=(-1;8]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN2",
@@ -291,7 +314,8 @@ window.tracNghiem1D64 = [
       "$x=3$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\log_2 x=3$ suy ra $x=2^3=8$."
+    "explain": "Ta có $\\log_2 x=3$ suy ra $x=2^3=8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642TN3",
@@ -303,7 +327,8 @@ window.tracNghiem1D64 = [
       "$7$"
     ],
     "answer": 1,
-    "explain": "Ta có   $50=22+50\\mathrm{e}^{-\\dfrac{1}{8}t} \\Leftrightarrow \\mathrm{e}^{-\\dfrac{1}{8}t}=\\dfrac{14}{25}$<br>$\\Leftrightarrow -\\dfrac{1}{8}t=\\ln \\dfrac{14}{25}$<br>$\\Leftrightarrow t=-8\\ln \\dfrac{14}{25}\\approx 5.$"
+    "explain": "Ta có   $50=22+50\\mathrm{e}^{-\\dfrac{1}{8}t} \\Leftrightarrow \\mathrm{e}^{-\\dfrac{1}{8}t}=\\dfrac{14}{25}$<br>$\\Leftrightarrow -\\dfrac{1}{8}t=\\ln \\dfrac{14}{25}$<br>$\\Leftrightarrow t=-8\\ln \\dfrac{14}{25}\\approx 5.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643TN4",
@@ -315,6 +340,7 @@ window.tracNghiem1D64 = [
       "$x=2$"
     ],
     "answer": 1,
-    "explain": "Ta có $2^{x-1}=3 \\Leftrightarrow x-1 = \\log_2 3 \\Leftrightarrow x = 1 + \\log_2 3$."
+    "explain": "Ta có $2^{x-1}=3 \\Leftrightarrow x-1 = \\log_2 3 \\Leftrightarrow x = 1 + \\log_2 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

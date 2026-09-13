@@ -28,6 +28,7 @@ window.dungSai0D62 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. $396:9=44$.<br>- <strong>Đúng</strong>. $370:8=46,25$.<br>- <strong>Sai</strong>. Vì sĩ số mỗi lớp không được vượt quá $45$, mà $46,25>45$, nên số liệu của khối $11$ không hợp lý (bị thống kê sai), dù chỉ lệch một chút.<br>- <strong>Đúng</strong>. $345:8=43,125<45$ nên số liệu khối $12$ hợp lý."
+    "explain": "<br>- <strong>Đúng</strong>. $396:9=44$.<br>- <strong>Đúng</strong>. $370:8=46,25$.<br>- <strong>Sai</strong>. Vì sĩ số mỗi lớp không được vượt quá $45$, mà $46,25>45$, nên số liệu của khối $11$ không hợp lý (bị thống kê sai), dù chỉ lệch một chút.<br>- <strong>Đúng</strong>. $345:8=43,125<45$ nên số liệu khối $12$ hợp lý.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

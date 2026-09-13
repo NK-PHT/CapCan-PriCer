@@ -30,6 +30,7 @@ window.dungSai0C21 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Đây là bước đầu tiên của phép chứng minh quy nạp.<br>- <strong>Đúng</strong>. Đây chính là giả thiết quy nạp.<br>- <strong>Sai</strong>. Ở bước quy nạp ta cần chứng minh $P(k+1)$ đúng (dựa vào giả thiết $P(k)$ đúng), chứ không phải chứng minh lại $P(k)$.<br>- <strong>Đúng</strong>. $1+2+3+4=10$ và $\\dfrac{4\\cdot 5}{2}=10$, khớp nhau."
+    "explain": "<br>- <strong>Đúng</strong>. Đây là bước đầu tiên của phép chứng minh quy nạp.<br>- <strong>Đúng</strong>. Đây chính là giả thiết quy nạp.<br>- <strong>Sai</strong>. Ở bước quy nạp ta cần chứng minh $P(k+1)$ đúng (dựa vào giả thiết $P(k)$ đúng), chứ không phải chứng minh lại $P(k)$.<br>- <strong>Đúng</strong>. $1+2+3+4=10$ và $\\dfrac{4\\cdot 5}{2}=10$, khớp nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

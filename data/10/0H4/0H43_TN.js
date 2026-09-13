@@ -14,7 +14,8 @@ window.tracNghiem0H43 = [
       "$10$"
     ],
     "answer": 0,
-    "explain": "Ta có $S_{ABC}=\\dfrac{1}{2}ac\\sin B=\\dfrac{1}{2}\\cdot 4 \\cdot 5 \\cdot \\sin 150^{\\circ}=5$."
+    "explain": "Ta có $S_{ABC}=\\dfrac{1}{2}ac\\sin B=\\dfrac{1}{2}\\cdot 4 \\cdot 5 \\cdot \\sin 150^{\\circ}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H431TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0H43 = [
       "$S=\\dfrac{1}{2} A B \\cdot A C \\cdot \\sin A$"
     ],
     "answer": 3,
-    "explain": "Diện tích $S$ của tam giác $A B C$ là $S=\\dfrac{1}{2} A B \\cdot A C \\cdot \\sin A$."
+    "explain": "Diện tích $S$ của tam giác $A B C$ là $S=\\dfrac{1}{2} A B \\cdot A C \\cdot \\sin A$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H431TN3",
@@ -38,6 +40,7 @@ window.tracNghiem0H43 = [
       "$3{,}2$"
     ],
     "answer": 0,
-    "explain": "Chiều dài đường dây đi vòng qua $C$ là $L_C = AC + CB = 10 + 8 = 18\\,\\text{km}.$  Chiều dài đường dây nối trực tiếp $A$ đến $B$ là $AB$. Ta có  $AB^2 = AC^2 + CB^2 - 2 \\cdot AC \\cdot CB \\cdot \\cos(\\widehat{ACB})$<br>$= 10^2 + 8^2 - 2 \\cdot 10 \\cdot 8 \\cdot \\cos(70^\\circ)$<br>$= 100 + 64 - 160 \\cdot \\cos(70^\\circ)$<br>$\\approx 109{,}28$<br>$\\Rightarrow AB = \\sqrt{109{,}28}$<br>$\\approx 10{,}5\\,\\text{km}.$  Chiều dài tăng thêm là $L_C - AB = 18 - 10{,}5 = 7{,}5\\,\\text{km}.$"
+    "explain": "Chiều dài đường dây đi vòng qua $C$ là $L_C = AC + CB = 10 + 8 = 18\\,\\text{km}.$  Chiều dài đường dây nối trực tiếp $A$ đến $B$ là $AB$. Ta có  $AB^2 = AC^2 + CB^2 - 2 \\cdot AC \\cdot CB \\cdot \\cos(\\widehat{ACB})$<br>$= 10^2 + 8^2 - 2 \\cdot 10 \\cdot 8 \\cdot \\cos(70^\\circ)$<br>$= 100 + 64 - 160 \\cdot \\cos(70^\\circ)$<br>$\\approx 109{,}28$<br>$\\Rightarrow AB = \\sqrt{109{,}28}$<br>$\\approx 10{,}5\\,\\text{km}.$  Chiều dài tăng thêm là $L_C - AB = 18 - 10{,}5 = 7{,}5\\,\\text{km}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

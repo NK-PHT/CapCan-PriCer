@@ -14,7 +14,8 @@ window.tracNghiem1H42 = [
       "Trong không gian, hai đường thẳng không có điểm chung là hai đường thẳng chéo nhau"
     ],
     "answer": 2,
-    "explain": "Mệnh đề đúng là \" Trong không gian, hai đường thẳng song song là hai đường thẳng cùng nằm trong một mặt phẳng và không có điểm chung\"."
+    "explain": "Mệnh đề đúng là \" Trong không gian, hai đường thẳng song song là hai đường thẳng cùng nằm trong một mặt phẳng và không có điểm chung\".",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H421TN2",
@@ -26,7 +27,8 @@ window.tracNghiem1H42 = [
       "Hai đường thẳng cùng nằm trên một mặt phẳng và không có điểm chung thì song song"
     ],
     "answer": 3,
-    "explain": "Trong không gian, hai đường thẳng song song với nhau khi và chỉ khi hai đường thẳng cùng nằm trong một mặt phẳng và không có điểm chung."
+    "explain": "Trong không gian, hai đường thẳng song song với nhau khi và chỉ khi hai đường thẳng cùng nằm trong một mặt phẳng và không có điểm chung.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H422TN1",
@@ -38,7 +40,8 @@ window.tracNghiem1H42 = [
       "$BC$ và $AD$"
     ],
     "answer": 0,
-    "explain": "<img src=\"data/11/1H4/im1H42/1H42_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> $SA$ và $BC$ không có mặt phẳng chung nào chứa cả hai nên chúng chéo nhau."
+    "explain": "<img src=\"data/11/1H4/im1H42/1H42_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> $SA$ và $BC$ không có mặt phẳng chung nào chứa cả hai nên chúng chéo nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H421TN3",
@@ -50,7 +53,8 @@ window.tracNghiem1H42 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Cho hai đường thẳng phân biệt $a$ và $b$ trong không gian, có $3$ vị trí tương đối giữa $a$ và $b$, đó là <br><br>• $a$ cắt $b$.<br>• $a$ chéo $b$.<br>• $a\\parallel b$."
+    "explain": "Cho hai đường thẳng phân biệt $a$ và $b$ trong không gian, có $3$ vị trí tương đối giữa $a$ và $b$, đó là <br><br>• $a$ cắt $b$.<br>• $a$ chéo $b$.<br>• $a\\parallel b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H421TN4",
@@ -62,7 +66,8 @@ window.tracNghiem1H42 = [
       "Trong không gian $a$ và $b$ có 4 vị trí tương đối hoặc là song song, hoặc là trùng nhau, hoặc là cắt nhau, hoặc chéo nhau"
     ],
     "answer": 2,
-    "explain": "Nếu $a$ và $b$ không có điểm chung thì $a$ song song hoặc chéo nhau với $b$"
+    "explain": "Nếu $a$ và $b$ không có điểm chung thì $a$ song song hoặc chéo nhau với $b$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H421TN5",
@@ -74,7 +79,8 @@ window.tracNghiem1H42 = [
       "$2$"
     ],
     "answer": 1,
-    "explain": "Ta có (a),(c),(d) đúng.<br>(b) sai vì hai đường thẳng song song cũng không có điểm chung."
+    "explain": "Ta có (a),(c),(d) đúng.<br>(b) sai vì hai đường thẳng song song cũng không có điểm chung.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H422TN2",
@@ -86,6 +92,7 @@ window.tracNghiem1H42 = [
       "$FG \\parallel CD$"
     ],
     "answer": 0,
-    "explain": "Ta có $F$, $G$ lần lượt là trung điểm của $SB$ và $SC$ nên $FG$ là đương trung bình trong $\\triangle SBC$, suy ra $FG\\parallel BC$ mà $BC\\parallel AD$ nên $FG\\parallel AD$."
+    "explain": "Ta có $F$, $G$ lần lượt là trung điểm của $SB$ và $SC$ nên $FG$ là đương trung bình trong $\\triangle SBC$, suy ra $FG\\parallel BC$ mà $BC\\parallel AD$ nên $FG\\parallel AD$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

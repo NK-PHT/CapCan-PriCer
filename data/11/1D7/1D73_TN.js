@@ -13,7 +13,8 @@ window.tracNghiem1D73 = [
       "$y\"=3x-6$"
     ],
     "answer": 1,
-    "explain": "Ta có  \\[y'=3x^2-6x+1.\\]  Suy ra   \\[y\"=6x-6.\\]"
+    "explain": "Ta có  \\[y'=3x^2-6x+1.\\]  Suy ra   \\[y\"=6x-6.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D732TN2",
@@ -25,6 +26,7 @@ window.tracNghiem1D73 = [
       "$y''=12x^2$"
     ],
     "answer": 1,
-    "explain": "Ta có $y'=12x^3$, $y''=36x^2$."
+    "explain": "Ta có $y'=12x^3$, $y''=36x^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

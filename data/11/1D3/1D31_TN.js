@@ -14,7 +14,8 @@ window.tracNghiem1D31 = [
       "$-\\dfrac{1}{4}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\lim\\limits_{n \\to+\\infty}\\dfrac{3n-n^4}{4n^4-5} = \\lim\\limits_{n \\to +\\infty} \\dfrac{\\dfrac{3}{n^3}-1}{4- \\dfrac{5}{n^4}}= \\dfrac{0-1}{4-0}= -\\dfrac{1}{4}$."
+    "explain": "Ta có $\\lim\\limits_{n \\to+\\infty}\\dfrac{3n-n^4}{4n^4-5} = \\lim\\limits_{n \\to +\\infty} \\dfrac{\\dfrac{3}{n^3}-1}{4- \\dfrac{5}{n^4}}= \\dfrac{0-1}{4-0}= -\\dfrac{1}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D315TN1",
@@ -26,7 +27,8 @@ window.tracNghiem1D31 = [
       "$\\dfrac{1}{2}$"
     ],
     "answer": 0,
-    "explain": "Gọi $S_n$ là diện tích của hình vuông thứ $n$.<br>Ở hình vuông ban đầu cạnh bằng $2$, ta có $S_1 = 4$.<br>Ở hình vuông thứ hai cạnh bằng $\\sqrt{2}$, ta có $S_2 = 2$.<br>Ở hình vuông thứ ba cạnh bằng $1$, ta có $S_3 = 1$.<br>$\\ldots \\ldots \\ldots$<br>Ở hình vuông thứ $n$ cạnh bằng $\\left(\\dfrac{1}{\\sqrt{2}}\\right)^{n-3}$, ta có $S_n = \\left(\\dfrac{1}{2}\\right)^{n-3}$.<br>Dãy $(S_n)$ lập thành cấp số nhân có số hạng đầu $S_1 = 4$ và công bội $q = \\dfrac{1}{2}$ nên tổng diện tích của tất cả các hình vuông được tạo thành bằng $S = \\dfrac{4}{1-\\frac{1}{2}}=8$."
+    "explain": "Gọi $S_n$ là diện tích của hình vuông thứ $n$.<br>Ở hình vuông ban đầu cạnh bằng $2$, ta có $S_1 = 4$.<br>Ở hình vuông thứ hai cạnh bằng $\\sqrt{2}$, ta có $S_2 = 2$.<br>Ở hình vuông thứ ba cạnh bằng $1$, ta có $S_3 = 1$.<br>$\\ldots \\ldots \\ldots$<br>Ở hình vuông thứ $n$ cạnh bằng $\\left(\\dfrac{1}{\\sqrt{2}}\\right)^{n-3}$, ta có $S_n = \\left(\\dfrac{1}{2}\\right)^{n-3}$.<br>Dãy $(S_n)$ lập thành cấp số nhân có số hạng đầu $S_1 = 4$ và công bội $q = \\dfrac{1}{2}$ nên tổng diện tích của tất cả các hình vuông được tạo thành bằng $S = \\dfrac{4}{1-\\frac{1}{2}}=8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D312TN2",
@@ -38,7 +40,8 @@ window.tracNghiem1D31 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Ta có: $\\lim\\limits _{n \\rightarrow+\\infty} \\dfrac{4 n+2}{n-1} = \\lim\\limits _{n \\rightarrow+\\infty} \\dfrac{4+\\dfrac{2}{n}}{1-\\dfrac{1}{n}}= 4$"
+    "explain": "Ta có: $\\lim\\limits _{n \\rightarrow+\\infty} \\dfrac{4 n+2}{n-1} = \\lim\\limits _{n \\rightarrow+\\infty} \\dfrac{4+\\dfrac{2}{n}}{1-\\dfrac{1}{n}}= 4$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D311TN1",
@@ -50,7 +53,8 @@ window.tracNghiem1D31 = [
       "$u_n=\\dfrac{n^5}{2 n+3}$"
     ],
     "answer": 1,
-    "explain": "Dễ thấy dãy $u_n=\\left(\\dfrac{2}{5}\\right)^n$ có giới hạn bằng $0$ vì $\\dfrac{2}{5}&lt;1$"
+    "explain": "Dễ thấy dãy $u_n=\\left(\\dfrac{2}{5}\\right)^n$ có giới hạn bằng $0$ vì $\\dfrac{2}{5}&lt;1$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D315TN2",
@@ -62,7 +66,8 @@ window.tracNghiem1D31 = [
       "$4\\sqrt{2}$"
     ],
     "answer": 1,
-    "explain": "Diện tích hình vuông ban đầu là $S_1 = 1^2 = 1$.<br>Hình vuông thứ hai (tạo bởi nối trung điểm) có cạnh bằng $\\dfrac{1}{\\sqrt{2}}$ (đường chéo hình vuông nhỏ bằng cạnh hình vuông lớn), nên diện tích là $S_2 = \\left(\\dfrac{1}{\\sqrt{2}}\\right)^2 = \\dfrac{1}{2}$.<br>Hình vuông thứ ba có cạnh bằng $\\dfrac{1}{2}$, nên diện tích là $S_3 = \\left(\\dfrac{1}{2}\\right)^2 = \\dfrac{1}{4}$.<br>Hình vuông thứ tư có cạnh bằng $\\dfrac{1}{2\\sqrt{2}}$ nên diện tích $S_4 = (\\dfrac{1}{2\\sqrt{2}})^2=\\dfrac{1}{8}$.<br>Ta thấy dãy diện tích các hình vuông là một cấp số nhân lùi vô hạn với số hạng đầu $u_1 = 1$ và công bội $q = \\dfrac{1}{2}$. Vì $|q| &lt; 1$, tổng của cấp số nhân này là $$S = \\dfrac{u_1}{1 - q} = \\dfrac{1}{1 - \\dfrac{1}{2}} = \\dfrac{1}{\\dfrac{1}{2}} = 2.$$"
+    "explain": "Diện tích hình vuông ban đầu là $S_1 = 1^2 = 1$.<br>Hình vuông thứ hai (tạo bởi nối trung điểm) có cạnh bằng $\\dfrac{1}{\\sqrt{2}}$ (đường chéo hình vuông nhỏ bằng cạnh hình vuông lớn), nên diện tích là $S_2 = \\left(\\dfrac{1}{\\sqrt{2}}\\right)^2 = \\dfrac{1}{2}$.<br>Hình vuông thứ ba có cạnh bằng $\\dfrac{1}{2}$, nên diện tích là $S_3 = \\left(\\dfrac{1}{2}\\right)^2 = \\dfrac{1}{4}$.<br>Hình vuông thứ tư có cạnh bằng $\\dfrac{1}{2\\sqrt{2}}$ nên diện tích $S_4 = (\\dfrac{1}{2\\sqrt{2}})^2=\\dfrac{1}{8}$.<br>Ta thấy dãy diện tích các hình vuông là một cấp số nhân lùi vô hạn với số hạng đầu $u_1 = 1$ và công bội $q = \\dfrac{1}{2}$. Vì $|q| &lt; 1$, tổng của cấp số nhân này là $$S = \\dfrac{u_1}{1 - q} = \\dfrac{1}{1 - \\dfrac{1}{2}} = \\dfrac{1}{\\dfrac{1}{2}} = 2.$$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D313TN1",
@@ -74,7 +79,8 @@ window.tracNghiem1D31 = [
       "$0$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\begin{aligned}[t] \\lim\\limits_{n \\to+\\infty}\\left(\\sqrt{n^2+4n}-n\\right)&=\\lim\\limits_{n \\to+\\infty} \\dfrac{\\left(\\sqrt{n^2+4n}\\right)^2-n^2}{\\sqrt{n^2+4n}+n}<br>&=\\lim\\limits_{n \\to+\\infty} \\dfrac{4n}{n\\left(\\sqrt{1+\\dfrac{4}{n}}+1\\right)}<br>&=\\lim\\limits_{n \\to+\\infty} \\dfrac{4}{\\sqrt{1+\\dfrac{4}{n}}+1}<br>&=2. \\end{aligned}$"
+    "explain": "Ta có $\\begin{aligned}[t] \\lim\\limits_{n \\to+\\infty}\\left(\\sqrt{n^2+4n}-n\\right)&=\\lim\\limits_{n \\to+\\infty} \\dfrac{\\left(\\sqrt{n^2+4n}\\right)^2-n^2}{\\sqrt{n^2+4n}+n}<br>&=\\lim\\limits_{n \\to+\\infty} \\dfrac{4n}{n\\left(\\sqrt{1+\\dfrac{4}{n}}+1\\right)}<br>&=\\lim\\limits_{n \\to+\\infty} \\dfrac{4}{\\sqrt{1+\\dfrac{4}{n}}+1}<br>&=2. \\end{aligned}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D314TN1",
@@ -86,7 +92,8 @@ window.tracNghiem1D31 = [
       "$-\\infty$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\lim\\limits_{n \\to+\\infty}\\left(2^n+3^n-4^n\\right)=\\lim\\limits_{n \\to+\\infty} 4^n\\left(\\left(\\dfrac{2}{4}\\right)^n+\\left(\\dfrac{3}{4}\\right)^n-1\\right)$.<br>Vì $\\lim\\limits_{n \\to+\\infty} 4^n=+\\infty$, $\\lim\\limits_{n \\to+\\infty} \\left(\\left(\\dfrac{2}{4}\\right)^n+\\left(\\dfrac{3}{4}\\right)^n-1\\right)=-1$.<br>Nên $\\lim\\limits_{n \\to+\\infty}\\left(2^n+3^n-4^n\\right)=-\\infty$.<br>"
+    "explain": "Ta có $\\lim\\limits_{n \\to+\\infty}\\left(2^n+3^n-4^n\\right)=\\lim\\limits_{n \\to+\\infty} 4^n\\left(\\left(\\dfrac{2}{4}\\right)^n+\\left(\\dfrac{3}{4}\\right)^n-1\\right)$.<br>Vì $\\lim\\limits_{n \\to+\\infty} 4^n=+\\infty$, $\\lim\\limits_{n \\to+\\infty} \\left(\\left(\\dfrac{2}{4}\\right)^n+\\left(\\dfrac{3}{4}\\right)^n-1\\right)=-1$.<br>Nên $\\lim\\limits_{n \\to+\\infty}\\left(2^n+3^n-4^n\\right)=-\\infty$.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D315TN3",
@@ -98,7 +105,8 @@ window.tracNghiem1D31 = [
       "$\\dfrac{4}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta thấy $S=1-\\dfrac{1}{3}+\\dfrac{1}{3^2}-\\dfrac{1}{3^3}+\\cdots+\\left(-\\dfrac{1}{3}\\right)^n+\\cdots$ là tổng của một cấp số nhân lùi vô hạn với $u_1=1$ và công bội $q=-\\dfrac{1}{3}$.<br>Vậy $S=\\dfrac{u_1}{1-q}=\\dfrac{1}{1-\\left(-\\dfrac{1}{3}\\right)}=\\dfrac{1}{1+\\dfrac{1}{3}}=\\dfrac{1}{\\dfrac{4}{3}}=\\dfrac{3}{4}$."
+    "explain": "Ta thấy $S=1-\\dfrac{1}{3}+\\dfrac{1}{3^2}-\\dfrac{1}{3^3}+\\cdots+\\left(-\\dfrac{1}{3}\\right)^n+\\cdots$ là tổng của một cấp số nhân lùi vô hạn với $u_1=1$ và công bội $q=-\\dfrac{1}{3}$.<br>Vậy $S=\\dfrac{u_1}{1-q}=\\dfrac{1}{1-\\left(-\\dfrac{1}{3}\\right)}=\\dfrac{1}{1+\\dfrac{1}{3}}=\\dfrac{1}{\\dfrac{4}{3}}=\\dfrac{3}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D311TN2",
@@ -110,7 +118,8 @@ window.tracNghiem1D31 = [
       "$1$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\lim\\limits_{n\\to+\\infty} (u_n \\cdot v_n)=\\lim\\limits_{n\\to+\\infty} u_n \\cdot\\lim\\limits_{n\\to+\\infty}v_n=2\\cdot3=6$."
+    "explain": "Ta có $\\lim\\limits_{n\\to+\\infty} (u_n \\cdot v_n)=\\lim\\limits_{n\\to+\\infty} u_n \\cdot\\lim\\limits_{n\\to+\\infty}v_n=2\\cdot3=6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D312TN3",
@@ -122,7 +131,8 @@ window.tracNghiem1D31 = [
       "$-3$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\lim\\dfrac{2n^2 - 3}{n^6 + 5n^5}=\\lim\\dfrac{n^2\\left(2-\\tfrac{3}{n^2}\\right)}{n^6\\left(1+ \\tfrac{5}{n}\\right)}=\\lim\\dfrac{1}{n^4}\\cdot\\dfrac{2-\\tfrac{3}{n^2}}{1+ \\tfrac{5}{n}}=0$."
+    "explain": "Ta có $\\lim\\dfrac{2n^2 - 3}{n^6 + 5n^5}=\\lim\\dfrac{n^2\\left(2-\\tfrac{3}{n^2}\\right)}{n^6\\left(1+ \\tfrac{5}{n}\\right)}=\\lim\\dfrac{1}{n^4}\\cdot\\dfrac{2-\\tfrac{3}{n^2}}{1+ \\tfrac{5}{n}}=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D311TN3",
@@ -134,6 +144,7 @@ window.tracNghiem1D31 = [
       "$\\displaystyle\\lim\\limits q^n=0$, với $-1&lt;q&lt;1$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\displaystyle\\lim\\limits q^n=+\\infty$, với $q&gt;1$."
+    "explain": "Ta có $\\displaystyle\\lim\\limits q^n=+\\infty$, với $q&gt;1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

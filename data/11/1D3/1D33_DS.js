@@ -24,7 +24,8 @@ window.dungSai1D33 = [
         "answer": true
       }
     ],
-    "explain": "<br>- $f(x)=\\dfrac{3x-2}{x-5}$ là hàm phân thức, có tập xác định là $\\left(-\\infty;5\\right)\\cup\\left(5;+\\infty\\right)$ nên hàm số liên tục trên các khoảng $\\left(-\\infty;5\\right)$ và $\\left(5;+\\infty\\right)$.<br>- $f(x)=\\sin x-2\\cos x+3$ có tập xác định là $\\mathbb{R}$ nên hàm số liên tục trên $\\mathbb{R}$.<br>- $f(1)=-\\dfrac{1}{2}$.<br>$\\lim\\limits_{x\\to1^{-}}f(x)=\\lim\\limits_{x\\to1^{-}}\\left(-\\dfrac{x}{2}\\right)=-\\dfrac{1}{2}$.<br>$\\lim\\limits_{x\\to1^{+}}f(x)=\\lim\\limits_{x\\to1^{+}}\\dfrac{x^2-3x+2}{x^2-1}=\\lim\\limits_{x\\to1^{+}}\\dfrac{(x-1)(x-2)}{(x-1)(x+1)}=\\lim\\limits_{x\\to1^{+}}\\dfrac{x-2}{x+1}=-\\dfrac{1}{2}$.<br>Vì $\\lim\\limits_{x\\to1^{+}}f(x)=\\lim\\limits_{x\\to1^{-}}f(x)=f(1)=-\\dfrac{1}{2}$ nên hàm số liên tục tại $x_0=1$.<br>- Vì $f(5)$ không tồn tại nên hàm số không liên tục tại $x_0=5$."
+    "explain": "<br>- $f(x)=\\dfrac{3x-2}{x-5}$ là hàm phân thức, có tập xác định là $\\left(-\\infty;5\\right)\\cup\\left(5;+\\infty\\right)$ nên hàm số liên tục trên các khoảng $\\left(-\\infty;5\\right)$ và $\\left(5;+\\infty\\right)$.<br>- $f(x)=\\sin x-2\\cos x+3$ có tập xác định là $\\mathbb{R}$ nên hàm số liên tục trên $\\mathbb{R}$.<br>- $f(1)=-\\dfrac{1}{2}$.<br>$\\lim\\limits_{x\\to1^{-}}f(x)=\\lim\\limits_{x\\to1^{-}}\\left(-\\dfrac{x}{2}\\right)=-\\dfrac{1}{2}$.<br>$\\lim\\limits_{x\\to1^{+}}f(x)=\\lim\\limits_{x\\to1^{+}}\\dfrac{x^2-3x+2}{x^2-1}=\\lim\\limits_{x\\to1^{+}}\\dfrac{(x-1)(x-2)}{(x-1)(x+1)}=\\lim\\limits_{x\\to1^{+}}\\dfrac{x-2}{x+1}=-\\dfrac{1}{2}$.<br>Vì $\\lim\\limits_{x\\to1^{+}}f(x)=\\lim\\limits_{x\\to1^{-}}f(x)=f(1)=-\\dfrac{1}{2}$ nên hàm số liên tục tại $x_0=1$.<br>- Vì $f(5)$ không tồn tại nên hàm số không liên tục tại $x_0=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D333DS2",
@@ -47,7 +48,8 @@ window.dungSai1D33 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Vì $x=2$ thỏa mãn $x \\le 2$ nên $f(2)=3a+1$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x\\to 2^-} f(x)=\\lim\\limits_{x\\to 2^-}(3a+1)=3a+1$.<br>- <strong>Sai</strong>. Ta có $\\lim\\limits_{x\\to 2^+} f(x)=\\lim\\limits_{x\\to 2^+}(x^2-6x+2)=2^2-6 \\cdot 2+2=4-12+2=-6$.<br>- <strong>Đúng</strong>. Để hàm số $y=f(x)$ liên tục tại $x=2$, ta cần có $f(2)=\\lim\\limits_{x\\to 2^-} f(x)=\\lim\\limits_{x\\to 2^+} f(x)$.<br>Ta có $f(2)=3a+1$, $\\lim\\limits_{x\\to 2^-} f(x)=3a+1$, và $\\lim\\limits_{x\\to 2^+} f(x)=-6$.<br>Do đó, hàm số liên tục tại $x=2$ khi $3a+1=-6 \\Leftrightarrow 3a=-7 \\Leftrightarrow a=-\\dfrac{7}{3}$."
+    "explain": "<br>- <strong>Đúng</strong>. Vì $x=2$ thỏa mãn $x \\le 2$ nên $f(2)=3a+1$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x\\to 2^-} f(x)=\\lim\\limits_{x\\to 2^-}(3a+1)=3a+1$.<br>- <strong>Sai</strong>. Ta có $\\lim\\limits_{x\\to 2^+} f(x)=\\lim\\limits_{x\\to 2^+}(x^2-6x+2)=2^2-6 \\cdot 2+2=4-12+2=-6$.<br>- <strong>Đúng</strong>. Để hàm số $y=f(x)$ liên tục tại $x=2$, ta cần có $f(2)=\\lim\\limits_{x\\to 2^-} f(x)=\\lim\\limits_{x\\to 2^+} f(x)$.<br>Ta có $f(2)=3a+1$, $\\lim\\limits_{x\\to 2^-} f(x)=3a+1$, và $\\lim\\limits_{x\\to 2^+} f(x)=-6$.<br>Do đó, hàm số liên tục tại $x=2$ khi $3a+1=-6 \\Leftrightarrow 3a=-7 \\Leftrightarrow a=-\\dfrac{7}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D333DS3",
@@ -70,6 +72,7 @@ window.dungSai1D33 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}f(x)=\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}(x-2)=-1-2=-3$.<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{+}}\\sqrt{x^2+1}=\\sqrt{(-1)^2+1}=\\sqrt{2}$.<br>- $f(-1)=\\sqrt{(-1)^2+1}=\\sqrt{2}$.<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}f(x)\\ne \\displaystyle\\lim\\limits_{x \\rightarrow-1^{+}}f(x)$ vì $(-2\\ne \\sqrt{2})$ do đó hàm số không tiên tục."
+    "explain": "<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}f(x)=\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}(x-2)=-1-2=-3$.<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{+}}\\sqrt{x^2+1}=\\sqrt{(-1)^2+1}=\\sqrt{2}$.<br>- $f(-1)=\\sqrt{(-1)^2+1}=\\sqrt{2}$.<br>- Ta có $\\displaystyle\\lim\\limits_{x \\rightarrow-1^{-}}f(x)\\ne \\displaystyle\\lim\\limits_{x \\rightarrow-1^{+}}f(x)$ vì $(-2\\ne \\sqrt{2})$ do đó hàm số không tiên tục.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

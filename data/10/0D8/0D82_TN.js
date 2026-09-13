@@ -14,7 +14,8 @@ window.tracNghiem0D82 = [
       "$ 5!$"
     ],
     "answer": 0,
-    "explain": "Mỗi tập con $4$ phần tử của $ M$ là một tổ hợp chập $4$ của $5$ phần tử.<br>  Vậy số tập con gồm $4$ phần tử của $ M$ bằng $ \\mathrm{C}_5^4$."
+    "explain": "Mỗi tập con $4$ phần tử của $ M$ là một tổ hợp chập $4$ của $5$ phần tử.<br>  Vậy số tập con gồm $4$ phần tử của $ M$ bằng $ \\mathrm{C}_5^4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D821TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0D82 = [
       "$9!$"
     ],
     "answer": 0,
-    "explain": "Xếp $10$ quyển sách khác nhau lên một tầng kệ sách thành hàng ngang là $10!$ cách."
+    "explain": "Xếp $10$ quyển sách khác nhau lên một tầng kệ sách thành hàng ngang là $10!$ cách.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D821TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0D82 = [
       "$8$"
     ],
     "answer": 0,
-    "explain": "Mỗi cách xếp bốn bạn Xuân, Hạ, Thu, Đông ngồi vào một bàn dài gồm có $4$ chỗ là một hoán vị của $4$ phần tử.<br> Số cách xếp là $4!=24$."
+    "explain": "Mỗi cách xếp bốn bạn Xuân, Hạ, Thu, Đông ngồi vào một bàn dài gồm có $4$ chỗ là một hoán vị của $4$ phần tử.<br> Số cách xếp là $4!=24$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D821TN4",
@@ -50,6 +53,7 @@ window.tracNghiem0D82 = [
       "$3!$"
     ],
     "answer": 2,
-    "explain": "Chọn $3$ chữ số trong tập hợp $A$ và sắp chúng theo thứ tự để được số tự nhiên có $3$ chữ số là một chỉnh hợp chập $3$ của $6$.<br> Số các số tự nhiên được lập là $\\mathrm{A}_6^3$ số."
+    "explain": "Chọn $3$ chữ số trong tập hợp $A$ và sắp chúng theo thứ tự để được số tự nhiên có $3$ chữ số là một chỉnh hợp chập $3$ của $6$.<br> Số các số tự nhiên được lập là $\\mathrm{A}_6^3$ số.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

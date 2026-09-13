@@ -19,7 +19,8 @@ window.tracNghiem0H94 = [
       "$I(-2;3),\\,R=16$"
     ],
     "answer": 0,
-    "explain": "Đường tròn $(x-a)^2+(y-b)^2=R^2$ có tâm $I(a;b)$, bán kính $R$. Ở đây $a=2,\\,b=-3,\\,R^2=16$ nên $I(2;-3)$, $R=4$."
+    "explain": "Đường tròn $(x-a)^2+(y-b)^2=R^2$ có tâm $I(a;b)$, bán kính $R$. Ở đây $a=2,\\,b=-3,\\,R^2=16$ nên $I(2;-3)$, $R=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN2",
@@ -31,7 +32,8 @@ window.tracNghiem0H94 = [
       "$I(2;3),\\,R=4$"
     ],
     "answer": 0,
-    "explain": "Với dạng $x^2+y^2-2ax-2by+c=0$ ($a^2+b^2-c>0$), ta có $-2a=-4\\Rightarrow a=2$; $-2b=6\\Rightarrow b=-3$; $c=-3$. Tâm $I(2;-3)$, bán kính $R=\\sqrt{a^2+b^2-c}=\\sqrt{4+9+3}=\\sqrt{16}=4$."
+    "explain": "Với dạng $x^2+y^2-2ax-2by+c=0$ ($a^2+b^2-c>0$), ta có $-2a=-4\\Rightarrow a=2$; $-2b=6\\Rightarrow b=-3$; $c=-3$. Tâm $I(2;-3)$, bán kính $R=\\sqrt{a^2+b^2-c}=\\sqrt{4+9+3}=\\sqrt{16}=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN3",
@@ -43,7 +45,8 @@ window.tracNghiem0H94 = [
       "$Q(4;5)$"
     ],
     "answer": 0,
-    "explain": "Điểm thuộc đường tròn khi $IM=R$, tức $(x-1)^2+(y-2)^2=9$. Với $M(4;2)$: $(4-1)^2+(2-2)^2=9$, thỏa mãn. Các điểm còn lại đều không thỏa mãn (thử trực tiếp: $N$ là tâm nên $IN=0$; $P$ cho $1+4=5\\ne 9$; $Q$ cho $9+9=18\\ne 9$)."
+    "explain": "Điểm thuộc đường tròn khi $IM=R$, tức $(x-1)^2+(y-2)^2=9$. Với $M(4;2)$: $(4-1)^2+(2-2)^2=9$, thỏa mãn. Các điểm còn lại đều không thỏa mãn (thử trực tiếp: $N$ là tâm nên $IN=0$; $P$ cho $1+4=5\\ne 9$; $Q$ cho $9+9=18\\ne 9$).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN4",
@@ -55,7 +58,8 @@ window.tracNghiem0H94 = [
       "$I(4;0),\\,R=3$"
     ],
     "answer": 0,
-    "explain": "Tâm $I$ là trung điểm $AB$: $I=\\left(\\dfrac{1+7}{2};\\dfrac{1+1}{2}\\right)=(4;1)$. Bán kính $R=\\dfrac{AB}{2}=\\dfrac{6}{2}=3$."
+    "explain": "Tâm $I$ là trung điểm $AB$: $I=\\left(\\dfrac{1+7}{2};\\dfrac{1+1}{2}\\right)=(4;1)$. Bán kính $R=\\dfrac{AB}{2}=\\dfrac{6}{2}=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN5",
@@ -67,7 +71,8 @@ window.tracNghiem0H94 = [
       "$m=-10$ hoặc $m=10$"
     ],
     "answer": 0,
-    "explain": "Đường thẳng tiếp xúc với đường tròn khi khoảng cách từ tâm đến đường thẳng bằng $R$: $\\dfrac{|3\\cdot 1-4\\cdot 2+m|}{\\sqrt{3^2+4^2}}=2\\Leftrightarrow |m-5|=10\\Leftrightarrow m=15$ hoặc $m=-5$."
+    "explain": "Đường thẳng tiếp xúc với đường tròn khi khoảng cách từ tâm đến đường thẳng bằng $R$: $\\dfrac{|3\\cdot 1-4\\cdot 2+m|}{\\sqrt{3^2+4^2}}=2\\Leftrightarrow |m-5|=10\\Leftrightarrow m=15$ hoặc $m=-5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN6",
@@ -79,7 +84,8 @@ window.tracNghiem0H94 = [
       "$x^2+2y^2-2x+4y+1=0$"
     ],
     "answer": 0,
-    "explain": "Phương trình $x^2+y^2-2ax-2by+c=0$ là đường tròn khi $a^2+b^2-c>0$. Với đáp án A: $a=1,b=-2,c=1$, ta có $a^2+b^2-c=1+4-1=4>0$: là đường tròn. Với B và C: $a^2+b^2-c=1+4-10=-5<0$: không phải đường tròn. Đáp án D không có dạng $x^2+y^2+\\ldots$ (hệ số của $y^2$ khác hệ số của $x^2$) nên không phải phương trình đường tròn."
+    "explain": "Phương trình $x^2+y^2-2ax-2by+c=0$ là đường tròn khi $a^2+b^2-c>0$. Với đáp án A: $a=1,b=-2,c=1$, ta có $a^2+b^2-c=1+4-1=4>0$: là đường tròn. Với B và C: $a^2+b^2-c=1+4-10=-5<0$: không phải đường tròn. Đáp án D không có dạng $x^2+y^2+\\ldots$ (hệ số của $y^2$ khác hệ số của $x^2$) nên không phải phương trình đường tròn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN7",
@@ -91,7 +97,8 @@ window.tracNghiem0H94 = [
       "$I(1;2),\\,R=2$"
     ],
     "answer": 0,
-    "explain": "Ta có $a=1,\\,b=-2,\\,c=1$ nên $I(1;-2)$ và $R=\\sqrt{a^2+b^2-c}=\\sqrt{1+4-1}=\\sqrt{4}=2$."
+    "explain": "Ta có $a=1,\\,b=-2,\\,c=1$ nên $I(1;-2)$ và $R=\\sqrt{a^2+b^2-c}=\\sqrt{1+4-1}=\\sqrt{4}=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN8",
@@ -103,7 +110,8 @@ window.tracNghiem0H94 = [
       "Đường thẳng đi qua tâm $I$"
     ],
     "answer": 0,
-    "explain": "Khoảng cách từ $I(0;0)$ đến đường thẳng là $d=\\dfrac{|3\\cdot 0+4\\cdot 0-25|}{\\sqrt{3^2+4^2}}=\\dfrac{25}{5}=5=R$. Vì $d=R$ nên đường thẳng tiếp xúc với đường tròn."
+    "explain": "Khoảng cách từ $I(0;0)$ đến đường thẳng là $d=\\dfrac{|3\\cdot 0+4\\cdot 0-25|}{\\sqrt{3^2+4^2}}=\\dfrac{25}{5}=5=R$. Vì $d=R$ nên đường thẳng tiếp xúc với đường tròn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN9",
@@ -115,7 +123,8 @@ window.tracNghiem0H94 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Vì tam giác vuông tại $A$ nên tâm đường tròn ngoại tiếp là trung điểm cạnh huyền $BC$ và bán kính $R=\\dfrac{BC}{2}$. Ta có $BC=\\sqrt{6^2+8^2}=\\sqrt{100}=10$, suy ra $R=\\dfrac{10}{2}=5$."
+    "explain": "Vì tam giác vuông tại $A$ nên tâm đường tròn ngoại tiếp là trung điểm cạnh huyền $BC$ và bán kính $R=\\dfrac{BC}{2}$. Ta có $BC=\\sqrt{6^2+8^2}=\\sqrt{100}=10$, suy ra $R=\\dfrac{10}{2}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H941TN10",
@@ -127,6 +136,7 @@ window.tracNghiem0H94 = [
       "$(3;0)$"
     ],
     "answer": 0,
-    "explain": "Tâm đường tròn ngoại tiếp tam giác vuông là trung điểm cạnh huyền $BC$: $\\left(\\dfrac{6+0}{2};\\dfrac{0+8}{2}\\right)=(3;4)$."
+    "explain": "Tâm đường tròn ngoại tiếp tam giác vuông là trung điểm cạnh huyền $BC$: $\\left(\\dfrac{6+0}{2};\\dfrac{0+8}{2}\\right)=(3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

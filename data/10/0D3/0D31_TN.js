@@ -14,7 +14,8 @@ window.tracNghiem0D31 = [
       "Tất cả đều đúng"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D313TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D31 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D312TN1",
@@ -38,7 +40,8 @@ window.tracNghiem0D31 = [
       "$D=[3 ;+\\infty)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D314TN1",
@@ -50,7 +53,8 @@ window.tracNghiem0D31 = [
       "Hàm số đồng biến trên khoảng $(-\\infty;0)$"
     ],
     "answer": 3,
-    "explain": "Từ bảng biến thiên ta thấy hàm số đồng biến trên khoảng $(-\\infty;0)$."
+    "explain": "Từ bảng biến thiên ta thấy hàm số đồng biến trên khoảng $(-\\infty;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D312TN2",
@@ -62,7 +66,8 @@ window.tracNghiem0D31 = [
       "$D=\\mathbb{R}\\backslash\\{1\\}$"
     ],
     "answer": 0,
-    "explain": "Tập xác định của hàm số trên là $D=\\mathbb{R}$."
+    "explain": "Tập xác định của hàm số trên là $D=\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D312TN3",
@@ -74,7 +79,8 @@ window.tracNghiem0D31 = [
       "$\\mathscr{D}=\\mathbb{R} \\setminus\\{0\\}$"
     ],
     "answer": 2,
-    "explain": "Vì $x^2+2025\\geq 2025$, $\\forall x\\in\\mathbb{R}$ nên tập xác định $\\mathscr{D}=\\mathbb{R}$."
+    "explain": "Vì $x^2+2025\\geq 2025$, $\\forall x\\in\\mathbb{R}$ nên tập xác định $\\mathscr{D}=\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D312TN4",
@@ -86,7 +92,8 @@ window.tracNghiem0D31 = [
       "$\\mathscr{D} = \\mathbb{R}\\setminus\\{5\\}$"
     ],
     "answer": 0,
-    "explain": "Điều kiện xác định của hàm số là $\\begin{aligned}[t]  x^2-4x-5\\neq 0 \\\\\\  x \\ne 5 \\ \\text{và}\\ x \\ne -1.  \\end{aligned}$<br>  Vậy tập xác định của hàm số là $\\mathscr{D} = \\mathbb{R}\\setminus\\{-1;5\\}$."
+    "explain": "Điều kiện xác định của hàm số là $\\begin{aligned}[t]  x^2-4x-5\\neq 0 \\\\\\  x \\ne 5 \\ \\text{và}\\ x \\ne -1.  \\end{aligned}$<br>  Vậy tập xác định của hàm số là $\\mathscr{D} = \\mathbb{R}\\setminus\\{-1;5\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D314TN3",
@@ -98,6 +105,7 @@ window.tracNghiem0D31 = [
       "$[-3;5]$"
     ],
     "answer": 3,
-    "explain": "Dựa vào hình vẽ, ta thấy hàm số nhận các giá trị từ $-3$ đến $5$. <br>  Do đó, tập giá trị của hàm số là $[-3;5]$."
+    "explain": "Dựa vào hình vẽ, ta thấy hàm số nhận các giá trị từ $-3$ đến $5$. <br>  Do đó, tập giá trị của hàm số là $[-3;5]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

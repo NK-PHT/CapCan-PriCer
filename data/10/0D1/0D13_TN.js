@@ -14,7 +14,8 @@ window.tracNghiem0D13 = [
       "$10$"
     ],
     "answer": 2,
-    "explain": "Ta có $X\\cup Y=\\{-1;0;1;2;4;7;9;10\\}$, có $8$ phần tử."
+    "explain": "Ta có $X\\cup Y=\\{-1;0;1;2;4;7;9;10\\}$, có $8$ phần tử.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0D13 = [
       "$A \\cap B$"
     ],
     "answer": 3,
-    "explain": "Phần gạch sọc là phần chung của cả hai tập hợp $A$ và $B$ nên đó là tập $A\\cap B$."
+    "explain": "Phần gạch sọc là phần chung của cả hai tập hợp $A$ và $B$ nên đó là tập $A\\cap B$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0D13 = [
       "$\\{1;3;4;5;8\\}$"
     ],
     "answer": 0,
-    "explain": "Ta có $A\\cup B=\\{1;2;3;4;5;8\\}$ ."
+    "explain": "Ta có $A\\cup B=\\{1;2;3;4;5;8\\}$ .",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN4",
@@ -50,7 +53,8 @@ window.tracNghiem0D13 = [
       "$\\{0;1;2;3;4;6;8\\}$"
     ],
     "answer": 2,
-    "explain": "Ta có $M \\cap N=\\{0;2;4\\}$."
+    "explain": "Ta có $M \\cap N=\\{0;2;4\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN5",
@@ -62,7 +66,8 @@ window.tracNghiem0D13 = [
       "$\\left(A\\cap B\\right)\\setminus C$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN6",
@@ -74,7 +79,8 @@ window.tracNghiem0D13 = [
       "$\\{2;3;c\\}$"
     ],
     "answer": 0,
-    "explain": "Ta có $A\\cap B=\\{a;b;1\\}$."
+    "explain": "Ta có $A\\cap B=\\{a;b;1\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN7",
@@ -86,7 +92,8 @@ window.tracNghiem0D13 = [
       "$\\{0;1;2;3\\}$"
     ],
     "answer": 3,
-    "explain": "Ta có $A=\\{x\\in \\mathbb{N}\\big| x\\le 3\\}=\\{0;1;2;3\\}$.<br>  Do đó $A\\cap B=\\{0;1;2;3\\}$."
+    "explain": "Ta có $A=\\{x\\in \\mathbb{N}\\big| x\\le 3\\}=\\{0;1;2;3\\}$.<br>  Do đó $A\\cap B=\\{0;1;2;3\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN8",
@@ -98,7 +105,8 @@ window.tracNghiem0D13 = [
       "$\\{6;9\\}$"
     ],
     "answer": 3,
-    "explain": "Ta có $A\\setminus B=\\{6;9\\}$."
+    "explain": "Ta có $A\\setminus B=\\{6;9\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN9",
@@ -110,7 +118,8 @@ window.tracNghiem0D13 = [
       "$\\{0;2\\}$"
     ],
     "answer": 1,
-    "explain": "$A\\setminus B=\\{0;2;8\\}$."
+    "explain": "$A\\setminus B=\\{0;2;8\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN10",
@@ -122,7 +131,8 @@ window.tracNghiem0D13 = [
       "$\\{3\\}$"
     ],
     "answer": 0,
-    "explain": "Ta có $(2x-x^2)(2x^2-3x-2)=0\\Leftrightarrow 2x-x^2=0 \\text{ hoặc } 2x^2-3x-2=0\\Leftrightarrow x=0 \\text{ hoặc } x=2 \\text{ hoặc } x=-\\dfrac{1}{2}.$<br>  Do đó $A=\\left\\lbrace 0;2;-\\dfrac{1}{2}\\right\\rbrace$.<br>  $B=\\{n\\in \\mathbb{N}\\big| 3&lt;n^2&lt;30\\}=\\{2;3;4;5\\}$.<br>  Do đó $A\\cap B=\\{2\\}$."
+    "explain": "Ta có $(2x-x^2)(2x^2-3x-2)=0\\Leftrightarrow 2x-x^2=0 \\text{ hoặc } 2x^2-3x-2=0\\Leftrightarrow x=0 \\text{ hoặc } x=2 \\text{ hoặc } x=-\\dfrac{1}{2}.$<br>  Do đó $A=\\left\\lbrace 0;2;-\\dfrac{1}{2}\\right\\rbrace$.<br>  $B=\\{n\\in \\mathbb{N}\\big| 3&lt;n^2&lt;30\\}=\\{2;3;4;5\\}$.<br>  Do đó $A\\cap B=\\{2\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN11",
@@ -134,7 +144,8 @@ window.tracNghiem0D13 = [
       "$7$"
     ],
     "answer": 0,
-    "explain": "Ta có $B\\setminus C=\\{0;2;8;9\\}$.<br>  Do đó $A\\cap (B\\setminus C)=\\{2;9\\}$.<br>  Tích các phần tử bằng $2\\cdot 9=18$."
+    "explain": "Ta có $B\\setminus C=\\{0;2;8;9\\}$.<br>  Do đó $A\\cap (B\\setminus C)=\\{2;9\\}$.<br>  Tích các phần tử bằng $2\\cdot 9=18$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN12",
@@ -146,7 +157,8 @@ window.tracNghiem0D13 = [
       "$\\{2;5\\}$"
     ],
     "answer": 1,
-    "explain": "Vì $A\\cap B=\\{2\\}$ nên $2\\in \\{B\\}$.  Vì $A\\setminus B=\\{4;5\\}$ nên $4;5 \\notin B$.<br>  Từ $(A\\cup B) \\setminus (A\\cap B)=(A\\setminus B)\\cup (B \\setminus A)$ suy ra $\\{1;3;4;5\\}=\\{4;5\\}\\cup (B\\setminus A)$.<br>  Do đó $\\{1;3\\} \\subset B\\setminus A$, hay $\\{1;3\\}\\in B$.<br>  Vậy $B=\\{1;2;3\\}$."
+    "explain": "Vì $A\\cap B=\\{2\\}$ nên $2\\in \\{B\\}$.  Vì $A\\setminus B=\\{4;5\\}$ nên $4;5 \\notin B$.<br>  Từ $(A\\cup B) \\setminus (A\\cap B)=(A\\setminus B)\\cup (B \\setminus A)$ suy ra $\\{1;3;4;5\\}=\\{4;5\\}\\cup (B\\setminus A)$.<br>  Do đó $\\{1;3\\} \\subset B\\setminus A$, hay $\\{1;3\\}\\in B$.<br>  Vậy $B=\\{1;2;3\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D135TN13",
@@ -158,7 +170,8 @@ window.tracNghiem0D13 = [
       "$32$"
     ],
     "answer": 0,
-    "explain": "Gọi $A$ và $B$ lần lượt là tập hợp học sinh giỏi Toán và học sinh giỏi văn của lớp $10A$.<br>  Khi đó số học sinh giỏi cả hai môn là $A\\cap B$.<br>  Số học sinh giỏi toán hoặc giỏi văn là $n\\left(A\\cup B\\right)=n(A)+n(B)-n(A\\cap B)=10+15-5=20$ học sinh.<br>  Số học sinh của lớp là $20+17=37$ học sinh."
+    "explain": "Gọi $A$ và $B$ lần lượt là tập hợp học sinh giỏi Toán và học sinh giỏi văn của lớp $10A$.<br>  Khi đó số học sinh giỏi cả hai môn là $A\\cap B$.<br>  Số học sinh giỏi toán hoặc giỏi văn là $n\\left(A\\cup B\\right)=n(A)+n(B)-n(A\\cap B)=10+15-5=20$ học sinh.<br>  Số học sinh của lớp là $20+17=37$ học sinh.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN14",
@@ -170,7 +183,8 @@ window.tracNghiem0D13 = [
       "$43$"
     ],
     "answer": 3,
-    "explain": "Gọi $A$ và $B$ lần lượt là tập hợp các cán bộ phiên dịch tiếng Anh và tiếng Pháp.<br>  Khi đó cán bộ phiên dịch được cả hai thứ tiếng là $A\\cap B$.<br>  Số cán bộ phiên dịch được huy động là $n(A\\cup B)=n(A)+n(B)-n(A\\cap B)=30+25-12=43$."
+    "explain": "Gọi $A$ và $B$ lần lượt là tập hợp các cán bộ phiên dịch tiếng Anh và tiếng Pháp.<br>  Khi đó cán bộ phiên dịch được cả hai thứ tiếng là $A\\cap B$.<br>  Số cán bộ phiên dịch được huy động là $n(A\\cup B)=n(A)+n(B)-n(A\\cap B)=30+25-12=43$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D135TN15",
@@ -182,7 +196,8 @@ window.tracNghiem0D13 = [
       "$49$"
     ],
     "answer": 0,
-    "explain": "Gọi $A$, $B$, $C$ lần lượt là tập hợp các học sinh giỏi Toán, Lý và Hóa của lớp $10A$.  <br>- Số học sinh học giỏi Toán $n(A)=10$.<br>- Số học sinh giỏi Lý $n(B)=10$.<br>- Số học sinh giỏi Hóa $n(C)=11$.<br>- Số học sinh giỏi cả Toán và Lý là $n(A\\cap B)=6$.<br>- Số học sinh giỏi cả Hóa và Lý là $n(B\\cap C)=5$.<br>- Số học sinh giỏi cả Toán và Hóa là $n(A\\cap C)=4$.<br>- Số học sinh giỏi cả ba môn là $n(A\\cap B\\cap C)=3$.  Số học sinh giỏi ít nhất một trong ba môn là   $n(A\\cup B\\cup C) = n(A)+n(B)+n(C)-\\left[n(A\\cap B)+n(B\\cap C)+n(A\\cap C)\\right]+n(A\\cap B\\cap C)$<br>$= 10+10+11-(6+5+4)+3=19.$"
+    "explain": "Gọi $A$, $B$, $C$ lần lượt là tập hợp các học sinh giỏi Toán, Lý và Hóa của lớp $10A$.  <br>- Số học sinh học giỏi Toán $n(A)=10$.<br>- Số học sinh giỏi Lý $n(B)=10$.<br>- Số học sinh giỏi Hóa $n(C)=11$.<br>- Số học sinh giỏi cả Toán và Lý là $n(A\\cap B)=6$.<br>- Số học sinh giỏi cả Hóa và Lý là $n(B\\cap C)=5$.<br>- Số học sinh giỏi cả Toán và Hóa là $n(A\\cap C)=4$.<br>- Số học sinh giỏi cả ba môn là $n(A\\cap B\\cap C)=3$.  Số học sinh giỏi ít nhất một trong ba môn là   $n(A\\cup B\\cup C) = n(A)+n(B)+n(C)-\\left[n(A\\cap B)+n(B\\cap C)+n(A\\cap C)\\right]+n(A\\cap B\\cap C)$<br>$= 10+10+11-(6+5+4)+3=19.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D135TN16",
@@ -194,7 +209,8 @@ window.tracNghiem0D13 = [
       "$28$"
     ],
     "answer": 2,
-    "explain": "Gọi $A$, $B$, $C$ lần lượt là tập hợp các học sinh giỏi Toán, Lý và Hóa của lớp $10A$.  <br>- Số học sinh học giỏi Toán $n(A)=7$.<br>- Số học sinh giỏi Lý $n(B)=5$.<br>- Số học sinh giỏi Hóa $n(C)=6$.<br>- Số học sinh giỏi cả Toán và Lý là $n(A\\cap B)=3$.<br>- Số học sinh giỏi cả Hóa và Lý là $n(B\\cap C)=2$.<br>- Số học sinh giỏi cả Toán và Hóa là $n(A\\cap C)=4$.<br>- Số học sinh giỏi cả ba môn là $n(A\\cap B\\cap C)=1$.  Số học sinh giỏi ít nhất một trong ba môn là $n(A\\cup B\\cup C)=n(A)+n(B)+n(C)-\\left[n(A\\cap B)+n(B\\cap C)+n(A\\cap C)\\right]+n(A\\cap B\\cap C)=7+5+6-(3+2+4)+1=10.$"
+    "explain": "Gọi $A$, $B$, $C$ lần lượt là tập hợp các học sinh giỏi Toán, Lý và Hóa của lớp $10A$.  <br>- Số học sinh học giỏi Toán $n(A)=7$.<br>- Số học sinh giỏi Lý $n(B)=5$.<br>- Số học sinh giỏi Hóa $n(C)=6$.<br>- Số học sinh giỏi cả Toán và Lý là $n(A\\cap B)=3$.<br>- Số học sinh giỏi cả Hóa và Lý là $n(B\\cap C)=2$.<br>- Số học sinh giỏi cả Toán và Hóa là $n(A\\cap C)=4$.<br>- Số học sinh giỏi cả ba môn là $n(A\\cap B\\cap C)=1$.  Số học sinh giỏi ít nhất một trong ba môn là $n(A\\cup B\\cup C)=n(A)+n(B)+n(C)-\\left[n(A\\cap B)+n(B\\cap C)+n(A\\cap C)\\right]+n(A\\cap B\\cap C)=7+5+6-(3+2+4)+1=10.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN17",
@@ -206,7 +222,8 @@ window.tracNghiem0D13 = [
       "$32$"
     ],
     "answer": 2,
-    "explain": "Ta có $B\\cap C\\subset B$ và $B\\cap C\\subset C$, do đó $n(B\\cap C)\\le n(B)$ và $n(B\\cap C)\\le n(C)$.<br>  Suy ra số phần tử lớn nhất có thể có của $B\\cap C$ là $30$ khi $C\\subset B$."
+    "explain": "Ta có $B\\cap C\\subset B$ và $B\\cap C\\subset C$, do đó $n(B\\cap C)\\le n(B)$ và $n(B\\cap C)\\le n(C)$.<br>  Suy ra số phần tử lớn nhất có thể có của $B\\cap C$ là $30$ khi $C\\subset B$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN18",
@@ -218,7 +235,8 @@ window.tracNghiem0D13 = [
       "$C=B\\setminus A$"
     ],
     "answer": 1,
-    "explain": "Vì $f^2(x)\\ge 0$ và $g^2(x)\\ge 0$, $\\forall x$ nên $f^2(x)+g^2(x)=0\\Leftrightarrow f(x)=0 \\text{ và } g(x)=0.$  Do đó $x\\in C\\Leftrightarrow x\\in A \\text{ và } x\\in B\\Leftrightarrow x\\in (A\\cap B)$."
+    "explain": "Vì $f^2(x)\\ge 0$ và $g^2(x)\\ge 0$, $\\forall x$ nên $f^2(x)+g^2(x)=0\\Leftrightarrow f(x)=0 \\text{ và } g(x)=0.$  Do đó $x\\in C\\Leftrightarrow x\\in A \\text{ và } x\\in B\\Leftrightarrow x\\in (A\\cap B)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN19",
@@ -230,7 +248,8 @@ window.tracNghiem0D13 = [
       "$15$"
     ],
     "answer": 1,
-    "explain": "Vì $n(X)=n(Y)$ nên $n(X\\setminus Y)=n(Y\\setminus X)=15$.<br>  Do đó $n\\left(X\\cap Y\\right)=n\\left(X\\cup Y\\right)-\\left(n(X\\setminus Y)+n(Y \\setminus X)\\right)=35-(15+15)=5$.<br>  Vì $(X\\setminus Y) \\cup (X\\cap Y)=X$ và $(X\\setminus Y) \\cap (X\\cap Y)=\\varnothing$ nên $n(X)=n\\left(X\\setminus Y\\right)+n(X\\cap Y)=15+5=20.$"
+    "explain": "Vì $n(X)=n(Y)$ nên $n(X\\setminus Y)=n(Y\\setminus X)=15$.<br>  Do đó $n\\left(X\\cap Y\\right)=n\\left(X\\cup Y\\right)-\\left(n(X\\setminus Y)+n(Y \\setminus X)\\right)=35-(15+15)=5$.<br>  Vì $(X\\setminus Y) \\cup (X\\cap Y)=X$ và $(X\\setminus Y) \\cap (X\\cap Y)=\\varnothing$ nên $n(X)=n\\left(X\\setminus Y\\right)+n(X\\cap Y)=15+5=20.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN20",
@@ -242,7 +261,8 @@ window.tracNghiem0D13 = [
       "$M= (2; 5]$"
     ],
     "answer": 0,
-    "explain": "Viết lại $M= [2; 5)$."
+    "explain": "Viết lại $M= [2; 5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN21",
@@ -254,7 +274,8 @@ window.tracNghiem0D13 = [
       "$(1;3]$"
     ],
     "answer": 1,
-    "explain": "Ta có $[-4; 1) \\cup (-2;3] =[-4;3]$."
+    "explain": "Ta có $[-4; 1) \\cup (-2;3] =[-4;3]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN22",
@@ -266,7 +287,8 @@ window.tracNghiem0D13 = [
       "$(-1;1)$"
     ],
     "answer": 2,
-    "explain": "Ta có $(-\\infty ; 1) \\cap [-1;2) = [-1;1)$."
+    "explain": "Ta có $(-\\infty ; 1) \\cap [-1;2) = [-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN23",
@@ -278,7 +300,8 @@ window.tracNghiem0D13 = [
       "$[3;9)$"
     ],
     "answer": 3,
-    "explain": "Ta có $A \\cap B= [3;9)$."
+    "explain": "Ta có $A \\cap B= [3;9)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN24",
@@ -290,7 +313,8 @@ window.tracNghiem0D13 = [
       "$A \\cup B = [-1;5]$"
     ],
     "answer": 0,
-    "explain": "Ta có $B \\setminus A = (3;5)$."
+    "explain": "Ta có $B \\setminus A = (3;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN25",
@@ -302,7 +326,8 @@ window.tracNghiem0D13 = [
       "$(-\\infty ; 0)$"
     ],
     "answer": 0,
-    "explain": "Ta có $A \\setminus B = (-\\infty ; 0]$."
+    "explain": "Ta có $A \\setminus B = (-\\infty ; 0]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN26",
@@ -314,7 +339,8 @@ window.tracNghiem0D13 = [
       "$(2;+ \\infty)$"
     ],
     "answer": 1,
-    "explain": "Phần bù của $[-2;1)$ trong $\\mathbb{R}$ là $(-\\infty ; -2) \\cup [1; +\\infty)$."
+    "explain": "Phần bù của $[-2;1)$ trong $\\mathbb{R}$ là $(-\\infty ; -2) \\cup [1; +\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN27",
@@ -326,7 +352,8 @@ window.tracNghiem0D13 = [
       "$[-2;4]$"
     ],
     "answer": 2,
-    "explain": "Phần bù của tập hợp $(-\\infty ; -2)$ trong $(-\\infty ; 4) $ là $[-2;4)$."
+    "explain": "Phần bù của tập hợp $(-\\infty ; -2)$ trong $(-\\infty ; 4) $ là $[-2;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN28",
@@ -338,7 +365,8 @@ window.tracNghiem0D13 = [
       "$[-2;5]$"
     ],
     "answer": 1,
-    "explain": "Ta có $B \\cup C= [-2;5]$ và $A \\cap C = [-2;3)$ nên $(B \\cup C) \\setminus (A\\cap C) = [3;5]$."
+    "explain": "Ta có $B \\cup C= [-2;5]$ và $A \\cap C = [-2;3)$ nên $(B \\cup C) \\setminus (A\\cap C) = [3;5]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN29",
@@ -350,7 +378,8 @@ window.tracNghiem0D13 = [
       "$(-3;-2) \\cup (3;6)$"
     ],
     "answer": 2,
-    "explain": "Ta có $M \\cap N =[-3;-2) \\cup (3;6]$."
+    "explain": "Ta có $M \\cap N =[-3;-2) \\cup (3;6]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN30",
@@ -362,7 +391,8 @@ window.tracNghiem0D13 = [
       "$(A \\cap B) \\setminus C =\\varnothing$"
     ],
     "answer": 1,
-    "explain": "Ta có $A \\cap B \\cap C =\\{1\\}$."
+    "explain": "Ta có $A \\cap B \\cap C =\\{1\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN31",
@@ -374,7 +404,8 @@ window.tracNghiem0D13 = [
       "$B \\cap C =[2;3)$"
     ],
     "answer": 2,
-    "explain": "Ta có $A \\cup B =\\mathbb{R}$."
+    "explain": "Ta có $A \\cup B =\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN32",
@@ -386,7 +417,8 @@ window.tracNghiem0D13 = [
       "$[3;4]$"
     ],
     "answer": 2,
-    "explain": "Ta có $A \\cup B = (-\\infty ; -2] \\cup [3;+\\infty) $ nên $(A\\cup B) \\cap C =[3;4)$."
+    "explain": "Ta có $A \\cup B = (-\\infty ; -2] \\cup [3;+\\infty) $ nên $(A\\cup B) \\cap C =[3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN18",
@@ -398,7 +430,8 @@ window.tracNghiem0D13 = [
       "$\\{1;3\\}$"
     ],
     "answer": 0,
-    "explain": "$A \\cap B$ là tập hợp các phần tử chung của $A$ và $B$.  $A \\cap B = \\{0;1;5\\} \\cap \\{1;3;5;7;9\\} = \\{1;5\\}.$"
+    "explain": "$A \\cap B$ là tập hợp các phần tử chung của $A$ và $B$.  $A \\cap B = \\{0;1;5\\} \\cap \\{1;3;5;7;9\\} = \\{1;5\\}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN2",
@@ -410,7 +443,8 @@ window.tracNghiem0D13 = [
       "$(-\\infty;-2)$"
     ],
     "answer": 2,
-    "explain": "Phần bù của $A = (-\\infty;-2)$ trong $E = (-\\infty;4)$ là $C_E A = E \\setminus A$.  $C_E A = (-\\infty;4) \\setminus (-\\infty;-2) = [-2;4).$"
+    "explain": "Phần bù của $A = (-\\infty;-2)$ trong $E = (-\\infty;4)$ là $C_E A = E \\setminus A$.  $C_E A = (-\\infty;4) \\setminus (-\\infty;-2) = [-2;4).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN1",
@@ -422,7 +456,8 @@ window.tracNghiem0D13 = [
       "$A \\setminus B = \\varnothing$"
     ],
     "answer": 1,
-    "explain": "Tập hợp $A \\setminus B$ là tập hợp gồm các phần tử thuộc $A$ nhưng không thuộc $B$.<br>  Các phần tử thuộc $A$ nhưng không thuộc $B$ là các số $0, 1, 2, 3, 4, 5, 6$.<br>  Vậy $A \\setminus B = \\{0, 1, 2, 3, 4, 5, 6\\}$."
+    "explain": "Tập hợp $A \\setminus B$ là tập hợp gồm các phần tử thuộc $A$ nhưng không thuộc $B$.<br>  Các phần tử thuộc $A$ nhưng không thuộc $B$ là các số $0, 1, 2, 3, 4, 5, 6$.<br>  Vậy $A \\setminus B = \\{0, 1, 2, 3, 4, 5, 6\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D132TN2",
@@ -434,7 +469,8 @@ window.tracNghiem0D13 = [
       "$\\{6; 9\\}$"
     ],
     "answer": 3,
-    "explain": "Ta có $A=\\{2; 4; 6; 9\\}$, $B=\\{1; 2; 3; 4\\}$ suy ra $A\\setminus B=\\{6; 9\\}$."
+    "explain": "Ta có $A=\\{2; 4; 6; 9\\}$, $B=\\{1; 2; 3; 4\\}$ suy ra $A\\setminus B=\\{6; 9\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN3",
@@ -446,7 +482,8 @@ window.tracNghiem0D13 = [
       "$M\\cap N=\\mathbb{R}$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/10/0D1/im0D13/loc2_0_TN_DS_TL_SGD_B_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>  <br><img src=\"data/10/0D1/im0D13/loc2_0_TN_DS_TL_SGD_B_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào hình vẽ, ta có $M\\cap N=(-3; 5]$."
+    "explain": "<br><img src=\"data/10/0D1/im0D13/loc2_0_TN_DS_TL_SGD_B_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>  <br><img src=\"data/10/0D1/im0D13/loc2_0_TN_DS_TL_SGD_B_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào hình vẽ, ta có $M\\cap N=(-3; 5]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN6",
@@ -458,7 +495,8 @@ window.tracNghiem0D13 = [
       "$B=(-\\infty;-2)\\cup(2;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Ta có $B=C_\\mathbb{R}A=(-\\infty;-2)\\cup[2;+\\infty)$."
+    "explain": "Ta có $B=C_\\mathbb{R}A=(-\\infty;-2)\\cup[2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN1",
@@ -470,7 +508,8 @@ window.tracNghiem0D13 = [
       "$\\left(-\\infty;2\\right]\\cup\\left(5;+\\infty\\right)$"
     ],
     "answer": 0,
-    "explain": "$C_{\\mathbb{R}}A=\\left(-\\infty;2\\right)\\cup\\left[5;+\\infty\\right)$."
+    "explain": "$C_{\\mathbb{R}}A=\\left(-\\infty;2\\right)\\cup\\left[5;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D133TN2",
@@ -482,7 +521,8 @@ window.tracNghiem0D13 = [
       "$ 4$"
     ],
     "answer": 1,
-    "explain": "$ A\\cap B=\\left(-1 ;1\\right]$ nên có các phần tử nguyên là $0$, $1$."
+    "explain": "$ A\\cap B=\\left(-1 ;1\\right]$ nên có các phần tử nguyên là $0$, $1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D135TN3",
@@ -494,7 +534,8 @@ window.tracNghiem0D13 = [
       "$5$"
     ],
     "answer": 0,
-    "explain": "Số học sinh thi môn Ngữ văn nhưng không thi Toán là $15-5=10$ học sinh. <br>  Số học sinh thi môn Toán nhưng không thi môn Ngữ văn là $20-5=15$ học sinh. <br>   Từ đó, ta vẽ được biểu đồ Venn như sau   <br><img src=\"data/10/0D1/im0D13/loc3_0_TN_DS_THPT_chu_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó, ta có số học sinh không thi cả Toán và Ngữ văn là $40-10-5-15=10$ học sinh."
+    "explain": "Số học sinh thi môn Ngữ văn nhưng không thi Toán là $15-5=10$ học sinh. <br>  Số học sinh thi môn Toán nhưng không thi môn Ngữ văn là $20-5=15$ học sinh. <br>   Từ đó, ta vẽ được biểu đồ Venn như sau   <br><img src=\"data/10/0D1/im0D13/loc3_0_TN_DS_THPT_chu_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó, ta có số học sinh không thi cả Toán và Ngữ văn là $40-10-5-15=10$ học sinh.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D134TN4",
@@ -506,7 +547,8 @@ window.tracNghiem0D13 = [
       "$[-8; 1)$"
     ],
     "answer": 1,
-    "explain": "Vì $A=[-8;3]$ và $B=(1;6]$ nên $B\\setminus A=(3;6]$."
+    "explain": "Vì $A=[-8;3]$ và $B=(1;6]$ nên $B\\setminus A=(3;6]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D131TN5",
@@ -518,6 +560,7 @@ window.tracNghiem0D13 = [
       "$\\{2;3;4;5;6;7;8\\}$"
     ],
     "answer": 1,
-    "explain": "Với $A=\\{2;3;4\\}$ và $B=\\{2;4;6;7;8\\}$, ta có $A\\cup B=\\{2;3;4;6;7;8\\}$."
+    "explain": "Với $A=\\{2;3;4\\}$ và $B=\\{2;4;6;7;8\\}$, ta có $A\\cup B=\\{2;3;4;6;7;8\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

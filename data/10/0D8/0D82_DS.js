@@ -25,6 +25,7 @@ window.dungSai0D82 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Sai. Số vectơ khác vectơ $\\overrightarrow{0}$ có điểm đầu và điểm cuối thuộc các điểm đã cho là $ \\mathrm{A}_{10}^2$.<br>- Sai. Số đoạn thẳng có điểm đầu mút thuộc các điểm đã cho là $ \\mathrm{C}_{10}^2$.<br>- Đúng. Số tam giác có đỉnh thuộc các điểm đã cho là $ \\mathrm{C}_{10}^3$.<br>- Sai. Số đường chéo của đa giác có $10$ đỉnh thuộc các điểm đã cho là $\\mathrm{C}_{10}^2-10=35$."
+    "explain": "<br>- Sai. Số vectơ khác vectơ $\\overrightarrow{0}$ có điểm đầu và điểm cuối thuộc các điểm đã cho là $ \\mathrm{A}_{10}^2$.<br>- Sai. Số đoạn thẳng có điểm đầu mút thuộc các điểm đã cho là $ \\mathrm{C}_{10}^2$.<br>- Đúng. Số tam giác có đỉnh thuộc các điểm đã cho là $ \\mathrm{C}_{10}^3$.<br>- Sai. Số đường chéo của đa giác có $10$ đỉnh thuộc các điểm đã cho là $\\mathrm{C}_{10}^2-10=35$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

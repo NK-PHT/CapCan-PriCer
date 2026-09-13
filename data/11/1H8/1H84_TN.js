@@ -15,7 +15,8 @@ window.tracNghiem1H84 = [
       "$(SAC)$"
     ],
     "answer": 1,
-    "explain": "Ta có $SA\\perp(ABCD)$ suy ra $(SAB)\\perp(ABCD)$, $(SAC)\\perp(ABCD)$, $(SAD)\\perp(ABCD)$."
+    "explain": "Ta có $SA\\perp(ABCD)$ suy ra $(SAB)\\perp(ABCD)$, $(SAC)\\perp(ABCD)$, $(SAD)\\perp(ABCD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H843TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1H84 = [
       "$90^\\circ$"
     ],
     "answer": 3,
-    "explain": "Trong hình lập phương $ABCD.A'B'C'D'$, ta có<br>  $AB \\parallel CD$ suy ra $(AB,DD')=(CD,DD')=90^\\circ$."
+    "explain": "Trong hình lập phương $ABCD.A'B'C'D'$, ta có<br>  $AB \\parallel CD$ suy ra $(AB,DD')=(CD,DD')=90^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H841TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1H84 = [
       "$(SAC)\\perp(ABCD)$"
     ],
     "answer": 0,
-    "explain": "Ta có <br>- $SA \\perp(ABCD)$, $SA \\subset(SAB)$ $\\Rightarrow (SAB)\\perp(ABCD)$.<br>- $SA \\perp(ABCD)$, $SA \\subset(SAD)$ $\\Rightarrow (SAD)\\perp(ABCD)$.<br>- $SA \\perp(ABCD)$, $SA \\subset(SAC)$ $\\Rightarrow (SAC)\\perp(ABCD)$.  Do đó $(SBC)\\perp(ABCD)$ là khẳng định sai."
+    "explain": "Ta có <br>- $SA \\perp(ABCD)$, $SA \\subset(SAB)$ $\\Rightarrow (SAB)\\perp(ABCD)$.<br>- $SA \\perp(ABCD)$, $SA \\subset(SAD)$ $\\Rightarrow (SAD)\\perp(ABCD)$.<br>- $SA \\perp(ABCD)$, $SA \\subset(SAC)$ $\\Rightarrow (SAC)\\perp(ABCD)$.  Do đó $(SBC)\\perp(ABCD)$ là khẳng định sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H843TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1H84 = [
       "$(SCD)$"
     ],
     "answer": 1,
-    "explain": "Vì $SA\\perp (ABCD)$ và $SA\\subset (SAC)$ nên $(SAC)\\perp (ABCD)$."
+    "explain": "Vì $SA\\perp (ABCD)$ và $SA\\subset (SAC)$ nên $(SAC)\\perp (ABCD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H843TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1H84 = [
       "$(SAB) \\perp(ABC)$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS29_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có  <br>- $(SAC) \\perp(ABC)$ vì $SA \\perp(ABC) \\text{ và } SA \\subset(SAC).$<br>- $(SBC) \\perp(SAB)$ vì $BC \\perp(SAB) \\text{ và } BC \\subset(SAB).$<br>- $(SAB) \\perp(ABC)$ vì $SA \\perp(ABC) \\text{ và } SA \\subset(SAB).$  Vậy $(SBC) \\perp(SAC)$ là khẳng định <strong>sai</strong>."
+    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS29_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có  <br>- $(SAC) \\perp(ABC)$ vì $SA \\perp(ABC) \\text{ và } SA \\subset(SAC).$<br>- $(SBC) \\perp(SAB)$ vì $BC \\perp(SAB) \\text{ và } BC \\subset(SAB).$<br>- $(SAB) \\perp(ABC)$ vì $SA \\perp(ABC) \\text{ và } SA \\subset(SAB).$  Vậy $(SBC) \\perp(SAC)$ là khẳng định <strong>sai</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H843TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1H84 = [
       "$(SBC)$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS36_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Xét $BD$ và $(SAC)$, ta có  $ BD \\perp AC \\text{ (Do } ABCD \\text{ là hình thoi}) \\text{ và } BD \\perp SA \\text{ (Do } SA\\perp (ABCD) \\text{ và } BD\\subset (ABCD)) \\text{ và } AC\\subset (SAC), \\ SA\\subset (SAC), \\ SA \\cap AC = A. $  Do đó $BD\\perp (SAC)$. Mà $BD\\subset (SBD)$ nên $(SBD) \\perp (SAC)$."
+    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS36_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Xét $BD$ và $(SAC)$, ta có  $ BD \\perp AC \\text{ (Do } ABCD \\text{ là hình thoi}) \\text{ và } BD \\perp SA \\text{ (Do } SA\\perp (ABCD) \\text{ và } BD\\subset (ABCD)) \\text{ và } AC\\subset (SAC), \\ SA\\subset (SAC), \\ SA \\cap AC = A. $  Do đó $BD\\perp (SAC)$. Mà $BD\\subset (SBD)$ nên $(SBD) \\perp (SAC)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H841TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1H84 = [
       "$(SBC)\\perp (SAB)$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS36_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $SA \\perp (ABC)$, mà các mặt phẳng $(SAB)$ và $(SAC)$ đều chứa đường thẳng $SA$ nên các mặt phẳng $(SAB)$ và $(SAC)$ đều vuông góc với $(ABC)$. <br>  Xét $BC$ và $(SAB)$, ta có  $ BC \\perp AB \\text{ (Do tam giác } ABC \\text{ vuông tại }B) \\text{ và } BC \\perp SA \\text{ (Do } SA\\perp (ABC) \\text{ và } BC\\subset (ABC)) \\text{ và } AB\\subset (SAB), \\ SA\\subset (SAB), \\ SA \\cap AB = A. $  Do đó $BC\\perp (SAB)$. Mà $BC\\subset (SBC)$ nên $(SBC) \\perp (SAB)$."
+    "explain": "<br><img src=\"data/11/1H8/im1H84/dlts_11_DLTS36_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $SA \\perp (ABC)$, mà các mặt phẳng $(SAB)$ và $(SAC)$ đều chứa đường thẳng $SA$ nên các mặt phẳng $(SAB)$ và $(SAC)$ đều vuông góc với $(ABC)$. <br>  Xét $BC$ và $(SAB)$, ta có  $ BC \\perp AB \\text{ (Do tam giác } ABC \\text{ vuông tại }B) \\text{ và } BC \\perp SA \\text{ (Do } SA\\perp (ABC) \\text{ và } BC\\subset (ABC)) \\text{ và } AB\\subset (SAB), \\ SA\\subset (SAB), \\ SA \\cap AB = A. $  Do đó $BC\\perp (SAB)$. Mà $BC\\subset (SBC)$ nên $(SBC) \\perp (SAB)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H841TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1H84 = [
       "$(SBC)\\perp (SCD)$"
     ],
     "answer": 2,
-    "explain": "Ta có $BC\\perp AB \\text{ và } BC\\perp SA\\Rightarrow BC\\perp (SAB)\\Rightarrow (SBC)\\perp (SAB)$."
+    "explain": "Ta có $BC\\perp AB \\text{ và } BC\\perp SA\\Rightarrow BC\\perp (SAB)\\Rightarrow (SBC)\\perp (SAB)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H843TN7",
@@ -111,6 +119,7 @@ window.tracNghiem1H84 = [
       "$\\left(SBC\\right)$"
     ],
     "answer": 2,
-    "explain": "Ta có $AC\\perp BD \\text{ và } AC\\perp SB$ nên $AC\\perp (SBD)$.<br>  Do đó $(SBD)\\perp (SAC)$."
+    "explain": "Ta có $AC\\perp BD \\text{ và } AC\\perp SB$ nên $AC\\perp (SBD)$.<br>  Do đó $(SBD)\\perp (SAC)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -13,7 +13,8 @@ window.tracNghiem1D13 = [
       "$\\cos 2a=\\cos^2 a+\\sin^2 a$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\cos 2a=\\cos^2 a-\\sin^2 a$."
+    "explain": "Ta có $\\cos 2a=\\cos^2 a-\\sin^2 a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D134TN1",
@@ -25,7 +26,8 @@ window.tracNghiem1D13 = [
       "$T=\\sin 2x$"
     ],
     "answer": 1,
-    "explain": "Ta có \\[\\begin{array}{rcl} &T&=\\sin\\left(\\dfrac{\\pi}{3}+x\\right)-\\sin\\left(\\dfrac{\\pi}{3}-x\\right) \\\\ &&=2\\cos\\dfrac{\\dfrac{\\pi}{3}+x+\\dfrac{\\pi}{3}-x}{2}\\sin\\dfrac{\\dfrac{\\pi}{3}+x-\\dfrac{\\pi}{3}+x}{2} \\\\ &&=2\\cos\\dfrac{\\pi}{3}\\sin x \\\\ &&=2 \\cdot \\dfrac{1}{2} \\cdot \\sin x \\\\ &&=\\sin x. \\end{array}\\] Vậy $T=\\sin x$."
+    "explain": "Ta có \\[\\begin{array}{rcl} &T&=\\sin\\left(\\dfrac{\\pi}{3}+x\\right)-\\sin\\left(\\dfrac{\\pi}{3}-x\\right) \\\\ &&=2\\cos\\dfrac{\\dfrac{\\pi}{3}+x+\\dfrac{\\pi}{3}-x}{2}\\sin\\dfrac{\\dfrac{\\pi}{3}+x-\\dfrac{\\pi}{3}+x}{2} \\\\ &&=2\\cos\\dfrac{\\pi}{3}\\sin x \\\\ &&=2 \\cdot \\dfrac{1}{2} \\cdot \\sin x \\\\ &&=\\sin x. \\end{array}\\] Vậy $T=\\sin x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D134TN2",
@@ -37,7 +39,8 @@ window.tracNghiem1D13 = [
       "$\\cos a \\sin b = \\dfrac{1}{2}\\left(\\sin(a - b) - \\sin(a + b)\\right)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\cos a \\sin b = \\dfrac{1}{2}\\left(\\sin(a + b) - \\sin(a - b)\\right)$."
+    "explain": "Ta có $\\cos a \\sin b = \\dfrac{1}{2}\\left(\\sin(a + b) - \\sin(a - b)\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D132TN1",
@@ -49,7 +52,8 @@ window.tracNghiem1D13 = [
       "$\\sin (a+b)=\\sin a \\cos b+\\cos a \\sin b$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\cos (a+b)=\\cos a \\cos b-\\sin a \\sin b$."
+    "explain": "Ta có $\\cos (a+b)=\\cos a \\cos b-\\sin a \\sin b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D131TN1",
@@ -61,6 +65,7 @@ window.tracNghiem1D13 = [
       "$\\tan(a-b)=\\tan a-\\tan b$"
     ],
     "answer": 2,
-    "explain": "Ta có \\[\\begin{array}{rcl} \\tan(a+b) &=& \\dfrac{\\tan a+\\tan b}{1-\\tan a \\tan b}\\\\ \\tan(a-b) &=& \\dfrac{\\tan a-\\tan b}{1+\\tan a \\tan b}. \\end{array}\\]"
+    "explain": "Ta có \\[\\begin{array}{rcl} \\tan(a+b) &=& \\dfrac{\\tan a+\\tan b}{1-\\tan a \\tan b}\\\\ \\tan(a-b) &=& \\dfrac{\\tan a-\\tan b}{1+\\tan a \\tan b}. \\end{array}\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

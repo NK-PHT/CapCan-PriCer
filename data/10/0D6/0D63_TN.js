@@ -14,7 +14,8 @@ window.tracNghiem0D63 = [
       "$7$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D634TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D63 = [
       "$4,5$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D634TN2",
@@ -38,7 +40,8 @@ window.tracNghiem0D63 = [
       "$40$"
     ],
     "answer": 2,
-    "explain": "Sắp xếp mẫu số liệu theo thứ tự không giảm $9;10;15;18;19;27;30;40;46;100;200$.<br>  Tứ phân vị thứ 2: $Q_2=27$.<br>  Tứ phân vị thứ 3 là trung vị của mẫu $30;40;46;100;200$ là $46$."
+    "explain": "Sắp xếp mẫu số liệu theo thứ tự không giảm $9;10;15;18;19;27;30;40;46;100;200$.<br>  Tứ phân vị thứ 2: $Q_2=27$.<br>  Tứ phân vị thứ 3 là trung vị của mẫu $30;40;46;100;200$ là $46$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D632TN2",
@@ -50,6 +53,7 @@ window.tracNghiem0D63 = [
       "$1\\,176{,}5$"
     ],
     "answer": 1,
-    "explain": "Tuổi thọ trung bình của số bóng đèn trên là:  $\\overline{x}=\\dfrac{1\\,160\\cdot 4+1\\,170\\cdot 6+1\\,180\\cdot 7+1\\,190\\cdot 3}{20}=1\\,174{,}5.$"
+    "explain": "Tuổi thọ trung bình của số bóng đèn trên là:  $\\overline{x}=\\dfrac{1\\,160\\cdot 4+1\\,170\\cdot 6+1\\,180\\cdot 7+1\\,190\\cdot 3}{20}=1\\,174{,}5.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

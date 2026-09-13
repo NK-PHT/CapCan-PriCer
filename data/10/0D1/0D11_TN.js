@@ -14,7 +14,8 @@ window.tracNghiem0D11 = [
       "$P(4)$"
     ],
     "answer": 1,
-    "explain": "Ta có $P(1)\\colon 2 - 1 &gt; 0 $ là mệnh đề đúng."
+    "explain": "Ta có $P(1)\\colon 2 - 1 &gt; 0 $ là mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN1",
@@ -26,7 +27,8 @@ window.tracNghiem0D11 = [
       "$\\overline{P} \\colon$ “ $\\forall x \\in \\mathbb{N}$, $n-1 &lt; 0$ ”"
     ],
     "answer": 0,
-    "explain": "Mệnh đề phủ định của mệnh đề $P \\colon$ “ $\\exists n \\in \\mathbb{N}$, $n-1&lt;0$ ” \\quad là $\\overline{P} \\colon$ “ $\\forall x \\in \\mathbb{N}$, $n-1 \\geq 0$ ”."
+    "explain": "Mệnh đề phủ định của mệnh đề $P \\colon$ “ $\\exists n \\in \\mathbb{N}$, $n-1&lt;0$ ” \\quad là $\\overline{P} \\colon$ “ $\\forall x \\in \\mathbb{N}$, $n-1 \\geq 0$ ”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D113TN1",
@@ -38,7 +40,8 @@ window.tracNghiem0D11 = [
       "Phương trình $ax^{2}+bx+c=0$ $(a\\neq 0)$ có nghiệm"
     ],
     "answer": 3,
-    "explain": "Mệnh đề phủ định của mệnh đề ``Phương trình $ax^{2}+bx+c=0$ $(a\\neq 0)$ vô nghiệm'' là ``Phương trình $ax^{2}+bx+c=0$ $(a\\neq 0)$ có nghiệm''."
+    "explain": "Mệnh đề phủ định của mệnh đề ``Phương trình $ax^{2}+bx+c=0$ $(a\\neq 0)$ vô nghiệm'' là ``Phương trình $ax^{2}+bx+c=0$ $(a\\neq 0)$ có nghiệm''.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D113TN2",
@@ -50,7 +53,8 @@ window.tracNghiem0D11 = [
       "Có ít nhất một số vô tỷ là số thập phân vô hạn không tuần hoàn"
     ],
     "answer": 0,
-    "explain": "Phủ định của mệnh đề: ``Có ít nhất một số vô tỷ là số thập phân vô hạn tuần hoàn'' là ``Mọi số vô tỷ đều là số thập phân vô hạn không tuần hoàn''."
+    "explain": "Phủ định của mệnh đề: ``Có ít nhất một số vô tỷ là số thập phân vô hạn tuần hoàn'' là ``Mọi số vô tỷ đều là số thập phân vô hạn không tuần hoàn''.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN3",
@@ -62,7 +66,8 @@ window.tracNghiem0D11 = [
       "``$\\exists x \\in \\mathbb{R}: 2 x^{2}-3 x-5 \\geq 0$''"
     ],
     "answer": 0,
-    "explain": "Mệnh đề phủ định của mệnh đề đã cho là ``$\\forall x \\in \\mathbb{R}, 2 x^{2}-3 x-5 \\geq 0$''."
+    "explain": "Mệnh đề phủ định của mệnh đề đã cho là ``$\\forall x \\in \\mathbb{R}, 2 x^{2}-3 x-5 \\geq 0$''.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN4",
@@ -74,7 +79,8 @@ window.tracNghiem0D11 = [
       "$\\exists x \\in \\mathbb{R}: x^{2}-x+7 \\geq 0$"
     ],
     "answer": 3,
-    "explain": "Mệnh đề phủ định của $P$ là $\\exists x \\in \\mathbb{R}: x^{2}-x+7 \\geq 0$."
+    "explain": "Mệnh đề phủ định của $P$ là $\\exists x \\in \\mathbb{R}: x^{2}-x+7 \\geq 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN5",
@@ -86,7 +92,8 @@ window.tracNghiem0D11 = [
       "$\\exists x \\in \\mathbb{R}: x^{2}+x+5&lt;0$"
     ],
     "answer": 1,
-    "explain": "Mệnh đề phủ định của mệnh đề đã cho là $\\exists x \\in \\mathbb{R}, x^{2}+x+5 \\leq 0$."
+    "explain": "Mệnh đề phủ định của mệnh đề đã cho là $\\exists x \\in \\mathbb{R}, x^{2}+x+5 \\leq 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN6",
@@ -98,7 +105,8 @@ window.tracNghiem0D11 = [
       "$\\forall x \\in \\mathbb{R}, x&gt;3 \\Rightarrow x^{2}&gt;9$"
     ],
     "answer": 3,
-    "explain": "Mệnh đề đúng là $\\forall x \\in \\mathbb{R}, x&gt;3 \\Rightarrow x^{2}&gt;9$."
+    "explain": "Mệnh đề đúng là $\\forall x \\in \\mathbb{R}, x&gt;3 \\Rightarrow x^{2}&gt;9$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN6",
@@ -110,7 +118,8 @@ window.tracNghiem0D11 = [
       "$\\sqrt{(-5)^2} = -5$"
     ],
     "answer": 1,
-    "explain": "Ta có “ $\\sqrt{5}$ có lớn hơn $3$ không?”\\, là một câu hỏi, không phải là một câu khẳng định. Do đó, không phải là một mệnh đề toán học."
+    "explain": "Ta có “ $\\sqrt{5}$ có lớn hơn $3$ không?”\\, là một câu hỏi, không phải là một câu khẳng định. Do đó, không phải là một mệnh đề toán học.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN2",
@@ -122,7 +131,8 @@ window.tracNghiem0D11 = [
       "$\\exists x \\in \\mathbb{Q},\\, 2x^2 - 5x + 2 \\ne 0$"
     ],
     "answer": 2,
-    "explain": "Mệnh đề phủ định của mệnh đề đã cho là $\\forall x \\in \\mathbb{Q},\\, 2x^2 - 5x + 2 \\ne 0$."
+    "explain": "Mệnh đề phủ định của mệnh đề đã cho là $\\forall x \\in \\mathbb{Q},\\, 2x^2 - 5x + 2 \\ne 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN3",
@@ -134,7 +144,8 @@ window.tracNghiem0D11 = [
       "Tứ giác $ABCD$ có hai đường chéo vuông góc với nhau là điều kiện cần và đủ để nó là hình vuông"
     ],
     "answer": 0,
-    "explain": "Mệnh đề đã cho có dạng $P \\Rightarrow Q$, trong đó:<br>  $P$: Tứ giác $ABCD$ là hình vuông.<br>  $Q$: Tứ giác $ABCD$ có hai đường chéo vuông góc với nhau.<br>  Ta biết rằng, mọi hình vuông đều có hai đường chéo vuông góc với nhau. Do đó, mệnh đề $P \\Rightarrow Q$ là mệnh đề đúng.<br>  Trong mệnh đề đúng $P \\Rightarrow Q$:  <br>- $P$ là điều kiện đủ để có $Q$.<br>- $Q$ là điều kiện cần để có $P$.  Do đó “ Tứ giác $ABCD$ là hình vuông”\\, là điều kiện đủ để “ Hình vuông có hai đường chéo vuông góc với nhau”."
+    "explain": "Mệnh đề đã cho có dạng $P \\Rightarrow Q$, trong đó:<br>  $P$: Tứ giác $ABCD$ là hình vuông.<br>  $Q$: Tứ giác $ABCD$ có hai đường chéo vuông góc với nhau.<br>  Ta biết rằng, mọi hình vuông đều có hai đường chéo vuông góc với nhau. Do đó, mệnh đề $P \\Rightarrow Q$ là mệnh đề đúng.<br>  Trong mệnh đề đúng $P \\Rightarrow Q$:  <br>- $P$ là điều kiện đủ để có $Q$.<br>- $Q$ là điều kiện cần để có $P$.  Do đó “ Tứ giác $ABCD$ là hình vuông”\\, là điều kiện đủ để “ Hình vuông có hai đường chéo vuông góc với nhau”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN7",
@@ -146,7 +157,8 @@ window.tracNghiem0D11 = [
       "$\\forall x \\in \\mathbb{R}, x^2 + 2x + 2 &gt; 0$"
     ],
     "answer": 0,
-    "explain": "Xét mệnh đề $\\forall x \\in \\mathbb{R}, x^2 &gt; 0$. <br>  Bình phương của mọi số thực luôn không âm. Mệnh đề này sai."
+    "explain": "Xét mệnh đề $\\forall x \\in \\mathbb{R}, x^2 &gt; 0$. <br>  Bình phương của mọi số thực luôn không âm. Mệnh đề này sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN5",
@@ -158,7 +170,8 @@ window.tracNghiem0D11 = [
       "$2$"
     ],
     "answer": 1,
-    "explain": "Các phát biểu $1$, $2$, $4$ là những mệnh đề."
+    "explain": "Các phát biểu $1$, $2$, $4$ là những mệnh đề.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111TN6",
@@ -170,7 +183,8 @@ window.tracNghiem0D11 = [
       "Số $5$ là một số tự nhiên"
     ],
     "answer": 3,
-    "explain": "“ Số $5$ là một số tự nhiên”\\,là mệnh đề toán học."
+    "explain": "“ Số $5$ là một số tự nhiên”\\,là mệnh đề toán học.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN8",
@@ -182,7 +196,8 @@ window.tracNghiem0D11 = [
       "“$\\forall x \\in \\mathbb{R}, x^2-5&gt; 0$”"
     ],
     "answer": 2,
-    "explain": "Mệnh đề phủ định của mệnh đề “$\\exists x \\in \\mathbb{R}, x^2-5=0$”\\, là “$\\forall x \\in \\mathbb{R}, x^2-5\\neq 0$”."
+    "explain": "Mệnh đề phủ định của mệnh đề “$\\exists x \\in \\mathbb{R}, x^2-5=0$”\\, là “$\\forall x \\in \\mathbb{R}, x^2-5\\neq 0$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN8",
@@ -194,7 +209,8 @@ window.tracNghiem0D11 = [
       "$4$"
     ],
     "answer": 1,
-    "explain": "Các mệnh đề Toán học là mệnh đề số $1$ và $4$."
+    "explain": "Các mệnh đề Toán học là mệnh đề số $1$ và $4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111TN7",
@@ -206,7 +222,8 @@ window.tracNghiem0D11 = [
       "Học Toán thật thú vị!"
     ],
     "answer": 1,
-    "explain": "Phát biểu “ $ 3$ là số nguyên tố” là mệnh đề."
+    "explain": "Phát biểu “ $ 3$ là số nguyên tố” là mệnh đề.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN9",
@@ -218,7 +235,8 @@ window.tracNghiem0D11 = [
       "$\\forall x\\in\\mathbb{R},x^2-3x\\le 0$"
     ],
     "answer": 2,
-    "explain": "$\\overline{P}\\colon\\exists x\\in\\mathbb{R},x^2-3x\\le 0$."
+    "explain": "$\\overline{P}\\colon\\exists x\\in\\mathbb{R},x^2-3x\\le 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN10",
@@ -230,7 +248,8 @@ window.tracNghiem0D11 = [
       "“ $\\forall x\\in\\mathbb{N} \\colon 2x^2-5x+3\\ne 0$”"
     ],
     "answer": 3,
-    "explain": "Phủ định của mệnh đề “ $\\exists x\\in\\mathbb{N} \\colon 2x^2-5x+3=0$”\\ là mệnh đề “ $\\forall x\\in\\mathbb{N} \\colon 2x^2-5x+3\\ne 0$”."
+    "explain": "Phủ định của mệnh đề “ $\\exists x\\in\\mathbb{N} \\colon 2x^2-5x+3=0$”\\ là mệnh đề “ $\\forall x\\in\\mathbb{N} \\colon 2x^2-5x+3\\ne 0$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111TN4",
@@ -242,7 +261,8 @@ window.tracNghiem0D11 = [
       "$x = \\dfrac{5}{2}$"
     ],
     "answer": 1,
-    "explain": "Thay $x=3$, ta được $-2\\cdot 3^2+3+1=-14&lt;0$. Do đó, $P(3)$ là mệnh đề đúng. <br>   Thay $x=\\dfrac{1}{2}$, ta được $-2\\cdot\\left(\\dfrac{1}{2}\\right)^2+\\dfrac{1}{2}+1=1&gt;0$. Do đó, $P\\left(\\dfrac{1}{2}\\right)$ là mệnh đề sai. <br>   Thay $x=2$, ta được $-2\\cdot 2^2+2+1=-5&lt;0$. Do đó, $P(2)$ là mệnh đề đúng.<br>   Thay $x=\\dfrac{5}{2}$, ta được $-2\\cdot\\left(\\dfrac{5}{2}\\right)^2+\\dfrac{5}{2}+1=-9&lt;0$. Do đó, $P\\left(\\dfrac{5}{2}\\right)$ là mệnh đề đúng. <br>   Vậy giá trị của $x$ làm cho $P(x)$ trở thành một mệnh đề sai là $x=\\dfrac{1}{2}$."
+    "explain": "Thay $x=3$, ta được $-2\\cdot 3^2+3+1=-14&lt;0$. Do đó, $P(3)$ là mệnh đề đúng. <br>   Thay $x=\\dfrac{1}{2}$, ta được $-2\\cdot\\left(\\dfrac{1}{2}\\right)^2+\\dfrac{1}{2}+1=1&gt;0$. Do đó, $P\\left(\\dfrac{1}{2}\\right)$ là mệnh đề sai. <br>   Thay $x=2$, ta được $-2\\cdot 2^2+2+1=-5&lt;0$. Do đó, $P(2)$ là mệnh đề đúng.<br>   Thay $x=\\dfrac{5}{2}$, ta được $-2\\cdot\\left(\\dfrac{5}{2}\\right)^2+\\dfrac{5}{2}+1=-9&lt;0$. Do đó, $P\\left(\\dfrac{5}{2}\\right)$ là mệnh đề đúng. <br>   Vậy giá trị của $x$ làm cho $P(x)$ trở thành một mệnh đề sai là $x=\\dfrac{1}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D111TN5",
@@ -254,7 +274,8 @@ window.tracNghiem0D11 = [
       "$1$"
     ],
     "answer": 1,
-    "explain": "Xét các câu đã cho:  <br>- [1)]<br>- “ $19$ là số nguyên tố”\\ là mệnh đề.<br>- “ Tam giác vuông có một đường trung tuyến bằng nửa cạnh huyền”\\ là mệnh đề.<br>- “ Các em cố gắng tập thật tốt nhé, sắp thi giữa học kì $1$ rồi”\\ không phải là mệnh đề (là lời khuyên).<br>- “ Mọi hình chữ nhật đều nội tiếp được đường tròn”\\ là mệnh đề.  Vậy có $3$ câu là mệnh đề."
+    "explain": "Xét các câu đã cho:  <br>- [1)]<br>- “ $19$ là số nguyên tố”\\ là mệnh đề.<br>- “ Tam giác vuông có một đường trung tuyến bằng nửa cạnh huyền”\\ là mệnh đề.<br>- “ Các em cố gắng tập thật tốt nhé, sắp thi giữa học kì $1$ rồi”\\ không phải là mệnh đề (là lời khuyên).<br>- “ Mọi hình chữ nhật đều nội tiếp được đường tròn”\\ là mệnh đề.  Vậy có $3$ câu là mệnh đề.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN9",
@@ -266,7 +287,8 @@ window.tracNghiem0D11 = [
       "Học, học nữa, học mãi"
     ],
     "answer": 1,
-    "explain": "<br>- “ Hình chữ nhật là hình bình hành phải không?”\\, là câu hỏi.<br>- “ Số $1$ là số nguyên tố”\\, là một khẳng định sai (số nguyên tố phải lớn hơn $1$), đây là một mệnh đề toán học.<br>- “ Tam giác cân có một góc $60^\\circ$ có là tam giác đều không?”\\, là câu hỏi.<br>- “ Học, học nữa, học mãi”\\, là câu khẩu hiệu (câu cảm thán)."
+    "explain": "<br>- “ Hình chữ nhật là hình bình hành phải không?”\\, là câu hỏi.<br>- “ Số $1$ là số nguyên tố”\\, là một khẳng định sai (số nguyên tố phải lớn hơn $1$), đây là một mệnh đề toán học.<br>- “ Tam giác cân có một góc $60^\\circ$ có là tam giác đều không?”\\, là câu hỏi.<br>- “ Học, học nữa, học mãi”\\, là câu khẩu hiệu (câu cảm thán).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D112TN7",
@@ -278,7 +300,8 @@ window.tracNghiem0D11 = [
       "Hình thoi có hai đường chéo vuông góc với nhau"
     ],
     "answer": 2,
-    "explain": "“ Buồn ngủ quá!”\\, là câu cảm thán nên không phải là mệnh đề."
+    "explain": "“ Buồn ngủ quá!”\\, là câu cảm thán nên không phải là mệnh đề.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D115TN11",
@@ -290,6 +313,7 @@ window.tracNghiem0D11 = [
       "$\\overline{P}\\colon \"\\forall x\\in\\mathbb{N}\\colon x^{2}+x-1&lt;0\"$"
     ],
     "answer": 2,
-    "explain": "Phủ định của “ với mọi”\\, ($\\forall$) là “ tồn tại”\\, ($\\exists$).<br>  Phủ định của “ $&gt;$”\\, là “ $\\le$”\\,.<br>  Vậy $\\overline{P}\\colon \"\\exists x\\in\\mathbb{N}\\colon x^{2}+x-1\\le0\"$."
+    "explain": "Phủ định của “ với mọi”\\, ($\\forall$) là “ tồn tại”\\, ($\\exists$).<br>  Phủ định của “ $&gt;$”\\, là “ $\\le$”\\,.<br>  Vậy $\\overline{P}\\colon \"\\exists x\\in\\mathbb{N}\\colon x^{2}+x-1\\le0\"$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

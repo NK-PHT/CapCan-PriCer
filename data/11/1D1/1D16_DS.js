@@ -29,6 +29,7 @@ window.dungSai1D16 = [
         "answer": false
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. $\\sin x+\\sqrt{3}\\cos x=2\\left(\\dfrac{1}{2}\\sin x+\\dfrac{\\sqrt{3}}{2}\\cos x\\right)=2\\sin\\left(x+\\dfrac{\\pi}{3}\\right)$, nên (*)$\\Leftrightarrow 2\\sin\\left(x+\\dfrac{\\pi}{3}\\right)=1$.<br>- <strong>Đúng</strong>. $\\sin\\left(x+\\dfrac{\\pi}{3}\\right)=\\dfrac{1}{2}\\Leftrightarrow x+\\dfrac{\\pi}{3}=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x+\\dfrac{\\pi}{3}=\\dfrac{5\\pi}{6}+k2\\pi\\Leftrightarrow x=-\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$.<br>- <strong>Đúng</strong>. (suy ra trực tiếp từ họ nghiệm thứ hai ở trên).<br>- <strong>Sai</strong>. Trong khoảng $(0;2\\pi)$ chỉ có $2$ nghiệm là $x=\\dfrac{\\pi}{2}$ và $x=\\dfrac{11\\pi}{6}$ (ứng với $k=0$ và $k=1$), không phải $3$ nghiệm."
+    "explain": "<br>- <strong>Đúng</strong>. $\\sin x+\\sqrt{3}\\cos x=2\\left(\\dfrac{1}{2}\\sin x+\\dfrac{\\sqrt{3}}{2}\\cos x\\right)=2\\sin\\left(x+\\dfrac{\\pi}{3}\\right)$, nên (*)$\\Leftrightarrow 2\\sin\\left(x+\\dfrac{\\pi}{3}\\right)=1$.<br>- <strong>Đúng</strong>. $\\sin\\left(x+\\dfrac{\\pi}{3}\\right)=\\dfrac{1}{2}\\Leftrightarrow x+\\dfrac{\\pi}{3}=\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x+\\dfrac{\\pi}{3}=\\dfrac{5\\pi}{6}+k2\\pi\\Leftrightarrow x=-\\dfrac{\\pi}{6}+k2\\pi$ hoặc $x=\\dfrac{\\pi}{2}+k2\\pi$.<br>- <strong>Đúng</strong>. (suy ra trực tiếp từ họ nghiệm thứ hai ở trên).<br>- <strong>Sai</strong>. Trong khoảng $(0;2\\pi)$ chỉ có $2$ nghiệm là $x=\\dfrac{\\pi}{2}$ và $x=\\dfrac{11\\pi}{6}$ (ứng với $k=0$ và $k=1$), không phải $3$ nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

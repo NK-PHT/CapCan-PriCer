@@ -15,7 +15,8 @@ window.tracNghiem1H83 = [
       "Khi $\\Delta$ tạo với $(P)$ một góc $45^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "Theo định nghĩa: Phép chiếu song song lên mặt phẳng $(P)$ theo phương $\\Delta$ <strong>vuông góc</strong> với $(P)$ được gọi là phép chiếu vuông góc lên mặt phẳng $(P)$."
+    "explain": "Theo định nghĩa: Phép chiếu song song lên mặt phẳng $(P)$ theo phương $\\Delta$ <strong>vuông góc</strong> với $(P)$ được gọi là phép chiếu vuông góc lên mặt phẳng $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H831TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1H83 = [
       "Trọng tâm tam giác $ABC$"
     ],
     "answer": 0,
-    "explain": "Vì $SA\\perp(ABC)$ nên $A$ chính là chân đường vuông góc hạ từ $S$ xuống mặt phẳng $(ABC)$. Do đó hình chiếu vuông góc của $S$ trên $(ABC)$ là điểm <strong>$A$</strong>."
+    "explain": "Vì $SA\\perp(ABC)$ nên $A$ chính là chân đường vuông góc hạ từ $S$ xuống mặt phẳng $(ABC)$. Do đó hình chiếu vuông góc của $S$ trên $(ABC)$ là điểm <strong>$A$</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H831TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1H83 = [
       "Điểm $A$"
     ],
     "answer": 0,
-    "explain": "Vì $SA\\perp(ABC)$ nên hình chiếu của $S$ là $A$; hai điểm $B$, $C$ đã nằm trong $(ABC)$ nên tự chiếu thành chính nó. Vậy hình chiếu vuông góc của tam giác $SBC$ trên $(ABC)$ là <strong>tam giác $ABC$</strong>."
+    "explain": "Vì $SA\\perp(ABC)$ nên hình chiếu của $S$ là $A$; hai điểm $B$, $C$ đã nằm trong $(ABC)$ nên tự chiếu thành chính nó. Vậy hình chiếu vuông góc của tam giác $SBC$ trên $(ABC)$ là <strong>tam giác $ABC$</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H831TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1H83 = [
       "$O$ là tâm đường tròn nội tiếp tam giác $ABC$"
     ],
     "answer": 0,
-    "explain": "Xét ba tam giác $SOA$, $SOB$, $SOC$ có $SO$ chung, $SO\\perp OA,\\,OB,\\,OC$ và $SA=SB=SC$ nên ba tam giác này bằng nhau (cạnh huyền - cạnh góc vuông). Suy ra $OA=OB=OC$, do đó $O$ là <strong>tâm đường tròn ngoại tiếp</strong> tam giác $ABC$."
+    "explain": "Xét ba tam giác $SOA$, $SOB$, $SOC$ có $SO$ chung, $SO\\perp OA,\\,OB,\\,OC$ và $SA=SB=SC$ nên ba tam giác này bằng nhau (cạnh huyền - cạnh góc vuông). Suy ra $OA=OB=OC$, do đó $O$ là <strong>tâm đường tròn ngoại tiếp</strong> tam giác $ABC$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H831TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1H83 = [
       "Tam giác $SAC$"
     ],
     "answer": 0,
-    "explain": "Ta có $BC\\perp AB$ (giả thiết) và $BC\\perp SA$ (do $SA\\perp(ABC)$) nên $BC\\perp(SAB)$, suy ra $B$ là hình chiếu vuông góc của $C$ trên $(SAB)$. Hai điểm $S$, $B$ đã thuộc $(SAB)$ nên giữ nguyên. Vậy hình chiếu của tam giác $SBC$ trên $(SAB)$ là <strong>tam giác $SAB$</strong>."
+    "explain": "Ta có $BC\\perp AB$ (giả thiết) và $BC\\perp SA$ (do $SA\\perp(ABC)$) nên $BC\\perp(SAB)$, suy ra $B$ là hình chiếu vuông góc của $C$ trên $(SAB)$. Hai điểm $S$, $B$ đã thuộc $(SAB)$ nên giữ nguyên. Vậy hình chiếu của tam giác $SBC$ trên $(SAB)$ là <strong>tam giác $SAB$</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H831TN6",
@@ -75,6 +80,7 @@ window.tracNghiem1H83 = [
       "$b\\perp a'$ luôn đúng với mọi đường thẳng $b$ nằm trong $(P)$"
     ],
     "answer": 0,
-    "explain": "Định lí ba đường vuông góc: đường thẳng $b$ nằm trong $(P)$ vuông góc với $a$ khi và chỉ khi $b$ vuông góc với hình chiếu vuông góc $a'$ của $a$ trên $(P)$."
+    "explain": "Định lí ba đường vuông góc: đường thẳng $b$ nằm trong $(P)$ vuông góc với $a$ khi và chỉ khi $b$ vuông góc với hình chiếu vuông góc $a'$ của $a$ trên $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

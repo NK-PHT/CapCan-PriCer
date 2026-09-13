@@ -15,7 +15,8 @@ window.tracNghiem1D71 = [
       "$14$ m/s$^2$"
     ],
     "answer": 1,
-    "explain": "Vận tốc tức thời của vật tại thời điểm $t$ là  \\[v(t)=s'(t)=t^2-4t.\\]  Ta có  \\[v(t)=5 \\Leftrightarrow t^2-4t=5 \\Leftrightarrow t^2-4t-5=0 \\Leftrightarrow t=-1 \\text{ (loại)} \\text{ hoặc } t=5 \\text{ (nhận)}.\\]  Gia tốc tức thời của vật tại thời điểm $t$ là  \\[a(t)=v'(t)=2t-4.\\]  Gia tốc tức thời của vật tại thời điểm $t=5$ là  \\[a(5)= 2 \\cdot 5 -4 =6 \\ (\\text{m/s}^2).\\]"
+    "explain": "Vận tốc tức thời của vật tại thời điểm $t$ là  \\[v(t)=s'(t)=t^2-4t.\\]  Ta có  \\[v(t)=5 \\Leftrightarrow t^2-4t=5 \\Leftrightarrow t^2-4t-5=0 \\Leftrightarrow t=-1 \\text{ (loại)} \\text{ hoặc } t=5 \\text{ (nhận)}.\\]  Gia tốc tức thời của vật tại thời điểm $t$ là  \\[a(t)=v'(t)=2t-4.\\]  Gia tốc tức thời của vật tại thời điểm $t=5$ là  \\[a(5)= 2 \\cdot 5 -4 =6 \\ (\\text{m/s}^2).\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D711TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D71 = [
       "$f'(x_0)=\\lim \\limits_{x \\to x_0} \\dfrac{f(x)+f(x_0)}{x-x_0}$"
     ],
     "answer": 3,
-    "explain": "Đạo hàm của hàm số $y=f(x)$ tại $x_0$ là   \\[f'(x_0)=\\lim \\limits_{x \\to x_0} \\dfrac{f(x)-f(x_0)}{x-x_0}. \\]"
+    "explain": "Đạo hàm của hàm số $y=f(x)$ tại $x_0$ là   \\[f'(x_0)=\\lim \\limits_{x \\to x_0} \\dfrac{f(x)-f(x_0)}{x-x_0}. \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D713TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D71 = [
       "$6$ m/s"
     ],
     "answer": 0,
-    "explain": "Ta có $v(t) = -3t^2 + 6t+9$.<br>  $\\Rightarrow a(t) = -6t +6$.<br>  Để gia tốc triệt tiêu thì $a(t)=0\\Leftrightarrow -6t + 6 = 0\\Leftrightarrow t = 1$.<br>  Với $t = 1 \\Rightarrow v(1) = 12$ (m/s)."
+    "explain": "Ta có $v(t) = -3t^2 + 6t+9$.<br>  $\\Rightarrow a(t) = -6t +6$.<br>  Để gia tốc triệt tiêu thì $a(t)=0\\Leftrightarrow -6t + 6 = 0\\Leftrightarrow t = 1$.<br>  Với $t = 1 \\Rightarrow v(1) = 12$ (m/s).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D714TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D71 = [
       "$y=24x+39$"
     ],
     "answer": 1,
-    "explain": "Xét $y=x^3-6x^2+9x+1$ có $y'=3x^2-12x+9$.<br>  Hệ số góc tiếp tuyến là $k=f'(-1)=24$.<br>  Với $x_0=-1\\Rightarrow y_0=-15$.<br>  Phương trình tiếp tuyến là $y=24(x+1)-15=24x+9$."
+    "explain": "Xét $y=x^3-6x^2+9x+1$ có $y'=3x^2-12x+9$.<br>  Hệ số góc tiếp tuyến là $k=f'(-1)=24$.<br>  Với $x_0=-1\\Rightarrow y_0=-15$.<br>  Phương trình tiếp tuyến là $y=24(x+1)-15=24x+9$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D713TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D71 = [
       "$90$ (m/s)"
     ],
     "answer": 3,
-    "explain": "Ta có $s(t)=-\\dfrac{1}{2}t^3+12t^2\\Rightarrow v(t)=s'(t)=-\\dfrac{3}{2}t^2+24t$ .<br>  Vận tốc tức thời tại thời điểm $t=10$ giây là $v(10)=-\\dfrac{3}{2}\\cdot 10^2+24\\cdot 10=90$(m/s)."
+    "explain": "Ta có $s(t)=-\\dfrac{1}{2}t^3+12t^2\\Rightarrow v(t)=s'(t)=-\\dfrac{3}{2}t^2+24t$ .<br>  Vận tốc tức thời tại thời điểm $t=10$ giây là $v(10)=-\\dfrac{3}{2}\\cdot 10^2+24\\cdot 10=90$(m/s).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D714TN1",
@@ -75,6 +80,7 @@ window.tracNghiem1D71 = [
       "$8$"
     ],
     "answer": 1,
-    "explain": "Hệ số góc của tiếp tuyến với đồ thị hàm số tại điểm $A(x_A,y_A)$ là $k=f'(x_A)$.<br>  Ta có $y'=-3x^2+6x+9=-3(x-1)^2+12\\le12,\\forall x\\in\\mathbb{R}$.<br>  Do đó hệ số góc lớn nhất của tiếp tuyến với đồ thị hàm số là $12$, đạt tại $x=1$."
+    "explain": "Hệ số góc của tiếp tuyến với đồ thị hàm số tại điểm $A(x_A,y_A)$ là $k=f'(x_A)$.<br>  Ta có $y'=-3x^2+6x+9=-3(x-1)^2+12\\le12,\\forall x\\in\\mathbb{R}$.<br>  Do đó hệ số góc lớn nhất của tiếp tuyến với đồ thị hàm số là $12$, đạt tại $x=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

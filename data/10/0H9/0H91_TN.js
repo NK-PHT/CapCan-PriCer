@@ -14,7 +14,8 @@ window.tracNghiem0H91 = [
       "$\\left(3;9\\right)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\left\\{\\begin{aligned}  &{x_G}=\\dfrac{-3+1+5}{3}=1\\\\   &{y_G}=\\dfrac{5+2+2}{3}=3\\\\   \\end{aligned}\\right.\\Rightarrow G\\left(1;3\\right).$"
+    "explain": "Ta có $\\left\\{\\begin{aligned}  &{x_G}=\\dfrac{-3+1+5}{3}=1\\\\   &{y_G}=\\dfrac{5+2+2}{3}=3\\\\   \\end{aligned}\\right.\\Rightarrow G\\left(1;3\\right).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H911TN2",
@@ -26,6 +27,7 @@ window.tracNghiem0H91 = [
       "$\\left(-3;1\\right)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{a}=3\\overrightarrow{j}-\\overrightarrow{i}\\Leftrightarrow \\overrightarrow{a}=(-1;3)$."
+    "explain": "Ta có $\\overrightarrow{a}=3\\overrightarrow{j}-\\overrightarrow{i}\\Leftrightarrow \\overrightarrow{a}=(-1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

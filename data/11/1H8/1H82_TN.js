@@ -15,7 +15,8 @@ window.tracNghiem1H82 = [
       "$FC \\perp (DEF)$"
     ],
     "answer": 1,
-    "explain": "<br>- Ta có $BE\\perp AB \\text{ và } BE\\perp BC \\Rightarrow BE\\perp (ABC)$.<br>- Ta có $AB\\perp BE \\text{ và } AB \\perp BC \\Rightarrow AB\\perp (BCFE)$.<br>- Ta có $FC\\perp EF \\text{ và } FC\\perp DE\\Rightarrow FC\\perp (DEF)$.<br>- Nếu $DF \\perp (ABED)$ thì $DF \\perp DE$ (vô lí vì $\\triangle DEF$ vuông tại $E$)."
+    "explain": "<br>- Ta có $BE\\perp AB \\text{ và } BE\\perp BC \\Rightarrow BE\\perp (ABC)$.<br>- Ta có $AB\\perp BE \\text{ và } AB \\perp BC \\Rightarrow AB\\perp (BCFE)$.<br>- Ta có $FC\\perp EF \\text{ và } FC\\perp DE\\Rightarrow FC\\perp (DEF)$.<br>- Nếu $DF \\perp (ABED)$ thì $DF \\perp DE$ (vô lí vì $\\triangle DEF$ vuông tại $E$).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1H82 = [
       "$(a, b) = 60^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $a\\perp (P) \\text{ và } b\\subset (P)\\Rightarrow a\\perp b \\Rightarrow (a,b)=90^\\circ$."
+    "explain": "Ta có $a\\perp (P) \\text{ và } b\\subset (P)\\Rightarrow a\\perp b \\Rightarrow (a,b)=90^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1H82 = [
       "$BA\\perp \\left(SAD\\right)$"
     ],
     "answer": 3,
-    "explain": "Ta có $BA\\perp SA, BA\\perp AD$ suy ra $BA\\perp (SAD)$."
+    "explain": "Ta có $BA\\perp SA, BA\\perp AD$ suy ra $BA\\perp (SAD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1H82 = [
       "$2$"
     ],
     "answer": 0,
-    "explain": "Có $1$ mặt phẳng qua điểm $M$ và vuông góc với đường thẳng $d$."
+    "explain": "Có $1$ mặt phẳng qua điểm $M$ và vuông góc với đường thẳng $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1H82 = [
       "$AS$"
     ],
     "answer": 0,
-    "explain": "Ta có $SA\\perp AB \\text{ và } SA\\perp AC\\Rightarrow SA\\perp (ABC)\\Rightarrow SA\\perp BC$."
+    "explain": "Ta có $SA\\perp AB \\text{ và } SA\\perp AC\\Rightarrow SA\\perp (ABC)\\Rightarrow SA\\perp BC$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1H82 = [
       "$\\Delta$ có một điểm chung với mặt phẳng $(P)$"
     ],
     "answer": 0,
-    "explain": "Nếu đường thẳng $\\Delta$ vuông góc với hai đường thẳng cắt nhau $a$ và $b$ cùng nằm trong mặt phẳng $(P)$ thì $\\Delta \\perp (P)$."
+    "explain": "Nếu đường thẳng $\\Delta$ vuông góc với hai đường thẳng cắt nhau $a$ và $b$ cùng nằm trong mặt phẳng $(P)$ thì $\\Delta \\perp (P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1H82 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": "Có duy nhất $1$ mặt phẳng đi qua $O$ và vuông góc với đường thẳng $d$."
+    "explain": "Có duy nhất $1$ mặt phẳng đi qua $O$ và vuông góc với đường thẳng $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1H82 = [
       "$AB\\perp (SAC)$"
     ],
     "answer": 2,
-    "explain": "$SA=SC \\Rightarrow \\triangle SAC$ cân tại $S \\Rightarrow SO\\perp AC$.<br>   $SB=SD \\Rightarrow \\triangle SBD$ cân tại $S \\Rightarrow SO\\perp BD$.<br>  $AC$, $BD \\subset (ABCD)$.<br>   $AC\\cap BD=O$.<br>  Suy ra $SO\\perp (ABCD)$.<br>"
+    "explain": "$SA=SC \\Rightarrow \\triangle SAC$ cân tại $S \\Rightarrow SO\\perp AC$.<br>   $SB=SD \\Rightarrow \\triangle SBD$ cân tại $S \\Rightarrow SO\\perp BD$.<br>  $AC$, $BD \\subset (ABCD)$.<br>   $AC\\cap BD=O$.<br>  Suy ra $SO\\perp (ABCD)$.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1H82 = [
       "$(ABC)$"
     ],
     "answer": 0,
-    "explain": "Ta có<br>  $AB \\perp BC \\quad (\\triangle ABC \\text{ là tam giác vuông tại } B) \\text{ và } SA \\perp BC \\quad (SA \\perp (ABC)).$<br>  Suy ra $BC\\perp (SAB)$."
+    "explain": "Ta có<br>  $AB \\perp BC \\quad (\\triangle ABC \\text{ là tam giác vuông tại } B) \\text{ và } SA \\perp BC \\quad (SA \\perp (ABC)).$<br>  Suy ra $BC\\perp (SAB)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1H82 = [
       "$BD \\perp(SAD)$"
     ],
     "answer": 1,
-    "explain": "Ta có $AB\\perp AD\\,(\\text{do } ABCD\\text{ là hìnhchữ nhật}) \\text{ và } AB\\perp SA\\,(\\text{do }SA\\perp(ABCD))\\Rightarrow AB\\perp (SAD)$."
+    "explain": "Ta có $AB\\perp AD\\,(\\text{do } ABCD\\text{ là hìnhchữ nhật}) \\text{ và } AB\\perp SA\\,(\\text{do }SA\\perp(ABCD))\\Rightarrow AB\\perp (SAD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN11",
@@ -135,7 +145,8 @@ window.tracNghiem1H82 = [
       "Nếu $b\\parallel a$ thì $b\\parallel (P)$"
     ],
     "answer": 3,
-    "explain": "Ta có $a \\perp(P) \\text{ và } b\\parallel a\\Rightarrow b\\perp (P)$.<br>  Do đó, mệnh đề “ Nếu $b\\parallel a$ thì $b\\parallel (P)$”\\, sai."
+    "explain": "Ta có $a \\perp(P) \\text{ và } b\\parallel a\\Rightarrow b\\perp (P)$.<br>  Do đó, mệnh đề “ Nếu $b\\parallel a$ thì $b\\parallel (P)$”\\, sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN12",
@@ -147,7 +158,8 @@ window.tracNghiem1H82 = [
       "$D$"
     ],
     "answer": 0,
-    "explain": "Vì $SA \\perp(ABCD)$ nên hình chiếu của $S$ trên mặt phẳng $(ABCD)$ là điểm $A$."
+    "explain": "Vì $SA \\perp(ABCD)$ nên hình chiếu của $S$ trên mặt phẳng $(ABCD)$ là điểm $A$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN13",
@@ -159,7 +171,8 @@ window.tracNghiem1H82 = [
       "$BD\\perp SA$"
     ],
     "answer": 1,
-    "explain": "Ta có $ABCD$ là hình chữ nhật nên $AC \\perp BD$ là sai."
+    "explain": "Ta có $ABCD$ là hình chữ nhật nên $AC \\perp BD$ là sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN14",
@@ -171,7 +184,8 @@ window.tracNghiem1H82 = [
       "$BD \\perp (SAB)$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/11/1H8/im1H82/dlts_11_DLTS28_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $AB \\perp AD \\quad \\text{(vì $ABCD$ là hình chữ nhật)} \\text{ và } AB \\perp SA \\quad \\text{(vì $SA \\perp (ABCD)$, $AB \\subset (ABCD)$} \\text{ và } \\text{Trong $(SAD)$, $AD \\cap SA=A$.}$<br>  $\\Rightarrow AB \\perp (SAD)$."
+    "explain": "<br><img src=\"data/11/1H8/im1H82/dlts_11_DLTS28_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $AB \\perp AD \\quad \\text{(vì $ABCD$ là hình chữ nhật)} \\text{ và } AB \\perp SA \\quad \\text{(vì $SA \\perp (ABCD)$, $AB \\subset (ABCD)$} \\text{ và } \\text{Trong $(SAD)$, $AD \\cap SA=A$.}$<br>  $\\Rightarrow AB \\perp (SAD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN15",
@@ -183,7 +197,8 @@ window.tracNghiem1H82 = [
       "$AH\\perp(SCD)$"
     ],
     "answer": 3,
-    "explain": "Ta có $SA\\perp(ABCD) \\text{ và } CD\\subset(ABCD)\\Rightarrow SA\\perp CD$.<br>  Mà $AD\\perp CD$ nên $CD\\perp(SAD)$, suy ra $CD\\perp AH$.<br>  Do $AH\\perp SD$ nên $AH\\perp(SCD)$."
+    "explain": "Ta có $SA\\perp(ABCD) \\text{ và } CD\\subset(ABCD)\\Rightarrow SA\\perp CD$.<br>  Mà $AD\\perp CD$ nên $CD\\perp(SAD)$, suy ra $CD\\perp AH$.<br>  Do $AH\\perp SD$ nên $AH\\perp(SCD)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN16",
@@ -195,7 +210,8 @@ window.tracNghiem1H82 = [
       "$BC'$"
     ],
     "answer": 1,
-    "explain": "Ta có $AB\\parallel A'B' \\text{ và } AB\\perp BC\\Rightarrow A'B'\\perp BC$."
+    "explain": "Ta có $AB\\parallel A'B' \\text{ và } AB\\perp BC\\Rightarrow A'B'\\perp BC$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN17",
@@ -207,7 +223,8 @@ window.tracNghiem1H82 = [
       "Nếu $a\\perp b$ thì $a$ và $b$ cắt nhau hoặc chéo nhau"
     ],
     "answer": 3,
-    "explain": "Trong không gian, $a\\perp b$ nên $a$ và $b$ cắt nhau hoặc chéo nhau."
+    "explain": "Trong không gian, $a\\perp b$ nên $a$ và $b$ cắt nhau hoặc chéo nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H821TN18",
@@ -219,7 +236,8 @@ window.tracNghiem1H82 = [
       "$SC\\perp(AEF)$"
     ],
     "answer": 3,
-    "explain": "Vì $SA$ vuông góc với mặt phẳng $(ABCD) \\Rightarrow SA\\perp BC$.<br>  Mà $AB\\perp BC$ nên suy ra $BC\\perp(SAB) \\Rightarrow BC\\perp AE\\subset(SAB)$.<br>  Tam giác $SAB$ có đường cao $AE \\Rightarrow AE\\perp SB$.  Mà $AE\\perp BC \\Rightarrow AE\\perp(SBC) \\Rightarrow AE\\perp SC$.<br>  Tương tự, ta chứng minh được $AF\\perp SC$. Do đó $SC\\perp(AEF)$."
+    "explain": "Vì $SA$ vuông góc với mặt phẳng $(ABCD) \\Rightarrow SA\\perp BC$.<br>  Mà $AB\\perp BC$ nên suy ra $BC\\perp(SAB) \\Rightarrow BC\\perp AE\\subset(SAB)$.<br>  Tam giác $SAB$ có đường cao $AE \\Rightarrow AE\\perp SB$.  Mà $AE\\perp BC \\Rightarrow AE\\perp(SBC) \\Rightarrow AE\\perp SC$.<br>  Tương tự, ta chứng minh được $AF\\perp SC$. Do đó $SC\\perp(AEF)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN19",
@@ -231,7 +249,8 @@ window.tracNghiem1H82 = [
       "$O$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/11/1H8/im1H82/dlts_11_DLTS36_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Xét $BD$ và $(SAC)$, ta có  $ BD \\perp AC \\text{ (Do } ABCD \\text{ là hình vuông}) \\text{ và } BD \\perp SA \\text{ (Do } SA\\perp (ABCD) \\text{ và } BD\\subset (ABCD)) \\text{ và } AC\\subset (SAC), \\ SA\\subset (SAC), \\ SA \\cap AC = A. $  Do đó $BD\\perp (SAC)$. Suy ra $DO \\perp (SAC)$ nên $O$ là hình chiếu của $D$ lên $(SAC)$."
+    "explain": "<br><img src=\"data/11/1H8/im1H82/dlts_11_DLTS36_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Xét $BD$ và $(SAC)$, ta có  $ BD \\perp AC \\text{ (Do } ABCD \\text{ là hình vuông}) \\text{ và } BD \\perp SA \\text{ (Do } SA\\perp (ABCD) \\text{ và } BD\\subset (ABCD)) \\text{ và } AC\\subset (SAC), \\ SA\\subset (SAC), \\ SA \\cap AC = A. $  Do đó $BD\\perp (SAC)$. Suy ra $DO \\perp (SAC)$ nên $O$ là hình chiếu của $D$ lên $(SAC)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H824TN1",
@@ -243,6 +262,7 @@ window.tracNghiem1H82 = [
       "$(ABC)$"
     ],
     "answer": 1,
-    "explain": "Ta có $AB\\perp AC \\text{ và } AB\\perp SA\\Rightarrow AB\\perp (SAC)$."
+    "explain": "Ta có $AB\\perp AC \\text{ và } AB\\perp SA\\Rightarrow AB\\perp (SAC)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

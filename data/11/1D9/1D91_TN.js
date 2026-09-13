@@ -15,7 +15,8 @@ window.tracNghiem1D91 = [
       "Biến cố giao của hai biến cố $A$ và $B$ là “ Số chấm xuất hiện hai lần gieo đều là số lẻ”"
     ],
     "answer": 3,
-    "explain": "<br>- Ta có $(1,1)\\in A\\cap B$ nên $A\\cap B\\neq \\emptyset$. Do đó $A$, $B$ là hai biến cố không xung khắc và không đối nhau.<br>- Biến cố $A\\cap B$: “ Số chấm xuất hiện hai lần gieo đều là số lẻ ”."
+    "explain": "<br>- Ta có $(1,1)\\in A\\cap B$ nên $A\\cap B\\neq \\emptyset$. Do đó $A$, $B$ là hai biến cố không xung khắc và không đối nhau.<br>- Biến cố $A\\cap B$: “ Số chấm xuất hiện hai lần gieo đều là số lẻ ”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D913TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D91 = [
       "$0{,}6$"
     ],
     "answer": 1,
-    "explain": "Gọi $X_i$ là biến cố “ Xạ thủ thứ $i$ ”\\, bắn trúng bia $\\left( i\\in \\lbrace 1;2 \\rbrace\\right)$.<br>  Xác suất đề hai người cùng bắn trúng bia là $\\mathrm{P}\\left( X_1\\cap X_2 \\right)=\\mathrm{P}(X_1)\\cdot \\mathrm{P}(X_2)=0{,}6\\cdot 0{,}9=0{,}54$."
+    "explain": "Gọi $X_i$ là biến cố “ Xạ thủ thứ $i$ ”\\, bắn trúng bia $\\left( i\\in \\lbrace 1;2 \\rbrace\\right)$.<br>  Xác suất đề hai người cùng bắn trúng bia là $\\mathrm{P}\\left( X_1\\cap X_2 \\right)=\\mathrm{P}(X_1)\\cdot \\mathrm{P}(X_2)=0{,}6\\cdot 0{,}9=0{,}54$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D91 = [
       "Học sinh được chọn bị cận thị hoặc học giỏi môn Toán"
     ],
     "answer": 0,
-    "explain": "Biến cố $A\\cap B$ là: “ Học sinh được chọn vừa bị cận thị vừa học giỏi môn Toán.”"
+    "explain": "Biến cố $A\\cap B$ là: “ Học sinh được chọn vừa bị cận thị vừa học giỏi môn Toán.”",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D91 = [
       "$A \\cup \\bar{B}$"
     ],
     "answer": 1,
-    "explain": "Ký hiệu biến cố “ Học sinh được chọn là học sinh giỏi Toán và giỏi Hóa”\\, là $A \\cap B$."
+    "explain": "Ký hiệu biến cố “ Học sinh được chọn là học sinh giỏi Toán và giỏi Hóa”\\, là $A \\cap B$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D913TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D91 = [
       "$0{,}05$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\mathrm{P}(A\\cap B)=\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=0{,}2\\cdot 0{,}3=0{,}06$."
+    "explain": "Ta có $\\mathrm{P}(A\\cap B)=\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=0{,}2\\cdot 0{,}3=0{,}06$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D91 = [
       "Học sinh đó là học sinh nam hoặc có tên bắt đầu bằng chữ Q"
     ],
     "answer": 0,
-    "explain": "Nội dung của biến cố $A \\cap B$ là “ Học sinh được chọn là một học sinh nữ và có tên bắt đầu bằng chữ Q”."
+    "explain": "Nội dung của biến cố $A \\cap B$ là “ Học sinh được chọn là một học sinh nữ và có tên bắt đầu bằng chữ Q”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D91 = [
       "“ Số ghi trên thẻ được chọn chia hết cho $6$”"
     ],
     "answer": 3,
-    "explain": "Biến cố $CD$ là “ Số ghi trên thẻ được chọn chia hết cho $6$”."
+    "explain": "Biến cố $CD$ là “ Số ghi trên thẻ được chọn chia hết cho $6$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D911TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1D91 = [
       "Đối nhau"
     ],
     "answer": 1,
-    "explain": "Ta có $\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=\\dfrac{1}{3}\\cdot\\dfrac{1}{4}=\\dfrac{1}{12}\\neq \\dfrac{1}{2}=\\mathrm{P}(AB)$ nên hai biến cố $A$ và $B$ không độc lập."
+    "explain": "Ta có $\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=\\dfrac{1}{3}\\cdot\\dfrac{1}{4}=\\dfrac{1}{12}\\neq \\dfrac{1}{2}=\\mathrm{P}(AB)$ nên hai biến cố $A$ và $B$ không độc lập.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1D91 = [
       "$\\overline{A}B$"
     ],
     "answer": 0,
-    "explain": "Biến cố giao của $A$ và $B$ có kí hiệu là $AB$."
+    "explain": "Biến cố giao của $A$ và $B$ có kí hiệu là $AB$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D913TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1D91 = [
       "Biến cố $A$ xảy ra thì biến cố $B$ xảy ra"
     ],
     "answer": 2,
-    "explain": "Mệnh đề đúng là “ Việc xảy ra hay không xảy ra của biến cố $A$ không ảnh hưởng đến xác suất xảy ra của biến cố $B$”."
+    "explain": "Mệnh đề đúng là “ Việc xảy ra hay không xảy ra của biến cố $A$ không ảnh hưởng đến xác suất xảy ra của biến cố $B$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D912TN11",
@@ -135,7 +145,8 @@ window.tracNghiem1D91 = [
       "$a$ là số chính phương và $a$ là số tự nhiên nhỏ hơn $50$"
     ],
     "answer": 3,
-    "explain": "Biến cố giao của $A$ và $B$ là “ $a$ là số chính phương và $a$ là số tự nhiên nhỏ hơn $50$”."
+    "explain": "Biến cố giao của $A$ và $B$ là “ $a$ là số chính phương và $a$ là số tự nhiên nhỏ hơn $50$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D913TN12",
@@ -147,7 +158,8 @@ window.tracNghiem1D91 = [
       "$\\mathrm{P}(A\\cup B)=0,25$"
     ],
     "answer": 2,
-    "explain": "Vì $A$ và $B$ là hai biến cố độc lập nên $\\mathrm{P}(A\\cap B)=\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=0,7\\cdot 0,5=0,35.$<br>  Lại có $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+P(B)-P(A\\cap B)=0,7+0,5-0,35=0,85$."
+    "explain": "Vì $A$ và $B$ là hai biến cố độc lập nên $\\mathrm{P}(A\\cap B)=\\mathrm{P}(A)\\cdot \\mathrm{P}(B)=0,7\\cdot 0,5=0,35.$<br>  Lại có $\\mathrm{P}(A\\cup B)=\\mathrm{P}(A)+P(B)-P(A\\cap B)=0,7+0,5-0,35=0,85$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D913TN1",
@@ -159,6 +171,7 @@ window.tracNghiem1D91 = [
       "$\\dfrac{2}{15}$"
     ],
     "answer": 3,
-    "explain": "Gọi $A$, $B$ lần lượt là các biến cố xạ thủ A, B bắn trúng bia. Ta có $\\mathrm{P}(A) = \\dfrac{1}{3}$, $\\mathrm{P}(B) = \\dfrac{2}{5}$.<br>  Vì hai xạ thủ bắn độc lập nên xác suất cả hai cùng bắn trúng bia là  $\\mathrm{P}(A \\cap B) = \\mathrm{P}(A) \\cdot \\mathrm{P}(B) = \\dfrac{1}{3} \\cdot \\dfrac{2}{5} = \\dfrac{2}{15}.$"
+    "explain": "Gọi $A$, $B$ lần lượt là các biến cố xạ thủ A, B bắn trúng bia. Ta có $\\mathrm{P}(A) = \\dfrac{1}{3}$, $\\mathrm{P}(B) = \\dfrac{2}{5}$.<br>  Vì hai xạ thủ bắn độc lập nên xác suất cả hai cùng bắn trúng bia là  $\\mathrm{P}(A \\cap B) = \\mathrm{P}(A) \\cdot \\mathrm{P}(B) = \\dfrac{1}{3} \\cdot \\dfrac{2}{5} = \\dfrac{2}{15}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

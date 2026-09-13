@@ -13,7 +13,8 @@ window.tracNghiem1D62 = [
       "$\\log_{\\tfrac{1}{2}} a = b$"
     ],
     "answer": 0,
-    "explain": "Ta có $a^{\\tfrac{1}{2}}=b\\Rightarrow \\log_{a}\\left(a^{\\tfrac{1}{2}} \\right)= \\log_a b \\Rightarrow \\dfrac{1}{2} = \\log_a b \\Rightarrow 2\\log_a b=1$."
+    "explain": "Ta có $a^{\\tfrac{1}{2}}=b\\Rightarrow \\log_{a}\\left(a^{\\tfrac{1}{2}} \\right)= \\log_a b \\Rightarrow \\dfrac{1}{2} = \\log_a b \\Rightarrow 2\\log_a b=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN2",
@@ -25,7 +26,8 @@ window.tracNghiem1D62 = [
       "$\\dfrac{1}{7}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\log_a \\sqrt[7]{a}=\\log_a a^{\\tfrac{1}{7}}=\\dfrac{1}{7}$."
+    "explain": "Ta có $\\log_a \\sqrt[7]{a}=\\log_a a^{\\tfrac{1}{7}}=\\dfrac{1}{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D621TN3",
@@ -37,7 +39,8 @@ window.tracNghiem1D62 = [
       "$\\log \\dfrac{a}{b}=\\log b-\\log a$"
     ],
     "answer": 2,
-    "explain": "Với mọi số thực dương $a$, $b$, ta có $\\log (ab)=\\log a+\\log b$."
+    "explain": "Với mọi số thực dương $a$, $b$, ta có $\\log (ab)=\\log a+\\log b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN4",
@@ -49,7 +52,8 @@ window.tracNghiem1D62 = [
       "$3\\log_5 a$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\log_5 a^3 = 3\\log_5 a$."
+    "explain": "Ta có $\\log_5 a^3 = 3\\log_5 a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN5",
@@ -61,7 +65,8 @@ window.tracNghiem1D62 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\log_2 a+3\\log_2 b=\\log_2 a+\\log_2 b^3=\\log_2 ab^3=\\log_2 16=4$."
+    "explain": "Ta có $\\log_2 a+3\\log_2 b=\\log_2 a+\\log_2 b^3=\\log_2 ab^3=\\log_2 16=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN6",
@@ -73,7 +78,8 @@ window.tracNghiem1D62 = [
       "$2a+3b$"
     ],
     "answer": 3,
-    "explain": "$\\log _2x=a \\Rightarrow x=2^a$.<br>   $\\log _2y=b \\Rightarrow y=2^b$.<br>   $\\log _2\\left(x^2y^3\\right)=\\log _2\\left(\\left(2^a\\right)^2\\left(2^b\\right)^3\\right)=\\log _2\\left(2^{2a}2^{3b}\\right)=\\log _2\\left(2^{2a+3b}\\right)=2a+3b$."
+    "explain": "$\\log _2x=a \\Rightarrow x=2^a$.<br>   $\\log _2y=b \\Rightarrow y=2^b$.<br>   $\\log _2\\left(x^2y^3\\right)=\\log _2\\left(\\left(2^a\\right)^2\\left(2^b\\right)^3\\right)=\\log _2\\left(2^{2a}2^{3b}\\right)=\\log _2\\left(2^{2a+3b}\\right)=2a+3b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D621TN7",
@@ -85,7 +91,8 @@ window.tracNghiem1D62 = [
       "$\\ln \\dfrac{b}{a}=\\dfrac{\\ln a}{\\ln b}$"
     ],
     "answer": 1,
-    "explain": "$\\ln \\left(ab\\right)=\\ln \\left|a\\right|+\\ln \\left|b\\right|=\\ln a+\\ln b$."
+    "explain": "$\\ln \\left(ab\\right)=\\ln \\left|a\\right|+\\ln \\left|b\\right|=\\ln a+\\ln b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D621TN8",
@@ -97,7 +104,8 @@ window.tracNghiem1D62 = [
       "$\\log_a\\left(\\dfrac{b}{c}\\right)=\\log_ab-\\log_ac$"
     ],
     "answer": 2,
-    "explain": "Khẳng định sai là $\\log_a(b+c)=\\log_ab\\cdot\\log_ac$."
+    "explain": "Khẳng định sai là $\\log_a(b+c)=\\log_ab\\cdot\\log_ac$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN9",
@@ -109,7 +117,8 @@ window.tracNghiem1D62 = [
       "$-\\dfrac{1}{5}$"
     ],
     "answer": 1,
-    "explain": "Với $a &gt; 0$, $a \\neq 1$, ta có $A=\\log _{a^5} a=\\dfrac{1}{5}\\log _{a} a=\\dfrac{1}{5}$."
+    "explain": "Với $a &gt; 0$, $a \\neq 1$, ta có $A=\\log _{a^5} a=\\dfrac{1}{5}\\log _{a} a=\\dfrac{1}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D621TN10",
@@ -121,7 +130,8 @@ window.tracNghiem1D62 = [
       "$\\log_a\\left(a^5 b^3\\right)=\\dfrac{1}{5}+\\dfrac{1}{3} \\log_a b$"
     ],
     "answer": 0,
-    "explain": "Ta có   $\\log_a\\left(a^5 b^3\\right) = \\log_{a}a^5+\\log_a b^3$<br>$= 5\\log_{a}a+3\\log_a b$<br>$= 5+3\\log_a b.$"
+    "explain": "Ta có   $\\log_a\\left(a^5 b^3\\right) = \\log_{a}a^5+\\log_a b^3$<br>$= 5\\log_{a}a+3\\log_a b$<br>$= 5+3\\log_a b.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN11",
@@ -133,7 +143,8 @@ window.tracNghiem1D62 = [
       "$2\\log_9 a$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\log_9 a^2=2\\log_{3^{2}} |a|=\\log_3 |a|$."
+    "explain": "Ta có $\\log_9 a^2=2\\log_{3^{2}} |a|=\\log_3 |a|$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN12",
@@ -145,7 +156,8 @@ window.tracNghiem1D62 = [
       "$\\dfrac{4}{3}$"
     ],
     "answer": 1,
-    "explain": "$\\log_a \\sqrt[3]{a^7}=\\log_a a^{\\tfrac{7}{3}}=\\dfrac{7}{3}$."
+    "explain": "$\\log_a \\sqrt[3]{a^7}=\\log_a a^{\\tfrac{7}{3}}=\\dfrac{7}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D621TN13",
@@ -157,7 +169,8 @@ window.tracNghiem1D62 = [
       "$\\log_a \\dfrac{x}{y} = \\log_a x - \\log_a y$"
     ],
     "answer": 0,
-    "explain": "Mệnh đề sai là $\\log_a (xy) = \\log_a (x) \\log_a (y)$."
+    "explain": "Mệnh đề sai là $\\log_a (xy) = \\log_a (x) \\log_a (y)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN14",
@@ -169,7 +182,8 @@ window.tracNghiem1D62 = [
       "$\\log_2 (3a)$"
     ],
     "answer": 3,
-    "explain": "Với $a$ là số thực dương tùy ý, ta có $\\log_2 3 + \\log_2 a = \\log_2 (3a)$."
+    "explain": "Với $a$ là số thực dương tùy ý, ta có $\\log_2 3 + \\log_2 a = \\log_2 (3a)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN15",
@@ -181,7 +195,8 @@ window.tracNghiem1D62 = [
       "$\\dfrac{1}{2}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\log_{4}8=\\log_{2^2}2^3=\\dfrac{3}{2}$."
+    "explain": "Ta có $\\log_{4}8=\\log_{2^2}2^3=\\dfrac{3}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN16",
@@ -193,7 +208,8 @@ window.tracNghiem1D62 = [
       "$3-\\log_2 a$"
     ],
     "answer": 0,
-    "explain": "Ta có  \\[\\log_2(8a)=\\log_28+\\log_2a=3+\\log_2a.\\]"
+    "explain": "Ta có  \\[\\log_2(8a)=\\log_28+\\log_2a=3+\\log_2a.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN17",
@@ -205,7 +221,8 @@ window.tracNghiem1D62 = [
       "$P=108$"
     ],
     "answer": 1,
-    "explain": "Ta có $P = \\log_{a}(b^2\\cdot c^3) = 2\\log_{a}{b}+3\\log_{a}{c}=2\\cdot 2 +3 \\cdot 3 = 13$."
+    "explain": "Ta có $P = \\log_{a}(b^2\\cdot c^3) = 2\\log_{a}{b}+3\\log_{a}{c}=2\\cdot 2 +3 \\cdot 3 = 13$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN18",
@@ -217,7 +234,8 @@ window.tracNghiem1D62 = [
       "$Q=12$"
     ],
     "answer": 1,
-    "explain": "Ta có $Q=\\log_a(b^3c)=3\\log_a b+\\log_a c=3\\cdot 2+3=9$."
+    "explain": "Ta có $Q=\\log_a(b^3c)=3\\log_a b+\\log_a c=3\\cdot 2+3=9$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN19",
@@ -229,7 +247,8 @@ window.tracNghiem1D62 = [
       "$\\dfrac{3}{2}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\log_{a^2}\\dfrac{a}{\\sqrt{b}}=\\dfrac{1}{2}\\log_a \\dfrac{a}{\\sqrt{b}}=\\dfrac{1}{2}\\left(1-\\dfrac{1}{2}\\log_a b\\right)=\\dfrac{1}{2}\\left(1-\\dfrac{3}{2}\\right)=-\\dfrac{1}{4}$."
+    "explain": "Ta có $\\log_{a^2}\\dfrac{a}{\\sqrt{b}}=\\dfrac{1}{2}\\log_a \\dfrac{a}{\\sqrt{b}}=\\dfrac{1}{2}\\left(1-\\dfrac{1}{2}\\log_a b\\right)=\\dfrac{1}{2}\\left(1-\\dfrac{3}{2}\\right)=-\\dfrac{1}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D622TN20",
@@ -241,6 +260,7 @@ window.tracNghiem1D62 = [
       "$2\\log_2a$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\log_2a^2=2\\log_2a$."
+    "explain": "Ta có $\\log_2a^2=2\\log_2a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

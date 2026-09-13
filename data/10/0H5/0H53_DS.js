@@ -25,7 +25,8 @@ window.dungSai0H53 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Ta có $\\overrightarrow{AI}=\\dfrac{1}{2} \\overrightarrow{AB}+\\dfrac{1}{2} \\overrightarrow{AC}=\\dfrac{1}{2} \\overrightarrow{a}+\\dfrac{1}{2} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{IG}=-\\dfrac{1}{3}\\overrightarrow{AI}=-\\dfrac{1}{6} \\overrightarrow{a}-\\dfrac{1}{6} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{BI}=\\vec{AI}-\\overrightarrow{AB}=-\\dfrac{1}{2} \\overrightarrow{a}+\\dfrac{1}{2} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{CI}=-\\overrightarrow{BI}=\\dfrac{1}{2} \\vec{a}-\\dfrac{1}{2} \\overrightarrow{b}$."
+    "explain": "<br>- Ta có $\\overrightarrow{AI}=\\dfrac{1}{2} \\overrightarrow{AB}+\\dfrac{1}{2} \\overrightarrow{AC}=\\dfrac{1}{2} \\overrightarrow{a}+\\dfrac{1}{2} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{IG}=-\\dfrac{1}{3}\\overrightarrow{AI}=-\\dfrac{1}{6} \\overrightarrow{a}-\\dfrac{1}{6} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{BI}=\\vec{AI}-\\overrightarrow{AB}=-\\dfrac{1}{2} \\overrightarrow{a}+\\dfrac{1}{2} \\overrightarrow{b}$.<br>- Ta có $\\overrightarrow{CI}=-\\overrightarrow{BI}=\\dfrac{1}{2} \\vec{a}-\\dfrac{1}{2} \\overrightarrow{b}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H531DS2",
@@ -48,6 +49,7 @@ window.dungSai0H53 = [
         "answer": false
       }
     ],
-    "explain": "<br><img src=\"data/10/0H5/im0H53/loc2_0_TL_TN_DS_THPT__003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- ĐÚNG.<br>  Theo quy tắc hình bình hành ta có $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$<br>- SAI.<br>  Theo quy tắc trung điểm ta có $\\overrightarrow{AI}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AB}\\right)$.<br>- SAI.<br>  Ta có $\\overrightarrow{AI}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AB}\\right)=\\dfrac{1}{2}\\left( \\overrightarrow{AB}+\\overrightarrow{AD} +\\overrightarrow{AB}\\right) = \\overrightarrow{AB}+\\dfrac{1}{2}\\cdot \\overrightarrow{AD}$.<br>- SAI.<br>  Ta có $\\overrightarrow{AJ}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AD}\\right)=\\dfrac{1}{2}\\left(\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AD}\\right) =\\overrightarrow{AD}+\\dfrac{1}{2}\\cdot \\overrightarrow{AB}$."
+    "explain": "<br><img src=\"data/10/0H5/im0H53/loc2_0_TL_TN_DS_THPT__003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- ĐÚNG.<br>  Theo quy tắc hình bình hành ta có $\\overrightarrow{AC}=\\overrightarrow{AB}+\\overrightarrow{AD}$<br>- SAI.<br>  Theo quy tắc trung điểm ta có $\\overrightarrow{AI}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AB}\\right)$.<br>- SAI.<br>  Ta có $\\overrightarrow{AI}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AB}\\right)=\\dfrac{1}{2}\\left( \\overrightarrow{AB}+\\overrightarrow{AD} +\\overrightarrow{AB}\\right) = \\overrightarrow{AB}+\\dfrac{1}{2}\\cdot \\overrightarrow{AD}$.<br>- SAI.<br>  Ta có $\\overrightarrow{AJ}=\\dfrac{1}{2}\\left( \\overrightarrow{AC}+\\overrightarrow{AD}\\right)=\\dfrac{1}{2}\\left(\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AD}\\right) =\\overrightarrow{AD}+\\dfrac{1}{2}\\cdot \\overrightarrow{AB}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

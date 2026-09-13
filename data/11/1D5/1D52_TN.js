@@ -15,7 +15,8 @@ window.tracNghiem1D52 = [
       "$[30;40)$"
     ],
     "answer": 0,
-    "explain": "Ta có $60:4=15$, vậy $Q_1$ thuộc $[20;30)$."
+    "explain": "Ta có $60:4=15$, vậy $Q_1$ thuộc $[20;30)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D523TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D52 = [
       "$[55;60)$"
     ],
     "answer": 0,
-    "explain": "Ta có $40:2=20$, vậy $M_e$ thuộc $[50;55)$."
+    "explain": "Ta có $40:2=20$, vậy $M_e$ thuộc $[50;55)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D523TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D52 = [
       "$[2; 3,5)$"
     ],
     "answer": 1,
-    "explain": "Bảng thống kê bổ sung tần số tích lũy  <br><img src=\"data/11/1D5/im1D52/dlts_11_DLTS20_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $N_2=\\dfrac{8+22+35+15}{2}=40$. Nhóm đầu tiên có tần số tích lũy lớn hơn $N_2$ là $[5;6{,}5]$.<br>  Do đó nhóm chứa trung vị của mẫu số liệu là $[5;6{,}5]$."
+    "explain": "Bảng thống kê bổ sung tần số tích lũy  <br><img src=\"data/11/1D5/im1D52/dlts_11_DLTS20_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $N_2=\\dfrac{8+22+35+15}{2}=40$. Nhóm đầu tiên có tần số tích lũy lớn hơn $N_2$ là $[5;6{,}5]$.<br>  Do đó nhóm chứa trung vị của mẫu số liệu là $[5;6{,}5]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D522TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D52 = [
       "$\\left[17;18\\right)$"
     ],
     "answer": 2,
-    "explain": "Cỡ mẫu $n=20$ và $\\dfrac{n}{4}=5$ nên tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên thuộc nhóm $[16;17)$."
+    "explain": "Cỡ mẫu $n=20$ và $\\dfrac{n}{4}=5$ nên tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên thuộc nhóm $[16;17)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D522TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D52 = [
       "$ 164{,}5 $"
     ],
     "answer": 3,
-    "explain": "Trung vị của mẫu số liệu ghép nhóm là  $  M_\\mathrm{e} = 160 + \\dfrac{\\dfrac{40}{2}-11}{10}\\cdot (165-160)  = 164{,}5.  $"
+    "explain": "Trung vị của mẫu số liệu ghép nhóm là  $  M_\\mathrm{e} = 160 + \\dfrac{\\dfrac{40}{2}-11}{10}\\cdot (165-160)  = 164{,}5.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D522TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D52 = [
       "$[2;3,5)$"
     ],
     "answer": 2,
-    "explain": "Cỡ mẫu là $n=8+22+35+15=80$.<br>  Có khoảng $\\dfrac{3n}{4}=60$ giá trị $x_i$ nhỏ hơn tứ phân vị thứ ba nên nhóm chứ tứ phân vị thứ ba là $[5;6,5)$."
+    "explain": "Cỡ mẫu là $n=8+22+35+15=80$.<br>  Có khoảng $\\dfrac{3n}{4}=60$ giá trị $x_i$ nhỏ hơn tứ phân vị thứ ba nên nhóm chứ tứ phân vị thứ ba là $[5;6,5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D523TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D52 = [
       "$20$"
     ],
     "answer": 3,
-    "explain": "Giá trị $t_0$ cần tính chính là $Q_3$ (tứ phân vị thứ ba).<br>  Cỡ mẫu $N=56$. <br>  Vì $\\dfrac{3N}{4} = \\dfrac{3 \\cdot 56}{4} = 42$ nên nhóm chứa tứ phân vị thứ ba là nhóm $[18,5; 21,5)$ và tứ phân vị thứ ba là:  $ Q_3 = 18,5 + \\dfrac{\\dfrac{3 \\cdot 56}{4} - (3+12+15)}{24} \\cdot 3 = 20 $"
+    "explain": "Giá trị $t_0$ cần tính chính là $Q_3$ (tứ phân vị thứ ba).<br>  Cỡ mẫu $N=56$. <br>  Vì $\\dfrac{3N}{4} = \\dfrac{3 \\cdot 56}{4} = 42$ nên nhóm chứa tứ phân vị thứ ba là nhóm $[18,5; 21,5)$ và tứ phân vị thứ ba là:  $ Q_3 = 18,5 + \\dfrac{\\dfrac{3 \\cdot 56}{4} - (3+12+15)}{24} \\cdot 3 = 20 $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D522TN7",
@@ -99,7 +106,8 @@ window.tracNghiem1D52 = [
       "$[52;56)$"
     ],
     "answer": 2,
-    "explain": "Bảng phân bố tần số ghép nhóm có tần số tích lũy  <br><img src=\"data/11/1D5/im1D52/loc2_2_TN_DS_TL_SGD_H_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Nhóm đầu tiên có tần số tích lũy lớn hơn hoặc bằng $\\dfrac{45}{4}=11{,}25$ là nhóm $[44;48)$.<br>  Vậy nhóm chứa tứ phân vị thứ nhất là $[44;48)$."
+    "explain": "Bảng phân bố tần số ghép nhóm có tần số tích lũy  <br><img src=\"data/11/1D5/im1D52/loc2_2_TN_DS_TL_SGD_H_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Nhóm đầu tiên có tần số tích lũy lớn hơn hoặc bằng $\\dfrac{45}{4}=11{,}25$ là nhóm $[44;48)$.<br>  Vậy nhóm chứa tứ phân vị thứ nhất là $[44;48)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D522TN8",
@@ -111,7 +119,8 @@ window.tracNghiem1D52 = [
       "$[8;10]$"
     ],
     "answer": 1,
-    "explain": "Cỡ mẫu $n=30$.<br>  Ta có $\\dfrac{n}{4}=7{,}5$.<br>  Khi đó ta thấy tại nhóm $[4;6)$ là nhóm đầu tiên có tần số tích lũy là $10&gt;7{,}5$ nên nhóm chứa tứ phân vị thứ nhất là $[4;6)$."
+    "explain": "Cỡ mẫu $n=30$.<br>  Ta có $\\dfrac{n}{4}=7{,}5$.<br>  Khi đó ta thấy tại nhóm $[4;6)$ là nhóm đầu tiên có tần số tích lũy là $10&gt;7{,}5$ nên nhóm chứa tứ phân vị thứ nhất là $[4;6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D523TN8",
@@ -123,6 +132,7 @@ window.tracNghiem1D52 = [
       "$50{,}44$"
     ],
     "answer": 1,
-    "explain": "Ta có $n=5+9+13+10+6=43$.<br>  Vị trí trung vị $\\dfrac{n}{2}=21{,}5$ nằm trong lớp $[40;60)\\Rightarrow M_e=40+\\dfrac{21{,}5-14}{13}\\cdot20\\approx51{,}54$."
+    "explain": "Ta có $n=5+9+13+10+6=43$.<br>  Vị trí trung vị $\\dfrac{n}{2}=21{,}5$ nằm trong lớp $[40;60)\\Rightarrow M_e=40+\\dfrac{21{,}5-14}{13}\\cdot20\\approx51{,}54$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

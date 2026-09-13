@@ -17,7 +17,8 @@ window.tracNghiem0D62 = [
       "Tháng $12$"
     ],
     "answer": 0,
-    "explain": "Các tháng khác đều có nhiệt độ trong khoảng $18^\\circ C$ đến $32^\\circ C$, riêng tháng $7$ (mùa hè, lẽ ra phải nóng nhất) lại ghi $4,5^\\circ C$ – thấp bất thường so với quy luật khí hậu. Vậy số liệu tháng $7$ bị ghi nhầm."
+    "explain": "Các tháng khác đều có nhiệt độ trong khoảng $18^\\circ C$ đến $32^\\circ C$, riêng tháng $7$ (mùa hè, lẽ ra phải nóng nhất) lại ghi $4,5^\\circ C$ – thấp bất thường so với quy luật khí hậu. Vậy số liệu tháng $7$ bị ghi nhầm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN2",
@@ -29,7 +30,8 @@ window.tracNghiem0D62 = [
       "Không có khối nào sai"
     ],
     "answer": 0,
-    "explain": "Sĩ số trung bình mỗi lớp: Khối $10$: $396:9=44$; Khối $11$: $370:8=46,25$; Khối $12$: $345:8=43,125$.<br>Vì sĩ số mỗi lớp không vượt quá $45$ nên khối $11$ (trung bình $46,25>45$) có số liệu không hợp lý, tức là bị thống kê sai."
+    "explain": "Sĩ số trung bình mỗi lớp: Khối $10$: $396:9=44$; Khối $11$: $370:8=46,25$; Khối $12$: $345:8=43,125$.<br>Vì sĩ số mỗi lớp không vượt quá $45$ nên khối $11$ (trung bình $46,25>45$) có số liệu không hợp lý, tức là bị thống kê sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN3",
@@ -41,7 +43,8 @@ window.tracNghiem0D62 = [
       "$45$"
     ],
     "answer": 0,
-    "explain": "Sĩ số trung bình mỗi lớp của khối $12$ là $345:8=43,125$ (học sinh)."
+    "explain": "Sĩ số trung bình mỗi lớp của khối $12$ là $345:8=43,125$ (học sinh).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN4",
@@ -53,7 +56,8 @@ window.tracNghiem0D62 = [
       "$9,1\\%$"
     ],
     "answer": 0,
-    "explain": "Tỉ lệ tăng từ tháng $4$ ($256$) sang tháng $5$ ($340$) là $\\dfrac{340-256}{256}\\approx 32,8\\%$."
+    "explain": "Tỉ lệ tăng từ tháng $4$ ($256$) sang tháng $5$ ($340$) là $\\dfrac{340-256}{256}\\approx 32,8\\%$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN5",
@@ -65,7 +69,8 @@ window.tracNghiem0D62 = [
       "Tháng $6$"
     ],
     "answer": 0,
-    "explain": "Tỉ lệ tăng từ tháng $1\\to 2$ là $20,7\\%$, từ $2\\to 3$ là $20,6\\%$, từ $3\\to 4$ là $21,3\\%$ – đều xấp xỉ $20\\%$. Nhưng tỉ lệ tăng từ $4\\to 5$ lên tới $32,8\\%$ và từ $5\\to 6$ chỉ còn $9,1\\%$ – cả hai đều lệch xa $20\\%$. Điều này cho thấy chính số liệu của <strong>tháng $5$</strong> ($340$) không chính xác."
+    "explain": "Tỉ lệ tăng từ tháng $1\\to 2$ là $20,7\\%$, từ $2\\to 3$ là $20,6\\%$, từ $3\\to 4$ là $21,3\\%$ – đều xấp xỉ $20\\%$. Nhưng tỉ lệ tăng từ $4\\to 5$ lên tới $32,8\\%$ và từ $5\\to 6$ chỉ còn $9,1\\%$ – cả hai đều lệch xa $20\\%$. Điều này cho thấy chính số liệu của <strong>tháng $5$</strong> ($340$) không chính xác.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN6",
@@ -77,7 +82,8 @@ window.tracNghiem0D62 = [
       "$3$ người"
     ],
     "answer": 0,
-    "explain": "Số người mỗi tổ là $20:5=4$ (người)."
+    "explain": "Số người mỗi tổ là $20:5=4$ (người).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN7",
@@ -89,7 +95,8 @@ window.tracNghiem0D62 = [
       "Từ $17$ đến $21$ sản phẩm"
     ],
     "answer": 0,
-    "explain": "Mỗi tổ có $4$ người, mỗi người làm $4$ hoặc $5$ sản phẩm nên số sản phẩm của tổ nằm trong đoạn $[4\\times 4;\\,4\\times 5]=[16;20]$."
+    "explain": "Mỗi tổ có $4$ người, mỗi người làm $4$ hoặc $5$ sản phẩm nên số sản phẩm của tổ nằm trong đoạn $[4\\times 4;\\,4\\times 5]=[16;20]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN8",
@@ -101,7 +108,8 @@ window.tracNghiem0D62 = [
       "Tổ $5$"
     ],
     "answer": 0,
-    "explain": "Số sản phẩm hợp lý của một tổ chỉ có thể sừ $16$ đến $20$. Tổ $4$ ghi $21$ sản phẩm, vưượt quá giới hạn $20$, nên số liệu của tổ $4$ không hợp lý."
+    "explain": "Số sản phẩm hợp lý của một tổ chỉ có thể sừ $16$ đến $20$. Tổ $4$ ghi $21$ sản phẩm, vưượt quá giới hạn $20$, nên số liệu của tổ $4$ không hợp lý.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN9",
@@ -113,7 +121,8 @@ window.tracNghiem0D62 = [
       "Bỏ số liệu đó đi nếu thấy giá trị lớn hơn các số liệu còn lại"
     ],
     "answer": 0,
-    "explain": "Muốn phát hiện số liệu thống kê không chính xác, ta cần dựa vào các thông tin, quy luật hoặc kiến thức thực tế đã biết (ví dụ: quy luật thời tiết, giới hạn sĩ số, tỉ lệ tăng trưởng…) và đối chiếu với số liệu đã cho, chứ không chỉ dựa vào độ lớn hay tin tưởng tuyệt đối vào số liệu."
+    "explain": "Muốn phát hiện số liệu thống kê không chính xác, ta cần dựa vào các thông tin, quy luật hoặc kiến thức thực tế đã biết (ví dụ: quy luật thời tiết, giới hạn sĩ số, tỉ lệ tăng trưởng…) và đối chiếu với số liệu đã cho, chứ không chỉ dựa vào độ lớn hay tin tưởng tuyệt đối vào số liệu.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D621TN10",
@@ -125,6 +134,7 @@ window.tracNghiem0D62 = [
       "$45$"
     ],
     "answer": 0,
-    "explain": "Sĩ số trung bình mỗi lớp của khối $10$ là $396:9=44$ (học sinh)."
+    "explain": "Sĩ số trung bình mỗi lớp của khối $10$ là $396:9=44$ (học sinh).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

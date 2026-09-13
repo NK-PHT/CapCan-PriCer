@@ -14,7 +14,8 @@ window.tracNghiem1D11 = [
       "$72^{\\circ}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\dfrac{2\\pi}{5} = \\dfrac{2 \\cdot 180}{5} = 72^\\circ$."
+    "explain": "Ta có $\\dfrac{2\\pi}{5} = \\dfrac{2 \\cdot 180}{5} = 72^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN2",
@@ -26,7 +27,8 @@ window.tracNghiem1D11 = [
       "$\\alpha=\\dfrac{\\pi}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $1^\\circ=\\dfrac{\\pi}{180}$ rad. Suy ra $30^\\circ=30\\cdot \\dfrac{\\pi}{180}=\\dfrac{\\pi}{6}$ rad."
+    "explain": "Ta có $1^\\circ=\\dfrac{\\pi}{180}$ rad. Suy ra $30^\\circ=30\\cdot \\dfrac{\\pi}{180}=\\dfrac{\\pi}{6}$ rad.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN3",
@@ -38,7 +40,8 @@ window.tracNghiem1D11 = [
       "$15^\\circ$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\dfrac{\\pi}{12}\\cdot\\dfrac{180}{\\pi}=15^\\circ$."
+    "explain": "Ta có $\\dfrac{\\pi}{12}\\cdot\\dfrac{180}{\\pi}=15^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN4",
@@ -50,7 +53,8 @@ window.tracNghiem1D11 = [
       "$315^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $ \\dfrac{2\\pi}{3}=\\left( \\dfrac{ \\dfrac{2\\pi}{3}\\cdot 180}{\\pi}\\right)^{\\circ}=120^\\circ$."
+    "explain": "Ta có $ \\dfrac{2\\pi}{3}=\\left( \\dfrac{ \\dfrac{2\\pi}{3}\\cdot 180}{\\pi}\\right)^{\\circ}=120^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN5",
@@ -62,7 +66,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5 \\pi}{3}+k \\pi$, $k \\in \\mathbb{Z}$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/11/1D1/im1D1/1D11_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ hình vẽ ta thấy các góc lượng giác $(OA, OM)$ được tạo bởi tia đầu là tia $OA$, tia cuối là tia $OM$ và quay theo chiều âm một góc $\\dfrac{\\pi}{3}$ và chỉ có duy nhất một điểm $M$ trên đường tròn lượng giác nên có số đo của các góc lượng giác $(OA, OM) =-\\dfrac{\\pi}{3} + k2\\pi, k \\in \\mathbb{Z}$."
+    "explain": "<br><img src=\"data/11/1D1/im1D1/1D11_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ hình vẽ ta thấy các góc lượng giác $(OA, OM)$ được tạo bởi tia đầu là tia $OA$, tia cuối là tia $OM$ và quay theo chiều âm một góc $\\dfrac{\\pi}{3}$ và chỉ có duy nhất một điểm $M$ trên đường tròn lượng giác nên có số đo của các góc lượng giác $(OA, OM) =-\\dfrac{\\pi}{3} + k2\\pi, k \\in \\mathbb{Z}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN6",
@@ -74,7 +79,8 @@ window.tracNghiem1D11 = [
       "$(Ou, Ov)=-60^{\\circ}$"
     ],
     "answer": 1,
-    "explain": "Theo định nghĩa, ta có $\\text{sđ}(Ou, Ov)=60^{\\circ}+k 360^{\\circ}$ $(k \\in \\mathbb{Z})$."
+    "explain": "Theo định nghĩa, ta có $\\text{sđ}(Ou, Ov)=60^{\\circ}+k 360^{\\circ}$ $(k \\in \\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN7",
@@ -86,7 +92,8 @@ window.tracNghiem1D11 = [
       "$x=\\dfrac{\\pi}{3}+2k\\pi$"
     ],
     "answer": 2,
-    "explain": "Trong đường tròn lượng giác theo hình vẽ trên, hai điểm $M$, $N$ là hai điểm biểu diễn của góc lượng giác có số đo là $x=\\dfrac{\\pi}{3}+k\\pi$ $(k \\in \\mathbb{Z})$."
+    "explain": "Trong đường tròn lượng giác theo hình vẽ trên, hai điểm $M$, $N$ là hai điểm biểu diễn của góc lượng giác có số đo là $x=\\dfrac{\\pi}{3}+k\\pi$ $(k \\in \\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN8",
@@ -98,7 +105,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{ \\pi}{3}$"
     ],
     "answer": 0,
-    "explain": "Đổi $120^\\circ$ sang radian, ta được kết quả là $\\dfrac{2 \\pi}{3}$."
+    "explain": "Đổi $120^\\circ$ sang radian, ta được kết quả là $\\dfrac{2 \\pi}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D116TN9",
@@ -110,7 +118,8 @@ window.tracNghiem1D11 = [
       "$8{,}04$ (vòng)"
     ],
     "answer": 3,
-    "explain": "Đổi đơn vị $50$ km/h bằng $\\dfrac{12\\,500}{9}$ (cm/s).<br>  Vì xe chạy với tốc độ $\\dfrac{12\\,500}{9}$ (cm/s) nên trong một giây xe chạy được quãng đường là $\\dfrac{12\\,500}{9}$ cm.<br>  Mà chu vi của lốp xe bằng $55 \\pi$ (cm) nên trong một giây xe chạy được $\\dfrac{12\\,500}{9}:55 \\pi \\approx 8{,04} \\; \\text{(vòng)}.$"
+    "explain": "Đổi đơn vị $50$ km/h bằng $\\dfrac{12\\,500}{9}$ (cm/s).<br>  Vì xe chạy với tốc độ $\\dfrac{12\\,500}{9}$ (cm/s) nên trong một giây xe chạy được quãng đường là $\\dfrac{12\\,500}{9}$ cm.<br>  Mà chu vi của lốp xe bằng $55 \\pi$ (cm) nên trong một giây xe chạy được $\\dfrac{12\\,500}{9}:55 \\pi \\approx 8{,04} \\; \\text{(vòng)}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D111TN10",
@@ -122,7 +131,8 @@ window.tracNghiem1D11 = [
       "$300^\\circ = \\dfrac{5\\pi}{3}$ rad"
     ],
     "answer": 0,
-    "explain": "Vì $120^\\circ = \\dfrac{2\\pi}{3}$ rad nên mệnh đề “$120^\\circ = \\dfrac{2\\pi}{9}$ rad”~ là mệnh đề sai."
+    "explain": "Vì $120^\\circ = \\dfrac{2\\pi}{3}$ rad nên mệnh đề “$120^\\circ = \\dfrac{2\\pi}{9}$ rad”~ là mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN11",
@@ -134,7 +144,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "Số đo theo đơn vị radian của góc $315^\\circ$ là $\\dfrac{315\\cdot \\pi}{180}=\\dfrac{7\\pi}{4}$."
+    "explain": "Số đo theo đơn vị radian của góc $315^\\circ$ là $\\dfrac{315\\cdot \\pi}{180}=\\dfrac{7\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN12",
@@ -146,7 +157,8 @@ window.tracNghiem1D11 = [
       "$x=\\dfrac{\\pi}{3}+\\dfrac{k\\pi}{2}$, $(k\\in \\mathbb{Z})$"
     ],
     "answer": 2,
-    "explain": "Hai điểm $M$, $N$ biểu diễn góc lượng giác $x=\\dfrac{\\pi}{3}+k\\pi$, $(k\\in \\mathbb{Z})$."
+    "explain": "Hai điểm $M$, $N$ biểu diễn góc lượng giác $x=\\dfrac{\\pi}{3}+k\\pi$, $(k\\in \\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN13",
@@ -158,7 +170,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{10}$"
     ],
     "answer": 0,
-    "explain": "Ta có $108^\\circ= \\dfrac{108 \\pi}{180}= \\dfrac{3\\pi}{5}$ (rad)."
+    "explain": "Ta có $108^\\circ= \\dfrac{108 \\pi}{180}= \\dfrac{3\\pi}{5}$ (rad).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN14",
@@ -170,7 +183,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{4}$"
     ],
     "answer": 3,
-    "explain": "Ta có $180^\\circ = \\pi$ radian.<br>   Suy ra $45^\\circ = \\dfrac{45}{180}\\pi = \\dfrac{\\pi}{4}$ (radian)."
+    "explain": "Ta có $180^\\circ = \\pi$ radian.<br>   Suy ra $45^\\circ = \\dfrac{45}{180}\\pi = \\dfrac{\\pi}{4}$ (radian).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN15",
@@ -182,7 +196,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{4\\pi}{7}$"
     ],
     "answer": 0,
-    "explain": "Số đo theo đơn vị rađian của góc $150^{\\circ}$ là $\\dfrac{150\\pi}{180}=\\dfrac{5\\pi}{6}$."
+    "explain": "Số đo theo đơn vị rađian của góc $150^{\\circ}$ là $\\dfrac{150\\pi}{180}=\\dfrac{5\\pi}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN16",
@@ -194,7 +209,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{110\\pi}{3}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\dfrac{110^\\circ\\cdot \\pi}{180}=\\dfrac{11\\pi}{8}$."
+    "explain": "Ta có $\\dfrac{110^\\circ\\cdot \\pi}{180}=\\dfrac{11\\pi}{8}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN17",
@@ -206,7 +222,8 @@ window.tracNghiem1D11 = [
       "$\\alpha = \\dfrac{2\\pi}{3}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\alpha=120^\\circ=\\dfrac{120^\\circ \\pi}{180^\\circ}=\\dfrac{2\\pi}{3}$."
+    "explain": "Ta có $\\alpha=120^\\circ=\\dfrac{120^\\circ \\pi}{180^\\circ}=\\dfrac{2\\pi}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN18",
@@ -218,7 +235,8 @@ window.tracNghiem1D11 = [
       "$1\\,260^\\circ$"
     ],
     "answer": 3,
-    "explain": "Góc có số đo $7\\pi$ (rad) khi đổi theo đơn vị độ là $a^\\circ=\\dfrac{7\\pi}{\\pi}\\cdot180^\\circ=1\\,260^\\circ$."
+    "explain": "Góc có số đo $7\\pi$ (rad) khi đổi theo đơn vị độ là $a^\\circ=\\dfrac{7\\pi}{\\pi}\\cdot180^\\circ=1\\,260^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN19",
@@ -230,7 +248,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $-\\dfrac{33\\pi}{4}=-\\dfrac{\\pi}{4}-8\\pi$, suy ra góc lượng giác $-\\dfrac{33\\pi}{4}$ có điểm biểu diễn trên đường tròn lượng giác trùng với điểm biểu diễn của góc $-\\dfrac{\\pi}{4}$."
+    "explain": "Ta có $-\\dfrac{33\\pi}{4}=-\\dfrac{\\pi}{4}-8\\pi$, suy ra góc lượng giác $-\\dfrac{33\\pi}{4}$ có điểm biểu diễn trên đường tròn lượng giác trùng với điểm biểu diễn của góc $-\\dfrac{\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN20",
@@ -242,7 +261,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5 \\pi}{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $72^{\\circ}=72 \\cdot \\dfrac{\\pi}{180}=\\dfrac{2 \\pi}{5}$."
+    "explain": "Ta có $72^{\\circ}=72 \\cdot \\dfrac{\\pi}{180}=\\dfrac{2 \\pi}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN21",
@@ -254,7 +274,8 @@ window.tracNghiem1D11 = [
       "$54^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "$\\dfrac{3\\pi}{5}=\\dfrac{3\\cdot180^\\circ}{5}=108^\\circ$."
+    "explain": "$\\dfrac{3\\pi}{5}=\\dfrac{3\\cdot180^\\circ}{5}=108^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN22",
@@ -266,7 +287,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{3}{8}$"
     ],
     "answer": 2,
-    "explain": "Ta có $135^\\circ = 135 \\cdot \\dfrac{\\pi}{180} = \\dfrac{3\\pi}{4}$."
+    "explain": "Ta có $135^\\circ = 135 \\cdot \\dfrac{\\pi}{180} = \\dfrac{3\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D111TN23",
@@ -278,7 +300,8 @@ window.tracNghiem1D11 = [
       "$4\\pi$"
     ],
     "answer": 1,
-    "explain": "Ta có hàm số $y=\\cos x$ tuần hoàn với chu kỳ $T=2\\pi$."
+    "explain": "Ta có hàm số $y=\\cos x$ tuần hoàn với chu kỳ $T=2\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN24",
@@ -290,7 +313,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{10}$"
     ],
     "answer": 0,
-    "explain": "Ta có $108^\\circ$ đổi sang đơn vị radian là $\\dfrac{108\\cdot \\pi}{180}=\\dfrac{3\\pi}{5}$."
+    "explain": "Ta có $108^\\circ$ đổi sang đơn vị radian là $\\dfrac{108\\cdot \\pi}{180}=\\dfrac{3\\pi}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN25",
@@ -302,7 +326,8 @@ window.tracNghiem1D11 = [
       "$l=12{,}56$ cm"
     ],
     "answer": 0,
-    "explain": "Đổi $60^\\circ$ sang rađian ta được $\\alpha=\\dfrac{60\\cdot \\pi}{180}=\\dfrac{\\pi}{3}$.<br>  Độ dài cung $l=R\\alpha=12\\cdot \\dfrac{\\pi}{3}=4\\pi$."
+    "explain": "Đổi $60^\\circ$ sang rađian ta được $\\alpha=\\dfrac{60\\cdot \\pi}{180}=\\dfrac{\\pi}{3}$.<br>  Độ dài cung $l=R\\alpha=12\\cdot \\dfrac{\\pi}{3}=4\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D116TN26",
@@ -314,7 +339,8 @@ window.tracNghiem1D11 = [
       "$1000\\pi\\ (\\mathrm{cm})$"
     ],
     "answer": 0,
-    "explain": "Quãng đường đi được của bánh xe  \\[\\pi\\cdot 100\\cdot 5=500\\pi\\ (\\mathrm{cm}). \\]"
+    "explain": "Quãng đường đi được của bánh xe  \\[\\pi\\cdot 100\\cdot 5=500\\pi\\ (\\mathrm{cm}). \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D116TN27",
@@ -326,7 +352,8 @@ window.tracNghiem1D11 = [
       "$-90^\\circ + k360^\\circ, k \\in \\mathbb{Z}$"
     ],
     "answer": 0,
-    "explain": "Theo chiều dương lượng giác (ngược chiều kim đồng hồ), từ vị trí số 3 đến số 12 là góc $90^\\circ$. <br>  Vậy công thức tổng quát số đo góc lượng giác là $90^\\circ + k360^\\circ$."
+    "explain": "Theo chiều dương lượng giác (ngược chiều kim đồng hồ), từ vị trí số 3 đến số 12 là góc $90^\\circ$. <br>  Vậy công thức tổng quát số đo góc lượng giác là $90^\\circ + k360^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN28",
@@ -338,7 +365,8 @@ window.tracNghiem1D11 = [
       "$\\left( \\dfrac{1800}{\\pi}\\right) ^\\circ$"
     ],
     "answer": 3,
-    "explain": "$10 \\text{ rad} = 10 \\cdot \\dfrac{180^\\circ}{\\pi} =\\left( \\dfrac{1800}{\\pi}\\right) ^\\circ$."
+    "explain": "$10 \\text{ rad} = 10 \\cdot \\dfrac{180^\\circ}{\\pi} =\\left( \\dfrac{1800}{\\pi}\\right) ^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN29",
@@ -350,7 +378,8 @@ window.tracNghiem1D11 = [
       "$-\\dfrac{\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "- $A(1;0)$ tương ứng góc $0$.<br>  - $B(0;1)$ tương ứng góc $\\dfrac{\\pi}{2}$.<br>  Góc lượng giác từ $OA$ đến $OB$ (theo chiều ngược kim đồng hồ) là $\\dfrac{\\pi}{2}$."
+    "explain": "- $A(1;0)$ tương ứng góc $0$.<br>  - $B(0;1)$ tương ứng góc $\\dfrac{\\pi}{2}$.<br>  Góc lượng giác từ $OA$ đến $OB$ (theo chiều ngược kim đồng hồ) là $\\dfrac{\\pi}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN30",
@@ -362,7 +391,8 @@ window.tracNghiem1D11 = [
       "$-45^\\circ + k 360^\\circ$, $k \\in \\mathbb{Z}$"
     ],
     "answer": 3,
-    "explain": "Vì $N$ là điểm đối xứng với $M$ qua trục $Ox$ nên cung lượng giác $AN$ bằng $-45^\\circ+k 360^\\circ$, $k\\in \\mathbb{Z}$."
+    "explain": "Vì $N$ là điểm đối xứng với $M$ qua trục $Ox$ nên cung lượng giác $AN$ bằng $-45^\\circ+k 360^\\circ$, $k\\in \\mathbb{Z}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN31",
@@ -374,7 +404,8 @@ window.tracNghiem1D11 = [
       "$-300^\\circ$"
     ],
     "answer": 3,
-    "explain": "Dựa vào hình vẽ, ta thấy $(Ou,Ov)=-300^\\circ$"
+    "explain": "Dựa vào hình vẽ, ta thấy $(Ou,Ov)=-300^\\circ$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN32",
@@ -386,7 +417,8 @@ window.tracNghiem1D11 = [
       "$IV$"
     ],
     "answer": 2,
-    "explain": "Vì $-250^\\circ=-70^\\circ-2\\cdot 90^\\circ$ nên điểm $M$ nằm ở góc phần tư thứ $II$."
+    "explain": "Vì $-250^\\circ=-70^\\circ-2\\cdot 90^\\circ$ nên điểm $M$ nằm ở góc phần tư thứ $II$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN33",
@@ -398,7 +430,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{3\\pi}{5}$"
     ],
     "answer": 3,
-    "explain": "Ta có $108^\\circ=108 \\cdot \\dfrac{\\pi}{180}=\\dfrac{3\\pi}{5}$ rad."
+    "explain": "Ta có $108^\\circ=108 \\cdot \\dfrac{\\pi}{180}=\\dfrac{3\\pi}{5}$ rad.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN34",
@@ -410,7 +443,8 @@ window.tracNghiem1D11 = [
       "$4a r$"
     ],
     "answer": 1,
-    "explain": "Độ dài cung có số đo $a$ là $l=aR=2ar$."
+    "explain": "Độ dài cung có số đo $a$ là $l=aR=2ar$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN35",
@@ -422,7 +456,8 @@ window.tracNghiem1D11 = [
       "$240^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $510^\\circ = 360^\\circ + 150^\\circ$, nên cùng tia cuối với $150^\\circ$."
+    "explain": "Ta có $510^\\circ = 360^\\circ + 150^\\circ$, nên cùng tia cuối với $150^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D116TN36",
@@ -434,7 +469,8 @@ window.tracNghiem1D11 = [
       "$50^{\\circ}$"
     ],
     "answer": 3,
-    "explain": "Một bánh xe có $72$ răng suy ra mỗi góc tạo bởi $2$ răng gần nhau là $5^\\circ$.<br> Khi đó số đo góc mà bánh xe đã quay được khi di chuyển $10$ răng là $5\\cdot 10=50^\\circ$."
+    "explain": "Một bánh xe có $72$ răng suy ra mỗi góc tạo bởi $2$ răng gần nhau là $5^\\circ$.<br> Khi đó số đo góc mà bánh xe đã quay được khi di chuyển $10$ răng là $5\\cdot 10=50^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN37",
@@ -446,7 +482,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{269\\pi}{18}$"
     ],
     "answer": 1,
-    "explain": "Công thức tính độ dài cung tròn theo độ là  \\[\\ell=\\dfrac{R\\cdot \\alpha\\cdot \\pi}{180}=\\dfrac{20\\cdot 269\\cdot \\pi}{180}=\\dfrac{269\\pi}{2}.\\]"
+    "explain": "Công thức tính độ dài cung tròn theo độ là  \\[\\ell=\\dfrac{R\\cdot \\alpha\\cdot \\pi}{180}=\\dfrac{20\\cdot 269\\cdot \\pi}{180}=\\dfrac{269\\pi}{2}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN38",
@@ -458,7 +495,8 @@ window.tracNghiem1D11 = [
       "$60^\\circ+k360^\\circ (k \\in \\mathbb{Z})$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\widehat{AOM}=60^\\circ$ nên góc lượng giác $(OA,OM)$ có số đo là $60^\\circ+k360^\\circ (k \\in \\mathbb{Z})$."
+    "explain": "Ta có $\\widehat{AOM}=60^\\circ$ nên góc lượng giác $(OA,OM)$ có số đo là $60^\\circ+k360^\\circ (k \\in \\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN39",
@@ -470,7 +508,8 @@ window.tracNghiem1D11 = [
       "$\\mathrm{l}=1{,}49$ cm"
     ],
     "answer": 0,
-    "explain": "Độ dài cung tròn là  \\[  \\mathrm{l}= \\mathbb{R}\\cdot \\alpha = 20\\cdot \\frac{\\pi}{16}=\\frac{5\\pi}{4}\\approx 3{,}93\\text{ cm}.  \\]"
+    "explain": "Độ dài cung tròn là  \\[  \\mathrm{l}= \\mathbb{R}\\cdot \\alpha = 20\\cdot \\frac{\\pi}{16}=\\frac{5\\pi}{4}\\approx 3{,}93\\text{ cm}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN40",
@@ -482,7 +521,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{3\\pi}{5}$"
     ],
     "answer": 3,
-    "explain": "Ta có  \\[  108^\\circ=\\frac{108\\pi}{180}=\\frac{3\\pi}{5}.  \\]"
+    "explain": "Ta có  \\[  108^\\circ=\\frac{108\\pi}{180}=\\frac{3\\pi}{5}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN41",
@@ -494,7 +534,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{20\\pi}{3}$ cm"
     ],
     "answer": 2,
-    "explain": "Độ dài cung $l = \\dfrac{120}{360} \\cdot 2\\pi R = \\dfrac{40\\pi}{3}$ cm."
+    "explain": "Độ dài cung $l = \\dfrac{120}{360} \\cdot 2\\pi R = \\dfrac{40\\pi}{3}$ cm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN42",
@@ -506,7 +547,8 @@ window.tracNghiem1D11 = [
       "$90^\\circ$"
     ],
     "answer": 2,
-    "explain": "Từ hình, chiều quay từ $\\overrightarrow{Ou}$ đến $\\overrightarrow{Ov}$ là ngược chiều âm nên góc lượng giác là $-270^\\circ$."
+    "explain": "Từ hình, chiều quay từ $\\overrightarrow{Ou}$ đến $\\overrightarrow{Ov}$ là ngược chiều âm nên góc lượng giác là $-270^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN43",
@@ -518,7 +560,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "Đổi từ độ sang radian  \\[  72^\\circ = 72 \\cdot \\dfrac{\\pi}{180} = \\dfrac{2\\pi}{5} \\text{ (rad)}.  \\]"
+    "explain": "Đổi từ độ sang radian  \\[  72^\\circ = 72 \\cdot \\dfrac{\\pi}{180} = \\dfrac{2\\pi}{5} \\text{ (rad)}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN44",
@@ -530,7 +573,8 @@ window.tracNghiem1D11 = [
       "$\\text{sđ}\\left(Ou,Ov\\right)=60^\\circ-k\\cdot 180^\\circ,\\ k\\in\\mathbb{Z}$"
     ],
     "answer": 0,
-    "explain": "Góc lượng giác $\\left(Ou,Ov\\right)$ có số đo bằng $60^\\circ$ và các số đo khác sai khác nhau bội của $360^\\circ$.<br>  Vậy $\\text{sđ}\\left(Ou,Ov\\right)=60^\\circ+k\\cdot 360^\\circ,\\ k\\in\\mathbb{Z}$."
+    "explain": "Góc lượng giác $\\left(Ou,Ov\\right)$ có số đo bằng $60^\\circ$ và các số đo khác sai khác nhau bội của $360^\\circ$.<br>  Vậy $\\text{sđ}\\left(Ou,Ov\\right)=60^\\circ+k\\cdot 360^\\circ,\\ k\\in\\mathbb{Z}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D111TN45",
@@ -542,7 +586,8 @@ window.tracNghiem1D11 = [
       "$1~\\text{rad}=1^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có \\[\\pi~\\text{rad}=180^\\circ \\Rightarrow 1~\\text{rad}=\\dfrac{180^\\circ}{\\pi}=\\left(\\dfrac{180}{\\pi}\\right)^\\circ.\\]"
+    "explain": "Ta có \\[\\pi~\\text{rad}=180^\\circ \\Rightarrow 1~\\text{rad}=\\dfrac{180^\\circ}{\\pi}=\\left(\\dfrac{180}{\\pi}\\right)^\\circ.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN46",
@@ -554,7 +599,8 @@ window.tracNghiem1D11 = [
       "$-\\dfrac{2\\pi}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có \\[\\dfrac{14\\pi}{3}=\\dfrac{12\\pi+2\\pi}{3}=4\\pi+\\dfrac{2\\pi}{3}=2\\cdot 2\\pi+\\dfrac{2\\pi}{3}.\\]  Do đó điểm biểu diễn góc lượng giác có số đo $\\dfrac{14\\pi}{3}$ trùng với điểm biểu diễn góc lượng giác có số đo $\\dfrac{2\\pi}{3}$."
+    "explain": "Ta có \\[\\dfrac{14\\pi}{3}=\\dfrac{12\\pi+2\\pi}{3}=4\\pi+\\dfrac{2\\pi}{3}=2\\cdot 2\\pi+\\dfrac{2\\pi}{3}.\\]  Do đó điểm biểu diễn góc lượng giác có số đo $\\dfrac{14\\pi}{3}$ trùng với điểm biểu diễn góc lượng giác có số đo $\\dfrac{2\\pi}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN47",
@@ -566,7 +612,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5\\pi}{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $72^\\circ = \\dfrac{72\\pi}{180} = \\dfrac{2\\pi}{5}$."
+    "explain": "Ta có $72^\\circ = \\dfrac{72\\pi}{180} = \\dfrac{2\\pi}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN48",
@@ -578,7 +625,8 @@ window.tracNghiem1D11 = [
       "$72^{\\circ}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\dfrac{2\\pi}{5} = \\dfrac{2 \\cdot 180}{5} = 72^\\circ$."
+    "explain": "Ta có $\\dfrac{2\\pi}{5} = \\dfrac{2 \\cdot 180}{5} = 72^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN49",
@@ -590,7 +638,8 @@ window.tracNghiem1D11 = [
       "$(Ou,Ov)=-60^\\circ$"
     ],
     "answer": 1,
-    "explain": "Quan sát hình vẽ, ta thấy:  <br>- Tia đầu là $Ou$, tia cuối là $Ov$.<br>- Góc hình học $\\widehat{uOv} = 60^\\circ$.<br>- Chiều quay từ tia $Ou$ đến tia $Ov$ là chiều dương (ngược chiều kim đồng hồ) nên số đo góc là số dương.  Do đó, số đo của góc lượng giác $(Ou, Ov)$ là $60^\\circ + k360^\\circ \\ (k \\in \\mathbb{Z})$."
+    "explain": "Quan sát hình vẽ, ta thấy:  <br>- Tia đầu là $Ou$, tia cuối là $Ov$.<br>- Góc hình học $\\widehat{uOv} = 60^\\circ$.<br>- Chiều quay từ tia $Ou$ đến tia $Ov$ là chiều dương (ngược chiều kim đồng hồ) nên số đo góc là số dương.  Do đó, số đo của góc lượng giác $(Ou, Ov)$ là $60^\\circ + k360^\\circ \\ (k \\in \\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN50",
@@ -602,7 +651,8 @@ window.tracNghiem1D11 = [
       "$(Ou,Ov)=-60^{\\circ}$"
     ],
     "answer": 1,
-    "explain": "Hình vẽ biểu diễn góc lượng giác có tia đầu là $Ou$ và tia cuối là $Ov$. <br>  Do đó, số đo tổng quát của các góc lượng giác $(Ou,Ov)$ là $60^{\\circ}+k360^{\\circ}\\,(k\\in\\mathbb{Z})$."
+    "explain": "Hình vẽ biểu diễn góc lượng giác có tia đầu là $Ou$ và tia cuối là $Ov$. <br>  Do đó, số đo tổng quát của các góc lượng giác $(Ou,Ov)$ là $60^{\\circ}+k360^{\\circ}\\,(k\\in\\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN51",
@@ -614,7 +664,8 @@ window.tracNghiem1D11 = [
       "$180^\\circ$"
     ],
     "answer": 2,
-    "explain": "Ta có $2\\pi=360^\\circ$."
+    "explain": "Ta có $2\\pi=360^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN52",
@@ -626,7 +677,8 @@ window.tracNghiem1D11 = [
       "$10$ cm"
     ],
     "answer": 2,
-    "explain": "Độ dài cung tròn là $l = 15 \\cdot \\dfrac{2\\pi}{3} = 10 \\pi$ cm."
+    "explain": "Độ dài cung tròn là $l = 15 \\cdot \\dfrac{2\\pi}{3} = 10 \\pi$ cm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN53",
@@ -638,7 +690,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\tan \\alpha=\\dfrac{\\sqrt{3}}{2}:\\dfrac{1}{2}=\\sqrt{3}\\Rightarrow \\alpha =\\dfrac{\\pi}{3}$."
+    "explain": "Ta có $\\tan \\alpha=\\dfrac{\\sqrt{3}}{2}:\\dfrac{1}{2}=\\sqrt{3}\\Rightarrow \\alpha =\\dfrac{\\pi}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN54",
@@ -650,7 +703,8 @@ window.tracNghiem1D11 = [
       "$7^\\circ30'$"
     ],
     "answer": 3,
-    "explain": "Ta có công thức đổi từ radian sang độ: $\\alpha^\\circ = \\alpha{\\text{(rad)}} \\cdot \\dfrac{180}{\\pi}$.<br>  Áp dụng vào bài toán:  $ \\dfrac{\\pi}{24} \\text{ (rad)} = \\dfrac{\\pi}{24} \\cdot \\dfrac{180}{\\pi} = \\dfrac{180}{24} = 7{,}5^\\circ =7^\\circ 30'$."
+    "explain": "Ta có công thức đổi từ radian sang độ: $\\alpha^\\circ = \\alpha{\\text{(rad)}} \\cdot \\dfrac{180}{\\pi}$.<br>  Áp dụng vào bài toán:  $ \\dfrac{\\pi}{24} \\text{ (rad)} = \\dfrac{\\pi}{24} \\cdot \\dfrac{180}{\\pi} = \\dfrac{180}{24} = 7{,}5^\\circ =7^\\circ 30'$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN55",
@@ -662,7 +716,8 @@ window.tracNghiem1D11 = [
       "$30^\\circ+k360^\\circ, k\\in\\mathbb{Z}$"
     ],
     "answer": 1,
-    "explain": "Theo hình vẽ, điểm $M$ biểu diễn góc $150^\\circ$ theo chiều dương.<br>  Do đó, số đo góc lượng giác $(OA,OM)$ là $150^\\circ+k360^\\circ, k\\in\\mathbb{Z}$."
+    "explain": "Theo hình vẽ, điểm $M$ biểu diễn góc $150^\\circ$ theo chiều dương.<br>  Do đó, số đo góc lượng giác $(OA,OM)$ là $150^\\circ+k360^\\circ, k\\in\\mathbb{Z}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D113TN56",
@@ -674,7 +729,8 @@ window.tracNghiem1D11 = [
       "$I$: từ $0^\\circ$ đến $90^\\circ$"
     ],
     "answer": 2,
-    "explain": "Ta có: $-405^\\circ = -45^\\circ - 360^\\circ$. <br>  Điểm biểu diễn của góc $-405^\\circ$ trùng với điểm biểu diễn của góc $-45^\\circ$. <br>  Vì $-90^\\circ &lt; -45^\\circ &lt; 0^\\circ$ nên điểm $M$ thuộc góc phần tư thứ $IV$."
+    "explain": "Ta có: $-405^\\circ = -45^\\circ - 360^\\circ$. <br>  Điểm biểu diễn của góc $-405^\\circ$ trùng với điểm biểu diễn của góc $-45^\\circ$. <br>  Vì $-90^\\circ &lt; -45^\\circ &lt; 0^\\circ$ nên điểm $M$ thuộc góc phần tư thứ $IV$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN57",
@@ -686,7 +742,8 @@ window.tracNghiem1D11 = [
       "$572^\\circ57'28$"
     ],
     "answer": 3,
-    "explain": "Ta có $10\\ \\mathrm{rad}=\\dfrac{10}{\\pi }\\cdot 180^\\circ\\approx 572^\\circ 57'28$."
+    "explain": "Ta có $10\\ \\mathrm{rad}=\\dfrac{10}{\\pi }\\cdot 180^\\circ\\approx 572^\\circ 57'28$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN58",
@@ -698,7 +755,8 @@ window.tracNghiem1D11 = [
       "$-\\dfrac{\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "Số đo của góc lượng giác $(OA, OB)$ bằng $\\dfrac{\\pi}{2}$."
+    "explain": "Số đo của góc lượng giác $(OA, OB)$ bằng $\\dfrac{\\pi}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN59",
@@ -710,7 +768,8 @@ window.tracNghiem1D11 = [
       "$-40^\\circ$"
     ],
     "answer": 3,
-    "explain": "Số đo của góc lượng giác $(Ou, Ov)$ như hình vẽ trên bằng $-40^\\circ$."
+    "explain": "Số đo của góc lượng giác $(Ou, Ov)$ như hình vẽ trên bằng $-40^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN60",
@@ -722,7 +781,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{7\\pi}{4}$"
     ],
     "answer": 3,
-    "explain": "Ta có $315^\\circ=\\dfrac{315\\pi}{180}=\\dfrac{7\\pi}{4}$."
+    "explain": "Ta có $315^\\circ=\\dfrac{315\\pi}{180}=\\dfrac{7\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN61",
@@ -734,7 +794,8 @@ window.tracNghiem1D11 = [
       "$-150^\\circ + k360^\\circ$, $k\\in \\mathbb{Z}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\widehat{MOA}=150^\\circ$ nên góc lượng giác $(OA,OM)$ có số đo là $150^\\circ + k360^\\circ$, $k\\in \\mathbb{Z}$."
+    "explain": "Ta có $\\widehat{MOA}=150^\\circ$ nên góc lượng giác $(OA,OM)$ có số đo là $150^\\circ + k360^\\circ$, $k\\in \\mathbb{Z}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN62",
@@ -746,7 +807,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{5\\pi}{6}$"
     ],
     "answer": 2,
-    "explain": "Số đo theo đơn vị radian của góc $135^{\\circ}$ là $\\dfrac{135\\pi}{180}=\\dfrac{3\\pi}{4}$."
+    "explain": "Số đo theo đơn vị radian của góc $135^{\\circ}$ là $\\dfrac{135\\pi}{180}=\\dfrac{3\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D116TN63",
@@ -758,7 +820,8 @@ window.tracNghiem1D11 = [
       "$50^\\circ$"
     ],
     "answer": 2,
-    "explain": "Số đo góc mà bánh xe đã quay được khi di chuyển $1$ bánh răng là $\\dfrac{360^\\circ}{72} = 5^\\circ$.<br>  Số đo góc mà bánh xe đã quay được khi di chuyển $12$ răng là $12\\cdot 5^\\circ = 60^\\circ$."
+    "explain": "Số đo góc mà bánh xe đã quay được khi di chuyển $1$ bánh răng là $\\dfrac{360^\\circ}{72} = 5^\\circ$.<br>  Số đo góc mà bánh xe đã quay được khi di chuyển $12$ răng là $12\\cdot 5^\\circ = 60^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN64",
@@ -770,7 +833,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{2\\pi}{3}$"
     ],
     "answer": 0,
-    "explain": "Ta có $30^\\circ = 30 \\cdot \\dfrac{\\pi}{180} = \\dfrac{\\pi}{6}$ radian."
+    "explain": "Ta có $30^\\circ = 30 \\cdot \\dfrac{\\pi}{180} = \\dfrac{\\pi}{6}$ radian.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D113TN65",
@@ -782,7 +846,8 @@ window.tracNghiem1D11 = [
       "$-\\dfrac{\\pi}{4}+k2\\pi,\\ k\\in\\mathbb{Z}$"
     ],
     "answer": 1,
-    "explain": "Ta có $(Ou,Ow)=(Ou,Ov)+(Ov,Ow)=\\dfrac{\\pi}{2}+\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{4}$."
+    "explain": "Ta có $(Ou,Ow)=(Ou,Ov)+(Ov,Ow)=\\dfrac{\\pi}{2}+\\dfrac{\\pi}{4}=\\dfrac{3\\pi}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN66",
@@ -794,7 +859,8 @@ window.tracNghiem1D11 = [
       "$5$ cm"
     ],
     "answer": 0,
-    "explain": "Bán kính của đường tròn là $R = \\dfrac{10}{2}=5$ (cm).<br>  Độ dài cung tròn có số đo $2$ rad là $\\ell=R\\alpha = 5 \\cdot 2 = 10$ (cm)."
+    "explain": "Bán kính của đường tròn là $R = \\dfrac{10}{2}=5$ (cm).<br>  Độ dài cung tròn có số đo $2$ rad là $\\ell=R\\alpha = 5 \\cdot 2 = 10$ (cm).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN67",
@@ -806,7 +872,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{3\\pi}{2}$"
     ],
     "answer": 1,
-    "explain": "Ta có  $\\alpha = \\dfrac{108 \\cdot \\pi}{180} = \\dfrac{3\\pi}{5}$."
+    "explain": "Ta có  $\\alpha = \\dfrac{108 \\cdot \\pi}{180} = \\dfrac{3\\pi}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D113TN68",
@@ -818,7 +885,8 @@ window.tracNghiem1D11 = [
       "$30^\\circ$"
     ],
     "answer": 1,
-    "explain": "Số đo bằng độ của cung tròn đó là $\\left(\\dfrac{17\\pi}{6}\\cdot\\dfrac{180}{\\pi}\\right)^{\\circ} = 510^{\\circ}$."
+    "explain": "Số đo bằng độ của cung tròn đó là $\\left(\\dfrac{17\\pi}{6}\\cdot\\dfrac{180}{\\pi}\\right)^{\\circ} = 510^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D114TN1",
@@ -830,7 +898,8 @@ window.tracNghiem1D11 = [
       "$3$ (rad)"
     ],
     "answer": 1,
-    "explain": "Ta có $\\ell =R\\alpha\\Rightarrow \\alpha=\\dfrac{\\ell}{R}=\\dfrac{10}{5}=2$ (rad)."
+    "explain": "Ta có $\\ell =R\\alpha\\Rightarrow \\alpha=\\dfrac{\\ell}{R}=\\dfrac{10}{5}=2$ (rad).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN68",
@@ -842,7 +911,8 @@ window.tracNghiem1D11 = [
       "$72^{\\circ}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\dfrac{2\\pi}{5}$ (rad) $=72^{\\circ}$."
+    "explain": "Ta có $\\dfrac{2\\pi}{5}$ (rad) $=72^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D115TN4",
@@ -854,7 +924,8 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{2}+k\\pi(k\\in\\mathbb{Z})$"
     ],
     "answer": 2,
-    "explain": "Điểm $B$ nằm trên phần dương của trục $Oy$, là điểm biểu diễn cho góc $\\dfrac{\\pi}{2}$.<br>  Các góc lượng giác có cùng điểm biểu diễn $B$ là $\\dfrac{\\pi}{2}+k2\\pi(k\\in\\mathbb{Z})$."
+    "explain": "Điểm $B$ nằm trên phần dương của trục $Oy$, là điểm biểu diễn cho góc $\\dfrac{\\pi}{2}$.<br>  Các góc lượng giác có cùng điểm biểu diễn $B$ là $\\dfrac{\\pi}{2}+k2\\pi(k\\in\\mathbb{Z})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D111TN46",
@@ -866,7 +937,8 @@ window.tracNghiem1D11 = [
       "$300^\\circ = \\dfrac{5\\pi}{3}$ rad"
     ],
     "answer": 0,
-    "explain": "Vì $120^\\circ = \\dfrac{2\\pi}{3}$ rad nên mệnh đề “$120^\\circ = \\dfrac{2\\pi}{9}$ rad”~ là mệnh đề sai."
+    "explain": "Vì $120^\\circ = \\dfrac{2\\pi}{3}$ rad nên mệnh đề “$120^\\circ = \\dfrac{2\\pi}{9}$ rad”~ là mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D111TN44",
@@ -878,7 +950,8 @@ window.tracNghiem1D11 = [
       "$1~\\text{rad}=1^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có \\[\\pi~\\text{rad}=180^\\circ \\Rightarrow 1~\\text{rad}=\\dfrac{180^\\circ}{\\pi}=\\left(\\dfrac{180}{\\pi}\\right)^\\circ.\\]"
+    "explain": "Ta có \\[\\pi~\\text{rad}=180^\\circ \\Rightarrow 1~\\text{rad}=\\dfrac{180^\\circ}{\\pi}=\\left(\\dfrac{180}{\\pi}\\right)^\\circ.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D112TN69",
@@ -890,7 +963,7 @@ window.tracNghiem1D11 = [
       "$\\dfrac{\\pi}{10}$"
     ],
     "answer": 0,
-    "explain": "Ta có $108^\\circ= \\dfrac{108 \\pi}{180}= \\dfrac{3\\pi}{5}$ (rad)."
+    "explain": "Ta có $108^\\circ= \\dfrac{108 \\pi}{180}= \\dfrac{3\\pi}{5}$ (rad).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
-
 ];

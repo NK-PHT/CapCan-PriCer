@@ -25,7 +25,8 @@ window.dungSai1D32 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Sai</strong>.<br>Chi phí để sản xuất $1$ sản phẩm là $C(1)=600+500\\cdot 1=1\\,100$ nghìn đồng.<br>- <strong>Sai</strong>.<br>Chi phí để sản xuất $10$ sản phẩm là $C(10)=600+500\\cdot 10=5\\,600$ nghìn đồng.<br>- <strong>Đúng</strong>.<br>Công ty sản xuất $20$ sản phẩm thì chi phí trung bình của mỗi sản phẩm là $$C(20)=\\dfrac{600+500\\cdot 20}{20}=530 \\text{ nghìn đồng}.$$<br>- <strong>Đúng</strong>.<br>Ta có $$\\lim\\limits_{x\\to +\\infty}\\dfrac{600+500x}{x}=500.$$ Vậy nếu công ty sản xuất được số sản phẩm tăng lên rất nhiều thì chi phí trung bình của mỗi sản phẩm giảm dần về mức $500\\,000$ đồng"
+    "explain": "<br>- <strong>Sai</strong>.<br>Chi phí để sản xuất $1$ sản phẩm là $C(1)=600+500\\cdot 1=1\\,100$ nghìn đồng.<br>- <strong>Sai</strong>.<br>Chi phí để sản xuất $10$ sản phẩm là $C(10)=600+500\\cdot 10=5\\,600$ nghìn đồng.<br>- <strong>Đúng</strong>.<br>Công ty sản xuất $20$ sản phẩm thì chi phí trung bình của mỗi sản phẩm là $$C(20)=\\dfrac{600+500\\cdot 20}{20}=530 \\text{ nghìn đồng}.$$<br>- <strong>Đúng</strong>.<br>Ta có $$\\lim\\limits_{x\\to +\\infty}\\dfrac{600+500x}{x}=500.$$ Vậy nếu công ty sản xuất được số sản phẩm tăng lên rất nhiều thì chi phí trung bình của mỗi sản phẩm giảm dần về mức $500\\,000$ đồng",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D327DS1",
@@ -48,7 +49,8 @@ window.dungSai1D32 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 2}f(x)=\\displaystyle\\lim\\limits_{x\\rightarrow 2} \\sqrt{x^2+1}=\\sqrt{5}$.<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}(x^2-3x+1)=1$.<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}\\sqrt{x^2+1}=1$.<br>- Vì $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}(x^2-3x+1)=1$ và $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}\\sqrt{x^2+1}=1$ nên \\break $\\displaystyle\\lim\\limits _{x \\rightarrow 0}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0}=1$."
+    "explain": "<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 2}f(x)=\\displaystyle\\lim\\limits_{x\\rightarrow 2} \\sqrt{x^2+1}=\\sqrt{5}$.<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}(x^2-3x+1)=1$.<br>- Giới hạn $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}\\sqrt{x^2+1}=1$.<br>- Vì $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{-}}(x^2-3x+1)=1$ và $\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0^{+}}\\sqrt{x^2+1}=1$ nên \\break $\\displaystyle\\lim\\limits _{x \\rightarrow 0}f(x)=\\displaystyle\\lim\\limits _{x \\rightarrow 0}=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D327DS2",
@@ -71,6 +73,7 @@ window.dungSai1D32 = [
         "answer": false
       }
     ],
-    "explain": "<br>- <strong>Sai</strong>. Ta có $\\lim\\limits_{x \\to -2} f(x) =\\lim\\limits_{x \\to -2}(x-2)=-2-2=-4$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x \\to -1^-} f(x) =\\lim\\limits_{x \\to -1^-}(x-2) = -1-2=-3$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x \\to -1^+} f(x) =\\lim\\limits_{x \\to -1^+} \\sqrt{x^2+1}=\\sqrt{(-1)^2+1}= \\sqrt{2}$.<br>- <strong>Sai</strong>. Ta thấy $\\lim\\limits_{x \\to -1^-} f(x)\\neq \\lim\\limits_{x \\to -1^+} f(x)$. Nên hàm số không tồn tại giới hạn khi $x \\to -1$."
+    "explain": "<br>- <strong>Sai</strong>. Ta có $\\lim\\limits_{x \\to -2} f(x) =\\lim\\limits_{x \\to -2}(x-2)=-2-2=-4$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x \\to -1^-} f(x) =\\lim\\limits_{x \\to -1^-}(x-2) = -1-2=-3$.<br>- <strong>Đúng</strong>. Ta có $\\lim\\limits_{x \\to -1^+} f(x) =\\lim\\limits_{x \\to -1^+} \\sqrt{x^2+1}=\\sqrt{(-1)^2+1}= \\sqrt{2}$.<br>- <strong>Sai</strong>. Ta thấy $\\lim\\limits_{x \\to -1^-} f(x)\\neq \\lim\\limits_{x \\to -1^+} f(x)$. Nên hàm số không tồn tại giới hạn khi $x \\to -1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

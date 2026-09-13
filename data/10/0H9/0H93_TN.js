@@ -14,7 +14,8 @@ window.tracNghiem0H93 = [
       "$\\overrightarrow{n_4}=\\left(-1;3\\right)$"
     ],
     "answer": 0,
-    "explain": "$d\\colon 2x-y+3=0$ có một vectơ pháp tuyến $\\overrightarrow{n_2}=\\left(2;-1\\right)$."
+    "explain": "$d\\colon 2x-y+3=0$ có một vectơ pháp tuyến $\\overrightarrow{n_2}=\\left(2;-1\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H931TN2",
@@ -26,6 +27,7 @@ window.tracNghiem0H93 = [
       "$\\dfrac{x}{5}-\\dfrac{y}{3}=1$"
     ],
     "answer": 1,
-    "explain": "Phương trình đường thẳng theo đoạn chắn đi qua hai điểm $ A\\left(0;5\\right)$ và $ B\\left(-3;0\\right)$ là $-\\dfrac{x}{3}+\\dfrac{y}{5}=1.$"
+    "explain": "Phương trình đường thẳng theo đoạn chắn đi qua hai điểm $ A\\left(0;5\\right)$ và $ B\\left(-3;0\\right)$ là $-\\dfrac{x}{3}+\\dfrac{y}{5}=1.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

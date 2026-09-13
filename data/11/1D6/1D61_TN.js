@@ -15,7 +15,8 @@ window.tracNghiem1D61 = [
       "$a &gt; 0$"
     ],
     "answer": 0,
-    "explain": "Ta có $a&lt;a^{\\sqrt{2}}$ mà $1&lt;\\sqrt{2}$ nên $a&gt;1$."
+    "explain": "Ta có $a&lt;a^{\\sqrt{2}}$ mà $1&lt;\\sqrt{2}$ nên $a&gt;1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D611TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D61 = [
       "$\\left(\\dfrac{a}{b} \\right)^{\\alpha}=a^{\\alpha}b^{\\tfrac{1}{\\alpha}}$"
     ],
     "answer": 2,
-    "explain": "Ta có $(ab)^{\\alpha}=a^{\\alpha}b^{\\alpha}$."
+    "explain": "Ta có $(ab)^{\\alpha}=a^{\\alpha}b^{\\alpha}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D61 = [
       "$a^{\\tfrac{1}{21}}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\sqrt[3]{a^7} = a^{\\tfrac{7}{3}}$."
+    "explain": "Ta có $\\sqrt[3]{a^7} = a^{\\tfrac{7}{3}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D61 = [
       "$a^{\\tfrac{7}{3}}$"
     ],
     "answer": 1,
-    "explain": "Ta có $a^{\\tfrac{4}{3}} \\cdot \\sqrt{a}=a^{\\tfrac{4}{3}} \\cdot a^{\\tfrac{1}{2}}=a^{\\tfrac{11}{6}}$."
+    "explain": "Ta có $a^{\\tfrac{4}{3}} \\cdot \\sqrt{a}=a^{\\tfrac{4}{3}} \\cdot a^{\\tfrac{1}{2}}=a^{\\tfrac{11}{6}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D61 = [
       "$P=x^\\frac{4}{5}$"
     ],
     "answer": 2,
-    "explain": "$P=\\sqrt[4]{x^5}=x^\\frac{5}{4}$."
+    "explain": "$P=\\sqrt[4]{x^5}=x^\\frac{5}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D61 = [
       "$P=x^{\\tfrac{5}{4}}$"
     ],
     "answer": 3,
-    "explain": "Ta có: $P=\\sqrt[4]{x^5}=x^{\\tfrac{5}{4}}$."
+    "explain": "Ta có: $P=\\sqrt[4]{x^5}=x^{\\tfrac{5}{4}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D61 = [
       "$K=54$"
     ],
     "answer": 1,
-    "explain": "Ta có  $K = \\left(\\dfrac{1}{81}\\right)^{-0{,}75}+\\left(\\dfrac{1}{27}\\right)^{-\\tfrac{4}{3}}$<br>$= 81^{0{,}75}+27^{\\frac{4}{3}}$<br>$= 3^{4\\cdot 0{,}75}+3^{3\\cdot \\tfrac{4}{3}}$<br>$= 3^3+3^{4}$<br>$= 27+81$<br>$= =108.$  Vậy $K=108$."
+    "explain": "Ta có  $K = \\left(\\dfrac{1}{81}\\right)^{-0{,}75}+\\left(\\dfrac{1}{27}\\right)^{-\\tfrac{4}{3}}$<br>$= 81^{0{,}75}+27^{\\frac{4}{3}}$<br>$= 3^{4\\cdot 0{,}75}+3^{3\\cdot \\tfrac{4}{3}}$<br>$= 3^3+3^{4}$<br>$= 27+81$<br>$= =108.$  Vậy $K=108$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D611TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1D61 = [
       "$(ab)^\\alpha=a^\\alpha b^\\alpha$"
     ],
     "answer": 3,
-    "explain": "Mệnh đề đúng là $(ab)^\\alpha=a^\\alpha b^\\alpha$."
+    "explain": "Mệnh đề đúng là $(ab)^\\alpha=a^\\alpha b^\\alpha$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1D61 = [
       "$a^{\\frac{5}{3}}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\sqrt[5]{a^3}=a^{\\frac{3}{5}}$."
+    "explain": "Ta có $\\sqrt[5]{a^3}=a^{\\frac{3}{5}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1D61 = [
       "$a^m b^n=(a b)^{m+n}$"
     ],
     "answer": 3,
-    "explain": "Ta có $a^m a^n=a^{m+n}$; $(a b)^n=a^n b^n$; $(a^m)^n=a^{m n}$.<br>  Do đó $a^m b^n=(a b)^{m+n}$ là khẳng định sai."
+    "explain": "Ta có $a^m a^n=a^{m+n}$; $(a b)^n=a^n b^n$; $(a^m)^n=a^{m n}$.<br>  Do đó $a^m b^n=(a b)^{m+n}$ là khẳng định sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN11",
@@ -135,7 +145,8 @@ window.tracNghiem1D61 = [
       "$a^{\\tfrac{6}{5}}$"
     ],
     "answer": 2,
-    "explain": "Ta có $P=a^{\\tfrac{2}{5}} \\cdot \\sqrt[3]a=a^{\\tfrac{2}{5}+\\tfrac{1}{3}}=a^{\\tfrac{11}{15}}$."
+    "explain": "Ta có $P=a^{\\tfrac{2}{5}} \\cdot \\sqrt[3]a=a^{\\tfrac{2}{5}+\\tfrac{1}{3}}=a^{\\tfrac{11}{15}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN12",
@@ -147,7 +158,8 @@ window.tracNghiem1D61 = [
       "$x^{\\tfrac{4}{3}}$"
     ],
     "answer": 3,
-    "explain": "Ta có $x \\cdot \\sqrt[3]{x} = x^1 \\cdot x^{\\tfrac{1}{3}} = x^{1 + \\tfrac{1}{3}} = x^{\\tfrac{4}{3}}$."
+    "explain": "Ta có $x \\cdot \\sqrt[3]{x} = x^1 \\cdot x^{\\tfrac{1}{3}} = x^{1 + \\tfrac{1}{3}} = x^{\\tfrac{4}{3}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN13",
@@ -159,7 +171,8 @@ window.tracNghiem1D61 = [
       "$a^{\\tfrac{1}{6}}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\sqrt[3]{a^2}=a^{\\tfrac{2}{3}}$."
+    "explain": "Ta có $\\sqrt[3]{a^2}=a^{\\tfrac{2}{3}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN14",
@@ -171,7 +184,8 @@ window.tracNghiem1D61 = [
       "$\\dfrac{a^{\\alpha}}{a^{\\beta}}=a^{\\alpha-\\beta}$"
     ],
     "answer": 1,
-    "explain": "Đẳng thức sai là “ $\\dfrac{a^{\\alpha}}{b^{\\beta}}=\\left(\\dfrac{a}{b}\\right)^{\\alpha-\\beta}$”."
+    "explain": "Đẳng thức sai là “ $\\dfrac{a^{\\alpha}}{b^{\\beta}}=\\left(\\dfrac{a}{b}\\right)^{\\alpha-\\beta}$”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN15",
@@ -183,7 +197,8 @@ window.tracNghiem1D61 = [
       "$a^8$"
     ],
     "answer": 0,
-    "explain": "Ta có $a^4 \\cdot a^{\\tfrac{1}{2}} = a^{4+\\tfrac{1}{2}} = a^{\\tfrac{9}{2}}$."
+    "explain": "Ta có $a^4 \\cdot a^{\\tfrac{1}{2}} = a^{4+\\tfrac{1}{2}} = a^{\\tfrac{9}{2}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN16",
@@ -195,7 +210,8 @@ window.tracNghiem1D61 = [
       "$P\\in(230;240)$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\sqrt[5]{8\\sqrt{2\\sqrt[3]{2}}}=\\sqrt[5]{8\\sqrt{2\\cdot 2^{\\frac{1}{3}}}}=\\sqrt[5]{8\\sqrt{2^{\\frac{4}{3}}}}=\\sqrt[5]{2^3\\cdot 2^{\\frac{2}{3}}}=\\sqrt[5]{2^{\\frac{11}{3}}}=2^{\\frac{11}{15}}$.<br>  Khi đó $m=11$, $n=15$ và $P=m+n^2=11+15^2=236\\in(230;240)$."
+    "explain": "Ta có $\\sqrt[5]{8\\sqrt{2\\sqrt[3]{2}}}=\\sqrt[5]{8\\sqrt{2\\cdot 2^{\\frac{1}{3}}}}=\\sqrt[5]{8\\sqrt{2^{\\frac{4}{3}}}}=\\sqrt[5]{2^3\\cdot 2^{\\frac{2}{3}}}=\\sqrt[5]{2^{\\frac{11}{3}}}=2^{\\frac{11}{15}}$.<br>  Khi đó $m=11$, $n=15$ và $P=m+n^2=11+15^2=236\\in(230;240)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D612TN17",
@@ -207,6 +223,7 @@ window.tracNghiem1D61 = [
       "$T=x^2 $"
     ],
     "answer": 2,
-    "explain": "Ta có $T=x^{-\\tfrac{3}{4}}\\cdot \\sqrt [4]{{x^5}}={x^{-\\tfrac{3}{4}}}\\cdot {x^{\\tfrac{5}{4}}}={x^{\\tfrac{1}{2}}}$."
+    "explain": "Ta có $T=x^{-\\tfrac{3}{4}}\\cdot \\sqrt [4]{{x^5}}={x^{-\\tfrac{3}{4}}}\\cdot {x^{\\tfrac{5}{4}}}={x^{\\tfrac{1}{2}}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -18,7 +18,8 @@ window.tracNghiem0H92 = [
       "$(2;-6)$"
     ],
     "answer": 0,
-    "explain": "$\\vec u+\\vec v=(3+(-1);\\,-2+4)=(2;2)$."
+    "explain": "$\\vec u+\\vec v=(3+(-1);\\,-2+4)=(2;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN2",
@@ -30,7 +31,8 @@ window.tracNghiem0H92 = [
       "$(-4;7)$"
     ],
     "answer": 0,
-    "explain": "$\\vec u-2\\vec v=(2-2\\cdot(-3);\\,5-2\\cdot 1)=(2+6;\\,5-2)=(8;3)$."
+    "explain": "$\\vec u-2\\vec v=(2-2\\cdot(-3);\\,5-2\\cdot 1)=(2+6;\\,5-2)=(8;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN3",
@@ -42,7 +44,8 @@ window.tracNghiem0H92 = [
       "$(3;-4)$"
     ],
     "answer": 0,
-    "explain": "$\\vec{AB}=(x_B-x_A;\\,y_B-y_A)=(4-1;\\,6-2)=(3;4)$."
+    "explain": "$\\vec{AB}=(x_B-x_A;\\,y_B-y_A)=(4-1;\\,6-2)=(3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN4",
@@ -54,7 +57,8 @@ window.tracNghiem0H92 = [
       "$(3;-1)$"
     ],
     "answer": 0,
-    "explain": "$I=\\left(\\dfrac{x_A+x_B}{2};\\dfrac{y_A+y_B}{2}\\right)=\\left(\\dfrac{-2+4}{2};\\dfrac{3+(-1)}{2}\\right)=(1;1)$."
+    "explain": "$I=\\left(\\dfrac{x_A+x_B}{2};\\dfrac{y_A+y_B}{2}\\right)=\\left(\\dfrac{-2+4}{2};\\dfrac{3+(-1)}{2}\\right)=(1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN5",
@@ -66,7 +70,8 @@ window.tracNghiem0H92 = [
       "$(2;3)$"
     ],
     "answer": 0,
-    "explain": "$G=\\left(\\dfrac{x_A+x_B+x_C}{3};\\dfrac{y_A+y_B+y_C}{3}\\right)=\\left(\\dfrac{0+6+0}{3};\\dfrac{0+0+6}{3}\\right)=(2;2)$."
+    "explain": "$G=\\left(\\dfrac{x_A+x_B+x_C}{3};\\dfrac{y_A+y_B+y_C}{3}\\right)=\\left(\\dfrac{0+6+0}{3};\\dfrac{0+0+6}{3}\\right)=(2;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN6",
@@ -78,7 +83,8 @@ window.tracNghiem0H92 = [
       "$\\vec u=\\vec v$"
     ],
     "answer": 0,
-    "explain": "Hai vectơ $\\vec u=(x_1;y_1),\\,\\vec v=(x_2;y_2)$ cùng phương khi $x_1y_2-x_2y_1=0$. Ta có $2\\cdot 6-4\\cdot 3=12-12=0$ nên $\\vec u$ và $\\vec v$ cùng phương (thực chất $\\vec v=2\\vec u$). Ngoài ra $\\vec u\\cdot\\vec v=2\\cdot 4+3\\cdot 6=26\\ne 0$ nên không vuông góc, và $\\vec u\\ne\\vec v$ (khác tọa độ)."
+    "explain": "Hai vectơ $\\vec u=(x_1;y_1),\\,\\vec v=(x_2;y_2)$ cùng phương khi $x_1y_2-x_2y_1=0$. Ta có $2\\cdot 6-4\\cdot 3=12-12=0$ nên $\\vec u$ và $\\vec v$ cùng phương (thực chất $\\vec v=2\\vec u$). Ngoài ra $\\vec u\\cdot\\vec v=2\\cdot 4+3\\cdot 6=26\\ne 0$ nên không vuông góc, và $\\vec u\\ne\\vec v$ (khác tọa độ).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN7",
@@ -90,7 +96,8 @@ window.tracNghiem0H92 = [
       "$-1$"
     ],
     "answer": 0,
-    "explain": "Ta có hệ $\\begin{cases}m+3n=5\\\\2m-n=3\\end{cases}$. Giải hệ được $m=2,\\,n=1$ (thử lại: $2(1;2)+(3;-1)=(2;4)+(3;-1)=(5;3)$, đúng). Vậy $m+n=3$."
+    "explain": "Ta có hệ $\\begin{cases}m+3n=5\\\\2m-n=3\\end{cases}$. Giải hệ được $m=2,\\,n=1$ (thử lại: $2(1;2)+(3;-1)=(2;4)+(3;-1)=(5;3)$, đúng). Vậy $m+n=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN8",
@@ -102,7 +109,8 @@ window.tracNghiem0H92 = [
       "$x=0$"
     ],
     "answer": 0,
-    "explain": "$\\vec u,\\vec v$ cùng phương $\\Leftrightarrow 2x\\cdot 6-4\\cdot 3=0\\Leftrightarrow 12x-12=0\\Leftrightarrow x=1$."
+    "explain": "$\\vec u,\\vec v$ cùng phương $\\Leftrightarrow 2x\\cdot 6-4\\cdot 3=0\\Leftrightarrow 12x-12=0\\Leftrightarrow x=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN9",
@@ -114,7 +122,8 @@ window.tracNghiem0H92 = [
       "$(6;4)$"
     ],
     "answer": 0,
-    "explain": "$G=\\left(\\dfrac{1+4+1}{3};\\dfrac{2+2+8}{3}\\right)=(2;4)$."
+    "explain": "$G=\\left(\\dfrac{1+4+1}{3};\\dfrac{2+2+8}{3}\\right)=(2;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0H921TN10",
@@ -126,6 +135,7 @@ window.tracNghiem0H92 = [
       "$(6;6)$"
     ],
     "answer": 0,
-    "explain": "Vì $ABCD$ là hình bình hành nên $\\vec{AB}=\\vec{DC}$, suy ra $C=D+\\vec{AB}$. Ta có $\\vec{AB}=(4-1;1-1)=(3;0)$, nên $C=(1+3;5+0)=(4;5)$."
+    "explain": "Vì $ABCD$ là hình bình hành nên $\\vec{AB}=\\vec{DC}$, suy ra $C=D+\\vec{AB}$. Ta có $\\vec{AB}=(4-1;1-1)=(3;0)$, nên $C=(1+3;5+0)=(4;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

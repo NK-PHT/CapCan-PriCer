@@ -14,7 +14,8 @@ window.tracNghiem0D64 = [
       "$6$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D642TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0D64 = [
       "$2,5$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D643TN1",
@@ -38,7 +40,8 @@ window.tracNghiem0D64 = [
       "$\\varnothing$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D644TN1",
@@ -50,7 +53,8 @@ window.tracNghiem0D64 = [
       "$7,25$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D644TN2",
@@ -62,6 +66,7 @@ window.tracNghiem0D64 = [
       "$49$"
     ],
     "answer": 0,
-    "explain": "Số trung bình $\\overline{x}=\\dfrac{1+3+4+6+8+9+11}{7}=6$.<br>  Phương sai $S^2=\\dfrac{1}{7}\\left(1^2+3^2+4^2+6^2+8^2+9^2+11^2\\right)-6^2=\\dfrac{76}{6}$."
+    "explain": "Số trung bình $\\overline{x}=\\dfrac{1+3+4+6+8+9+11}{7}=6$.<br>  Phương sai $S^2=\\dfrac{1}{7}\\left(1^2+3^2+4^2+6^2+8^2+9^2+11^2\\right)-6^2=\\dfrac{76}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

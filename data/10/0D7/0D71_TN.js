@@ -14,7 +14,8 @@ window.tracNghiem0D71 = [
       "$m=0 \\text{ hoặc } m=2$"
     ],
     "answer": 0,
-    "explain": "Để $f(x)=(2-m)x^{2}-mx+3$ là một tam thức bậc hai thì $2-m\\ne 0$ hay $m\\ne 2$."
+    "explain": "Để $f(x)=(2-m)x^{2}-mx+3$ là một tam thức bậc hai thì $2-m\\ne 0$ hay $m\\ne 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D711TN2",
@@ -26,7 +27,8 @@ window.tracNghiem0D71 = [
       "$ f(x)\\ge 0,\\forall x\\in\\mathbb{R}$"
     ],
     "answer": 0,
-    "explain": "Ta có $f(x)=ax^2+bx+c&lt;0,\\forall x\\in\\mathbb{R}\\Leftrightarrow a&lt;0 \\text{ và } \\Delta &lt;0.$"
+    "explain": "Ta có $f(x)=ax^2+bx+c&lt;0,\\forall x\\in\\mathbb{R}\\Leftrightarrow a&lt;0 \\text{ và } \\Delta &lt;0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D711TN3",
@@ -38,7 +40,8 @@ window.tracNghiem0D71 = [
       "$\\mathbb{R}\\setminus\\left\\{ 0;3\\right\\}$"
     ],
     "answer": 0,
-    "explain": "Hàm số xác định khi $-x^2+3x&gt;0\\Leftrightarrow 0&lt;x&lt;3$."
+    "explain": "Hàm số xác định khi $-x^2+3x&gt;0\\Leftrightarrow 0&lt;x&lt;3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D711TN4",
@@ -50,7 +53,8 @@ window.tracNghiem0D71 = [
       "$\\mathbb{R}\\setminus\\left\\{-4\\right\\}$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng xét dấu ta suy ra $ f(x)\\le 0 \\Leftrightarrow x=-4$."
+    "explain": "Dựa vào bảng xét dấu ta suy ra $ f(x)\\le 0 \\Leftrightarrow x=-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D711TN5",
@@ -62,7 +66,8 @@ window.tracNghiem0D71 = [
       "$ m\\ne-2$"
     ],
     "answer": 0,
-    "explain": "$f(x)=\\left(m^2-4\\right)x^2-3mx+m+1$ là một tam thức bậc hai khi và chỉ khi $m^2-4\\ne 0\\Leftrightarrow m\\ne 2 \\text{ và } m\\ne -2.$"
+    "explain": "$f(x)=\\left(m^2-4\\right)x^2-3mx+m+1$ là một tam thức bậc hai khi và chỉ khi $m^2-4\\ne 0\\Leftrightarrow m\\ne 2 \\text{ và } m\\ne -2.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "0D711TN6",
@@ -74,6 +79,7 @@ window.tracNghiem0D71 = [
       "$a &lt; 0 \\text{ và } \\Delta \\leq 0$"
     ],
     "answer": 3,
-    "explain": "Ta có $f(x) \\leq 0$ với $\\forall x \\in \\mathbb{R}$ khi và chỉ khi $a &lt; 0 \\text{ và } \\Delta \\leq 0.$"
+    "explain": "Ta có $f(x) \\leq 0$ với $\\forall x \\in \\mathbb{R}$ khi và chỉ khi $a &lt; 0 \\text{ và } \\Delta \\leq 0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

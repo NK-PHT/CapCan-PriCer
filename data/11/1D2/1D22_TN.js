@@ -14,7 +14,8 @@ window.tracNghiem1D22 = [
       "$18$"
     ],
     "answer": 1,
-    "explain": "Ta có $u_2=u_1+d=9+2=11$."
+    "explain": "Ta có $u_2=u_1+d=9+2=11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D227TN1",
@@ -26,7 +27,8 @@ window.tracNghiem1D22 = [
       "$75\\,680\\,000$ đồng"
     ],
     "answer": 2,
-    "explain": "Gọi $u_n$ là số ghế ở hàng thứ $n$.<br>Khi đó, dãy số $(u_n)$ tạo thành cấp số cộng với $u_1 = 14$ và $d = 1$.<br>Tổng số ghế có trong rạp hát là\t\\[S_{16}=\\dfrac{16\\cdot [2\\cdot 14+(16-1)\\cdot 1]}{2} = 344 \\text{ (ghế).}\\] Tổng số tiền bán vé thu được là $344 \\cdot 110\\, 000 = 37\\,840\\,000 $ (đồng)."
+    "explain": "Gọi $u_n$ là số ghế ở hàng thứ $n$.<br>Khi đó, dãy số $(u_n)$ tạo thành cấp số cộng với $u_1 = 14$ và $d = 1$.<br>Tổng số ghế có trong rạp hát là\t\\[S_{16}=\\dfrac{16\\cdot [2\\cdot 14+(16-1)\\cdot 1]}{2} = 344 \\text{ (ghế).}\\] Tổng số tiền bán vé thu được là $344 \\cdot 110\\, 000 = 37\\,840\\,000 $ (đồng).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D222TN1",
@@ -38,7 +40,8 @@ window.tracNghiem1D22 = [
       "$d=-2$"
     ],
     "answer": 3,
-    "explain": "Ta có $u_{n+1}=5-2(n+1)=3 -2n$.<br>Do $(u_n)$ là cấp số cộng nên công sai $d=u_{n+1}-u_n=(3-2n)-(5-2n)=-2$.<br>Vậy công sai của cấp số cộng $(u_n)$ là $d=-2$."
+    "explain": "Ta có $u_{n+1}=5-2(n+1)=3 -2n$.<br>Do $(u_n)$ là cấp số cộng nên công sai $d=u_{n+1}-u_n=(3-2n)-(5-2n)=-2$.<br>Vậy công sai của cấp số cộng $(u_n)$ là $d=-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D222TN2",
@@ -50,7 +53,8 @@ window.tracNghiem1D22 = [
       "$d = -11$"
     ],
     "answer": 1,
-    "explain": "Công sai của cấp số cộng $d = u_2 - u_1 = 13 - 2 = 11$."
+    "explain": "Công sai của cấp số cộng $d = u_2 - u_1 = 13 - 2 = 11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D223TN1",
@@ -62,7 +66,8 @@ window.tracNghiem1D22 = [
       "$u_n=\\dfrac{1}{2} n-\\dfrac{7}{2}$"
     ],
     "answer": 3,
-    "explain": "Ta có $u_n=u_1+(n-1)d=-3+(n-1)\\cdot \\dfrac{1}{2}=\\dfrac{1}{2} n-\\dfrac{7}{2}$."
+    "explain": "Ta có $u_n=u_1+(n-1)d=-3+(n-1)\\cdot \\dfrac{1}{2}=\\dfrac{1}{2} n-\\dfrac{7}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D224TN2",
@@ -74,7 +79,8 @@ window.tracNghiem1D22 = [
       "$404$"
     ],
     "answer": 1,
-    "explain": "Ta có: $u_{99}=u_1+98d=11+98.4=403$"
+    "explain": "Ta có: $u_{99}=u_1+98d=11+98.4=403$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D224TN3",
@@ -86,7 +92,8 @@ window.tracNghiem1D22 = [
       "$u_5 =1$"
     ],
     "answer": 0,
-    "explain": "Do $(u_n)$ là cấp số cộng nên $u_n=u_1+(n-1)\\cdot d$.<br>Khi đó $u_5 =u_1+(5-1)\\cdot (-2) =3+4\\cdot(-2)=-5$."
+    "explain": "Do $(u_n)$ là cấp số cộng nên $u_n=u_1+(n-1)\\cdot d$.<br>Khi đó $u_5 =u_1+(5-1)\\cdot (-2) =3+4\\cdot(-2)=-5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D222TN3",
@@ -98,7 +105,8 @@ window.tracNghiem1D22 = [
       "$1$, $3$, $5$, $7$, $11$"
     ],
     "answer": 1,
-    "explain": "Ta có $2$, $-1$, $-4$, $-7$, $-10$ là dãy cấp số cộng với số hạng đầu $u_1=2$, công sai $d=-3$."
+    "explain": "Ta có $2$, $-1$, $-4$, $-7$, $-10$ là dãy cấp số cộng với số hạng đầu $u_1=2$, công sai $d=-3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D221TN1",
@@ -110,7 +118,8 @@ window.tracNghiem1D22 = [
       "$u_{n+1}=u_n+11$, $ \\forall n \\in \\mathbb{N}^{*}$"
     ],
     "answer": 3,
-    "explain": "<br>• Xét $(u_n)$ với $u_n=u_{n+1}+11 \\Leftrightarrow u_{n+1}-u_n=-11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=-11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n-11 \\Leftrightarrow u_{n+1}-u_n=-11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=-11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n \\cdot 11$.<br>Do đó $(u_n)$ là cấp số nhân với công bội $q=11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n+11 \\Leftrightarrow u_{n+1}-u_n=11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=11$."
+    "explain": "<br>• Xét $(u_n)$ với $u_n=u_{n+1}+11 \\Leftrightarrow u_{n+1}-u_n=-11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=-11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n-11 \\Leftrightarrow u_{n+1}-u_n=-11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=-11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n \\cdot 11$.<br>Do đó $(u_n)$ là cấp số nhân với công bội $q=11$.<br>• Xét $(u_n)$ với $u_{n+1}=u_n+11 \\Leftrightarrow u_{n+1}-u_n=11 $.<br>Do đó $(u_n)$ là cấp số cộng với công sai $d=11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D226TN1",
@@ -122,7 +131,8 @@ window.tracNghiem1D22 = [
       "$S_n=\\dfrac{n}{2}\\left(u_1+u_n\\right)$, $ \\forall n \\in \\mathbb{N}^{*}$"
     ],
     "answer": 3,
-    "explain": "Ta có công thức tính tổng của $n$ số hạng đầu $S_n$ là $$S_n=\\dfrac{n}{2}\\left(u_1+u_n\\right) \\forall n \\in \\mathbb{N}^{*}$$"
+    "explain": "Ta có công thức tính tổng của $n$ số hạng đầu $S_n$ là $$S_n=\\dfrac{n}{2}\\left(u_1+u_n\\right) \\forall n \\in \\mathbb{N}^{*}$$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D224TN4",
@@ -134,7 +144,8 @@ window.tracNghiem1D22 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\left\\{\\begin{array}{l}u_1 + u_3 = 8\\\\u_4 = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}u_1 + u_1+2d = 8\\\\u_1+3d = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}2u_1+2d = 8\\\\u_1+3d = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}u_1=1\\\\d=3.\\end{array}\\right.$"
+    "explain": "Ta có $\\left\\{\\begin{array}{l}u_1 + u_3 = 8\\\\u_4 = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}u_1 + u_1+2d = 8\\\\u_1+3d = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}2u_1+2d = 8\\\\u_1+3d = 10\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}u_1=1\\\\d=3.\\end{array}\\right.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D224TN5",
@@ -146,7 +157,8 @@ window.tracNghiem1D22 = [
       "Dạng khai triển: $1;-2;-5;-8; 11; \\ldots$"
     ],
     "answer": 0,
-    "explain": "Ta có $u_1=1$ và công sai $d=-3$.<br>$u_2=u_1+d=1+(-3)=-2$.<br>$u_3=u_2+d=-2+(-3)=-5$.<br>$u_4=u_3+d=-5+(-3)=-8$.<br>$u_5=u_4+d=-8+(-3)=-11$.<br>Vậy dạng khai triển của cấp số cộng là $1;-2;-5;-8;-11; \\ldots$."
+    "explain": "Ta có $u_1=1$ và công sai $d=-3$.<br>$u_2=u_1+d=1+(-3)=-2$.<br>$u_3=u_2+d=-2+(-3)=-5$.<br>$u_4=u_3+d=-5+(-3)=-8$.<br>$u_5=u_4+d=-8+(-3)=-11$.<br>Vậy dạng khai triển của cấp số cộng là $1;-2;-5;-8;-11; \\ldots$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D222TN4",
@@ -158,7 +170,8 @@ window.tracNghiem1D22 = [
       "$1$ ;$-3$ ; $9$ ;$-27$ ; $81$"
     ],
     "answer": 0,
-    "explain": "Dãy số $1$ ; $2$ ; $3$ ; $4$ ; $5$ thỏa mãn $u_{n+1}-u_n=1$ nên là một cấp số cộng."
+    "explain": "Dãy số $1$ ; $2$ ; $3$ ; $4$ ; $5$ thỏa mãn $u_{n+1}-u_n=1$ nên là một cấp số cộng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D224TN6",
@@ -170,6 +183,7 @@ window.tracNghiem1D22 = [
       "$7$"
     ],
     "answer": 0,
-    "explain": "Ta có $u_2=u_1+(2-1)\\cdot 2=11$."
+    "explain": "Ta có $u_2=u_1+(2-1)\\cdot 2=11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

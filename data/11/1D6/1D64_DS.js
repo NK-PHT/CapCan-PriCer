@@ -26,7 +26,8 @@ window.dungSai1D64 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Số lượng vi khuẩn sau hai ngày là $P(2)=1\\,200\\cdot(1+25\\%)=1\\,500$.<br>- $P(2)=1\\,200\\cdot a^2=1\\,500\\Rightarrow a^2=1{,}25\\Rightarrow a\\approx 1{,}12$.<br>- Sau $7$ ngày thì số lượng vi khuẩn bằng $P(7)=1\\,200\\cdot 1{,}12^7\\approx 2\\,600$.<br>- Số lượng vi khuẩn sau $10$ ngày là $P(10)=1\\,200\\cdot 1{,}12^{10}\\approx 3\\,727$.<br> $\\dfrac{P(10)}{P(0)}=\\dfrac{3\\,727}{1200}\\approx 3{,}1$."
+    "explain": "<br>- Số lượng vi khuẩn sau hai ngày là $P(2)=1\\,200\\cdot(1+25\\%)=1\\,500$.<br>- $P(2)=1\\,200\\cdot a^2=1\\,500\\Rightarrow a^2=1{,}25\\Rightarrow a\\approx 1{,}12$.<br>- Sau $7$ ngày thì số lượng vi khuẩn bằng $P(7)=1\\,200\\cdot 1{,}12^7\\approx 2\\,600$.<br>- Số lượng vi khuẩn sau $10$ ngày là $P(10)=1\\,200\\cdot 1{,}12^{10}\\approx 3\\,727$.<br> $\\dfrac{P(10)}{P(0)}=\\dfrac{3\\,727}{1200}\\approx 3{,}1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643DS2",
@@ -49,7 +50,8 @@ window.dungSai1D64 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Điều kiện xác định của hàm số là $3 - x &gt; 0 \\Leftrightarrow x &lt; 3$.<br>- Ta có   $f(x)\\geq 1$<br>$\\Leftrightarrow \\log_3(3 - x) \\geq 1$<br>$\\Leftrightarrow 3 - x \\geq 3^1 = 3$<br>$\\Leftrightarrow x \\leq 0.$  Vậy tập nghiệm là $(-\\infty; 0]$.<br>- Ta có  $f(x)=2$<br>$\\Leftrightarrow \\log_3(3 - x) = 2$<br>$\\Leftrightarrow 3 - x = 3^2$<br>$\\Leftrightarrow x = -6 \\quad \\text{thỏa mãn}.$  Vậy phương trình có nghiệm $x = -6$.<br>- Với hàm số $f(x) = \\log_3(x - 3)$, tập xác định là $x &gt; 3$. Đồ thị hàm số chỉ nằm bên phải đường thẳng $x = 3$.<br>  Giả sử đường thẳng $y = kx$ đi qua gốc tọa độ cắt đồ thị hàm số $f(x) = \\log_3(x - 3)$ tại điểm $A(x_A, y_A)$.<br>  Để $A$ thuộc đồ thị, cần $x_A &gt; 3$.<br>  Nếu $O$ là trung điểm của đoạn $AB$, thì điểm $B$ có tọa độ $(-x_A, -y_A)$. <br>  Để $B$ thuộc đồ thị, cần $-x_A &gt; 3$, suy ra $x_A &lt; -3$ (vô lý).<br>  Vậy không tồn tại hai giao điểm $A$ và $B$ trên đồ thị hàm số $f(x) = \\log_3(x - 3)$ thỏa mãn các điều kiện của bài toán."
+    "explain": "<br>- Điều kiện xác định của hàm số là $3 - x &gt; 0 \\Leftrightarrow x &lt; 3$.<br>- Ta có   $f(x)\\geq 1$<br>$\\Leftrightarrow \\log_3(3 - x) \\geq 1$<br>$\\Leftrightarrow 3 - x \\geq 3^1 = 3$<br>$\\Leftrightarrow x \\leq 0.$  Vậy tập nghiệm là $(-\\infty; 0]$.<br>- Ta có  $f(x)=2$<br>$\\Leftrightarrow \\log_3(3 - x) = 2$<br>$\\Leftrightarrow 3 - x = 3^2$<br>$\\Leftrightarrow x = -6 \\quad \\text{thỏa mãn}.$  Vậy phương trình có nghiệm $x = -6$.<br>- Với hàm số $f(x) = \\log_3(x - 3)$, tập xác định là $x &gt; 3$. Đồ thị hàm số chỉ nằm bên phải đường thẳng $x = 3$.<br>  Giả sử đường thẳng $y = kx$ đi qua gốc tọa độ cắt đồ thị hàm số $f(x) = \\log_3(x - 3)$ tại điểm $A(x_A, y_A)$.<br>  Để $A$ thuộc đồ thị, cần $x_A &gt; 3$.<br>  Nếu $O$ là trung điểm của đoạn $AB$, thì điểm $B$ có tọa độ $(-x_A, -y_A)$. <br>  Để $B$ thuộc đồ thị, cần $-x_A &gt; 3$, suy ra $x_A &lt; -3$ (vô lý).<br>  Vậy không tồn tại hai giao điểm $A$ và $B$ trên đồ thị hàm số $f(x) = \\log_3(x - 3)$ thỏa mãn các điều kiện của bài toán.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644DS3",
@@ -72,7 +74,8 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Sai</strong>.<br>  Điều kiện xác định của bất phương trình là $2x+1&gt;0 \\text{ và } 3x&gt;0\\Leftrightarrow x&gt;-\\dfrac{1}{2} \\text{ và } x&gt;0\\Rightarrow x&gt;0$.<br>  Vậy điều kiện xác định của bất phương trình là $\\mathscr{D}=\\left(0;+\\infty\\right)$.<br>- <strong>Sai</strong>.<br>  Với $x&gt;0$ và $a=0{,}3&lt;1$ bất phương trình trở thành $2x+1\\geq 3x$.<br>- <strong>Đúng</strong>.<br>  Với $x&gt;0$ và $a=0{,}3&lt;1$ bất phương trình trở thành $2x+1\\geq 3x\\Leftrightarrow x\\leq 1$.<br>  Kết hợp với điều kiện, ta được tập nghiệm của bất phương trình là $S=(0; 1]$.<br>- <strong>Đúng</strong>.<br>  Vì $\\dfrac{1}{2}\\in (0; 1]$ nên $x=\\dfrac{1}{2}$ thuộc miền nghiệm của bất phương trình đã cho."
+    "explain": "<br>- <strong>Sai</strong>.<br>  Điều kiện xác định của bất phương trình là $2x+1&gt;0 \\text{ và } 3x&gt;0\\Leftrightarrow x&gt;-\\dfrac{1}{2} \\text{ và } x&gt;0\\Rightarrow x&gt;0$.<br>  Vậy điều kiện xác định của bất phương trình là $\\mathscr{D}=\\left(0;+\\infty\\right)$.<br>- <strong>Sai</strong>.<br>  Với $x&gt;0$ và $a=0{,}3&lt;1$ bất phương trình trở thành $2x+1\\geq 3x$.<br>- <strong>Đúng</strong>.<br>  Với $x&gt;0$ và $a=0{,}3&lt;1$ bất phương trình trở thành $2x+1\\geq 3x\\Leftrightarrow x\\leq 1$.<br>  Kết hợp với điều kiện, ta được tập nghiệm của bất phương trình là $S=(0; 1]$.<br>- <strong>Đúng</strong>.<br>  Vì $\\dfrac{1}{2}\\in (0; 1]$ nên $x=\\dfrac{1}{2}$ thuộc miền nghiệm của bất phương trình đã cho.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644DS4",
@@ -95,7 +98,8 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>. Tập xác định của hàm số $y=\\left(\\dfrac{1}{3}\\right)^x$ là $\\mathbb{R}$.<br>- <strong>Sai</strong>. Hàm số $y=\\left(\\dfrac{1}{3}\\right)^x$ có cơ số là $0&lt;\\dfrac{1}{3}&lt;1$ nên hàm số nghịch biến trên tập xác định của nó.<br>- <strong>Sai</strong>. Phương trình $2^x=3$ có nghiệm là $x=\\log_2 3$.<br>- <strong>Sai</strong>. Ta có $\\log_{\\tfrac{1}{3}}(x+9)&lt;-2\\Leftrightarrow x+9&gt;0 \\text{ và } x+9&gt; \\left(\\dfrac{1}{3}\\right)^{-2}\\Leftrightarrow x&gt;0$.<br>  Tập nghiệm của bất phương trình $\\log_{\\tfrac{1}{3}}(x+9)&lt;-2$ là $(0;+\\infty)$."
+    "explain": "<br>- <strong>Đúng</strong>. Tập xác định của hàm số $y=\\left(\\dfrac{1}{3}\\right)^x$ là $\\mathbb{R}$.<br>- <strong>Sai</strong>. Hàm số $y=\\left(\\dfrac{1}{3}\\right)^x$ có cơ số là $0&lt;\\dfrac{1}{3}&lt;1$ nên hàm số nghịch biến trên tập xác định của nó.<br>- <strong>Sai</strong>. Phương trình $2^x=3$ có nghiệm là $x=\\log_2 3$.<br>- <strong>Sai</strong>. Ta có $\\log_{\\tfrac{1}{3}}(x+9)&lt;-2\\Leftrightarrow x+9&gt;0 \\text{ và } x+9&gt; \\left(\\dfrac{1}{3}\\right)^{-2}\\Leftrightarrow x&gt;0$.<br>  Tập nghiệm của bất phương trình $\\log_{\\tfrac{1}{3}}(x+9)&lt;-2$ là $(0;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D643DS5",
@@ -118,7 +122,8 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Ta có   \\[\\log_3(x-2)=-1 \\Leftrightarrow x-2=\\dfrac{1}{3} \\Leftrightarrow x=\\dfrac{7}{3}.\\]<br>- Vì hàm số $y=\\log_3(x-2)$ có cơ số $a=3&gt;1$ nên hàm số đồng biến trên khoảng $(2;+\\infty)$.<br>- Với $x=5$ thì $y=\\log_3(5-2)=\\log_3(3)=1$.<br>- Biểu thức $\\log_3(x-2)$ có nghĩa khi $x-2&gt;0$ hay $x&gt;2$.<br>  Vậy tập xác định của hàm số $y=\\log_3(x-2)$ là $\\mathscr{D}=(2;+\\infty)$."
+    "explain": "<br>- Ta có   \\[\\log_3(x-2)=-1 \\Leftrightarrow x-2=\\dfrac{1}{3} \\Leftrightarrow x=\\dfrac{7}{3}.\\]<br>- Vì hàm số $y=\\log_3(x-2)$ có cơ số $a=3&gt;1$ nên hàm số đồng biến trên khoảng $(2;+\\infty)$.<br>- Với $x=5$ thì $y=\\log_3(5-2)=\\log_3(3)=1$.<br>- Biểu thức $\\log_3(x-2)$ có nghĩa khi $x-2&gt;0$ hay $x&gt;2$.<br>  Vậy tập xác định của hàm số $y=\\log_3(x-2)$ là $\\mathscr{D}=(2;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D642DS6",
@@ -141,7 +146,8 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Sai</strong>.<br>  Vì hàm số $f(x)$ có tập xác định là $\\mathscr{D}=(-\\infty;+\\infty)$.<br>- <strong>Đúng</strong>. <br>  Thay $x=0$ vào hàm số $f(x)=2^x$, ta được $f(0)=1$. Vậy đồ thị hàm số $f(x)$ đi qua điểm $(0;1)$.<br>- <strong>Sai</strong>. <br>  Vì $a=2&gt;1$ nên hàm số đồng biến trên tập xác định của nó.<br>- <strong>Đúng</strong>. <br>  Ta có $f'(x) = 2^x\\cdot \\ln{2}$. <br>  Do đó $2^x\\cdot \\ln{2}\\le\\ln {2}\\Leftrightarrow 2^x \\le 1 \\Leftrightarrow x \\le 0$."
+    "explain": "<br>- <strong>Sai</strong>.<br>  Vì hàm số $f(x)$ có tập xác định là $\\mathscr{D}=(-\\infty;+\\infty)$.<br>- <strong>Đúng</strong>. <br>  Thay $x=0$ vào hàm số $f(x)=2^x$, ta được $f(0)=1$. Vậy đồ thị hàm số $f(x)$ đi qua điểm $(0;1)$.<br>- <strong>Sai</strong>. <br>  Vì $a=2&gt;1$ nên hàm số đồng biến trên tập xác định của nó.<br>- <strong>Đúng</strong>. <br>  Ta có $f'(x) = 2^x\\cdot \\ln{2}$. <br>  Do đó $2^x\\cdot \\ln{2}\\le\\ln {2}\\Leftrightarrow 2^x \\le 1 \\Leftrightarrow x \\le 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D646DS2",
@@ -164,7 +170,8 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Ta có  $L = 10 \\log \\dfrac{I}{10^{-12}}$<br>$= 10 \\left( \\log I-\\log 10^{-12} \\right)$<br>$= 10 \\left( \\log I+12 \\right)$<br>$= 10 \\log I+120.$<br>- Thay $I=1\\,000=10^3$ (W/m$^2$) vào công thức  $L = 10 \\log 10^3+120$<br>$= 10 \\cdot 3+120=150 \\text{ (dB)}.$<br>- Điều kiện để mức cường độ âm không vượt quá $130$ dB là $L \\le 130$ dB.  $10 \\log I+120 \\le 130$<br>$\\Leftrightarrow 10 \\log I \\le 10$<br>$\\Leftrightarrow \\log I \\le 1$<br>$\\Leftrightarrow I \\le 10 \\text{ (W/m}^2).$<br>- Để đảm bảo sức khỏe, mức cường độ âm phải không vượt quá $85$ dB, tức là $L \\le 85$ dB.  $10 \\log I+120 \\le 85$<br>$\\Leftrightarrow 10 \\log I \\le -35$<br>$\\Leftrightarrow \\log I \\le -3{,}5$<br>$\\Leftrightarrow I \\le 10^{-3,5} \\text{ (W/m}^2).$"
+    "explain": "<br>- Ta có  $L = 10 \\log \\dfrac{I}{10^{-12}}$<br>$= 10 \\left( \\log I-\\log 10^{-12} \\right)$<br>$= 10 \\left( \\log I+12 \\right)$<br>$= 10 \\log I+120.$<br>- Thay $I=1\\,000=10^3$ (W/m$^2$) vào công thức  $L = 10 \\log 10^3+120$<br>$= 10 \\cdot 3+120=150 \\text{ (dB)}.$<br>- Điều kiện để mức cường độ âm không vượt quá $130$ dB là $L \\le 130$ dB.  $10 \\log I+120 \\le 130$<br>$\\Leftrightarrow 10 \\log I \\le 10$<br>$\\Leftrightarrow \\log I \\le 1$<br>$\\Leftrightarrow I \\le 10 \\text{ (W/m}^2).$<br>- Để đảm bảo sức khỏe, mức cường độ âm phải không vượt quá $85$ dB, tức là $L \\le 85$ dB.  $10 \\log I+120 \\le 85$<br>$\\Leftrightarrow 10 \\log I \\le -35$<br>$\\Leftrightarrow \\log I \\le -3{,}5$<br>$\\Leftrightarrow I \\le 10^{-3,5} \\text{ (W/m}^2).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D644DS2",
@@ -187,6 +194,7 @@ window.dungSai1D64 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Điều kiện xác định là $2x+1&gt;0 \\text{ và } 3x&gt;0\\Leftrightarrow x&gt;-\\dfrac{1}{2} \\text{ và } x&gt;0\\Leftrightarrow x&gt;0$.<br>- Với điều kiện $x&gt;0$, bất phương trình $\\log_{0,3}\\left(2x+1\\right)\\le \\log_{0,3}\\left(3x\\right)$ tương đương với $2x+1\\ge 3x$.<br>- Ta có $2x+1\\ge 3x\\Leftrightarrow x\\le 1$. <br>  Kết hợp với điều kiện $x&gt;0\\Rightarrow 0&lt;x\\le 1$ là nghiệm bất phương trình. <br>  Vậy tập nghiệm của bất phương trình là $S=\\left(0; 1\\right]$.<br>- Vì $x=\\dfrac{1}{2}$ thỏa mãn $0&lt;x\\le 1$ nên thuộc tập nghiệm của bất phương trình đã cho."
+    "explain": "<br>- Điều kiện xác định là $2x+1&gt;0 \\text{ và } 3x&gt;0\\Leftrightarrow x&gt;-\\dfrac{1}{2} \\text{ và } x&gt;0\\Leftrightarrow x&gt;0$.<br>- Với điều kiện $x&gt;0$, bất phương trình $\\log_{0,3}\\left(2x+1\\right)\\le \\log_{0,3}\\left(3x\\right)$ tương đương với $2x+1\\ge 3x$.<br>- Ta có $2x+1\\ge 3x\\Leftrightarrow x\\le 1$. <br>  Kết hợp với điều kiện $x&gt;0\\Rightarrow 0&lt;x\\le 1$ là nghiệm bất phương trình. <br>  Vậy tập nghiệm của bất phương trình là $S=\\left(0; 1\\right]$.<br>- Vì $x=\\dfrac{1}{2}$ thỏa mãn $0&lt;x\\le 1$ nên thuộc tập nghiệm của bất phương trình đã cho.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -15,7 +15,8 @@ window.tracNghiem1H87 = [
       "Các mặt bên đều là hình vuông"
     ],
     "answer": 2,
-    "explain": "Hình hộp đứng luôn có tính chất “ Hai đáy đều là hình bình hành”."
+    "explain": "Hình hộp đứng luôn có tính chất “ Hai đáy đều là hình bình hành”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1H87 = [
       "$a^3$"
     ],
     "answer": 0,
-    "explain": "Thể tích khối lăng trụ là $V=S\\cdot h=a^2\\cdot 3a=3a^3$."
+    "explain": "Thể tích khối lăng trụ là $V=S\\cdot h=a^2\\cdot 3a=3a^3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1H87 = [
       "$15$"
     ],
     "answer": 1,
-    "explain": "Ta có $V=B\\cdot h=10\\cdot 6=60$."
+    "explain": "Ta có $V=B\\cdot h=10\\cdot 6=60$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H872TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1H87 = [
       "Hình chóp đều là hình chóp có đáy là đa giác đều và các cạnh bên bằng nhau"
     ],
     "answer": 2,
-    "explain": "Hình chóp đều là hình chóp có đáy là đa giác đều và các mặt bên là tam giác đều là khẳng định sai."
+    "explain": "Hình chóp đều là hình chóp có đáy là đa giác đều và các mặt bên là tam giác đều là khẳng định sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1H87 = [
       "$V=Sh$"
     ],
     "answer": 3,
-    "explain": "Thể tích của khối lăng trụ có diện tích đáy $S$ và chiều cao $h$ là $V=Sh$."
+    "explain": "Thể tích của khối lăng trụ có diện tích đáy $S$ và chiều cao $h$ là $V=Sh$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1H87 = [
       "$V=\\dfrac{1}3a^3$"
     ],
     "answer": 0,
-    "explain": "Ta có $AC'=a\\sqrt{3} \\Rightarrow AB = a$.<br>  Vậy thể tích $V$ của khối lập phương $ABCD. A'B'C'D'$ là $V = a^3$."
+    "explain": "Ta có $AC'=a\\sqrt{3} \\Rightarrow AB = a$.<br>  Vậy thể tích $V$ của khối lập phương $ABCD. A'B'C'D'$ là $V = a^3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1H87 = [
       "$15$"
     ],
     "answer": 0,
-    "explain": "Thể tích khối chóp $S.ABCD$ là $V_{S.ABCD}=\\dfrac{1}{3}\\cdot 3 \\cdot 10=10$."
+    "explain": "Thể tích khối chóp $S.ABCD$ là $V_{S.ABCD}=\\dfrac{1}{3}\\cdot 3 \\cdot 10=10$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1H87 = [
       "$V=\\dfrac{2a^3\\sqrt{2}}{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $AA'=\\sqrt{AB'^2-A'B'^2}=\\sqrt{(a\\sqrt{5})^2-a^2}=2a.$<br>  Thể tích khối lăng trụ đứng đã cho là $V=AB\\cdot AD\\cdot AA'=a\\cdot a\\sqrt{2}\\cdot 2a=2a^3\\sqrt{2}.$"
+    "explain": "Ta có $AA'=\\sqrt{AB'^2-A'B'^2}=\\sqrt{(a\\sqrt{5})^2-a^2}=2a.$<br>  Thể tích khối lăng trụ đứng đã cho là $V=AB\\cdot AD\\cdot AA'=a\\cdot a\\sqrt{2}\\cdot 2a=2a^3\\sqrt{2}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1H874TN1",
@@ -111,6 +119,7 @@ window.tracNghiem1H87 = [
       "$\\dfrac{a^3\\sqrt{3}}{12}$"
     ],
     "answer": 1,
-    "explain": "Vì $ABCD$ là hình vuông cạnh $a$ nên $S_{ABCD}=a^2$.<br>  Mà $SA\\perp(ABCD)$ nên $SA$ là đường cao và $SA=a\\sqrt{3}$.<br>  Thể tích của khối chóp $S.ABCD$ là $V=\\dfrac{1}{3}S_{ABCD}\\cdot SA=\\dfrac{1}{3}a^2\\cdot a\\sqrt{3}=\\dfrac{a^3\\sqrt{3}}{3}$."
+    "explain": "Vì $ABCD$ là hình vuông cạnh $a$ nên $S_{ABCD}=a^2$.<br>  Mà $SA\\perp(ABCD)$ nên $SA$ là đường cao và $SA=a\\sqrt{3}$.<br>  Thể tích của khối chóp $S.ABCD$ là $V=\\dfrac{1}{3}S_{ABCD}\\cdot SA=\\dfrac{1}{3}a^2\\cdot a\\sqrt{3}=\\dfrac{a^3\\sqrt{3}}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

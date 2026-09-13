@@ -25,6 +25,7 @@ window.dungSai0D72 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Đúng vì phương trình $x^2-4x-5=0\\Leftrightarrow\\left[\\begin{aligned}  & x=-1\\\\   & x=5\\\\   \\end{aligned}\\right.$.<br>- Đúng vì bất phương trình $x^2-4x-5&lt;0\\Leftrightarrow-1&lt;x&lt;5$.<br>  Do $x$ nguyên dương nên $ x\\in\\left\\{ 1;2;3;4\\right\\}$<br>- Sai vì vế phải là số âm.<br>- Sai vì $ f(x)&lt;x-20\\Leftrightarrow{x^2}-5x+15&lt;0\\Leftrightarrow S=\\varnothing $."
+    "explain": "<br>- Đúng vì phương trình $x^2-4x-5=0\\Leftrightarrow\\left[\\begin{aligned}  & x=-1\\\\   & x=5\\\\   \\end{aligned}\\right.$.<br>- Đúng vì bất phương trình $x^2-4x-5&lt;0\\Leftrightarrow-1&lt;x&lt;5$.<br>  Do $x$ nguyên dương nên $ x\\in\\left\\{ 1;2;3;4\\right\\}$<br>- Sai vì vế phải là số âm.<br>- Sai vì $ f(x)&lt;x-20\\Leftrightarrow{x^2}-5x+15&lt;0\\Leftrightarrow S=\\varnothing $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

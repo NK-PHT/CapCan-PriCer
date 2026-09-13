@@ -15,7 +15,8 @@ window.tracNghiem1D63 = [
       "$y = \\log_{\\tfrac{1}{2}} x$"
     ],
     "answer": 3,
-    "explain": "Đồ thị nằm bên phải trục tung và đi xuống từ trái sang phải nên hàm số cần tìm là $y=\\log_{\\tfrac{1}{2}} x$."
+    "explain": "Đồ thị nằm bên phải trục tung và đi xuống từ trái sang phải nên hàm số cần tìm là $y=\\log_{\\tfrac{1}{2}} x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN2",
@@ -27,7 +28,8 @@ window.tracNghiem1D63 = [
       "$y=\\left(\\sqrt{2}\\right)^x$"
     ],
     "answer": 2,
-    "explain": "Do $\\dfrac{2}{3} &lt; 1$ nên hàm số $y=\\left(\\dfrac{2}{3}\\right)^x$ nghịch biến trên $\\mathbb{R}$."
+    "explain": "Do $\\dfrac{2}{3} &lt; 1$ nên hàm số $y=\\left(\\dfrac{2}{3}\\right)^x$ nghịch biến trên $\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D631TN3",
@@ -39,7 +41,8 @@ window.tracNghiem1D63 = [
       "Hàm số $f(x)$ nghịch biến trên $\\mathbb{R}$"
     ],
     "answer": 1,
-    "explain": "Hàm số $f(x)$ có tập xác định là $\\mathbb{R}$."
+    "explain": "Hàm số $f(x)$ có tập xác định là $\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D631TN4",
@@ -51,7 +54,8 @@ window.tracNghiem1D63 = [
       "$\\dfrac{a^m}{a^n}=a^{\\tfrac{m}{n}}$"
     ],
     "answer": 2,
-    "explain": "Ta có $a^a b^a=(a b)^a$."
+    "explain": "Ta có $a^a b^a=(a b)^a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D631TN5",
@@ -63,7 +67,8 @@ window.tracNghiem1D63 = [
       "$\\log_a a=2a$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\log_a a=1$."
+    "explain": "Ta có $\\log_a a=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN6",
@@ -75,7 +80,8 @@ window.tracNghiem1D63 = [
       "$\\mathscr{D}=[5;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Điều kiện xác định $x-5&gt;0\\Leftrightarrow x&gt;5$.<br>   Vậy tập xác định của hàm số $y=\\log _3\\left(x-5\\right)$ là $\\mathscr{D}=(5;+\\infty)$."
+    "explain": "Điều kiện xác định $x-5&gt;0\\Leftrightarrow x&gt;5$.<br>   Vậy tập xác định của hàm số $y=\\log _3\\left(x-5\\right)$ là $\\mathscr{D}=(5;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D634TN7",
@@ -87,7 +93,8 @@ window.tracNghiem1D63 = [
       "$b&lt;c&lt;a$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/11/1D6/im1D63/dlts_11_DLTS24_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta vẽ đường thẳng $x=1$ cắt các đồ thị lần lượt tại điểm có tung độ $a$, $b$ và $c$.<br>  Suy ra: $a&lt;b&lt;c$."
+    "explain": "<br><img src=\"data/11/1D6/im1D63/dlts_11_DLTS24_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta vẽ đường thẳng $x=1$ cắt các đồ thị lần lượt tại điểm có tung độ $a$, $b$ và $c$.<br>  Suy ra: $a&lt;b&lt;c$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN8",
@@ -99,7 +106,8 @@ window.tracNghiem1D63 = [
       "$y=2^x$"
     ],
     "answer": 3,
-    "explain": "Xét tính đơn điệu:  <br>- $y=\\log_3 x$: đồng biến trên $(0;+\\infty)$ nhưng hàm số không đồng biến trên $\\mathbb{R}$.<br>- $y=\\log_{\\frac{1}{2}}(x)$: hàm số nghịch biến trên $(0;+\\infty)$ vì cơ số $\\dfrac{1}{2}&lt;1$.<br>- $y=\\left(\\dfrac{1}{2}\\right)^x$: hàm mũ với cơ số $\\dfrac{1}{2}&lt;1$, nên nghịch biến trên $\\mathbb{R}$.<br>- $y=2^x$: hàm mũ cơ số $2&gt;1$ nên hàm số đồng biến trên $\\mathbb{R}$.  Vậy hàm số đồng biến trên $\\mathbb{R}$ là $y=2^x$."
+    "explain": "Xét tính đơn điệu:  <br>- $y=\\log_3 x$: đồng biến trên $(0;+\\infty)$ nhưng hàm số không đồng biến trên $\\mathbb{R}$.<br>- $y=\\log_{\\frac{1}{2}}(x)$: hàm số nghịch biến trên $(0;+\\infty)$ vì cơ số $\\dfrac{1}{2}&lt;1$.<br>- $y=\\left(\\dfrac{1}{2}\\right)^x$: hàm mũ với cơ số $\\dfrac{1}{2}&lt;1$, nên nghịch biến trên $\\mathbb{R}$.<br>- $y=2^x$: hàm mũ cơ số $2&gt;1$ nên hàm số đồng biến trên $\\mathbb{R}$.  Vậy hàm số đồng biến trên $\\mathbb{R}$ là $y=2^x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN9",
@@ -111,7 +119,8 @@ window.tracNghiem1D63 = [
       "$y=\\left(\\dfrac{\\pi}{4}\\right)^x$"
     ],
     "answer": 3,
-    "explain": "$y=\\left(\\dfrac{\\pi}{4}\\right)^x$ là hàm số mũ."
+    "explain": "$y=\\left(\\dfrac{\\pi}{4}\\right)^x$ là hàm số mũ.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN10",
@@ -123,7 +132,8 @@ window.tracNghiem1D63 = [
       "$(-\\infty; 4)$"
     ],
     "answer": 0,
-    "explain": "Điều kiện xác định $x-4&gt;0\\Leftrightarrow x&gt;4$<br>  Tập xác định $\\mathscr{D}=(4;+\\infty)$."
+    "explain": "Điều kiện xác định $x-4&gt;0\\Leftrightarrow x&gt;4$<br>  Tập xác định $\\mathscr{D}=(4;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN11",
@@ -135,7 +145,8 @@ window.tracNghiem1D63 = [
       "$y = \\ln x$"
     ],
     "answer": 1,
-    "explain": "Hàm số $y=(x+3)\\ln 2$ không phải là hàm số logarit."
+    "explain": "Hàm số $y=(x+3)\\ln 2$ không phải là hàm số logarit.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN12",
@@ -147,7 +158,8 @@ window.tracNghiem1D63 = [
       "$\\mathscr{D}= (-\\infty; 3)$"
     ],
     "answer": 2,
-    "explain": "Hàm số xác định khi và chỉ khi $x - 3 &gt; 0\\Leftrightarrow x &gt; 3$.<br>  Tập xác định của hàm số là $\\mathscr{D}= (3; +\\infty)$."
+    "explain": "Hàm số xác định khi và chỉ khi $x - 3 &gt; 0\\Leftrightarrow x &gt; 3$.<br>  Tập xác định của hàm số là $\\mathscr{D}= (3; +\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D634TN13",
@@ -159,7 +171,8 @@ window.tracNghiem1D63 = [
       "$y=2^x$"
     ],
     "answer": 0,
-    "explain": "Quan sát đồ thị ta thấy  <br>- Đường cong đi qua điểm $(0;1)$ tức là tại $x = 0$ ta có $y = 1$.<br>- Khi $x$ tăng, giá trị $y$ giảm dần. Khi $x \\to +\\infty$ thì $y \\to 0$.<br>- Khi $x \\to -\\infty$ thì $y \\to +\\infty$.  Vậy đây là đồ thị của một hàm số mũ nghịch biến."
+    "explain": "Quan sát đồ thị ta thấy  <br>- Đường cong đi qua điểm $(0;1)$ tức là tại $x = 0$ ta có $y = 1$.<br>- Khi $x$ tăng, giá trị $y$ giảm dần. Khi $x \\to +\\infty$ thì $y \\to 0$.<br>- Khi $x \\to -\\infty$ thì $y \\to +\\infty$.  Vậy đây là đồ thị của một hàm số mũ nghịch biến.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN14",
@@ -171,7 +184,8 @@ window.tracNghiem1D63 = [
       "$[3; +\\infty)$"
     ],
     "answer": 3,
-    "explain": "Biểu thức $\\log_5(2x-6)$ có nghĩa khi $2x-6&gt;0$ hay $x&gt;3$.<br>  Vậy tập xác định của hàm số $y=\\log_5(2x-6)$ là $\\mathscr{D}=(3;+\\infty)$."
+    "explain": "Biểu thức $\\log_5(2x-6)$ có nghĩa khi $2x-6&gt;0$ hay $x&gt;3$.<br>  Vậy tập xác định của hàm số $y=\\log_5(2x-6)$ là $\\mathscr{D}=(3;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D634TN15",
@@ -183,7 +197,8 @@ window.tracNghiem1D63 = [
       "$y=\\left(\\sqrt{\\dfrac{1}{3}}\\right)^x$"
     ],
     "answer": 2,
-    "explain": "Vì đồ thị hàm số đi qua điểm $(-2;3)$ nên hàm số cần tìm là $y=\\left(\\sqrt{\\dfrac{1}{3}}\\right)^{x}$."
+    "explain": "Vì đồ thị hàm số đi qua điểm $(-2;3)$ nên hàm số cần tìm là $y=\\left(\\sqrt{\\dfrac{1}{3}}\\right)^{x}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN16",
@@ -195,7 +210,8 @@ window.tracNghiem1D63 = [
       "$(1; +\\infty)$"
     ],
     "answer": 3,
-    "explain": "Biểu thức $\\log_2(x-1)$ có nghĩa khi $x-1&gt;0$ hay $x&gt;1$.<br>  Vậy tập xác định của hàm số $y=\\log_2(x-1)$ là $\\mathscr{D}=(1;+\\infty)$."
+    "explain": "Biểu thức $\\log_2(x-1)$ có nghĩa khi $x-1&gt;0$ hay $x&gt;1$.<br>  Vậy tập xác định của hàm số $y=\\log_2(x-1)$ là $\\mathscr{D}=(1;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN17",
@@ -207,7 +223,8 @@ window.tracNghiem1D63 = [
       "$[0;+\\infty)$"
     ],
     "answer": 1,
-    "explain": "Tập giá trị của hàm số $y=3^x$ là $(0;+\\infty)$."
+    "explain": "Tập giá trị của hàm số $y=3^x$ là $(0;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN18",
@@ -219,7 +236,8 @@ window.tracNghiem1D63 = [
       "$[0;+\\infty)$"
     ],
     "answer": 0,
-    "explain": "Tập xác định của hàm số $y = 5^x$ là $\\mathscr{D}=\\mathbb{R}$."
+    "explain": "Tập xác định của hàm số $y = 5^x$ là $\\mathscr{D}=\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D634TN19",
@@ -231,7 +249,8 @@ window.tracNghiem1D63 = [
       "$x&lt; 0,5$"
     ],
     "answer": 0,
-    "explain": "Vì đồ thị của hàm số $y=\\log_{0,5}x$ nằm phía trên trục hoành nên $\\log_{0,5}x&gt;0 \\text{ và } x&gt;0 \\Rightarrow 0&lt;x &lt; 1$."
+    "explain": "Vì đồ thị của hàm số $y=\\log_{0,5}x$ nằm phía trên trục hoành nên $\\log_{0,5}x&gt;0 \\text{ và } x&gt;0 \\Rightarrow 0&lt;x &lt; 1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632TN20",
@@ -243,7 +262,8 @@ window.tracNghiem1D63 = [
       "$f(x)=5$"
     ],
     "answer": 2,
-    "explain": "Hàm số $f(x)=3^x$ là hàm số mũ có $a=3&gt;1$ do đó đồng biến trên $\\mathbb{R}$."
+    "explain": "Hàm số $f(x)=3^x$ là hàm số mũ có $a=3&gt;1$ do đó đồng biến trên $\\mathbb{R}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN21",
@@ -255,7 +275,8 @@ window.tracNghiem1D63 = [
       "$(0;+\\infty)$"
     ],
     "answer": 3,
-    "explain": "Điều kiện xác định: $x&gt;0$.<br> Vậy $\\mathscr D=(0;+\\infty)$."
+    "explain": "Điều kiện xác định: $x&gt;0$.<br> Vậy $\\mathscr D=(0;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN22",
@@ -267,7 +288,8 @@ window.tracNghiem1D63 = [
       "$\\mathscr{D}=(-1;3)$"
     ],
     "answer": 0,
-    "explain": "Hàm số xác định khi $x^2-2x-3&gt;0\\Leftrightarrow x &lt;-1 \\text{ hoặc } x&gt;3.$<br>  Vậy $\\mathscr{D}=(-\\infty;-1)\\cup (3;+\\infty)$."
+    "explain": "Hàm số xác định khi $x^2-2x-3&gt;0\\Leftrightarrow x &lt;-1 \\text{ hoặc } x&gt;3.$<br>  Vậy $\\mathscr{D}=(-\\infty;-1)\\cup (3;+\\infty)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN23",
@@ -279,7 +301,8 @@ window.tracNghiem1D63 = [
       "$\\mathscr{D}=(3;+\\infty)$"
     ],
     "answer": 1,
-    "explain": "Điều kiện xác định $x+1&gt;0 \\text{ và } 3-x&gt;0\\Leftrightarrow x&gt;-1 \\text{ và } x&lt;3\\Leftrightarrow -1&lt;x&lt;3$. <br>  Vậy tập xác định $\\mathscr{D}=(-1;3)$."
+    "explain": "Điều kiện xác định $x+1&gt;0 \\text{ và } 3-x&gt;0\\Leftrightarrow x&gt;-1 \\text{ và } x&lt;3\\Leftrightarrow -1&lt;x&lt;3$. <br>  Vậy tập xác định $\\mathscr{D}=(-1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN24",
@@ -291,7 +314,8 @@ window.tracNghiem1D63 = [
       "$\\mathbb{R}$"
     ],
     "answer": 1,
-    "explain": "Hàm số xác định $\\Leftrightarrow 2x-3&gt; 0\\Leftrightarrow x &gt; \\dfrac{3}{2}$. <br>  $\\Rightarrow$ Tập xác định là $\\mathscr{D} = \\left(\\dfrac{3}{2};+\\infty \\right)$."
+    "explain": "Hàm số xác định $\\Leftrightarrow 2x-3&gt; 0\\Leftrightarrow x &gt; \\dfrac{3}{2}$. <br>  $\\Rightarrow$ Tập xác định là $\\mathscr{D} = \\left(\\dfrac{3}{2};+\\infty \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN25",
@@ -303,7 +327,8 @@ window.tracNghiem1D63 = [
       "$\\mathscr{D}=\\Bbb{R}$"
     ],
     "answer": 0,
-    "explain": "Điều kiện $x^2+4x+4&gt;0\\Leftrightarrow x\\ne -2$.<br>  Vậy tập xác định là $\\mathscr{D}=\\Bbb{R}\\setminus\\{-2\\}$."
+    "explain": "Điều kiện $x^2+4x+4&gt;0\\Leftrightarrow x\\ne -2$.<br>  Vậy tập xác định là $\\mathscr{D}=\\Bbb{R}\\setminus\\{-2\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D634TN20",
@@ -315,7 +340,8 @@ window.tracNghiem1D63 = [
       "$a=\\dfrac{1}{2}$"
     ],
     "answer": 1,
-    "explain": "Đồ thị hàm số đi qua điểm $(2; 2) \\Rightarrow \\log_a 2=2 \\Rightarrow a^2=2 \\Rightarrow a=\\sqrt{2}$."
+    "explain": "Đồ thị hàm số đi qua điểm $(2; 2) \\Rightarrow \\log_a 2=2 \\Rightarrow a^2=2 \\Rightarrow a=\\sqrt{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D633TN2",
@@ -327,6 +353,7 @@ window.tracNghiem1D63 = [
       "$(1;2)$"
     ],
     "answer": 3,
-    "explain": "Điều kiện xác định $x-1&gt;0 \\text{ và } 4-x^2&gt;0\\Leftrightarrow x&gt;1 \\text{ và } -2&lt;x&lt;2\\Leftrightarrow 1&lt;x&lt;2$.<br>  Vậy tập xác định của hàm số là $\\mathscr{D}=(1;2)$."
+    "explain": "Điều kiện xác định $x-1&gt;0 \\text{ và } 4-x^2&gt;0\\Leftrightarrow x&gt;1 \\text{ và } -2&lt;x&lt;2\\Leftrightarrow 1&lt;x&lt;2$.<br>  Vậy tập xác định của hàm số là $\\mathscr{D}=(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

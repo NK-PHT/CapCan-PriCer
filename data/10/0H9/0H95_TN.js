@@ -15,6 +15,7 @@ window.tracNghiem0H95 = [
       "$249{,}22604$"
     ],
     "answer": 3,
-    "explain": "Theo giả thiết quỹ đạo của sao hỏa là elip có bán trục lớn $a = 227{,}9$ triệu km, bán trục nhỏ bằng $b = 226{,}9$ triệu km, suy ra tiêu cự $c = \\sqrt{a^2-b^2} = \\sqrt{227{,}9^2 - 226{,}9^2}$ triệu km.<br>  Khoảng cách xa nhất giữa sao hỏa và mặt trời là   $a + c = 227{,}9+\\sqrt{227{,}9^2 - 226{,}9^2} \\approx 249{,}22604$ triệu km."
+    "explain": "Theo giả thiết quỹ đạo của sao hỏa là elip có bán trục lớn $a = 227{,}9$ triệu km, bán trục nhỏ bằng $b = 226{,}9$ triệu km, suy ra tiêu cự $c = \\sqrt{a^2-b^2} = \\sqrt{227{,}9^2 - 226{,}9^2}$ triệu km.<br>  Khoảng cách xa nhất giữa sao hỏa và mặt trời là   $a + c = 227{,}9+\\sqrt{227{,}9^2 - 226{,}9^2} \\approx 249{,}22604$ triệu km.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

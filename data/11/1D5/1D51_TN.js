@@ -13,7 +13,8 @@ window.tracNghiem1D51 = [
       "$[7\\,500;8\\,000)$"
     ],
     "answer": 2,
-    "explain": "Nhóm có tần số lớn nhất là $[6\\,500;7\\,000)$ nên mốt thuộc nhóm $[6\\,500;7\\,000)$."
+    "explain": "Nhóm có tần số lớn nhất là $[6\\,500;7\\,000)$ nên mốt thuộc nhóm $[6\\,500;7\\,000)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D512TN1",
@@ -25,7 +26,8 @@ window.tracNghiem1D51 = [
       "$31$"
     ],
     "answer": 1,
-    "explain": "Số học sinh của lớp là $20+15+2=37$."
+    "explain": "Số học sinh của lớp là $20+15+2=37$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D512TN2",
@@ -37,6 +39,7 @@ window.tracNghiem1D51 = [
       "$54$"
     ],
     "answer": 1,
-    "explain": "Các nhóm số liệu ở bảng trên có độ dài bằng $50$."
+    "explain": "Các nhóm số liệu ở bảng trên có độ dài bằng $50$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

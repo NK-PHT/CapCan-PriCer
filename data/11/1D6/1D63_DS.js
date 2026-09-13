@@ -24,7 +24,8 @@ window.dungSai1D63 = [
         "answer": true
       }
     ],
-    "explain": "<br>- Điều kiện $x+3&gt;0\\Leftrightarrow x&gt;-3$.<br>  Tập xác định của hàm số $f(x)$ là $\\mathscr{D}=(-3;+\\infty)$.<br>- Với $x=-2\\Rightarrow f(-2)=\\log_2 (-2+3)=\\log_2 1=0$.<br>  Suy ra đồ thị hàm số $f(x)$ đi qua điểm $A(-2; 0)$.<br>- Ta có $f(x)=5\\Leftrightarrow \\log_2 (x+3)=5\\Leftrightarrow x+3=32\\Leftrightarrow x=29$.<br>- Ta có   $\\dfrac{1}{2} \\log _{\\sqrt{2}}(y-1)=2f(x)$<br>$\\Leftrightarrow \\log _2 (y-1)=2\\log_2(x+3)$<br>$\\Leftrightarrow \\log _2 (y-1)=\\log_2(x+3)^2$<br>$\\Leftrightarrow y-1=(x+3)^2$<br>$\\Leftrightarrow y=x^2+6x+10.$"
+    "explain": "<br>- Điều kiện $x+3&gt;0\\Leftrightarrow x&gt;-3$.<br>  Tập xác định của hàm số $f(x)$ là $\\mathscr{D}=(-3;+\\infty)$.<br>- Với $x=-2\\Rightarrow f(-2)=\\log_2 (-2+3)=\\log_2 1=0$.<br>  Suy ra đồ thị hàm số $f(x)$ đi qua điểm $A(-2; 0)$.<br>- Ta có $f(x)=5\\Leftrightarrow \\log_2 (x+3)=5\\Leftrightarrow x+3=32\\Leftrightarrow x=29$.<br>- Ta có   $\\dfrac{1}{2} \\log _{\\sqrt{2}}(y-1)=2f(x)$<br>$\\Leftrightarrow \\log _2 (y-1)=2\\log_2(x+3)$<br>$\\Leftrightarrow \\log _2 (y-1)=\\log_2(x+3)^2$<br>$\\Leftrightarrow y-1=(x+3)^2$<br>$\\Leftrightarrow y=x^2+6x+10.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "1D632DS2",
@@ -47,6 +48,7 @@ window.dungSai1D63 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Ta có hàm số $y=\\log_{0,5}x$ xác định khi $x&gt;0$ nên tập xác định là $\\mathscr{D}=(0;+\\infty)$.<br>- Vì cơ số $a=0,5&lt;1$ nên hàm số $y=\\log_{0,5}x$ nghịch biến trong khoảng $(0;+\\infty)$.<br>- Thay $x=4$ vào hàm số $y=\\log_{0,5}x$ ta được $y=\\log_{0{,}5}4=-2$ nên điểm $M(4;-2)$ thuộc đồ thị hàm số $y=\\log_{0{,}5}x$.<br>- Xét bất phương trình $\\log_{0,5}x&gt;-1$.<br>  Điều kiện $x&gt;0$.<br>  Ta có bất phương trình tương đương với $x&lt;0,5^{-1}=2$.<br>  Kết hợp điều kiện ta được $0&lt;x&lt;2$ nên tập nghiệm là $S=(0;2)$."
+    "explain": "<br>- Ta có hàm số $y=\\log_{0,5}x$ xác định khi $x&gt;0$ nên tập xác định là $\\mathscr{D}=(0;+\\infty)$.<br>- Vì cơ số $a=0,5&lt;1$ nên hàm số $y=\\log_{0,5}x$ nghịch biến trong khoảng $(0;+\\infty)$.<br>- Thay $x=4$ vào hàm số $y=\\log_{0,5}x$ ta được $y=\\log_{0{,}5}4=-2$ nên điểm $M(4;-2)$ thuộc đồ thị hàm số $y=\\log_{0{,}5}x$.<br>- Xét bất phương trình $\\log_{0,5}x&gt;-1$.<br>  Điều kiện $x&gt;0$.<br>  Ta có bất phương trình tương đương với $x&lt;0,5^{-1}=2$.<br>  Kết hợp điều kiện ta được $0&lt;x&lt;2$ nên tập nghiệm là $S=(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -8,6 +8,7 @@ window.traLoiNgan0H91 = [
     "id": "0H911TL1",
     "question": "Trong mặt phẳng $ Oxy,$ cho hình bình hành $ADBC$ có $A\\left(-3;5\\right)$, $B\\left(1;1\\right)$, $C\\left(2;3\\right)$, $D\\left(m;n\\right)$. Giá trị của $ m+n$ bằng bao nhiêu?",
     "answer": "-1",
-    "explain": "Ta có $\\overrightarrow{AD}=\\left(m+3;n-5\\right),\\overrightarrow{CB}=\\left(-1;-2\\right)$.<br>  $ADBC$ là hình bình hành $\\Leftrightarrow\\overrightarrow{AD}=\\overrightarrow{CB}\\Leftrightarrow\\left\\{\\begin{aligned}  & m+3=-1\\\\   & n-5=-2\\\\   \\end{aligned}\\right.\\Leftrightarrow\\left\\{\\begin{aligned}  & m=-4\\\\   & n=3.\\\\   \\end{aligned}\\right.$<br>  Vậy $ m+n=-1$."
+    "explain": "Ta có $\\overrightarrow{AD}=\\left(m+3;n-5\\right),\\overrightarrow{CB}=\\left(-1;-2\\right)$.<br>  $ADBC$ là hình bình hành $\\Leftrightarrow\\overrightarrow{AD}=\\overrightarrow{CB}\\Leftrightarrow\\left\\{\\begin{aligned}  & m+3=-1\\\\   & n-5=-2\\\\   \\end{aligned}\\right.\\Leftrightarrow\\left\\{\\begin{aligned}  & m=-4\\\\   & n=3.\\\\   \\end{aligned}\\right.$<br>  Vậy $ m+n=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
