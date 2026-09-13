@@ -178,6 +178,18 @@
             max-width: min(240px, 60%); max-height: 130px;
             width: auto; height: auto; display: block; margin: 4px auto;
         }
+        /* FIX: Bootstrap mặc định ".form-check" dùng float + margin-left âm
+           (-1.5em) trên input để chừa chỗ cho ô tròn, dựa vào padding-left:1.5em
+           của chính ".form-check". Khi câu Đúng/Sai được chấm đúng/sai, class
+           .ds-correct-pick/.ds-wrong-pick set "padding: 2px 8px" (shorthand)
+           đã VÔ TÌNH ghi đè mất padding-left:1.5em đó, khiến ô tròn bị margin
+           âm kéo lệch sang trái, đè lên/chen sát vào ô Đúng hoặc Sai bên cạnh
+           - đây là nguyên nhân gây hiện tượng giao diện "nhảy ra nhảy vào"
+           không đều giữa các câu. Chuyển ".form-check" sang flex (giống hệt
+           cách ".custom-option-wrapper" ở Phần I đã làm) để bỏ hẳn cơ chế
+           float/margin-âm này, không còn phụ thuộc padding-left nữa. */
+        .form-check { display: flex; align-items: center; padding-left: 0; margin-bottom: 0; }
+        .form-check .form-check-input { float: none; margin-left: 0; margin-top: 0; }
         .form-check-input { width: 1.1rem; height: 1.1rem; flex-shrink: 0; border: 2px solid #A6B2CC; accent-color: #2F6FED; }
         .form-check-label {
             color: #334155; margin-left: 8px; font-size: 0.9rem; width: 100%; cursor: pointer;
