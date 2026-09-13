@@ -14,7 +14,8 @@ window.tracNghiem2D43 = [
       "$S=a\\mathrm{e}^a-\\mathrm{e}^a+1$"
     ],
     "answer": 3,
-    "explain": "Vì $a>0$ nên trên $[0;a]$ ta có $x\\mathrm{e}^x\\ge 0$. Diện tích $S=\\displaystyle\\int_0^a x\\mathrm{e}^x\\,\\mathrm{d}x$. Đặt $u=x,\\ \\mathrm{d}v=\\mathrm{e}^x\\mathrm{d}x\\Rightarrow \\mathrm{d}u=\\mathrm{d}x,\\ v=\\mathrm{e}^x$, ta có $\\displaystyle\\int x\\mathrm{e}^x\\,\\mathrm{d}x=x\\mathrm{e}^x-\\mathrm{e}^x+C$. Do đó $S=\\Big[x\\mathrm{e}^x-\\mathrm{e}^x\\Big]_0^a=(a\\mathrm{e}^a-\\mathrm{e}^a)-(0-1)=a\\mathrm{e}^a-\\mathrm{e}^a+1$."
+    "explain": "Vì $a>0$ nên trên $[0;a]$ ta có $x\\mathrm{e}^x\\ge 0$. Diện tích $S=\\displaystyle\\int_0^a x\\mathrm{e}^x\\,\\mathrm{d}x$. Đặt $u=x,\\ \\mathrm{d}v=\\mathrm{e}^x\\mathrm{d}x\\Rightarrow \\mathrm{d}u=\\mathrm{d}x,\\ v=\\mathrm{e}^x$, ta có $\\displaystyle\\int x\\mathrm{e}^x\\,\\mathrm{d}x=x\\mathrm{e}^x-\\mathrm{e}^x+C$. Do đó $S=\\Big[x\\mathrm{e}^x-\\mathrm{e}^x\\Big]_0^a=(a\\mathrm{e}^a-\\mathrm{e}^a)-(0-1)=a\\mathrm{e}^a-\\mathrm{e}^a+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN2",
@@ -26,7 +27,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_{-2}^1 f(x)\\mathrm{\\, d}x$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị, trên $[-2;0]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_{-2}^0 f(x)\\,\\mathrm{d}x$. Trên $[0;1]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_0^1 f(x)\\,\\mathrm{d}x$. Vậy diện tích cần tìm là $S=\\displaystyle\\int\\limits_{-2}^0f(x)\\,\\mathrm{d}x-\\displaystyle\\int\\limits_0^1f(x)\\,\\mathrm{d}x$."
+    "explain": "Dựa vào đồ thị, trên $[-2;0]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_{-2}^0 f(x)\\,\\mathrm{d}x$. Trên $[0;1]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_0^1 f(x)\\,\\mathrm{d}x$. Vậy diện tích cần tìm là $S=\\displaystyle\\int\\limits_{-2}^0f(x)\\,\\mathrm{d}x-\\displaystyle\\int\\limits_0^1f(x)\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN3",
@@ -38,7 +40,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_a^c f(x)\\mathrm{\\,d}x+\\displaystyle\\int\\limits_c^b f(x)\\mathrm{\\,d}x$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị, trên $[a;c]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_a^c f(x)\\,\\mathrm{d}x$. Trên $[c;b]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_c^b f(x)\\,\\mathrm{d}x$. Vậy $S=-\\displaystyle\\int\\limits_a^c f(x)\\,\\mathrm{d}x+\\displaystyle\\int\\limits_c^b f(x)\\,\\mathrm{d}x$."
+    "explain": "Dựa vào đồ thị, trên $[a;c]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_a^c f(x)\\,\\mathrm{d}x$. Trên $[c;b]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_c^b f(x)\\,\\mathrm{d}x$. Vậy $S=-\\displaystyle\\int\\limits_a^c f(x)\\,\\mathrm{d}x+\\displaystyle\\int\\limits_c^b f(x)\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN4",
@@ -50,7 +53,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_{-3}^{0}f(x)\\textrm{\\,d}x+\\displaystyle\\int\\limits_{4}^{0}f(x)\\mathrm{\\,d}x$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị, trên $[-3;0]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_{-3}^0 f(x)\\,\\mathrm{d}x$. Trên $[0;4]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_0^4 f(x)\\,\\mathrm{d}x=\\displaystyle\\int\\limits_4^0 f(x)\\,\\mathrm{d}x$. Vậy $S=\\displaystyle\\int\\limits_{-3}^{0}f(x)\\,\\mathrm{d}x+\\displaystyle\\int\\limits_{4}^{0}f(x)\\,\\mathrm{d}x$."
+    "explain": "Dựa vào đồ thị, trên $[-3;0]$ đồ thị nằm phía trên trục hoành nên $f(x)\\ge 0$, phần diện tích tương ứng bằng $\\displaystyle\\int\\limits_{-3}^0 f(x)\\,\\mathrm{d}x$. Trên $[0;4]$ đồ thị nằm phía dưới trục hoành nên $f(x)\\le 0$, phần diện tích tương ứng bằng $-\\displaystyle\\int\\limits_0^4 f(x)\\,\\mathrm{d}x=\\displaystyle\\int\\limits_4^0 f(x)\\,\\mathrm{d}x$. Vậy $S=\\displaystyle\\int\\limits_{-3}^{0}f(x)\\,\\mathrm{d}x+\\displaystyle\\int\\limits_{4}^{0}f(x)\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN5",
@@ -62,7 +66,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{ 32}{3}$"
     ],
     "answer": 3,
-    "explain": "Từ đồ thị, parabol có đỉnh $(0;4)$ và cắt trục hoành tại $x=-2,\\ x=2$ nên có phương trình $y=4-x^2$. Diện tích hình phẳng giới hạn bởi parabol và trục hoành là $S=\\displaystyle\\int_{-2}^{2}(4-x^2)\\,\\mathrm{d}x=\\left[4x-\\dfrac{x^3}{3}\\right]_{-2}^{2}=\\dfrac{16}{3}-\\left(-\\dfrac{16}{3}\\right)=\\dfrac{32}{3}$."
+    "explain": "Từ đồ thị, parabol có đỉnh $(0;4)$ và cắt trục hoành tại $x=-2,\\ x=2$ nên có phương trình $y=4-x^2$. Diện tích hình phẳng giới hạn bởi parabol và trục hoành là $S=\\displaystyle\\int_{-2}^{2}(4-x^2)\\,\\mathrm{d}x=\\left[4x-\\dfrac{x^3}{3}\\right]_{-2}^{2}=\\dfrac{16}{3}-\\left(-\\dfrac{16}{3}\\right)=\\dfrac{32}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN6",
@@ -74,7 +79,8 @@ window.tracNghiem2D43 = [
       "$=0$"
     ],
     "answer": 1,
-    "explain": "Ta có $f(2)-f(-1)=\\displaystyle\\int_{-1}^{2}f'(x)\\,\\mathrm{d}x=\\displaystyle\\int_{-1}^{0}f'(x)\\,\\mathrm{d}x+\\displaystyle\\int_{0}^{2}f'(x)\\,\\mathrm{d}x$. Trên đoạn ứng với $(K)$ đồ thị $y=f'(x)$ nằm phía trên trục hoành nên $\\displaystyle\\int_{-1}^{0}f'(x)\\,\\mathrm{d}x=S_{(K)}=\\dfrac{5}{12}$; trên đoạn ứng với $(H)$ đồ thị nằm phía dưới trục hoành nên $\\displaystyle\\int_{0}^{2}f'(x)\\,\\mathrm{d}x=-S_{(H)}=-\\dfrac{8}{3}$. Suy ra $f(2)-f(-1)=\\dfrac{5}{12}-\\dfrac{8}{3}=\\dfrac{5}{12}-\\dfrac{32}{12}=-\\dfrac{27}{12}=-\\dfrac{9}{4}$. Vậy $f(2)=f(-1)-\\dfrac{9}{4}=\\dfrac{19}{12}-\\dfrac{27}{12}=-\\dfrac{8}{12}=-\\dfrac{2}{3}$."
+    "explain": "Ta có $f(2)-f(-1)=\\displaystyle\\int_{-1}^{2}f'(x)\\,\\mathrm{d}x=\\displaystyle\\int_{-1}^{0}f'(x)\\,\\mathrm{d}x+\\displaystyle\\int_{0}^{2}f'(x)\\,\\mathrm{d}x$. Trên đoạn ứng với $(K)$ đồ thị $y=f'(x)$ nằm phía trên trục hoành nên $\\displaystyle\\int_{-1}^{0}f'(x)\\,\\mathrm{d}x=S_{(K)}=\\dfrac{5}{12}$; trên đoạn ứng với $(H)$ đồ thị nằm phía dưới trục hoành nên $\\displaystyle\\int_{0}^{2}f'(x)\\,\\mathrm{d}x=-S_{(H)}=-\\dfrac{8}{3}$. Suy ra $f(2)-f(-1)=\\dfrac{5}{12}-\\dfrac{8}{3}=\\dfrac{5}{12}-\\dfrac{32}{12}=-\\dfrac{27}{12}=-\\dfrac{9}{4}$. Vậy $f(2)=f(-1)-\\dfrac{9}{4}=\\dfrac{19}{12}-\\dfrac{27}{12}=-\\dfrac{8}{12}=-\\dfrac{2}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN7",
@@ -86,7 +92,8 @@ window.tracNghiem2D43 = [
       "$k=\\dfrac{2}{3}\\ln 4$"
     ],
     "answer": 2,
-    "explain": "Diện tích toàn phần của $(H)$ là $S=\\displaystyle\\int_0^{\\ln 4}\\mathrm{e}^x\\,\\mathrm{d}x=\\Big[\\mathrm{e}^x\\Big]_0^{\\ln4}=4-1=3$. Với $x=k$, $S_1=\\displaystyle\\int_0^k \\mathrm{e}^x\\,\\mathrm{d}x=\\mathrm{e}^k-1$ và $S_2=\\displaystyle\\int_k^{\\ln4}\\mathrm{e}^x\\,\\mathrm{d}x=4-\\mathrm{e}^k$. Từ $S_1=2S_2$ ta có $\\mathrm{e}^k-1=2(4-\\mathrm{e}^k)\\Leftrightarrow 3\\mathrm{e}^k=9\\Leftrightarrow \\mathrm{e}^k=3\\Leftrightarrow k=\\ln 3$."
+    "explain": "Diện tích toàn phần của $(H)$ là $S=\\displaystyle\\int_0^{\\ln 4}\\mathrm{e}^x\\,\\mathrm{d}x=\\Big[\\mathrm{e}^x\\Big]_0^{\\ln4}=4-1=3$. Với $x=k$, $S_1=\\displaystyle\\int_0^k \\mathrm{e}^x\\,\\mathrm{d}x=\\mathrm{e}^k-1$ và $S_2=\\displaystyle\\int_k^{\\ln4}\\mathrm{e}^x\\,\\mathrm{d}x=4-\\mathrm{e}^k$. Từ $S_1=2S_2$ ta có $\\mathrm{e}^k-1=2(4-\\mathrm{e}^k)\\Leftrightarrow 3\\mathrm{e}^k=9\\Leftrightarrow \\mathrm{e}^k=3\\Leftrightarrow k=\\ln 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN8",
@@ -98,7 +105,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_{-1}^2 \\left(-2x^2+2x\\right)\\mathrm{\\,d}x$"
     ],
     "answer": 1,
-    "explain": "Xét phương trình hoành độ giao điểm $x^2-2x-2=-x^2+2\\Leftrightarrow 2x^2-2x-4=0\\Leftrightarrow x=-1 \\text{ hoặc } x=2.$<br>  Ta có  $S = \\displaystyle\\int\\limits_{-1}^2 \\left|(-x^2+2)-(x^2-2x-2)\\right|\\mathrm{\\,d}x$<br>$=   \\displaystyle\\int\\limits_{-1}^2 \\left(-2x^2+2x+4\\right)\\mathrm{\\,d}x.$"
+    "explain": "Xét phương trình hoành độ giao điểm $x^2-2x-2=-x^2+2\\Leftrightarrow 2x^2-2x-4=0\\Leftrightarrow x=-1 \\text{ hoặc } x=2.$<br>  Ta có  $S = \\displaystyle\\int\\limits_{-1}^2 \\left|(-x^2+2)-(x^2-2x-2)\\right|\\mathrm{\\,d}x$<br>$=   \\displaystyle\\int\\limits_{-1}^2 \\left(-2x^2+2x+4\\right)\\mathrm{\\,d}x.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN9",
@@ -110,7 +118,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_a^c\\left[f(x)-g(x)\\right]\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Diện tích của hình phẳng $(H)$ là  \\[S= \\displaystyle\\int\\limits_a^b\\left|f(x)-g(x)\\right|\\mathrm{\\,d}x + \\displaystyle\\int\\limits_b^c\\left|f(x)-g(x)\\right|\\mathrm{\\,d}x = \\displaystyle\\int\\limits_a^b\\left[f(x)-g(x)\\right]\\mathrm{\\,d}x + \\displaystyle\\int\\limits_b^c\\left[g(x)-f(x)\\right]\\mathrm{\\,d}x.\\]"
+    "explain": "Diện tích của hình phẳng $(H)$ là  \\[S= \\displaystyle\\int\\limits_a^b\\left|f(x)-g(x)\\right|\\mathrm{\\,d}x + \\displaystyle\\int\\limits_b^c\\left|f(x)-g(x)\\right|\\mathrm{\\,d}x = \\displaystyle\\int\\limits_a^b\\left[f(x)-g(x)\\right]\\mathrm{\\,d}x + \\displaystyle\\int\\limits_b^c\\left[g(x)-f(x)\\right]\\mathrm{\\,d}x.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN10",
@@ -122,7 +131,8 @@ window.tracNghiem2D43 = [
       "$10$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\displaystyle\\int\\limits_1^4 f(x)\\mathrm{\\,d}x=\\displaystyle\\int\\limits_1^3f(x)\\mathrm{\\,d}x+\\displaystyle\\int\\limits_3^4f(x)\\mathrm{\\,d}x=S_A-S_B=8-2=6$."
+    "explain": "Ta có $\\displaystyle\\int\\limits_1^4 f(x)\\mathrm{\\,d}x=\\displaystyle\\int\\limits_1^3f(x)\\mathrm{\\,d}x+\\displaystyle\\int\\limits_3^4f(x)\\mathrm{\\,d}x=S_A-S_B=8-2=6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN11",
@@ -134,7 +144,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{1}{3}$"
     ],
     "answer": 1,
-    "explain": "Ta có $x^2+2x+3=(x+1)^2+2>0$ với mọi $x$ nên trên $[-2;1]$, $x^2+2x+3>0$. Do đó $S=\\displaystyle\\int_{-2}^1(x^2+2x+3)\\,\\mathrm{d}x=\\Big[\\dfrac{x^3}{3}+x^2+3x\\Big]_{-2}^1=\\Big(\\dfrac13+1+3\\Big)-\\Big(-\\dfrac83+4-6\\Big)=\\dfrac{13}{3}-\\Big(-\\dfrac{14}{3}\\Big)=9$."
+    "explain": "Ta có $x^2+2x+3=(x+1)^2+2>0$ với mọi $x$ nên trên $[-2;1]$, $x^2+2x+3>0$. Do đó $S=\\displaystyle\\int_{-2}^1(x^2+2x+3)\\,\\mathrm{d}x=\\Big[\\dfrac{x^3}{3}+x^2+3x\\Big]_{-2}^1=\\Big(\\dfrac13+1+3\\Big)-\\Big(-\\dfrac83+4-6\\Big)=\\dfrac{13}{3}-\\Big(-\\dfrac{14}{3}\\Big)=9$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN12",
@@ -146,7 +157,8 @@ window.tracNghiem2D43 = [
       "$S=\\bigg|\\displaystyle \\int\\limits_{a}^{b} f(x) \\; \\mathrm{d}x\\bigg|$"
     ],
     "answer": 1,
-    "explain": "Theo công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số $y=f(x)$, trục $Ox$ và hai đường thẳng $x=a,x=b$, ta có $S=\\displaystyle\\int\\limits_a^b\\big|f(x)\\big|\\,\\mathrm{d}x$."
+    "explain": "Theo công thức tính diện tích hình phẳng giới hạn bởi đồ thị hàm số $y=f(x)$, trục $Ox$ và hai đường thẳng $x=a,x=b$, ta có $S=\\displaystyle\\int\\limits_a^b\\big|f(x)\\big|\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN13",
@@ -158,7 +170,8 @@ window.tracNghiem2D43 = [
       "\\(S=\\displaystyle\\int\\limits_a^b\\big[f^2(x)-g^2(x)\\big]\\,\\mathrm{d}x\\)"
     ],
     "answer": 1,
-    "explain": "Theo công thức tính diện tích hình thang cong giới hạn bởi hai đồ thị $y=f(x),\\ y=g(x)$ và hai đường thẳng $x=a,x=b$, ta có $S=\\displaystyle\\int\\limits_a^b\\big|f(x)-g(x)\\big|\\,\\mathrm{d}x$."
+    "explain": "Theo công thức tính diện tích hình thang cong giới hạn bởi hai đồ thị $y=f(x),\\ y=g(x)$ và hai đường thẳng $x=a,x=b$, ta có $S=\\displaystyle\\int\\limits_a^b\\big|f(x)-g(x)\\big|\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN14",
@@ -170,7 +183,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{1}{2}$"
     ],
     "answer": 3,
-    "explain": "Đồ thị $y=\\ln x$ cắt $Ox$ tại điểm $(1;0)$. Ta có $y'=\\dfrac1x$ nên hệ số góc tiếp tuyến tại $x=1$ là $y'(1)=1$. Phương trình tiếp tuyến: $y=1\\cdot(x-1)+0=x-1$. Tiếp tuyến cắt $Oy$ tại $(0;-1)$ và cắt $Ox$ tại $(1;0)$, cùng với gốc tọa độ $O$ tạo thành tam giác vuông có hai cạnh góc vuông bằng $1$ và $1$. Vậy $S=\\dfrac12\\cdot1\\cdot1=\\dfrac12$."
+    "explain": "Đồ thị $y=\\ln x$ cắt $Ox$ tại điểm $(1;0)$. Ta có $y'=\\dfrac1x$ nên hệ số góc tiếp tuyến tại $x=1$ là $y'(1)=1$. Phương trình tiếp tuyến: $y=1\\cdot(x-1)+0=x-1$. Tiếp tuyến cắt $Oy$ tại $(0;-1)$ và cắt $Ox$ tại $(1;0)$, cùng với gốc tọa độ $O$ tạo thành tam giác vuông có hai cạnh góc vuông bằng $1$ và $1$. Vậy $S=\\dfrac12\\cdot1\\cdot1=\\dfrac12$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN15",
@@ -182,7 +196,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{2}{3}$"
     ],
     "answer": 1,
-    "explain": "Phương trình hoành độ giao điểm: $x^2-x+1=x+1\\Leftrightarrow x^2-2x=0\\Leftrightarrow x=0$ hoặc $x=2$. Diện tích $S=\\displaystyle\\int_0^2\\big|(x+1)-(x^2-x+1)\\big|\\,\\mathrm{d}x=\\displaystyle\\int_0^2(2x-x^2)\\,\\mathrm{d}x=\\Big[x^2-\\dfrac{x^3}{3}\\Big]_0^2=4-\\dfrac83=\\dfrac43$ (vì $2x-x^2\\ge0$ trên $[0;2]$)."
+    "explain": "Phương trình hoành độ giao điểm: $x^2-x+1=x+1\\Leftrightarrow x^2-2x=0\\Leftrightarrow x=0$ hoặc $x=2$. Diện tích $S=\\displaystyle\\int_0^2\\big|(x+1)-(x^2-x+1)\\big|\\,\\mathrm{d}x=\\displaystyle\\int_0^2(2x-x^2)\\,\\mathrm{d}x=\\Big[x^2-\\dfrac{x^3}{3}\\Big]_0^2=4-\\dfrac83=\\dfrac43$ (vì $2x-x^2\\ge0$ trên $[0;2]$).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN16",
@@ -194,7 +209,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{1}{3}$"
     ],
     "answer": 1,
-    "explain": "Phương trình hoành độ giao điểm: $x^3=x^5\\Leftrightarrow x^3(1-x^2)=0\\Leftrightarrow x=0,\\ x=\\pm1$. Diện tích $S=\\displaystyle\\int_{-1}^1\\big|x^3-x^5\\big|\\,\\mathrm{d}x=2\\displaystyle\\int_0^1(x^3-x^5)\\,\\mathrm{d}x$ (vì $x^3-x^5\\ge0$ trên $[0;1]$ và hàm dưới dấu trị tuyệt đối là hàm chẵn) $=2\\Big[\\dfrac{x^4}{4}-\\dfrac{x^6}{6}\\Big]_0^1=2\\Big(\\dfrac14-\\dfrac16\\Big)=2\\cdot\\dfrac{1}{12}=\\dfrac16$."
+    "explain": "Phương trình hoành độ giao điểm: $x^3=x^5\\Leftrightarrow x^3(1-x^2)=0\\Leftrightarrow x=0,\\ x=\\pm1$. Diện tích $S=\\displaystyle\\int_{-1}^1\\big|x^3-x^5\\big|\\,\\mathrm{d}x=2\\displaystyle\\int_0^1(x^3-x^5)\\,\\mathrm{d}x$ (vì $x^3-x^5\\ge0$ trên $[0;1]$ và hàm dưới dấu trị tuyệt đối là hàm chẵn) $=2\\Big[\\dfrac{x^4}{4}-\\dfrac{x^6}{6}\\Big]_0^1=2\\Big(\\dfrac14-\\dfrac16\\Big)=2\\cdot\\dfrac{1}{12}=\\dfrac16$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN17",
@@ -206,7 +222,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{3}{2}$"
     ],
     "answer": 1,
-    "explain": "Phương trình hoành độ giao điểm (với $x\\ge0$): $\\sqrt{x}=x^3\\Leftrightarrow \\sqrt{x}\\,(1-x^{5/2})=0\\Leftrightarrow x=0$ hoặc $x=1$. Trên $[0;1]$, $\\sqrt{x}\\ge x^3$ nên $S=\\displaystyle\\int_0^1\\big(\\sqrt{x}-x^3\\big)\\,\\mathrm{d}x=\\Big[\\dfrac23x^{3/2}-\\dfrac{x^4}{4}\\Big]_0^1=\\dfrac23-\\dfrac14=\\dfrac{5}{12}$."
+    "explain": "Phương trình hoành độ giao điểm (với $x\\ge0$): $\\sqrt{x}=x^3\\Leftrightarrow \\sqrt{x}\\,(1-x^{5/2})=0\\Leftrightarrow x=0$ hoặc $x=1$. Trên $[0;1]$, $\\sqrt{x}\\ge x^3$ nên $S=\\displaystyle\\int_0^1\\big(\\sqrt{x}-x^3\\big)\\,\\mathrm{d}x=\\Big[\\dfrac23x^{3/2}-\\dfrac{x^4}{4}\\Big]_0^1=\\dfrac23-\\dfrac14=\\dfrac{5}{12}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN18",
@@ -218,7 +235,8 @@ window.tracNghiem2D43 = [
       "$ I=5 $"
     ],
     "answer": 3,
-    "explain": "Từ hình vẽ, ta có: $\\displaystyle \\int \\limits_1^2 g(x) \\mathrm{\\, d}x=\\dfrac{5}{2}\\Rightarrow \\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{5}{2}$.<br>  Đặt $t=x^2$. Khi đó: $\\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{1}{2}\\displaystyle \\int \\limits_1^4 f(t) \\mathrm{\\, d}t$.<br>  Vậy $I=\\displaystyle \\int \\limits_1^4 f(x) \\mathrm{\\, d}x=5$."
+    "explain": "Từ hình vẽ, ta có: $\\displaystyle \\int \\limits_1^2 g(x) \\mathrm{\\, d}x=\\dfrac{5}{2}\\Rightarrow \\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{5}{2}$.<br>  Đặt $t=x^2$. Khi đó: $\\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{1}{2}\\displaystyle \\int \\limits_1^4 f(t) \\mathrm{\\, d}t$.<br>  Vậy $I=\\displaystyle \\int \\limits_1^4 f(x) \\mathrm{\\, d}x=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN19",
@@ -230,7 +248,8 @@ window.tracNghiem2D43 = [
       "$\\left(0;3\\right)$"
     ],
     "answer": 1,
-    "explain": "Phương trình hoành độ giao điểm: $x^2+1=mx+1\\Leftrightarrow x^2-mx=0\\Leftrightarrow x=0$ hoặc $x=m$ (vì $m\\ge0$). Diện tích $S=\\displaystyle\\int_0^m\\big|x^2-mx\\big|\\,\\mathrm{d}x=\\displaystyle\\int_0^m(mx-x^2)\\,\\mathrm{d}x=\\Big[\\dfrac{mx^2}{2}-\\dfrac{x^3}{3}\\Big]_0^m=\\dfrac{m^3}{2}-\\dfrac{m^3}{3}=\\dfrac{m^3}{6}$. Theo giả thiết $\\dfrac{m^3}{6}=36\\Leftrightarrow m^3=216\\Leftrightarrow m=6$. Vậy $m=6\\in(5;8)$."
+    "explain": "Phương trình hoành độ giao điểm: $x^2+1=mx+1\\Leftrightarrow x^2-mx=0\\Leftrightarrow x=0$ hoặc $x=m$ (vì $m\\ge0$). Diện tích $S=\\displaystyle\\int_0^m\\big|x^2-mx\\big|\\,\\mathrm{d}x=\\displaystyle\\int_0^m(mx-x^2)\\,\\mathrm{d}x=\\Big[\\dfrac{mx^2}{2}-\\dfrac{x^3}{3}\\Big]_0^m=\\dfrac{m^3}{2}-\\dfrac{m^3}{3}=\\dfrac{m^3}{6}$. Theo giả thiết $\\dfrac{m^3}{6}=36\\Leftrightarrow m^3=216\\Leftrightarrow m=6$. Vậy $m=6\\in(5;8)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN20",
@@ -242,7 +261,8 @@ window.tracNghiem2D43 = [
       "$3 \\ln 2$"
     ],
     "answer": 0,
-    "explain": "Ta có $g'(x)=f'(x)+f'(x)+f'''(x)=f'(x)+f''(x)+6$. Do hàm số có hai cực trị, nên phương trình $g'(x)=0\\Leftrightarrow f'(x)+f''(x)+6=0$ có hai nghiệm phân biệt $x_1,\\ x_2$.<br>  Phương trình hoành độ giao điểm  $\\dfrac{f(x)}{g(x)+6}=1\\Leftrightarrow f'(x)+f''(x)+6=0\\Leftrightarrow x=x_1,\\ x=x_2.$  Suy ra diện tích cần tính   $S =\\left|\\displaystyle\\int\\limits_{x_1}^{x_2} \\dfrac{f'(x)+f''(x)+6}{g(x)+6}\\mathrm{\\,d}x \\right|$<br>$=\\left|\\displaystyle\\int\\limits_{x_1}^{x_2} \\dfrac{g'(x)}{g(x)+6}\\mathrm{\\,d}x \\right|$<br>$=\\left|\\ln|g(x)+6|\\Big|_{x_1}^{x_2} \\right|$<br>$= \\left|\\ln\\left| \\dfrac{g(x_1)+6}{g(x_2)+6}\\right| \\right|=\\ln 9=2\\ln3.$"
+    "explain": "Ta có $g'(x)=f'(x)+f'(x)+f'''(x)=f'(x)+f''(x)+6$. Do hàm số có hai cực trị, nên phương trình $g'(x)=0\\Leftrightarrow f'(x)+f''(x)+6=0$ có hai nghiệm phân biệt $x_1,\\ x_2$.<br>  Phương trình hoành độ giao điểm  $\\dfrac{f(x)}{g(x)+6}=1\\Leftrightarrow f'(x)+f''(x)+6=0\\Leftrightarrow x=x_1,\\ x=x_2.$  Suy ra diện tích cần tính   $S =\\left|\\displaystyle\\int\\limits_{x_1}^{x_2} \\dfrac{f'(x)+f''(x)+6}{g(x)+6}\\mathrm{\\,d}x \\right|$<br>$=\\left|\\displaystyle\\int\\limits_{x_1}^{x_2} \\dfrac{g'(x)}{g(x)+6}\\mathrm{\\,d}x \\right|$<br>$=\\left|\\ln|g(x)+6|\\Big|_{x_1}^{x_2} \\right|$<br>$= \\left|\\ln\\left| \\dfrac{g(x_1)+6}{g(x_2)+6}\\right| \\right|=\\ln 9=2\\ln3.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN21",
@@ -254,7 +274,8 @@ window.tracNghiem2D43 = [
       "$ \\dfrac{71}{12} $"
     ],
     "answer": 3,
-    "explain": "Đặt $ h(x)=f(x)-g(x)=ax^4+(b-m)x^3+(c-n)x^2+3x $. Suy ra $ h'(x)=4ax^3+3(b-m)x^2+2(c-n)x+3. \\hfil (1)$  Vì hàm số $ h(x) $ có ba điểm cực trị $ -1 $, $ 2 $, $ 3 $ nên phương trình $ h'(x)=0 $ có ba nghiệm phân biệt $ -1 $, $ 2 $ và $ 3 $. Suy ra, $ h'(x) $ có dạng $h'(x)=r(x+1)(x-2)(x-3) \\hfil (2)$.<br>  Từ $ (1) $, lấy $ x=0 $, suy ra $ h'(0)=3 $. Do đó, từ $ (2) $ suy ra $ 3=r\\cdot 6\\Leftrightarrow r=\\dfrac{1}{2} $.<br>  Vậy $ h'(x)=\\dfrac{1}{2}(x+1)(x-2)(x-3) $.<br>  Diện tích hình phẳng cần tìm là   $S=\\displaystyle\\int\\limits_{-1}^3 |h'(x)|\\mathrm{\\,d}x=\\dfrac{1}{2}\\int\\limits_{-1}^{3} |(x+1)(x-2)(x-3)| \\mathrm{\\,d}x=\\dfrac{71}{12}.$"
+    "explain": "Đặt $ h(x)=f(x)-g(x)=ax^4+(b-m)x^3+(c-n)x^2+3x $. Suy ra $ h'(x)=4ax^3+3(b-m)x^2+2(c-n)x+3. \\hfil (1)$  Vì hàm số $ h(x) $ có ba điểm cực trị $ -1 $, $ 2 $, $ 3 $ nên phương trình $ h'(x)=0 $ có ba nghiệm phân biệt $ -1 $, $ 2 $ và $ 3 $. Suy ra, $ h'(x) $ có dạng $h'(x)=r(x+1)(x-2)(x-3) \\hfil (2)$.<br>  Từ $ (1) $, lấy $ x=0 $, suy ra $ h'(0)=3 $. Do đó, từ $ (2) $ suy ra $ 3=r\\cdot 6\\Leftrightarrow r=\\dfrac{1}{2} $.<br>  Vậy $ h'(x)=\\dfrac{1}{2}(x+1)(x-2)(x-3) $.<br>  Diện tích hình phẳng cần tìm là   $S=\\displaystyle\\int\\limits_{-1}^3 |h'(x)|\\mathrm{\\,d}x=\\dfrac{1}{2}\\int\\limits_{-1}^{3} |(x+1)(x-2)(x-3)| \\mathrm{\\,d}x=\\dfrac{71}{12}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN22",
@@ -266,7 +287,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{64}{9}$"
     ],
     "answer": 1,
-    "explain": "Ta có $f'(x)=4ax^3+3bx^2+2cx+3$, $g'(x)=3mx^2+2nx-1$.<br>  Do hàm số $y=f(x)-g(x)$ có ba điểm cực trị là $-1$; $2$; $3$ nên ta suy ra $a\\neq 0$ và $f'(x)-g'(x)=4ax^3+(3b-3m)x^2+(2c-2n)x+4= 4a(x+1)(x-2)(x-3).$  Lại có $f'(0)-g'(0)=24a=4 \\Rightarrow a=\\dfrac{1}{6}$. Suy ra $f'(x)-g'(x)= \\dfrac{2}{3}(x+1)(x-2)(x-3)$.<br>  Vậy diện tích hình phẳng cần tìm là   \\[  S= \\displaystyle\\int\\limits_{-1}^3 \\left| \\dfrac{2}{3}(x+1)(x-2)(x-3)\\right| \\mathrm{\\, d}x= \\dfrac{71}{9}.  \\]"
+    "explain": "Ta có $f'(x)=4ax^3+3bx^2+2cx+3$, $g'(x)=3mx^2+2nx-1$.<br>  Do hàm số $y=f(x)-g(x)$ có ba điểm cực trị là $-1$; $2$; $3$ nên ta suy ra $a\\neq 0$ và $f'(x)-g'(x)=4ax^3+(3b-3m)x^2+(2c-2n)x+4= 4a(x+1)(x-2)(x-3).$  Lại có $f'(0)-g'(0)=24a=4 \\Rightarrow a=\\dfrac{1}{6}$. Suy ra $f'(x)-g'(x)= \\dfrac{2}{3}(x+1)(x-2)(x-3)$.<br>  Vậy diện tích hình phẳng cần tìm là   \\[  S= \\displaystyle\\int\\limits_{-1}^3 \\left| \\dfrac{2}{3}(x+1)(x-2)(x-3)\\right| \\mathrm{\\, d}x= \\dfrac{71}{9}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN23",
@@ -278,7 +300,8 @@ window.tracNghiem2D43 = [
       "$2$"
     ],
     "answer": 3,
-    "explain": "Do $F(x)$ và $G(x)$ là nguyên hàm của $f(x)$ nên $F(x)-G(x)=c$.<br>  Suy ra $F(0)-G(0)=c\\Rightarrow G(0)=F(0)-c$.<br>  Ta có   $\\displaystyle\\int\\limits_0^4 f(x)\\mathrm{\\,d}x=F(4)-G(0)+a\\Leftrightarrow F(4)-F(0)=F(4)-G(0)+a$<br>$\\Leftrightarrow F(0)-G(0)+a=0\\Leftrightarrow a+c=0\\Leftrightarrow c=-a.$  Do $a&gt;0$ nên $c&lt;0$.<br>  Lại có $S=\\displaystyle\\int\\limits_0^4\\left|F(x)-G(x)\\right| \\mathrm{\\,d}x  \\Leftrightarrow 8=\\displaystyle\\int\\limits_0^4|c|\\mathrm{\\,d}x  \\Leftrightarrow 8=-c\\displaystyle\\int\\limits_0^4\\mathrm{\\,d}x  \\Leftrightarrow 8=-4c\\Leftrightarrow c=-2$.<br>  Vậy $a=2$."
+    "explain": "Do $F(x)$ và $G(x)$ là nguyên hàm của $f(x)$ nên $F(x)-G(x)=c$.<br>  Suy ra $F(0)-G(0)=c\\Rightarrow G(0)=F(0)-c$.<br>  Ta có   $\\displaystyle\\int\\limits_0^4 f(x)\\mathrm{\\,d}x=F(4)-G(0)+a\\Leftrightarrow F(4)-F(0)=F(4)-G(0)+a$<br>$\\Leftrightarrow F(0)-G(0)+a=0\\Leftrightarrow a+c=0\\Leftrightarrow c=-a.$  Do $a&gt;0$ nên $c&lt;0$.<br>  Lại có $S=\\displaystyle\\int\\limits_0^4\\left|F(x)-G(x)\\right| \\mathrm{\\,d}x  \\Leftrightarrow 8=\\displaystyle\\int\\limits_0^4|c|\\mathrm{\\,d}x  \\Leftrightarrow 8=-c\\displaystyle\\int\\limits_0^4\\mathrm{\\,d}x  \\Leftrightarrow 8=-4c\\Leftrightarrow c=-2$.<br>  Vậy $a=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN24",
@@ -290,7 +313,8 @@ window.tracNghiem2D43 = [
       "$(21;22)$"
     ],
     "answer": 0,
-    "explain": "Giả thiết suy ra $f(x)=-\\dfrac{1}{2}(x-\\alpha)(x+1)(x-2)$. Gọi phương trình tiếp tuyến $d$ là $y=mx+n$.<br>  Suy ra $f(x)-mx-n=-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)$ hay $f(x)=-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)+mz+n$.<br>  So sánh hệ số của $x^2$ trong hai cách biểu diễn $f(x)$ ta được $\\alpha =\\dfrac{-11}{6}$. Thay vào $f(x)$ tính được<br>  $S_1=\\displaystyle\\int\\limits_{-\\tfrac{11}{6}}^{-1} \\left|-\\dfrac{1}{2}\\left(x+\\dfrac{11}{6}\\right)(x+1)(x-2)\\right|\\mathrm{\\,d}x=\\dfrac{5125}{31104}$, $S_2=\\displaystyle\\int\\limits_{-\\tfrac{5}{4}}^{\\tfrac{5}{3}} \\left|-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)\\right|\\mathrm{\\,d}x=\\dfrac{28561}{31104}$.<br>  Vậy $\\dfrac{S_1}{S_2}=\\dfrac{656}{12005}$ do đó $19a-b=459$."
+    "explain": "Giả thiết suy ra $f(x)=-\\dfrac{1}{2}(x-\\alpha)(x+1)(x-2)$. Gọi phương trình tiếp tuyến $d$ là $y=mx+n$.<br>  Suy ra $f(x)-mx-n=-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)$ hay $f(x)=-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)+mz+n$.<br>  So sánh hệ số của $x^2$ trong hai cách biểu diễn $f(x)$ ta được $\\alpha =\\dfrac{-11}{6}$. Thay vào $f(x)$ tính được<br>  $S_1=\\displaystyle\\int\\limits_{-\\tfrac{11}{6}}^{-1} \\left|-\\dfrac{1}{2}\\left(x+\\dfrac{11}{6}\\right)(x+1)(x-2)\\right|\\mathrm{\\,d}x=\\dfrac{5125}{31104}$, $S_2=\\displaystyle\\int\\limits_{-\\tfrac{5}{4}}^{\\tfrac{5}{3}} \\left|-\\dfrac{1}{2}\\left(x+\\dfrac{5}{4}\\right)^2\\left(x-\\dfrac{5}{3}\\right)\\right|\\mathrm{\\,d}x=\\dfrac{28561}{31104}$.<br>  Vậy $\\dfrac{S_1}{S_2}=\\dfrac{656}{12005}$ do đó $19a-b=459$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN25",
@@ -302,7 +326,8 @@ window.tracNghiem2D43 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Do $(C)\\colon y=f(x)$ và $(C')\\colon y=g(x)$ cắt nhau tại $3$ điểm phân biệt có hoành độ $-3;-1$ và $1$ nên  $f(x)-g(x)=A(x+3)(x+1)(x-1).$  Từ giả thiết ta có $f(0)-g(0)=-\\dfrac{3}{2}$ nên $-3A=-\\dfrac{3}{2}\\Leftrightarrow A=\\dfrac{1}{2}.$  $\\Rightarrow f(x)-g(x)=\\dfrac{1}{2}(x+3)(x+1)(x-1)=\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}.$  Diện tích hình phẳng cần tìm là   $S = \\displaystyle\\int\\limits_{-3}^{-1} \\left[f(x)-g(x)\\right] \\mathrm{d}x+\\displaystyle\\int\\limits_{-1}^1 \\left[g(x)-f(x)\\right] \\mathrm{d}x$<br>$= \\displaystyle\\int\\limits_{-3}^{-1} \\left[\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}\\right] \\mathrm{d}x-\\displaystyle\\int\\limits_{-1}^1 \\left[\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}\\right] \\mathrm{d}x=2-(-2)=4.$"
+    "explain": "Do $(C)\\colon y=f(x)$ và $(C')\\colon y=g(x)$ cắt nhau tại $3$ điểm phân biệt có hoành độ $-3;-1$ và $1$ nên  $f(x)-g(x)=A(x+3)(x+1)(x-1).$  Từ giả thiết ta có $f(0)-g(0)=-\\dfrac{3}{2}$ nên $-3A=-\\dfrac{3}{2}\\Leftrightarrow A=\\dfrac{1}{2}.$  $\\Rightarrow f(x)-g(x)=\\dfrac{1}{2}(x+3)(x+1)(x-1)=\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}.$  Diện tích hình phẳng cần tìm là   $S = \\displaystyle\\int\\limits_{-3}^{-1} \\left[f(x)-g(x)\\right] \\mathrm{d}x+\\displaystyle\\int\\limits_{-1}^1 \\left[g(x)-f(x)\\right] \\mathrm{d}x$<br>$= \\displaystyle\\int\\limits_{-3}^{-1} \\left[\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}\\right] \\mathrm{d}x-\\displaystyle\\int\\limits_{-1}^1 \\left[\\dfrac{1}{2}x^3+\\dfrac{3}{2}x^2-\\dfrac{1}{2}x-\\dfrac{3}{2}\\right] \\mathrm{d}x=2-(-2)=4.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN26",
@@ -314,7 +339,8 @@ window.tracNghiem2D43 = [
       "$ \\dfrac{7-3\\sqrt{2}}{6} $"
     ],
     "answer": 0,
-    "explain": "Phương trình hoành đồ giao điểm của $ y=x^2-2x $ và $ y=1 $ là $ x^2-2x=1\\Leftrightarrow x^2-2x-1=0x=1+\\sqrt{2} \\text{ hoặc } x=1-\\sqrt{2}\\,\\,\\text{(loại)}. $<br>  Ta có   $S = \\displaystyle\\int\\limits_0^1\\left[x-(x^2-2x)\\right] \\mathrm{\\,d}x+\\displaystyle\\int\\limits_1^{1+\\sqrt{2}}\\left[1-(x^2-2x)\\right] \\mathrm{\\,d}x$<br>$= \\displaystyle\\int\\limits_0^1\\left(-x^2+3x\\right) \\mathrm{\\,d}x+\\displaystyle\\int\\limits_1^{1+\\sqrt{2}}\\left(-x^2+2x+1\\right) \\mathrm{\\,d}x$<br>$= \\left(-\\dfrac{x^3}{3}+3\\cdot \\dfrac{x^2}{2}\\right)\\bigg|_0^1+\\left(-\\dfrac{x^3}{3}+x^2+x\\right)\\bigg|_1^{1+\\sqrt{2}}$<br>$= -\\dfrac{1}{3}+\\dfrac{3}{2}+\\left(-\\dfrac{(1+\\sqrt{2})^3}{3}+(1+\\sqrt{2})^2+1+\\sqrt{2}\\right)-\\left(-\\dfrac{1}{3}+1^2+1\\right)$<br>$= \\dfrac{7+8\\sqrt{2}}{6}.$"
+    "explain": "Phương trình hoành đồ giao điểm của $ y=x^2-2x $ và $ y=1 $ là $ x^2-2x=1\\Leftrightarrow x^2-2x-1=0x=1+\\sqrt{2} \\text{ hoặc } x=1-\\sqrt{2}\\,\\,\\text{(loại)}. $<br>  Ta có   $S = \\displaystyle\\int\\limits_0^1\\left[x-(x^2-2x)\\right] \\mathrm{\\,d}x+\\displaystyle\\int\\limits_1^{1+\\sqrt{2}}\\left[1-(x^2-2x)\\right] \\mathrm{\\,d}x$<br>$= \\displaystyle\\int\\limits_0^1\\left(-x^2+3x\\right) \\mathrm{\\,d}x+\\displaystyle\\int\\limits_1^{1+\\sqrt{2}}\\left(-x^2+2x+1\\right) \\mathrm{\\,d}x$<br>$= \\left(-\\dfrac{x^3}{3}+3\\cdot \\dfrac{x^2}{2}\\right)\\bigg|_0^1+\\left(-\\dfrac{x^3}{3}+x^2+x\\right)\\bigg|_1^{1+\\sqrt{2}}$<br>$= -\\dfrac{1}{3}+\\dfrac{3}{2}+\\left(-\\dfrac{(1+\\sqrt{2})^3}{3}+(1+\\sqrt{2})^2+1+\\sqrt{2}\\right)-\\left(-\\dfrac{1}{3}+1^2+1\\right)$<br>$= \\dfrac{7+8\\sqrt{2}}{6}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN27",
@@ -326,7 +352,8 @@ window.tracNghiem2D43 = [
       "$S=9$"
     ],
     "answer": 1,
-    "explain": "Từ đồ thị, parabol đi qua gốc tọa độ và qua hai điểm $A(-2;4),\\ B(2;4)$ nên có phương trình $y=x^2$. Đoạn thẳng $AC$ nối $A(-2;4)$ và $C(0;2)$ nằm trên đường thẳng $y=-x+2$; đoạn thẳng $CB$ nối $C(0;2)$ và $B(2;4)$ nằm trên đường thẳng $y=x+2$, tức là trên $[-2;2]$ đường gấp khúc $ACB$ có phương trình $y=|x|+2$. Diện tích cần tìm là $S=\\displaystyle\\int_{-2}^{2}\\Big[(|x|+2)-x^2\\Big]\\mathrm{d}x=2\\displaystyle\\int_{0}^{2}(x+2-x^2)\\,\\mathrm{d}x=2\\left[\\dfrac{x^2}{2}+2x-\\dfrac{x^3}{3}\\right]_0^2=2\\cdot\\dfrac{10}{3}=\\dfrac{20}{3}$."
+    "explain": "Từ đồ thị, parabol đi qua gốc tọa độ và qua hai điểm $A(-2;4),\\ B(2;4)$ nên có phương trình $y=x^2$. Đoạn thẳng $AC$ nối $A(-2;4)$ và $C(0;2)$ nằm trên đường thẳng $y=-x+2$; đoạn thẳng $CB$ nối $C(0;2)$ và $B(2;4)$ nằm trên đường thẳng $y=x+2$, tức là trên $[-2;2]$ đường gấp khúc $ACB$ có phương trình $y=|x|+2$. Diện tích cần tìm là $S=\\displaystyle\\int_{-2}^{2}\\Big[(|x|+2)-x^2\\Big]\\mathrm{d}x=2\\displaystyle\\int_{0}^{2}(x+2-x^2)\\,\\mathrm{d}x=2\\left[\\dfrac{x^2}{2}+2x-\\dfrac{x^3}{3}\\right]_0^2=2\\cdot\\dfrac{10}{3}=\\dfrac{20}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN28",
@@ -338,7 +365,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{1}{12}$ (đvdt)"
     ],
     "answer": 3,
-    "explain": "Tiếp tuyến của $(C):y=x^2$ tại $x_\\circ=1$ có hệ số góc $y'(1)=2$ và đi qua điểm $(1;1)$ nên có phương trình $y=2x-1$; tiếp tuyến này cắt $Ox$ tại $x=\\dfrac12$. Trên $[0;\\tfrac12]$, cận trên là parabol, cận dưới là trục hoành; trên $[\\tfrac12;1]$, cận trên là parabol, cận dưới là tiếp tuyến. Vậy $S=\\displaystyle\\int_0^{1/2}x^2\\,\\mathrm{d}x+\\displaystyle\\int_{1/2}^1\\big[x^2-(2x-1)\\big]\\,\\mathrm{d}x=\\displaystyle\\int_0^{1/2}x^2\\,\\mathrm{d}x+\\displaystyle\\int_{1/2}^1(x-1)^2\\,\\mathrm{d}x=\\dfrac{1}{24}+\\dfrac{1}{24}=\\dfrac{1}{12}$."
+    "explain": "Tiếp tuyến của $(C):y=x^2$ tại $x_\\circ=1$ có hệ số góc $y'(1)=2$ và đi qua điểm $(1;1)$ nên có phương trình $y=2x-1$; tiếp tuyến này cắt $Ox$ tại $x=\\dfrac12$. Trên $[0;\\tfrac12]$, cận trên là parabol, cận dưới là trục hoành; trên $[\\tfrac12;1]$, cận trên là parabol, cận dưới là tiếp tuyến. Vậy $S=\\displaystyle\\int_0^{1/2}x^2\\,\\mathrm{d}x+\\displaystyle\\int_{1/2}^1\\big[x^2-(2x-1)\\big]\\,\\mathrm{d}x=\\displaystyle\\int_0^{1/2}x^2\\,\\mathrm{d}x+\\displaystyle\\int_{1/2}^1(x-1)^2\\,\\mathrm{d}x=\\dfrac{1}{24}+\\dfrac{1}{24}=\\dfrac{1}{12}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN29",
@@ -350,7 +378,8 @@ window.tracNghiem2D43 = [
       "$S=27\\ln 3-\\dfrac{26}{3}$"
     ],
     "answer": 1,
-    "explain": "$\\left(C_1\\right)$ cắt $\\left(C_2\\right)$ tại $x=0,\\,\\left(C_1\\right)$ cắt $\\left(C_3\\right)$ tại $x=3,\\,\\left(C_2\\right)$ cắt $\\left(C_3\\right)$ tại $x=9.$<br>  $S=\\displaystyle\\int\\limits_0^3{\\left(x^2-\\dfrac{x^2}{27}\\right)\\mathrm{\\,d}x} +\\displaystyle\\int\\limits_3^9{\\left(\\dfrac{27}{x}-\\dfrac{x^2}{27}\\right)\\mathrm{\\,d}x} =27\\ln 3$."
+    "explain": "$\\left(C_1\\right)$ cắt $\\left(C_2\\right)$ tại $x=0,\\,\\left(C_1\\right)$ cắt $\\left(C_3\\right)$ tại $x=3,\\,\\left(C_2\\right)$ cắt $\\left(C_3\\right)$ tại $x=9.$<br>  $S=\\displaystyle\\int\\limits_0^3{\\left(x^2-\\dfrac{x^2}{27}\\right)\\mathrm{\\,d}x} +\\displaystyle\\int\\limits_3^9{\\left(\\dfrac{27}{x}-\\dfrac{x^2}{27}\\right)\\mathrm{\\,d}x} =27\\ln 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN30",
@@ -362,7 +391,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_0^1x^3\\mathrm{\\, d}x+\\int\\limits_1^2(x-2)\\mathrm{\\, d}x$"
     ],
     "answer": 2,
-    "explain": "Xét giao điểm của $y=x^3$ và $y=2-x$: $x^3+x-2=0\\Leftrightarrow(x-1)(x^2+x+2)=0\\Leftrightarrow x=1$ (vì $x^2+x+2>0$ với mọi $x$). Hình phẳng giới hạn bởi $y=x^3,\\ y=2-x,\\ y=0$ được chia bởi $x=1$: với $x\\in[0;1]$ cận trên là $y=x^3$, cận dưới là $y=0$; với $x\\in[1;2]$ cận trên là $y=2-x$, cận dưới là $y=0$. Do đó $S=\\displaystyle\\int_0^1x^3\\,\\mathrm{d}x+\\displaystyle\\int_1^2(2-x)\\,\\mathrm{d}x$. Vì $\\displaystyle\\int_1^2(2-x)\\,\\mathrm{d}x=\\dfrac12$ (diện tích tam giác vuông có cạnh góc vuông bằng $1$) nên $S=\\dfrac12+\\displaystyle\\int_0^1x^3\\,\\mathrm{d}x$."
+    "explain": "Xét giao điểm của $y=x^3$ và $y=2-x$: $x^3+x-2=0\\Leftrightarrow(x-1)(x^2+x+2)=0\\Leftrightarrow x=1$ (vì $x^2+x+2>0$ với mọi $x$). Hình phẳng giới hạn bởi $y=x^3,\\ y=2-x,\\ y=0$ được chia bởi $x=1$: với $x\\in[0;1]$ cận trên là $y=x^3$, cận dưới là $y=0$; với $x\\in[1;2]$ cận trên là $y=2-x$, cận dưới là $y=0$. Do đó $S=\\displaystyle\\int_0^1x^3\\,\\mathrm{d}x+\\displaystyle\\int_1^2(2-x)\\,\\mathrm{d}x$. Vì $\\displaystyle\\int_1^2(2-x)\\,\\mathrm{d}x=\\dfrac12$ (diện tích tam giác vuông có cạnh góc vuông bằng $1$) nên $S=\\dfrac12+\\displaystyle\\int_0^1x^3\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN31",
@@ -374,7 +404,8 @@ window.tracNghiem2D43 = [
       "$k=3+\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": "- Diện tích hình phẳng giới hạn bởi cung $(C)$ và trục hoành là $\\displaystyle\\int\\limits_0^1|-x^3+x|\\mathrm{\\,d}x=\\dfrac{1}{4}.$<br>  - Hoành độ giao điểm của đồ thị $(C)$ và đường thẳng $d$ là $x=0,$ $x=\\sqrt{3-k}.$<br>  - Để $d$ chia hình giới hạn thành hai phần có diện tích bằng nhau thì  $\\displaystyle\\int\\limits_0^{\\sqrt{3-k}}|-x^3+x-(k-2)x|\\mathrm{\\,d}x=\\dfrac{1}{8}$  $\\Leftrightarrow k=3-\\dfrac{\\sqrt{2}}{2}.$"
+    "explain": "- Diện tích hình phẳng giới hạn bởi cung $(C)$ và trục hoành là $\\displaystyle\\int\\limits_0^1|-x^3+x|\\mathrm{\\,d}x=\\dfrac{1}{4}.$<br>  - Hoành độ giao điểm của đồ thị $(C)$ và đường thẳng $d$ là $x=0,$ $x=\\sqrt{3-k}.$<br>  - Để $d$ chia hình giới hạn thành hai phần có diện tích bằng nhau thì  $\\displaystyle\\int\\limits_0^{\\sqrt{3-k}}|-x^3+x-(k-2)x|\\mathrm{\\,d}x=\\dfrac{1}{8}$  $\\Leftrightarrow k=3-\\dfrac{\\sqrt{2}}{2}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN32",
@@ -386,7 +417,8 @@ window.tracNghiem2D43 = [
       "$S = \\dfrac{211}{2}$"
     ],
     "answer": 1,
-    "explain": "Gọi tiếp điểm $(t;2t^2+4t+3)$, hệ số góc tiếp tuyến là $y'(t)=4t+4$. Tiếp tuyến tại điểm này: $y=(4t+4)(x-t)+2t^2+4t+3$. Vì tiếp tuyến đi qua $A(-3;-23)$ nên $-23=(4t+4)(-3-t)+2t^2+4t+3\\Leftrightarrow -2t^2-12t-9=-23\\Leftrightarrow t^2+6t-7=0\\Leftrightarrow t=1$ hoặc $t=-7$. Với $t=1$: tiếp tuyến $y=8x+1$; với $t=-7$: tiếp tuyến $y=-24x-95$. Vì parabol nằm phía trên hai tiếp tuyến này, và hai tiếp tuyến cắt nhau tại $x=-3$, ta có $(P)-y_{t=-7}=2(x+7)^2$ trên $[-7;-3]$ và $(P)-y_{t=1}=2(x-1)^2$ trên $[-3;1]$. Do đó $S=\\displaystyle\\int_{-7}^{-3}2(x+7)^2\\,\\mathrm{d}x+\\displaystyle\\int_{-3}^{1}2(x-1)^2\\,\\mathrm{d}x=\\dfrac{128}{3}+\\dfrac{128}{3}=\\dfrac{256}{3}$."
+    "explain": "Gọi tiếp điểm $(t;2t^2+4t+3)$, hệ số góc tiếp tuyến là $y'(t)=4t+4$. Tiếp tuyến tại điểm này: $y=(4t+4)(x-t)+2t^2+4t+3$. Vì tiếp tuyến đi qua $A(-3;-23)$ nên $-23=(4t+4)(-3-t)+2t^2+4t+3\\Leftrightarrow -2t^2-12t-9=-23\\Leftrightarrow t^2+6t-7=0\\Leftrightarrow t=1$ hoặc $t=-7$. Với $t=1$: tiếp tuyến $y=8x+1$; với $t=-7$: tiếp tuyến $y=-24x-95$. Vì parabol nằm phía trên hai tiếp tuyến này, và hai tiếp tuyến cắt nhau tại $x=-3$, ta có $(P)-y_{t=-7}=2(x+7)^2$ trên $[-7;-3]$ và $(P)-y_{t=1}=2(x-1)^2$ trên $[-3;1]$. Do đó $S=\\displaystyle\\int_{-7}^{-3}2(x+7)^2\\,\\mathrm{d}x+\\displaystyle\\int_{-3}^{1}2(x-1)^2\\,\\mathrm{d}x=\\dfrac{128}{3}+\\dfrac{128}{3}=\\dfrac{256}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN33",
@@ -398,7 +430,8 @@ window.tracNghiem2D43 = [
       "$S = \\dfrac{9}{8}$"
     ],
     "answer": 2,
-    "explain": "Gọi $d$ là đường thẳng qua $A\\left(\\dfrac{5}{2}; -1 \\right)$ và có hệ số góc là $k$. Khi đó, $d: y = k\\left(x - \\dfrac{5}{2}\\right) - 1$.<br>  Giải hệ điều kiện tiếp xúc $k\\left(x - \\dfrac{5}{2}\\right) - 1 = x^2 -4x + 5 \\text{ và } k = 2x - 4$ ta được:  $x = 1 \\text{ và } k =-2$ hoặc $x=4 \\text{ và } k=4$.<br>  Suy ra có $2$ tiếp tuyến qua $A$ là $d_1: y = -2x + 4$ và $d_2: y = 4x -11$. Từ đó tính được  $S = \\displaystyle \\int \\limits_1^{\\frac{5}{2}}\\left| (x^2 -4x + 5) - (-2x + 4)\\right|\\mathrm{\\,d}x + \\displaystyle \\int \\limits_{\\frac{5}{2}}^4 \\left| (x^2 -4x + 5) - (4x -11)\\right| \\mathrm{\\,d}x = \\dfrac{9}{4} \\, .$  Lưu ý: $(P)$ là parabol có hướng quay lên nên mọi tiếp tuyến đều nằm dưới $(P)$. Do đó, trong các công thức tích phân ở trên chúng ta có thể bỏ dấu trị tuyệt đối để tính toán nhanh hơn."
+    "explain": "Gọi $d$ là đường thẳng qua $A\\left(\\dfrac{5}{2}; -1 \\right)$ và có hệ số góc là $k$. Khi đó, $d: y = k\\left(x - \\dfrac{5}{2}\\right) - 1$.<br>  Giải hệ điều kiện tiếp xúc $k\\left(x - \\dfrac{5}{2}\\right) - 1 = x^2 -4x + 5 \\text{ và } k = 2x - 4$ ta được:  $x = 1 \\text{ và } k =-2$ hoặc $x=4 \\text{ và } k=4$.<br>  Suy ra có $2$ tiếp tuyến qua $A$ là $d_1: y = -2x + 4$ và $d_2: y = 4x -11$. Từ đó tính được  $S = \\displaystyle \\int \\limits_1^{\\frac{5}{2}}\\left| (x^2 -4x + 5) - (-2x + 4)\\right|\\mathrm{\\,d}x + \\displaystyle \\int \\limits_{\\frac{5}{2}}^4 \\left| (x^2 -4x + 5) - (4x -11)\\right| \\mathrm{\\,d}x = \\dfrac{9}{4} \\, .$  Lưu ý: $(P)$ là parabol có hướng quay lên nên mọi tiếp tuyến đều nằm dưới $(P)$. Do đó, trong các công thức tích phân ở trên chúng ta có thể bỏ dấu trị tuyệt đối để tính toán nhanh hơn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN34",
@@ -410,7 +443,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{1}{\\ln 2}+\\dfrac{3}{2}$"
     ],
     "answer": 0,
-    "explain": "$  S=\\int\\limits_0^1\\left(2^x-1\\right)\\mathrm{d}x+\\int\\limits_1^2\\left(3-x-1\\right)\\mathrm{d}x=\\dfrac{1}{\\ln 2}-1+\\dfrac{1}{2}=\\dfrac{1}{\\ln 2}-\\dfrac{1}{2}  $"
+    "explain": "$  S=\\int\\limits_0^1\\left(2^x-1\\right)\\mathrm{d}x+\\int\\limits_1^2\\left(3-x-1\\right)\\mathrm{d}x=\\dfrac{1}{\\ln 2}-1+\\dfrac{1}{2}=\\dfrac{1}{\\ln 2}-\\dfrac{1}{2}  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN35",
@@ -422,7 +456,8 @@ window.tracNghiem2D43 = [
       "$V=\\pi \\displaystyle\\int\\limits_{a}^{b} S(x) \\mathrm{\\,d}x$"
     ],
     "answer": 2,
-    "explain": "Theo công thức tính thể tích vật thể bằng phương pháp mặt cắt (tiết diện $S(x)$ vuông góc với trục $Ox$), thể tích $V$ của vật thể $(H)$ được tính bởi $V=\\displaystyle\\int\\limits_a^b S(x)\\,\\mathrm{d}x$."
+    "explain": "Theo công thức tính thể tích vật thể bằng phương pháp mặt cắt (tiết diện $S(x)$ vuông góc với trục $Ox$), thể tích $V$ của vật thể $(H)$ được tính bởi $V=\\displaystyle\\int\\limits_a^b S(x)\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN36",
@@ -434,7 +469,8 @@ window.tracNghiem2D43 = [
       "$V=34\\pi$"
     ],
     "answer": 2,
-    "explain": "Theo giả thiết, ta có thể tích của vật thể đã cho là $V=\\displaystyle\\int\\limits_1^3(3x^2+2x)\\mathrm{\\,d}x =\\left( x^3 +x^2\\right) \\Big| _1^3 = 34$(đvtt)."
+    "explain": "Theo giả thiết, ta có thể tích của vật thể đã cho là $V=\\displaystyle\\int\\limits_1^3(3x^2+2x)\\mathrm{\\,d}x =\\left( x^3 +x^2\\right) \\Big| _1^3 = 34$(đvtt).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN37",
@@ -446,7 +482,8 @@ window.tracNghiem2D43 = [
       "$V=81$"
     ],
     "answer": 0,
-    "explain": "Diện tích của thiết diện đó là $S(x)=\\pi\\cdot \\left(\\dfrac{\\sqrt{36-3x^2}}{2}\\right)^2 = \\dfrac{\\pi}{4}\\cdot(36-3x^2)$.<br> Thể tích vật thể tròn xoay đó là $V=\\displaystyle\\int\\limits_0^3\\dfrac{\\pi}{4}\\cdot(36-3x^2)\\mathrm{\\,d}x = \\dfrac{\\pi}{4} \\displaystyle\\int\\limits_0^3(36-3x^2)\\mathrm{\\,d}x = \\dfrac{\\pi}{4}\\cdot(36x-x^3)\\bigg|_0^3 = \\dfrac{81\\pi}{4}.$"
+    "explain": "Diện tích của thiết diện đó là $S(x)=\\pi\\cdot \\left(\\dfrac{\\sqrt{36-3x^2}}{2}\\right)^2 = \\dfrac{\\pi}{4}\\cdot(36-3x^2)$.<br> Thể tích vật thể tròn xoay đó là $V=\\displaystyle\\int\\limits_0^3\\dfrac{\\pi}{4}\\cdot(36-3x^2)\\mathrm{\\,d}x = \\dfrac{\\pi}{4} \\displaystyle\\int\\limits_0^3(36-3x^2)\\mathrm{\\,d}x = \\dfrac{\\pi}{4}\\cdot(36x-x^3)\\bigg|_0^3 = \\dfrac{81\\pi}{4}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN38",
@@ -458,7 +495,8 @@ window.tracNghiem2D43 = [
       "$V=19$"
     ],
     "answer": 2,
-    "explain": "Diện tích hình chữ nhật có hai kích thước là $x$ và $2\\sqrt{1-x^2}$ là $S(x)=x\\cdot2 \\sqrt{1-x^2}$.<br>  Vậy thể tích là $V=\\displaystyle \\int \\limits_0^3 x\\cdot2 \\sqrt{9-x^2} \\mathrm{\\,d}x=18$."
+    "explain": "Diện tích hình chữ nhật có hai kích thước là $x$ và $2\\sqrt{1-x^2}$ là $S(x)=x\\cdot2 \\sqrt{1-x^2}$.<br>  Vậy thể tích là $V=\\displaystyle \\int \\limits_0^3 x\\cdot2 \\sqrt{9-x^2} \\mathrm{\\,d}x=18$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN39",
@@ -470,7 +508,8 @@ window.tracNghiem2D43 = [
       "$ k=3 $"
     ],
     "answer": 0,
-    "explain": "Ta có $V_1=\\pi\\displaystyle\\int\\limits_1^k \\dfrac{1}{x^2}\\mathrm{\\,d}x=\\pi\\left.\\left(-\\dfrac{1}{x}\\right)\\right|_1^k=\\pi\\left(1-\\dfrac{1}{k}\\right)$ và  $V_2=\\pi\\displaystyle\\int\\limits_k^5 \\dfrac{1}{x^2}\\mathrm{\\,d}x=\\pi\\left.\\left(-\\dfrac{1}{x}\\right)\\right|_k^5=\\pi\\left(\\dfrac{1}{k}-\\dfrac{1}{5}\\right)$.  <br>Khi đó $V_1=3V_2\\Leftrightarrow 1-\\dfrac{1}{k}=\\dfrac{3}{k}-\\dfrac{3}{5}\\Leftrightarrow k=\\dfrac{5}{2}.$"
+    "explain": "Ta có $V_1=\\pi\\displaystyle\\int\\limits_1^k \\dfrac{1}{x^2}\\mathrm{\\,d}x=\\pi\\left.\\left(-\\dfrac{1}{x}\\right)\\right|_1^k=\\pi\\left(1-\\dfrac{1}{k}\\right)$ và  $V_2=\\pi\\displaystyle\\int\\limits_k^5 \\dfrac{1}{x^2}\\mathrm{\\,d}x=\\pi\\left.\\left(-\\dfrac{1}{x}\\right)\\right|_k^5=\\pi\\left(\\dfrac{1}{k}-\\dfrac{1}{5}\\right)$.  <br>Khi đó $V_1=3V_2\\Leftrightarrow 1-\\dfrac{1}{k}=\\dfrac{3}{k}-\\dfrac{3}{5}\\Leftrightarrow k=\\dfrac{5}{2}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN40",
@@ -482,7 +521,8 @@ window.tracNghiem2D43 = [
       "$V=\\dfrac{256\\pi}{5}$"
     ],
     "answer": 3,
-    "explain": "Hình chữ nhật quay xung quanh trục hoành ta được khối trụ có thể tích $V'=64\\pi$<br>  Hình phẳng bị gạch quay xung quanh trục hoành ta được vật thể tròn xoay có thể tích:<br>  $V_1=\\pi\\displaystyle\\int\\limits_0^4\\dfrac{x^4}{16}\\mathrm{\\, d}x =\\dfrac{64\\pi}{5} \\Rightarrow V=V'-V_1=\\dfrac{256\\pi}{5}$"
+    "explain": "Hình chữ nhật quay xung quanh trục hoành ta được khối trụ có thể tích $V'=64\\pi$<br>  Hình phẳng bị gạch quay xung quanh trục hoành ta được vật thể tròn xoay có thể tích:<br>  $V_1=\\pi\\displaystyle\\int\\limits_0^4\\dfrac{x^4}{16}\\mathrm{\\, d}x =\\dfrac{64\\pi}{5} \\Rightarrow V=V'-V_1=\\dfrac{256\\pi}{5}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN41",
@@ -494,7 +534,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{12\\pi}{15}$"
     ],
     "answer": 0,
-    "explain": "Từ đồ thị, parabol cắt trục hoành tại $x=0,\\ x=2$ và có đỉnh $(1;1)$ nên $y=f(x)=-x^2+2x=-(x-1)^2+1$. Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi $y=f(x)$ và $Ox$ quanh trục $Ox$ là $V=\\pi\\displaystyle\\int_{0}^{2}\\big[f(x)\\big]^2\\,\\mathrm{d}x=\\pi\\displaystyle\\int_{0}^{2}(x^2-2x)^2\\,\\mathrm{d}x=\\pi\\displaystyle\\int_{0}^{2}(x^4-4x^3+4x^2)\\,\\mathrm{d}x=\\pi\\left[\\dfrac{x^5}{5}-x^4+\\dfrac{4x^3}{3}\\right]_0^2=\\pi\\left(\\dfrac{32}{5}-16+\\dfrac{32}{3}\\right)=\\dfrac{16\\pi}{15}$."
+    "explain": "Từ đồ thị, parabol cắt trục hoành tại $x=0,\\ x=2$ và có đỉnh $(1;1)$ nên $y=f(x)=-x^2+2x=-(x-1)^2+1$. Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi $y=f(x)$ và $Ox$ quanh trục $Ox$ là $V=\\pi\\displaystyle\\int_{0}^{2}\\big[f(x)\\big]^2\\,\\mathrm{d}x=\\pi\\displaystyle\\int_{0}^{2}(x^2-2x)^2\\,\\mathrm{d}x=\\pi\\displaystyle\\int_{0}^{2}(x^4-4x^3+4x^2)\\,\\mathrm{d}x=\\pi\\left[\\dfrac{x^5}{5}-x^4+\\dfrac{4x^3}{3}\\right]_0^2=\\pi\\left(\\dfrac{32}{5}-16+\\dfrac{32}{3}\\right)=\\dfrac{16\\pi}{15}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN42",
@@ -506,7 +547,8 @@ window.tracNghiem2D43 = [
       "$V=\\pi \\displaystyle \\int \\limits_a^b \\big(f_1(x)- f_2(x)\\big)^2\\textrm{d}x$"
     ],
     "answer": 0,
-    "explain": "Theo công thức tính thể tích khối tròn xoay tạo bởi hình phẳng giới hạn bởi hai đồ thị $y=f_1(x),\\ y=f_2(x)$ (với $f_1(x)\\ge f_2(x)\\ge0$ trên $[a;b]$) và hai đường thẳng $x=a,x=b$ khi quay quanh $Ox$, ta có $V=\\pi\\displaystyle\\int\\limits_a^b\\big(f_1^2(x)-f_2^2(x)\\big)\\,\\mathrm{d}x$."
+    "explain": "Theo công thức tính thể tích khối tròn xoay tạo bởi hình phẳng giới hạn bởi hai đồ thị $y=f_1(x),\\ y=f_2(x)$ (với $f_1(x)\\ge f_2(x)\\ge0$ trên $[a;b]$) và hai đường thẳng $x=a,x=b$ khi quay quanh $Ox$, ta có $V=\\pi\\displaystyle\\int\\limits_a^b\\big(f_1^2(x)-f_2^2(x)\\big)\\,\\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN43",
@@ -518,7 +560,8 @@ window.tracNghiem2D43 = [
       "$11,18${m}"
     ],
     "answer": 2,
-    "explain": "Quãng đường vật đi được trong 4 giây đầu là $\\displaystyle \\int_0^4 \\biggl(1,2+\\dfrac{t^2+4}{t+3}\\biggr)\\mathrm{\\, d}x\\approx 11,81$."
+    "explain": "Quãng đường vật đi được trong 4 giây đầu là $\\displaystyle \\int_0^4 \\biggl(1,2+\\dfrac{t^2+4}{t+3}\\biggr)\\mathrm{\\, d}x\\approx 11,81$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN44",
@@ -530,7 +573,8 @@ window.tracNghiem2D43 = [
       "$24$ m"
     ],
     "answer": 3,
-    "explain": "Ô tô dừng hẳn khi $v(t)=0\\Leftrightarrow -12t+24=0\\Leftrightarrow t=2$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^2 v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^2(-12t+24)\\,\\mathrm{d}t=\\Big[-6t^2+24t\\Big]_0^2=-24+48=24$ (m)."
+    "explain": "Ô tô dừng hẳn khi $v(t)=0\\Leftrightarrow -12t+24=0\\Leftrightarrow t=2$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^2 v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^2(-12t+24)\\,\\mathrm{d}t=\\Big[-6t^2+24t\\Big]_0^2=-24+48=24$ (m).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN45",
@@ -542,7 +586,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{27}{4}$ mét"
     ],
     "answer": 0,
-    "explain": "Ta có $v(t)=\\displaystyle\\int a(t)\\,\\mathrm{d}t=\\displaystyle\\int(6-2t)\\,\\mathrm{d}t=6t-t^2+C$. Vì ô tô bắt đầu chuyển động từ trạng thái đứng yên nên $v(0)=0\\Rightarrow C=0$, do đó $v(t)=6t-t^2$. Vận tốc đạt giá trị lớn nhất khi $v'(t)=a(t)=0\\Leftrightarrow t=3$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^3v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^3(6t-t^2)\\,\\mathrm{d}t=\\Big[3t^2-\\dfrac{t^3}{3}\\Big]_0^3=27-9=18$ (mét)."
+    "explain": "Ta có $v(t)=\\displaystyle\\int a(t)\\,\\mathrm{d}t=\\displaystyle\\int(6-2t)\\,\\mathrm{d}t=6t-t^2+C$. Vì ô tô bắt đầu chuyển động từ trạng thái đứng yên nên $v(0)=0\\Rightarrow C=0$, do đó $v(t)=6t-t^2$. Vận tốc đạt giá trị lớn nhất khi $v'(t)=a(t)=0\\Leftrightarrow t=3$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^3v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^3(6t-t^2)\\,\\mathrm{d}t=\\Big[3t^2-\\dfrac{t^3}{3}\\Big]_0^3=27-9=18$ (mét).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN46",
@@ -554,7 +599,8 @@ window.tracNghiem2D43 = [
       "$8\\ {\\rm m}$"
     ],
     "answer": 3,
-    "explain": "Ô tô dừng hẳn khi $v(t)=0\\Leftrightarrow -4t+8=0\\Leftrightarrow t=2$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^2v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^2(-4t+8)\\,\\mathrm{d}t=\\Big[-2t^2+8t\\Big]_0^2=-8+16=8$ (m)."
+    "explain": "Ô tô dừng hẳn khi $v(t)=0\\Leftrightarrow -4t+8=0\\Leftrightarrow t=2$ (giây). Quãng đường đi được là $S=\\displaystyle\\int_0^2v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^2(-4t+8)\\,\\mathrm{d}t=\\Big[-2t^2+8t\\Big]_0^2=-8+16=8$ (m).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN47",
@@ -566,7 +612,8 @@ window.tracNghiem2D43 = [
       "$69,75$ m"
     ],
     "answer": 3,
-    "explain": "Ta có $v(t)=\\displaystyle\\int a(t)\\,\\mathrm{d}t=\\displaystyle\\int(t^2+4t)\\,\\mathrm{d}t=\\dfrac{t^3}{3}+2t^2+C$. Vì $v(0)=v_0=15$ nên $C=15$, do đó $v(t)=\\dfrac{t^3}{3}+2t^2+15$. Quãng đường đi được trong $3$ giây là $S=\\displaystyle\\int_0^3v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^3\\Big(\\dfrac{t^3}{3}+2t^2+15\\Big)\\,\\mathrm{d}t=\\Big[\\dfrac{t^4}{12}+\\dfrac{2t^3}{3}+15t\\Big]_0^3=\\dfrac{81}{12}+18+45=6{,}75+63=69{,}75$ (m)."
+    "explain": "Ta có $v(t)=\\displaystyle\\int a(t)\\,\\mathrm{d}t=\\displaystyle\\int(t^2+4t)\\,\\mathrm{d}t=\\dfrac{t^3}{3}+2t^2+C$. Vì $v(0)=v_0=15$ nên $C=15$, do đó $v(t)=\\dfrac{t^3}{3}+2t^2+15$. Quãng đường đi được trong $3$ giây là $S=\\displaystyle\\int_0^3v(t)\\,\\mathrm{d}t=\\displaystyle\\int_0^3\\Big(\\dfrac{t^3}{3}+2t^2+15\\Big)\\,\\mathrm{d}t=\\Big[\\dfrac{t^4}{12}+\\dfrac{2t^3}{3}+15t\\Big]_0^3=\\dfrac{81}{12}+18+45=6{,}75+63=69{,}75$ (m).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN48",
@@ -578,7 +625,8 @@ window.tracNghiem2D43 = [
       "$100\\ \\mathrm{m}$"
     ],
     "answer": 1,
-    "explain": "Ô tô đạp phanh khi đang chạy với vận tốc $10$ m/s và dừng hẳn khi $v(t)=0\\Leftrightarrow -2t+10=0\\Leftrightarrow t=5$ (giây), tức là quá trình phanh kéo dài $5$ giây. Do đó $7$ giây cuối gồm $2$ giây chạy đều với vận tốc $10$ m/s trước khi đạp phanh và $5$ giây phanh. Quãng đường trong $2$ giây chạy đều là $2\\times10=20$ (m). Quãng đường trong $5$ giây phanh là $\\displaystyle\\int_0^5(-2t+10)\\,\\mathrm{d}t=\\Big[-t^2+10t\\Big]_0^5=-25+50=25$ (m). Vậy quãng đường ô tô đi được trong $7$ giây cuối là $20+25=45$ (m)."
+    "explain": "Ô tô đạp phanh khi đang chạy với vận tốc $10$ m/s và dừng hẳn khi $v(t)=0\\Leftrightarrow -2t+10=0\\Leftrightarrow t=5$ (giây), tức là quá trình phanh kéo dài $5$ giây. Do đó $7$ giây cuối gồm $2$ giây chạy đều với vận tốc $10$ m/s trước khi đạp phanh và $5$ giây phanh. Quãng đường trong $2$ giây chạy đều là $2\\times10=20$ (m). Quãng đường trong $5$ giây phanh là $\\displaystyle\\int_0^5(-2t+10)\\,\\mathrm{d}t=\\Big[-t^2+10t\\Big]_0^5=-25+50=25$ (m). Vậy quãng đường ô tô đi được trong $7$ giây cuối là $20+25=45$ (m).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN49",
@@ -590,7 +638,8 @@ window.tracNghiem2D43 = [
       "218,34 m"
     ],
     "answer": 1,
-    "explain": "Tương tự bài toán trên, $v(t)=\\dfrac{t^3}{3}+2t^2+15$ (với $v_0=15$). Quãng đường đi được trong $5$ giây là $S=\\displaystyle\\int_0^5v(t)\\,\\mathrm{d}t=\\Big[\\dfrac{t^4}{12}+\\dfrac{2t^3}{3}+15t\\Big]_0^5=\\dfrac{625}{12}+\\dfrac{250}{3}+75\\approx52{,}08+83{,}33+75=210{,}42$ (m) (làm tròn đến hàng phần trăm)."
+    "explain": "Tương tự bài toán trên, $v(t)=\\dfrac{t^3}{3}+2t^2+15$ (với $v_0=15$). Quãng đường đi được trong $5$ giây là $S=\\displaystyle\\int_0^5v(t)\\,\\mathrm{d}t=\\Big[\\dfrac{t^4}{12}+\\dfrac{2t^3}{3}+15t\\Big]_0^5=\\dfrac{625}{12}+\\dfrac{250}{3}+75\\approx52{,}08+83{,}33+75=210{,}42$ (m) (làm tròn đến hàng phần trăm).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN50",
@@ -602,7 +651,8 @@ window.tracNghiem2D43 = [
       "$v_0=183,2$ (km/h)"
     ],
     "answer": 2,
-    "explain": "Máy bay dừng hẳn khi $v(t)=0\\Leftrightarrow t=\\dfrac{v_0}{10000}$ (giờ). Quãng đường đi được từ lúc phanh đến khi dừng là $S=\\displaystyle\\int_0^{v_0/10000}(-10000t+v_0)\\,\\mathrm{d}t=\\Big[-5000t^2+v_0t\\Big]_0^{v_0/10000}=-5000\\cdot\\dfrac{v_0^2}{10^8}+\\dfrac{v_0^2}{10000}=\\dfrac{v_0^2}{20000}$. Theo giả thiết $S=1{,}5$ km nên $\\dfrac{v_0^2}{20000}=1{,}5\\Leftrightarrow v_0^2=30000\\Leftrightarrow v_0=\\sqrt{30000}\\approx173{,}2$ (km/h)."
+    "explain": "Máy bay dừng hẳn khi $v(t)=0\\Leftrightarrow t=\\dfrac{v_0}{10000}$ (giờ). Quãng đường đi được từ lúc phanh đến khi dừng là $S=\\displaystyle\\int_0^{v_0/10000}(-10000t+v_0)\\,\\mathrm{d}t=\\Big[-5000t^2+v_0t\\Big]_0^{v_0/10000}=-5000\\cdot\\dfrac{v_0^2}{10^8}+\\dfrac{v_0^2}{10000}=\\dfrac{v_0^2}{20000}$. Theo giả thiết $S=1{,}5$ km nên $\\dfrac{v_0^2}{20000}=1{,}5\\Leftrightarrow v_0^2=30000\\Leftrightarrow v_0=\\sqrt{30000}\\approx173{,}2$ (km/h).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN51",
@@ -614,9 +664,10 @@ window.tracNghiem2D43 = [
       "$s=25,25\\,\\mathrm{km}$"
     ],
     "answer": 2,
-    "explain": "- Ta có $v(t)=-\\dfrac{3}{4}t^2+3t+6.$<br>  - Quãng đường đi được $s=\\displaystyle\\int\\limits_0^3v(t)\\mathrm{\\,d}t=24,75.$"
+    "explain": "- Ta có $v(t)=-\\dfrac{3}{4}t^2+3t+6.$<br>  - Quãng đường đi được $s=\\displaystyle\\int\\limits_0^3v(t)\\mathrm{\\,d}t=24,75.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
-    {
+  {
     "id": "2D432TN53",
     "question": "Một con lắc lò xo dao động theo phương ngang trên mặt phẳng không ma sát có vận tốc tức thời tại thời điểm $t$ giây là $v(t)=4 \\cos t$ (cm/s) (<em>Hình 4.32</em>). Tại thời điểm $t=0$, con lắc đó ở vị trí cân bằng. Phương trình chuyển động của con lắc đó được tính bằng cách nào?  Tìm li độ của con lắc tại thời điểm $t=\\dfrac{2 \\pi}{3}$ giây, biết khi $t=\\dfrac{\\pi}{2}$ giây thì con lắc có li độ $x=4$ cm.<br><img src=\"data/12/2D4/im2D4/2D43_tikz_033.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
     "options": [
@@ -626,7 +677,8 @@ window.tracNghiem2D43 = [
       "$4$ cm"
     ],
     "answer": 2,
-    "explain": "Giả sử con lắc chuyển động theo phương trình $s=s(t)$.<br>  Suy ra $s'(t)=v(t)$, do đó $s(t)$ là một nguyên hàm của $v(t)$.<br>  Ta có  $\\displaystyle\\int\\ v(t) \\mathrm{\\,d}t=\\displaystyle\\int4 \\cos t \\mathrm{\\,d}t=4\\displaystyle\\int \\cos t \\mathrm{\\,d}t=4 \\sin t +C.$  Suy ra $s(t)=4 \\sin t +C$.<br>  Tại thời điểm $t=0$ ta được $s(0)=0$, tức là $4 \\sin 0 +C = 0$, hay $C=0$.<br>  Vậy phương trình chuyển động của con lắc là $s(t)=4 \\sin t$.<br>  Tại thời điểm $t=\\dfrac{2 \\pi}{3}$ giây, li độ của con lắc là   $s\\left(\\dfrac{2 \\pi}{3}\\right)=4 \\sin \\left(\\dfrac{2 \\pi}{3}\\right)=2 \\sqrt{3}\\, \\text{cm}.$"
+    "explain": "Giả sử con lắc chuyển động theo phương trình $s=s(t)$.<br>  Suy ra $s'(t)=v(t)$, do đó $s(t)$ là một nguyên hàm của $v(t)$.<br>  Ta có  $\\displaystyle\\int\\ v(t) \\mathrm{\\,d}t=\\displaystyle\\int4 \\cos t \\mathrm{\\,d}t=4\\displaystyle\\int \\cos t \\mathrm{\\,d}t=4 \\sin t +C.$  Suy ra $s(t)=4 \\sin t +C$.<br>  Tại thời điểm $t=0$ ta được $s(0)=0$, tức là $4 \\sin 0 +C = 0$, hay $C=0$.<br>  Vậy phương trình chuyển động của con lắc là $s(t)=4 \\sin t$.<br>  Tại thời điểm $t=\\dfrac{2 \\pi}{3}$ giây, li độ của con lắc là   $s\\left(\\dfrac{2 \\pi}{3}\\right)=4 \\sin \\left(\\dfrac{2 \\pi}{3}\\right)=2 \\sqrt{3}\\, \\text{cm}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN54",
@@ -638,7 +690,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_b^af(x)\\mathrm{\\,d}x$"
     ],
     "answer": 2,
-    "explain": "Công thức tính diện tích là $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$."
+    "explain": "Công thức tính diện tích là $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN55",
@@ -650,7 +703,8 @@ window.tracNghiem2D43 = [
       "$V=\\displaystyle\\int\\limits_0^1x^2\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Công thức xác định thể tích là $V=\\pi\\displaystyle\\int\\limits_0^1x^4\\mathrm{\\,d}x$."
+    "explain": "Công thức xác định thể tích là $V=\\pi\\displaystyle\\int\\limits_0^1x^4\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN56",
@@ -662,7 +716,8 @@ window.tracNghiem2D43 = [
       "$V=312$"
     ],
     "answer": 1,
-    "explain": "Diện tích thiết diện là $S(x)=3x(3x^2-2)=9x^3-6x$.<br>  Thể tích của phần vật thể cần tìm là $V=\\displaystyle\\int\\limits_1^{3} S(x) \\mathrm{~d} x = \\displaystyle\\int\\limits_1^{3} (9x^3-6x) \\mathrm{~d} x = 156$"
+    "explain": "Diện tích thiết diện là $S(x)=3x(3x^2-2)=9x^3-6x$.<br>  Thể tích của phần vật thể cần tìm là $V=\\displaystyle\\int\\limits_1^{3} S(x) \\mathrm{~d} x = \\displaystyle\\int\\limits_1^{3} (9x^3-6x) \\mathrm{~d} x = 156$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN57",
@@ -674,7 +729,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int\\limits_{-1}^1 f(x) \\mathrm{\\,d}x-\\displaystyle\\int\\limits_1^2 f(x) \\mathrm{\\,d}x$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị, ta có $S=\\displaystyle\\int\\limits_{-1}^1 f(x) \\mathrm{\\,d}x-\\displaystyle\\int\\limits_1^2 f(x) \\mathrm{\\,d}x$."
+    "explain": "Dựa vào đồ thị, ta có $S=\\displaystyle\\int\\limits_{-1}^1 f(x) \\mathrm{\\,d}x-\\displaystyle\\int\\limits_1^2 f(x) \\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN58",
@@ -686,7 +742,8 @@ window.tracNghiem2D43 = [
       "$V=\\pi^2 \\displaystyle\\int\\limits_a^b f^2(x)\\mathrm{\\,d}x$"
     ],
     "answer": 1,
-    "explain": "Áp dụng công thức tính thể tích vật thể tròn xoay quay quanh trục $Ox$, ta có $V=\\pi \\displaystyle\\int\\limits_a^b f^2(x) \\mathrm{\\,d}x$."
+    "explain": "Áp dụng công thức tính thể tích vật thể tròn xoay quay quanh trục $Ox$, ta có $V=\\pi \\displaystyle\\int\\limits_a^b f^2(x) \\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN59",
@@ -698,7 +755,8 @@ window.tracNghiem2D43 = [
       "$S=-\\displaystyle\\int_{-1}^1 f(x) \\mathrm{d}x +\\displaystyle\\int_1^5 f(x) \\mathrm{d}x $"
     ],
     "answer": 1,
-    "explain": "Theo mô tả của đề bài, ta thấy  $  S=\\displaystyle\\int_{-1}^1 f(x) \\mathrm{d}x -\\displaystyle\\int_1^5 f(x) \\mathrm{d}x .  $"
+    "explain": "Theo mô tả của đề bài, ta thấy  $  S=\\displaystyle\\int_{-1}^1 f(x) \\mathrm{d}x -\\displaystyle\\int_1^5 f(x) \\mathrm{d}x .  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN60",
@@ -710,7 +768,8 @@ window.tracNghiem2D43 = [
       "$S=\\displaystyle\\int_b^a|f(x)| \\mathrm{d}x $"
     ],
     "answer": 1,
-    "explain": "Diện tích cần tìm là $S=\\displaystyle\\int_a^b|f(x)| \\mathrm{d}x $."
+    "explain": "Diện tích cần tìm là $S=\\displaystyle\\int_a^b|f(x)| \\mathrm{d}x $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN61",
@@ -722,7 +781,8 @@ window.tracNghiem2D43 = [
       "$\\displaystyle\\int\\limits_{-1}^{2} (2x^2 + 2x - 4)\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Ta có $S=\\displaystyle\\int\\limits_{-1}^2\\left[\\left(-x^2+2\\right)-\\left(x^2-2x-2\\right)\\right]\\mathrm{\\,d}x=\\displaystyle\\int\\limits_{-1}^2\\left(-2x^2+2x+4\\right)\\mathrm{\\,d}x$."
+    "explain": "Ta có $S=\\displaystyle\\int\\limits_{-1}^2\\left[\\left(-x^2+2\\right)-\\left(x^2-2x-2\\right)\\right]\\mathrm{\\,d}x=\\displaystyle\\int\\limits_{-1}^2\\left(-2x^2+2x+4\\right)\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN62",
@@ -734,7 +794,8 @@ window.tracNghiem2D43 = [
       "$\\pi \\displaystyle\\int\\limits_{0}^{1} \\mathrm{e}^{4x}\\mathrm{\\,d}x$"
     ],
     "answer": 3,
-    "explain": "Thể tích của khối tròn xoay tạo thành khi quay hình $(H)$ xung quanh trục $Ox$ là   $V=\\pi \\displaystyle\\int\\limits_{0}^{1} \\left(\\mathrm{e}^{2x}\\right)^2\\mathrm{\\,d}x=\\pi \\displaystyle\\int\\limits_{0}^{1} \\mathrm{e}^{4x}\\mathrm{\\,d}x.$"
+    "explain": "Thể tích của khối tròn xoay tạo thành khi quay hình $(H)$ xung quanh trục $Ox$ là   $V=\\pi \\displaystyle\\int\\limits_{0}^{1} \\left(\\mathrm{e}^{2x}\\right)^2\\mathrm{\\,d}x=\\pi \\displaystyle\\int\\limits_{0}^{1} \\mathrm{e}^{4x}\\mathrm{\\,d}x.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN63",
@@ -746,7 +807,8 @@ window.tracNghiem2D43 = [
       "$8$"
     ],
     "answer": 0,
-    "explain": "Thể tích vật thể $V=\\displaystyle\\int\\limits_{1}^{3} \\left(\\sqrt{3}x\\right)^2\\mathrm{\\,d}x=26$."
+    "explain": "Thể tích vật thể $V=\\displaystyle\\int\\limits_{1}^{3} \\left(\\sqrt{3}x\\right)^2\\mathrm{\\,d}x=26$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN64",
@@ -758,7 +820,8 @@ window.tracNghiem2D43 = [
       "$S = 8$"
     ],
     "answer": 2,
-    "explain": "$\\displaystyle \\int\\limits_1^3 \\dfrac{x+2}{x}\\mathrm{\\,d}x = \\displaystyle \\int\\limits_1^3 \\left(1 + \\dfrac{2}{x}\\right)\\mathrm{\\,d}x = \\displaystyle \\int\\limits_1^3 1\\mathrm{\\,d}x + \\displaystyle \\int\\limits_1^3 \\dfrac{2}{x}\\mathrm{\\,d}x$<br>$= x\\Big|_1^3 + 2\\ln|x|\\Big|_1^3 = (3 - 1) + 2(\\ln 3 - \\ln 1) = 2 + 2\\ln 3.$  Suy ra $a = 2$, $b = 2$, $c = 3 \\Rightarrow S = 2 + 2 + 3 = 7$."
+    "explain": "$\\displaystyle \\int\\limits_1^3 \\dfrac{x+2}{x}\\mathrm{\\,d}x = \\displaystyle \\int\\limits_1^3 \\left(1 + \\dfrac{2}{x}\\right)\\mathrm{\\,d}x = \\displaystyle \\int\\limits_1^3 1\\mathrm{\\,d}x + \\displaystyle \\int\\limits_1^3 \\dfrac{2}{x}\\mathrm{\\,d}x$<br>$= x\\Big|_1^3 + 2\\ln|x|\\Big|_1^3 = (3 - 1) + 2(\\ln 3 - \\ln 1) = 2 + 2\\ln 3.$  Suy ra $a = 2$, $b = 2$, $c = 3 \\Rightarrow S = 2 + 2 + 3 = 7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN65",
@@ -770,7 +833,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{4}{3}$"
     ],
     "answer": 3,
-    "explain": "Lấy một điểm nằm trên $(P)$, chẳng hạn điểm $A(0;2;2)$.<br>  Ta có $(P)$ và $(Q)$ song song vì $\\dfrac{1}{1}=\\dfrac{2}{2}=\\dfrac{2}{2}\\neq\\dfrac{-8}{-4}$.<br>  Suy ra khoảng cách giữa $(P)$ và $(Q)$ bằng khoảng cách từ điểm $A$ đến $(Q)$ và bằng  \\[  \\dfrac{|0 + 2\\cdot 2 + 2 \\cdot 2 - 4|}{\\sqrt{1^2 + 2^2 + 2^2}} = \\dfrac{4}{\\sqrt{9}} = \\dfrac{4}{3}.  \\]"
+    "explain": "Lấy một điểm nằm trên $(P)$, chẳng hạn điểm $A(0;2;2)$.<br>  Ta có $(P)$ và $(Q)$ song song vì $\\dfrac{1}{1}=\\dfrac{2}{2}=\\dfrac{2}{2}\\neq\\dfrac{-8}{-4}$.<br>  Suy ra khoảng cách giữa $(P)$ và $(Q)$ bằng khoảng cách từ điểm $A$ đến $(Q)$ và bằng  \\[  \\dfrac{|0 + 2\\cdot 2 + 2 \\cdot 2 - 4|}{\\sqrt{1^2 + 2^2 + 2^2}} = \\dfrac{4}{\\sqrt{9}} = \\dfrac{4}{3}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN66",
@@ -782,7 +846,8 @@ window.tracNghiem2D43 = [
       "$\\left( \\displaystyle \\int f(x)\\mathrm{\\,d}x \\right)' = f'(x)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\left( \\displaystyle \\int\\limits f(x)\\mathrm{\\,d}x \\right)' = f(x)$."
+    "explain": "Ta có $\\left( \\displaystyle \\int\\limits f(x)\\mathrm{\\,d}x \\right)' = f(x)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN67",
@@ -794,7 +859,8 @@ window.tracNghiem2D43 = [
       "$S = \\pi \\displaystyle \\int\\limits_0^2 3x\\mathrm{\\,d}x$"
     ],
     "answer": 2,
-    "explain": "Diện tích hình phẳng là  \\[  S = \\displaystyle \\int\\limits_0^2 3^x\\mathrm{\\,d}x.  \\]"
+    "explain": "Diện tích hình phẳng là  \\[  S = \\displaystyle \\int\\limits_0^2 3^x\\mathrm{\\,d}x.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN68",
@@ -806,7 +872,8 @@ window.tracNghiem2D43 = [
       "$\\displaystyle \\int\\limits_a^b \\left[f(x) + g(x)\\right]\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Diện tích giữa hai đồ thị hàm số được tính bằng công thức  \\[  S = \\displaystyle \\int\\limits_a^b |f(x) - g(x)|\\mathrm{\\,d}x.  \\]"
+    "explain": "Diện tích giữa hai đồ thị hàm số được tính bằng công thức  \\[  S = \\displaystyle \\int\\limits_a^b |f(x) - g(x)|\\mathrm{\\,d}x.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN69",
@@ -818,7 +885,8 @@ window.tracNghiem2D43 = [
       "$a + b + c = -5$"
     ],
     "answer": 2,
-    "explain": "Gọi các vectơ pháp tuyến của $(P)$, $(Q)$ lần lượt là $\\overrightarrow{n}_P$ và $\\overrightarrow{n}_Q$.<br>  Ta có $(Q) \\perp (P) \\Rightarrow \\overrightarrow{n}_P \\perp \\overrightarrow{n}_Q$. <br>  Ta lấy vectơ chỉ phương của đường thẳng $AB$ là $\\overrightarrow{AB} = (-3; -3; 2)$. <br>  Vì $(Q)$ chứa $A$, $B$ nên pháp tuyến $\\overrightarrow{n}_Q$ phải vuông góc với $\\overrightarrow{AB}$. <br>   $\\overrightarrow{n}_Q$ vuông góc với cả $\\overrightarrow{AB}$ và $\\overrightarrow{n}_P$, nên   \\[  \\overrightarrow{n}_Q = \\left[\\overrightarrow{AB},\\overrightarrow{n}_P\\right] = (0; 4; 6).  \\]  Mặt phẳng $(Q)$ đi qua điểm $A$ và có vectơ pháp tuyến $\\overrightarrow{n}_Q = (0; 4; 6)$ nên có phương trình $0(x-2)+4(y-4)+6(z-1)=0$ hay $2y+3z-11=0$.<br>  Vậy $a = 0$, $b = 2$, $c = 3 \\Rightarrow a + b + c = 5$."
+    "explain": "Gọi các vectơ pháp tuyến của $(P)$, $(Q)$ lần lượt là $\\overrightarrow{n}_P$ và $\\overrightarrow{n}_Q$.<br>  Ta có $(Q) \\perp (P) \\Rightarrow \\overrightarrow{n}_P \\perp \\overrightarrow{n}_Q$. <br>  Ta lấy vectơ chỉ phương của đường thẳng $AB$ là $\\overrightarrow{AB} = (-3; -3; 2)$. <br>  Vì $(Q)$ chứa $A$, $B$ nên pháp tuyến $\\overrightarrow{n}_Q$ phải vuông góc với $\\overrightarrow{AB}$. <br>   $\\overrightarrow{n}_Q$ vuông góc với cả $\\overrightarrow{AB}$ và $\\overrightarrow{n}_P$, nên   \\[  \\overrightarrow{n}_Q = \\left[\\overrightarrow{AB},\\overrightarrow{n}_P\\right] = (0; 4; 6).  \\]  Mặt phẳng $(Q)$ đi qua điểm $A$ và có vectơ pháp tuyến $\\overrightarrow{n}_Q = (0; 4; 6)$ nên có phương trình $0(x-2)+4(y-4)+6(z-1)=0$ hay $2y+3z-11=0$.<br>  Vậy $a = 0$, $b = 2$, $c = 3 \\Rightarrow a + b + c = 5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN70",
@@ -830,7 +898,8 @@ window.tracNghiem2D43 = [
       "$9$"
     ],
     "answer": 0,
-    "explain": "Ta có  \\[  \\displaystyle \\int\\limits_{-1}^{2} f'(x)\\mathrm{\\,d}x = f(2) - f(-1) = -1 - 8 = -9.  \\]"
+    "explain": "Ta có  \\[  \\displaystyle \\int\\limits_{-1}^{2} f'(x)\\mathrm{\\,d}x = f(2) - f(-1) = -1 - 8 = -9.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN71",
@@ -842,7 +911,8 @@ window.tracNghiem2D43 = [
       "$\\overrightarrow{u}_4 = (2;1;1)$"
     ],
     "answer": 1,
-    "explain": "Từ phương trình tham số, vectơ chỉ phương của $d$ là $\\overrightarrow{u} = (1;-2;3)$."
+    "explain": "Từ phương trình tham số, vectơ chỉ phương của $d$ là $\\overrightarrow{u} = (1;-2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN72",
@@ -854,7 +924,8 @@ window.tracNghiem2D43 = [
       "$I = 2$"
     ],
     "answer": 0,
-    "explain": "\\[  I = \\displaystyle \\int\\limits_0^2 (2x + 1)\\mathrm{\\,d}x = \\left(x^2 + x\\right)\\Big|_0^2 = (4 + 2) - 0 = 6.  \\]"
+    "explain": "\\[  I = \\displaystyle \\int\\limits_0^2 (2x + 1)\\mathrm{\\,d}x = \\left(x^2 + x\\right)\\Big|_0^2 = (4 + 2) - 0 = 6.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN73",
@@ -866,7 +937,8 @@ window.tracNghiem2D43 = [
       "$F(x) = \\ln|x| + \\ln 2$ với $x \\in (-\\infty;0)$"
     ],
     "answer": 0,
-    "explain": "Nguyên hàm của $\\dfrac{1}{x}$ trên $(-\\infty;0)$ là $F(x) = \\ln(-x) + C$.   Ta có $F(-2) = \\ln 2 + C = 0 \\Rightarrow C = -\\ln 2$.   Vậy $F(x) = \\ln(-x) - \\ln 2 = \\ln\\left( \\dfrac{-x}{2} \\right)$."
+    "explain": "Nguyên hàm của $\\dfrac{1}{x}$ trên $(-\\infty;0)$ là $F(x) = \\ln(-x) + C$.   Ta có $F(-2) = \\ln 2 + C = 0 \\Rightarrow C = -\\ln 2$.   Vậy $F(x) = \\ln(-x) - \\ln 2 = \\ln\\left( \\dfrac{-x}{2} \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN74",
@@ -878,7 +950,8 @@ window.tracNghiem2D43 = [
       "$V = 312\\pi$"
     ],
     "answer": 0,
-    "explain": "Diện tích thiết diện theo $x$ là $S(x) = 3x \\cdot (3x^2 - 2) = 9x^3 - 6x$. <br>   Thể tích vật thể bằng  \\[  V = \\displaystyle \\int\\limits_1^3 (9x^3 - 6x)\\mathrm{\\,d}x = \\left( \\dfrac{9}{4}x^4 - 3x^2 \\right)\\Big|_1^3 = \\left( \\dfrac{9}{4} \\cdot 81 - 3 \\cdot 9 \\right) - \\left( \\dfrac{9}{4} - 3 \\right) = 156.  \\]"
+    "explain": "Diện tích thiết diện theo $x$ là $S(x) = 3x \\cdot (3x^2 - 2) = 9x^3 - 6x$. <br>   Thể tích vật thể bằng  \\[  V = \\displaystyle \\int\\limits_1^3 (9x^3 - 6x)\\mathrm{\\,d}x = \\left( \\dfrac{9}{4}x^4 - 3x^2 \\right)\\Big|_1^3 = \\left( \\dfrac{9}{4} \\cdot 81 - 3 \\cdot 9 \\right) - \\left( \\dfrac{9}{4} - 3 \\right) = 156.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN75",
@@ -890,7 +963,8 @@ window.tracNghiem2D43 = [
       "$\\overrightarrow{n} = (-3;1;-2)$"
     ],
     "answer": 0,
-    "explain": "Pháp tuyến của mặt phẳng $(P)$ là $\\overrightarrow{n} = (3;-1;2)$.   Mọi vectơ pháp tuyến đều cùng phương với $\\overrightarrow{n}$. <br>  Vậy $\\overrightarrow{n} =(3;1;2)$ không phải là vectơ chỉ phương của $(P)$."
+    "explain": "Pháp tuyến của mặt phẳng $(P)$ là $\\overrightarrow{n} = (3;-1;2)$.   Mọi vectơ pháp tuyến đều cùng phương với $\\overrightarrow{n}$. <br>  Vậy $\\overrightarrow{n} =(3;1;2)$ không phải là vectơ chỉ phương của $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN76",
@@ -902,7 +976,8 @@ window.tracNghiem2D43 = [
       "$-S_1+S_2$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\displaystyle\\int_{-2}^2|f(x)|\\mathrm{\\,d}x=\\displaystyle\\int_{-2}^1f(x)\\mathrm{\\,d}x-\\displaystyle\\int_{1}^2f(x)\\mathrm{\\,d}x=S_1+S_2.$"
+    "explain": "Ta có $\\displaystyle\\int_{-2}^2|f(x)|\\mathrm{\\,d}x=\\displaystyle\\int_{-2}^1f(x)\\mathrm{\\,d}x-\\displaystyle\\int_{1}^2f(x)\\mathrm{\\,d}x=S_1+S_2.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN77",
@@ -914,7 +989,8 @@ window.tracNghiem2D43 = [
       "$S=\\left|\\displaystyle\\int\\limits_a^bf(x)\\mathrm{\\,d}x\\right|$"
     ],
     "answer": 1,
-    "explain": "Diện tích $S$ của hình phẳng giới hạn bởi đồ thị của hàm số $f(x)$ liên tục, trục hoành và hai đường thẳng $x=a$, $x=b$ $(a&lt;b)$ là $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$."
+    "explain": "Diện tích $S$ của hình phẳng giới hạn bởi đồ thị của hàm số $f(x)$ liên tục, trục hoành và hai đường thẳng $x=a$, $x=b$ $(a&lt;b)$ là $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN78",
@@ -926,7 +1002,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{\\pi}{2}$"
     ],
     "answer": 3,
-    "explain": "Thể tích $V$ của khối tròn xoay sinh bởi hình $(H)$ quay quanh trục $Ox$ là  \\[V=\\pi\\displaystyle\\int\\limits_0^1\\left(\\sqrt{x}\\right)^2\\mathrm{\\,d}x=\\pi\\displaystyle\\int\\limits_0^1x\\mathrm{\\,d}x=\\pi\\cdot\\dfrac{x^2}{2}\\Bigg|_0^1=\\dfrac{\\pi}{2}.\\]"
+    "explain": "Thể tích $V$ của khối tròn xoay sinh bởi hình $(H)$ quay quanh trục $Ox$ là  \\[V=\\pi\\displaystyle\\int\\limits_0^1\\left(\\sqrt{x}\\right)^2\\mathrm{\\,d}x=\\pi\\displaystyle\\int\\limits_0^1x\\mathrm{\\,d}x=\\pi\\cdot\\dfrac{x^2}{2}\\Bigg|_0^1=\\dfrac{\\pi}{2}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN79",
@@ -938,7 +1015,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{21}{4}$"
     ],
     "answer": 1,
-    "explain": "Ta có $x^3+2x+1&gt;0$, $\\forall x\\in[1;2]$ nên diện tích của hình phẳng cần tìm là  \\[S=\\displaystyle\\int\\limits_1^2\\left|x^3+2x+1\\right|\\mathrm{\\,d}x=\\displaystyle\\int\\limits_1^2\\left(x^3+2x+1\\right)\\mathrm{\\,d}x=\\left(\\dfrac{x^4}{4}+x^2+x\\right)\\Bigg|_1^2=\\dfrac{31}{4}.\\]"
+    "explain": "Ta có $x^3+2x+1&gt;0$, $\\forall x\\in[1;2]$ nên diện tích của hình phẳng cần tìm là  \\[S=\\displaystyle\\int\\limits_1^2\\left|x^3+2x+1\\right|\\mathrm{\\,d}x=\\displaystyle\\int\\limits_1^2\\left(x^3+2x+1\\right)\\mathrm{\\,d}x=\\left(\\dfrac{x^4}{4}+x^2+x\\right)\\Bigg|_1^2=\\dfrac{31}{4}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN80",
@@ -950,7 +1028,8 @@ window.tracNghiem2D43 = [
       "$V=\\dfrac{512}{15}$"
     ],
     "answer": 0,
-    "explain": "Giao điểm của đồ thị $y=4-x^2$ với trục $ Ox $ (tức là $ y=0 $).<br>  $4-x^2=0 \\Rightarrow x^2=4 \\Rightarrow x=\\pm 2$.<br>  Thể tích khối tròn xoay khi quay quanh trục $Ox$ là<br>  $V=\\pi\\displaystyle\\int\\limits_{-2}^{2} (4-x^2)^2\\,\\mathrm{d}x=\\dfrac{512 \\pi}{15}.$"
+    "explain": "Giao điểm của đồ thị $y=4-x^2$ với trục $ Ox $ (tức là $ y=0 $).<br>  $4-x^2=0 \\Rightarrow x^2=4 \\Rightarrow x=\\pm 2$.<br>  Thể tích khối tròn xoay khi quay quanh trục $Ox$ là<br>  $V=\\pi\\displaystyle\\int\\limits_{-2}^{2} (4-x^2)^2\\,\\mathrm{d}x=\\dfrac{512 \\pi}{15}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN81",
@@ -962,7 +1041,8 @@ window.tracNghiem2D43 = [
       "$a + b = -\\dfrac{5}{2}$"
     ],
     "answer": 1,
-    "explain": "Đặt $I = \\displaystyle\\int\\limits_{-2}^{2} f(1 - x)\\,\\mathrm{d}x$. Đặt $u = 1 - x \\Rightarrow \\mathrm{d}u = -\\mathrm{d}x$. Khi $x = -2 \\Rightarrow u = 3$, $x = 2 \\Rightarrow u = -1$. Ta có   \\[  I = \\displaystyle\\int\\limits_{-2}^{2} f(1 - x)\\,\\mathrm{d}x = - \\displaystyle\\int\\limits_{3}^{-1} f(u)\\,\\mathrm{d}u = \\displaystyle\\int\\limits_{-1}^{3} f(x)\\,\\mathrm{d}x.  \\]  Từ hình vẽ và giả thiết, ta có  $S =\\left(2\\cdot 4-\\displaystyle\\int\\limits_{-1}^3f(x)\\,\\mathrm{d}x\\right)+2\\pi$<br>$\\Leftrightarrow \\dfrac{31}{4}=8-a\\pi-\\dfrac{b}{2}+2\\pi$<br>$\\Leftrightarrow (2-a)\\pi+\\left(\\dfrac{1}{4}-\\dfrac{b}{2}\\right)=0$<br>$\\Rightarrow a=2; b=\\dfrac{1}{2}.$  Vậy $a + b = \\dfrac{5}{2}$."
+    "explain": "Đặt $I = \\displaystyle\\int\\limits_{-2}^{2} f(1 - x)\\,\\mathrm{d}x$. Đặt $u = 1 - x \\Rightarrow \\mathrm{d}u = -\\mathrm{d}x$. Khi $x = -2 \\Rightarrow u = 3$, $x = 2 \\Rightarrow u = -1$. Ta có   \\[  I = \\displaystyle\\int\\limits_{-2}^{2} f(1 - x)\\,\\mathrm{d}x = - \\displaystyle\\int\\limits_{3}^{-1} f(u)\\,\\mathrm{d}u = \\displaystyle\\int\\limits_{-1}^{3} f(x)\\,\\mathrm{d}x.  \\]  Từ hình vẽ và giả thiết, ta có  $S =\\left(2\\cdot 4-\\displaystyle\\int\\limits_{-1}^3f(x)\\,\\mathrm{d}x\\right)+2\\pi$<br>$\\Leftrightarrow \\dfrac{31}{4}=8-a\\pi-\\dfrac{b}{2}+2\\pi$<br>$\\Leftrightarrow (2-a)\\pi+\\left(\\dfrac{1}{4}-\\dfrac{b}{2}\\right)=0$<br>$\\Rightarrow a=2; b=\\dfrac{1}{2}.$  Vậy $a + b = \\dfrac{5}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN82",
@@ -974,7 +1054,8 @@ window.tracNghiem2D43 = [
       "$V = \\displaystyle\\int\\limits_1^3 (2^x - 2) \\, \\mathrm{d}x$"
     ],
     "answer": 2,
-    "explain": "Khi quay hình phẳng $(H)$ quanh trục hoành, thể tích khối tròn xoay được tính bởi công thức  \\[  V = \\pi \\displaystyle\\int\\limits_a^b \\left[ f(x)^2 - g(x)^2 \\right] \\mathrm{d}x.  \\]  Trong đó  <br>- $f(x) = 2^x$ là hàm nằm phía trên,<br>- $g(x) = 2$ là hàm nằm phía dưới,<br>- giới hạn tích phân từ $x = 1$ đến $x = 3$.  Khi đó $V = \\pi \\displaystyle\\int\\limits_1^3 \\left[ (2^x)^2 - 2^2 \\right] \\mathrm{d}x = \\pi \\displaystyle\\int\\limits_1^3 (4^x - 4) \\, \\mathrm{d}x$."
+    "explain": "Khi quay hình phẳng $(H)$ quanh trục hoành, thể tích khối tròn xoay được tính bởi công thức  \\[  V = \\pi \\displaystyle\\int\\limits_a^b \\left[ f(x)^2 - g(x)^2 \\right] \\mathrm{d}x.  \\]  Trong đó  <br>- $f(x) = 2^x$ là hàm nằm phía trên,<br>- $g(x) = 2$ là hàm nằm phía dưới,<br>- giới hạn tích phân từ $x = 1$ đến $x = 3$.  Khi đó $V = \\pi \\displaystyle\\int\\limits_1^3 \\left[ (2^x)^2 - 2^2 \\right] \\mathrm{d}x = \\pi \\displaystyle\\int\\limits_1^3 (4^x - 4) \\, \\mathrm{d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN83",
@@ -986,7 +1067,8 @@ window.tracNghiem2D43 = [
       "$V=\\displaystyle\\int_0^2\\left(2x-x^2\\right)^2 {\\, d} x$"
     ],
     "answer": 2,
-    "explain": "Thể tích $V$ của khối tròn xoay sinh ra khi cho $(H)$ quay quanh trục $Ox$ là $V=\\pi \\displaystyle\\int_0^2\\left(2x-x^2\\right)^2 {\\, d} x$."
+    "explain": "Thể tích $V$ của khối tròn xoay sinh ra khi cho $(H)$ quay quanh trục $Ox$ là $V=\\pi \\displaystyle\\int_0^2\\left(2x-x^2\\right)^2 {\\, d} x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN84",
@@ -998,7 +1080,8 @@ window.tracNghiem2D43 = [
       "$S=-a-b$"
     ],
     "answer": 2,
-    "explain": "Diện tích hình phẳng được giới hạn bởi đồ thị hàm số và trục hoành là  $  S = -\\displaystyle\\int\\limits_{-2}^1 f(x)\\,\\mathrm{d}x + \\displaystyle\\int\\limits_1^2 f(x)\\,\\mathrm{d}x = b-a.  $"
+    "explain": "Diện tích hình phẳng được giới hạn bởi đồ thị hàm số và trục hoành là  $  S = -\\displaystyle\\int\\limits_{-2}^1 f(x)\\,\\mathrm{d}x + \\displaystyle\\int\\limits_1^2 f(x)\\,\\mathrm{d}x = b-a.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D432TN85",
@@ -1010,7 +1093,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{800}{3}\\ \\mathrm{cm}^2$"
     ],
     "answer": 1,
-    "explain": "Chọn hệ trục tọa độ $Oxy$ như hình vẽ bên dưới  <br><img src=\"data/12/2D4/im2D43/dlts_12_DLTS33_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giả sử parabol $(P)\\colon y=ax^2$ đi qua điểm $A(30;30)$ $\\Rightarrow a= \\dfrac{1}{30}$ $\\Rightarrow (P)\\colon y= \\dfrac{1}{30}x^2$.<br>  Khi đó, diện tích một cánh hoa là  $S=2 \\cdot \\displaystyle \\int \\limits_0^{30} \\left(x-\\dfrac{1}{30}x^2\\right)\\,\\mathrm{d}x =300 \\, \\mathrm{cm}^2$  Vậy mỗi cánh hoa có diện tích $300\\ \\mathrm{cm}^2$."
+    "explain": "Chọn hệ trục tọa độ $Oxy$ như hình vẽ bên dưới  <br><img src=\"data/12/2D4/im2D43/dlts_12_DLTS33_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giả sử parabol $(P)\\colon y=ax^2$ đi qua điểm $A(30;30)$ $\\Rightarrow a= \\dfrac{1}{30}$ $\\Rightarrow (P)\\colon y= \\dfrac{1}{30}x^2$.<br>  Khi đó, diện tích một cánh hoa là  $S=2 \\cdot \\displaystyle \\int \\limits_0^{30} \\left(x-\\dfrac{1}{30}x^2\\right)\\,\\mathrm{d}x =300 \\, \\mathrm{cm}^2$  Vậy mỗi cánh hoa có diện tích $300\\ \\mathrm{cm}^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN86",
@@ -1022,7 +1106,8 @@ window.tracNghiem2D43 = [
       "$S=\\dfrac{7}{3}$"
     ],
     "answer": 3,
-    "explain": "$S=\\displaystyle\\int\\limits^2_1 x^2\\mathrm{\\,d}x=\\dfrac{7}{3}$."
+    "explain": "$S=\\displaystyle\\int\\limits^2_1 x^2\\mathrm{\\,d}x=\\dfrac{7}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN87",
@@ -1034,7 +1119,8 @@ window.tracNghiem2D43 = [
       "$V=\\pi^2\\displaystyle\\int\\limits_a^b f(x){\\,d}x$"
     ],
     "answer": 2,
-    "explain": "Thể tích $V=\\pi\\displaystyle\\int\\limits_a^b [f(x)]^2{\\,d}x$."
+    "explain": "Thể tích $V=\\pi\\displaystyle\\int\\limits_a^b [f(x)]^2{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN88",
@@ -1046,7 +1132,8 @@ window.tracNghiem2D43 = [
       "$S=-\\displaystyle\\int\\limits_{-1}^{-0{,}5} f(x)\\mathrm{\\,d}x$"
     ],
     "answer": 3,
-    "explain": "Diện tích hình phẳng cần tìm là $S=\\displaystyle\\int\\limits_{-1}^{-0{,}5} \\left|f(x)\\right|\\mathrm{\\,d}x$.<br>  Từ hình vẽ ta thấy $f(x)\\leq 0$, $\\forall x\\in [-1; -0{,}5]$ nên phát biểu đúng là $S=-\\displaystyle\\int\\limits_{-1}^{-0{,}5} f(x)\\mathrm{\\,d}x$."
+    "explain": "Diện tích hình phẳng cần tìm là $S=\\displaystyle\\int\\limits_{-1}^{-0{,}5} \\left|f(x)\\right|\\mathrm{\\,d}x$.<br>  Từ hình vẽ ta thấy $f(x)\\leq 0$, $\\forall x\\in [-1; -0{,}5]$ nên phát biểu đúng là $S=-\\displaystyle\\int\\limits_{-1}^{-0{,}5} f(x)\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D435TN89",
@@ -1058,7 +1145,8 @@ window.tracNghiem2D43 = [
       "$18$"
     ],
     "answer": 3,
-    "explain": "Ta có $V = \\displaystyle\\int\\limits_0^3 S(x) \\mathrm{\\,d}x=\\int\\limits_0^3 \\left(\\sqrt{9-x^2}\\right)^2 \\mathrm{\\,d}x = 18$."
+    "explain": "Ta có $V = \\displaystyle\\int\\limits_0^3 S(x) \\mathrm{\\,d}x=\\int\\limits_0^3 \\left(\\sqrt{9-x^2}\\right)^2 \\mathrm{\\,d}x = 18$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN90",
@@ -1070,7 +1158,8 @@ window.tracNghiem2D43 = [
       "$\\dfrac{32}{27}$"
     ],
     "answer": 3,
-    "explain": "Hoành độ giao điểm của đồ thị hàm số $y=f(x)$ và trục hoành là nghiệm của phương trình  $3x^2+2x-1=0\\Leftrightarrow x=-1 \\text{ hoặc } x=\\dfrac{1}{3}.$  Diện tích hình phẳng giới hạn bởi đồ thị hàm số và trục hoành là  $S=\\displaystyle\\int\\limits_{-1}^{\\tfrac{1}{3}} \\left|3x^2+2x-1\\right|\\mathrm{\\,d}x=\\dfrac{32}{27}.$"
+    "explain": "Hoành độ giao điểm của đồ thị hàm số $y=f(x)$ và trục hoành là nghiệm của phương trình  $3x^2+2x-1=0\\Leftrightarrow x=-1 \\text{ hoặc } x=\\dfrac{1}{3}.$  Diện tích hình phẳng giới hạn bởi đồ thị hàm số và trục hoành là  $S=\\displaystyle\\int\\limits_{-1}^{\\tfrac{1}{3}} \\left|3x^2+2x-1\\right|\\mathrm{\\,d}x=\\dfrac{32}{27}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN91",
@@ -1082,7 +1171,8 @@ window.tracNghiem2D43 = [
       "$S = \\displaystyle \\int\\limits_1^3\\left|x^3 - 4x\\right|\\,\\mathrm{d}x$"
     ],
     "answer": 3,
-    "explain": "Diện tích hình phẳng được giới hạn giữa hai đồ thị là  \\[  S = \\displaystyle \\int\\limits_1^3 \\left| (x^3 - x) - 3x \\right|\\,\\mathrm{d}x = \\displaystyle \\int\\limits_1^3 \\left| x^3 - 4x \\right|\\,\\mathrm{d}x.  \\]"
+    "explain": "Diện tích hình phẳng được giới hạn giữa hai đồ thị là  \\[  S = \\displaystyle \\int\\limits_1^3 \\left| (x^3 - x) - 3x \\right|\\,\\mathrm{d}x = \\displaystyle \\int\\limits_1^3 \\left| x^3 - 4x \\right|\\,\\mathrm{d}x.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN92",
@@ -1094,7 +1184,8 @@ window.tracNghiem2D43 = [
       "$S = -\\displaystyle \\int\\limits_{-1}^1 f(x)\\,\\mathrm{d}x + \\displaystyle \\int\\limits_1^5 f(x)\\,\\mathrm{d}x$"
     ],
     "answer": 2,
-    "explain": "Diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = 0$, $x = -1$ và $x = 5$ là   \\[  S = \\displaystyle \\int\\limits_{-1}^1 f(x)\\,\\mathrm{d}x - \\displaystyle \\int\\limits_1^5 f(x)\\,\\mathrm{d}x.  \\]"
+    "explain": "Diện tích hình phẳng giới hạn bởi các đường $y = f(x)$, $y = 0$, $x = -1$ và $x = 5$ là   \\[  S = \\displaystyle \\int\\limits_{-1}^1 f(x)\\,\\mathrm{d}x - \\displaystyle \\int\\limits_1^5 f(x)\\,\\mathrm{d}x.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN5",
@@ -1106,7 +1197,8 @@ window.tracNghiem2D43 = [
       "$\\pi \\displaystyle \\int \\limits_0^2 \\sqrt{x}\\,\\mathrm{d}x$"
     ],
     "answer": 0,
-    "explain": "Ta có  \\[V= \\displaystyle \\pi \\int \\limits_0^2 \\left(2\\sqrt{x}\\right)^2 \\ \\mathrm{d}x=\\pi \\int \\limits_0^2 4x \\ \\mathrm{d}x=4\\pi \\int \\limits_0^2 x \\ \\mathrm{d} x.\\]"
+    "explain": "Ta có  \\[V= \\displaystyle \\pi \\int \\limits_0^2 \\left(2\\sqrt{x}\\right)^2 \\ \\mathrm{d}x=\\pi \\int \\limits_0^2 4x \\ \\mathrm{d}x=4\\pi \\int \\limits_0^2 x \\ \\mathrm{d} x.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D431TN93",
@@ -1118,7 +1210,8 @@ window.tracNghiem2D43 = [
       "$S=\\pi \\displaystyle\\int\\limits_a^b[f(x)]^2\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Diện tích hình phẳng được giới hạn bởi đồ thị của $f(x)$, trục hoành và hai đường thẳng $x=a$, $x=b$ được tính theo công thức $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$."
+    "explain": "Diện tích hình phẳng được giới hạn bởi đồ thị của $f(x)$, trục hoành và hai đường thẳng $x=a$, $x=b$ được tính theo công thức $S=\\displaystyle\\int\\limits_a^b|f(x)|\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D433TN7",
@@ -1130,6 +1223,7 @@ window.tracNghiem2D43 = [
       "$V=\\displaystyle\\int\\limits_a^b\\big|f(x)\\big|\\mathrm{\\,d}x$"
     ],
     "answer": 0,
-    "explain": "Quay hình $\\mathscr{D}$ quanh trục $Ox$ ta được khối tròn xoay có thể tích bằng$V=\\pi \\displaystyle\\int\\limits_a^b[f(x)]^2\\mathrm{\\,d}x$."
+    "explain": "Quay hình $\\mathscr{D}$ quanh trục $Ox$ ta được khối tròn xoay có thể tích bằng$V=\\pi \\displaystyle\\int\\limits_a^b[f(x)]^2\\mathrm{\\,d}x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

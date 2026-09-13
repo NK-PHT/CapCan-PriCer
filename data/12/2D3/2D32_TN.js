@@ -14,7 +14,8 @@ window.tracNghiem2D32 = [
       "$\\overline x=\\dfrac{n_1c_1+n_2c_2+\\ldots+n_k{c_k}}{n}$"
     ],
     "answer": 3,
-    "explain": "Với mẫu số liệu ghép nhóm gồm $k$ nhóm, nhóm thứ $i$ có tần số $n_i$ và giá trị đại diện (trung điểm) $c_i$ $(i=1,2,\\ldots,k)$, cỡ mẫu $n=n_1+n_2+\\ldots+n_k$.<br>Số trung bình của mẫu số liệu ghép nhóm được tính theo công thức<br>$\\overline x=\\dfrac{n_1c_1+n_2c_2+\\ldots+n_kc_k}{n}$.<br>Đây chính là công thức ở phương án D."
+    "explain": "Với mẫu số liệu ghép nhóm gồm $k$ nhóm, nhóm thứ $i$ có tần số $n_i$ và giá trị đại diện (trung điểm) $c_i$ $(i=1,2,\\ldots,k)$, cỡ mẫu $n=n_1+n_2+\\ldots+n_k$.<br>Số trung bình của mẫu số liệu ghép nhóm được tính theo công thức<br>$\\overline x=\\dfrac{n_1c_1+n_2c_2+\\ldots+n_kc_k}{n}$.<br>Đây chính là công thức ở phương án D.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN2",
@@ -26,7 +27,8 @@ window.tracNghiem2D32 = [
       "$55$"
     ],
     "answer": 0,
-    "explain": "Ta có: Số phần tử của mẫu là $n=40$ và  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó giá trị trung bình của mẫu số liệu trên là<br>  $\\overline x=\\dfrac{35\\cdot2+45\\cdot10+55\\cdot16+65\\cdot8+75\\cdot2+85\\cdot2}{40}=56$."
+    "explain": "Ta có: Số phần tử của mẫu là $n=40$ và  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó giá trị trung bình của mẫu số liệu trên là<br>  $\\overline x=\\dfrac{35\\cdot2+45\\cdot10+55\\cdot16+65\\cdot8+75\\cdot2+85\\cdot2}{40}=56$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN3",
@@ -38,7 +40,8 @@ window.tracNghiem2D32 = [
       "$18{,}5$"
     ],
     "answer": 1,
-    "explain": "Ta có số phần tử của mẫu là $n=56$ và  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó giá trị trung bình của mẫu số liệu trên là  $  \\overline{x}=\\dfrac{11\\cdot3+14\\cdot12+17\\cdot15+20\\cdot24+23\\cdot2}{56}=\\dfrac{491}{28} \\approx 17{,}54.$"
+    "explain": "Ta có số phần tử của mẫu là $n=56$ và  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Do đó giá trị trung bình của mẫu số liệu trên là  $  \\overline{x}=\\dfrac{11\\cdot3+14\\cdot12+17\\cdot15+20\\cdot24+23\\cdot2}{56}=\\dfrac{491}{28} \\approx 17{,}54.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN4",
@@ -50,7 +53,8 @@ window.tracNghiem2D32 = [
       "$[13 ; 15)$"
     ],
     "answer": 1,
-    "explain": "Bảng tần số ghép nhóm theo giá trị đại diện là  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình $\\overline{x}=\\dfrac{2\\cdot 6+7\\cdot8+7\\cdot10+3\\cdot12+1\\cdot 14}{20}=9{,}4$."
+    "explain": "Bảng tần số ghép nhóm theo giá trị đại diện là  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình $\\overline{x}=\\dfrac{2\\cdot 6+7\\cdot8+7\\cdot10+3\\cdot12+1\\cdot 14}{20}=9{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN5",
@@ -62,7 +66,8 @@ window.tracNghiem2D32 = [
       "$[6;8)$"
     ],
     "answer": 1,
-    "explain": "Ta có bảng thống kê theo giá trị đại diện như sau:  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Khi đó ta có số trung bình của mẫu số liệu trên được tính như sau: <br>  $\\overline{x}=\\dfrac{1.10+3.30+5.55+7.42+9.9}{10+30+55+42+9}\\approx 5,14.$"
+    "explain": "Ta có bảng thống kê theo giá trị đại diện như sau:  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Khi đó ta có số trung bình của mẫu số liệu trên được tính như sau: <br>  $\\overline{x}=\\dfrac{1.10+3.30+5.55+7.42+9.9}{10+30+55+42+9}\\approx 5,14.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D321TN6",
@@ -74,7 +79,8 @@ window.tracNghiem2D32 = [
       "Phương sai luôn luôn lớn hơn độ lệch chuẩn"
     ],
     "answer": 3,
-    "explain": "Ta có khi $s \\in (0;1)$ thì $s^2 &lt; s$. Do đó khẳng định phương sai luôn lớn hơn độ lệch chuẩn là sai."
+    "explain": "Ta có khi $s \\in (0;1)$ thì $s^2 &lt; s$. Do đó khẳng định phương sai luôn lớn hơn độ lệch chuẩn là sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D323TN7",
@@ -86,7 +92,8 @@ window.tracNghiem2D32 = [
       "Độ lệch chuẩn"
     ],
     "answer": 1,
-    "explain": "Số đặc trưng tứ phân vị không sử dụng thông tin của nhóm số liệu đầu tiên và nhóm số liệu cuối cùng"
+    "explain": "Số đặc trưng tứ phân vị không sử dụng thông tin của nhóm số liệu đầu tiên và nhóm số liệu cuối cùng",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN8",
@@ -98,7 +105,8 @@ window.tracNghiem2D32 = [
       "$0{,}36$"
     ],
     "answer": 2,
-    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_010.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{20}\\cdot (2{,}85\\cdot 3+3{,}15\\cdot 6+3{,}45\\cdot 5+3{,}75\\cdot 4+4{,}05\\cdot 2)=3{,}39.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{20}\\left(3\\cdot 2{,}85^2+6\\cdot 3{,}15^2+5\\cdot 3{,}45^2+4\\cdot 3{,}45^2+2\\cdot 4{,}05^2\\right)-3{,}39^2=0{,}1314.$"
+    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_010.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{20}\\cdot (2{,}85\\cdot 3+3{,}15\\cdot 6+3{,}45\\cdot 5+3{,}75\\cdot 4+4{,}05\\cdot 2)=3{,}39.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{20}\\left(3\\cdot 2{,}85^2+6\\cdot 3{,}15^2+5\\cdot 3{,}45^2+4\\cdot 3{,}45^2+2\\cdot 4{,}05^2\\right)-3{,}39^2=0{,}1314.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN9",
@@ -110,7 +118,8 @@ window.tracNghiem2D32 = [
       "$31{,}44$"
     ],
     "answer": 3,
-    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_012.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{18}\\cdot (22{,}5\\cdot 6+27{,}5\\cdot 6+32{,}5\\cdot 4+37{,}5\\cdot 1+42{,}5\\cdot 1)=\\dfrac{85}{3}.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{18}\\left(6\\cdot 22{,}5^2+6\\cdot 27{,}5^2+4\\cdot 32{,}5^2+1\\cdot 37{,}5^2+1\\cdot 42{,}5^2\\right)-\\left(\\dfrac{85}{3}\\right)^2=31{,}25.$  Vậy phương sai của mẫu số liệu ghép nhóm gần nhất với $31{,}44$."
+    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_012.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{18}\\cdot (22{,}5\\cdot 6+27{,}5\\cdot 6+32{,}5\\cdot 4+37{,}5\\cdot 1+42{,}5\\cdot 1)=\\dfrac{85}{3}.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{18}\\left(6\\cdot 22{,}5^2+6\\cdot 27{,}5^2+4\\cdot 32{,}5^2+1\\cdot 37{,}5^2+1\\cdot 42{,}5^2\\right)-\\left(\\dfrac{85}{3}\\right)^2=31{,}25.$  Vậy phương sai của mẫu số liệu ghép nhóm gần nhất với $31{,}44$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN10",
@@ -122,7 +131,8 @@ window.tracNghiem2D32 = [
       "$0{,}36$"
     ],
     "answer": 3,
-    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_014.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{20}\\cdot (2{,}85\\cdot 3+3{,}15\\cdot 6+3{,}45\\cdot 5+3{,}75\\cdot 4+4{,}05\\cdot 2)=3{,}39.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{20}\\left(3\\cdot 2{,}85^2+6\\cdot 3{,}15^2+5\\cdot 3{,}45^2+4\\cdot 3{,}45^2+2\\cdot 4{,}05^2\\right)-3{,}39^2=0{,}1314.$  Độ lệch chuẩn của mẫu số liệu ghép nhóm là $S=\\sqrt{0{,}1314}\\approx 0{,}36$."
+    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_014.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{20}\\cdot (2{,}85\\cdot 3+3{,}15\\cdot 6+3{,}45\\cdot 5+3{,}75\\cdot 4+4{,}05\\cdot 2)=3{,}39.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{20}\\left(3\\cdot 2{,}85^2+6\\cdot 3{,}15^2+5\\cdot 3{,}45^2+4\\cdot 3{,}45^2+2\\cdot 4{,}05^2\\right)-3{,}39^2=0{,}1314.$  Độ lệch chuẩn của mẫu số liệu ghép nhóm là $S=\\sqrt{0{,}1314}\\approx 0{,}36$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN11",
@@ -134,7 +144,8 @@ window.tracNghiem2D32 = [
       "$2{,}5$"
     ],
     "answer": 2,
-    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{25}\\cdot (9\\cdot 4+11\\cdot 6+13\\cdot 8+15\\cdot 4+17\\cdot 3)=12{,}68.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{25}\\left(4\\cdot 9^2+6\\cdot 11^2+8\\cdot 13^2+4\\cdot 15^2+3\\cdot 17^2\\right)-12{,}68^2=5{,}9776.$  Độ lệch chuẩn của mẫu số liệu là   $S=\\sqrt{5{,}9776}=\\approx 2{,}445.$  Vậy độ lệch chuẩn của mẫu số liệu ghép nhóm gần nhất với $2{,}44$."
+    "explain": "Xét mẫu số liệu ghép nhóm cho bởi bảng sau  <br><img src=\"data/12/2D3/im2D3/2D32_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu là   $\\overline{x}=\\dfrac{1}{25}\\cdot (9\\cdot 4+11\\cdot 6+13\\cdot 8+15\\cdot 4+17\\cdot 3)=12{,}68.$  Phương sai của mẫu số liệu ghép nhóm là   $S^2=\\dfrac{1}{25}\\left(4\\cdot 9^2+6\\cdot 11^2+8\\cdot 13^2+4\\cdot 15^2+3\\cdot 17^2\\right)-12{,}68^2=5{,}9776.$  Độ lệch chuẩn của mẫu số liệu là   $S=\\sqrt{5{,}9776}=\\approx 2{,}445.$  Vậy độ lệch chuẩn của mẫu số liệu ghép nhóm gần nhất với $2{,}44$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN12",
@@ -146,7 +157,8 @@ window.tracNghiem2D32 = [
       "$0{,}5268$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D3/im2D3/2D32_tikz_018.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu<br>  $ \\overline{x}=\\dfrac{m_{1}\\cdot x_{1}+\\dots+m_{k}\\cdot x_{k}}{n}=\\dfrac{2\\cdot5{,}25+8\\cdot 5{,}75+15\\cdot 6{,}25+10\\cdot 6{,}75+5\\cdot7{,}25}{40}=6{,}35 $.<br>  Phương sai của mẫu số liệu ghép nhóm  $ s^{2}=\\dfrac{1}{40}\\cdot\\left(2\\cdot 5{,}25^{2}+8\\cdot 5{,}75^{2}+15\\cdot 6{,}25^{2}+10\\cdot 6{,}75^{2}+5\\cdot 7{,}25^{2}\\right)-6{,}35^{2}=0{,}2775 $.  Độ lệch chuẩn của mẫu số liệu ghép nhóm  $ s=\\sqrt{s^{2}}=\\sqrt{0{,}2775}\\approx 0{,}5268 $."
+    "explain": "<br><img src=\"data/12/2D3/im2D3/2D32_tikz_018.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Số trung bình của mẫu số liệu<br>  $ \\overline{x}=\\dfrac{m_{1}\\cdot x_{1}+\\dots+m_{k}\\cdot x_{k}}{n}=\\dfrac{2\\cdot5{,}25+8\\cdot 5{,}75+15\\cdot 6{,}25+10\\cdot 6{,}75+5\\cdot7{,}25}{40}=6{,}35 $.<br>  Phương sai của mẫu số liệu ghép nhóm  $ s^{2}=\\dfrac{1}{40}\\cdot\\left(2\\cdot 5{,}25^{2}+8\\cdot 5{,}75^{2}+15\\cdot 6{,}25^{2}+10\\cdot 6{,}75^{2}+5\\cdot 7{,}25^{2}\\right)-6{,}35^{2}=0{,}2775 $.  Độ lệch chuẩn của mẫu số liệu ghép nhóm  $ s=\\sqrt{s^{2}}=\\sqrt{0{,}2775}\\approx 0{,}5268 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN13",
@@ -158,7 +170,8 @@ window.tracNghiem2D32 = [
       "$1{,}71$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS11_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overline{x}=\\dfrac{1\\cdot 14{,}5+4\\cdot 15{,}5+9\\cdot 16{,}5+8\\cdot 17{,}5+5\\cdot 18{,}5+3\\cdot 19{,}5}{30}=17{,}2$.<br>  Độ lệch chuẩn của mẫu số liệu ghép nhóm là<br> $s=\\sqrt{\\dfrac{1}{30}\\left(1\\cdot{14{,}5}^2+4\\cdot{15{,}5}^2+9\\cdot{16{,}5}^2+8\\cdot{17{,}5}^2+5\\cdot{18{,}5}^2+3\\cdot{19{,}5}^2\\right)-{17{,}2}^2}\\approx 1{,}27$."
+    "explain": "<br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS11_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overline{x}=\\dfrac{1\\cdot 14{,}5+4\\cdot 15{,}5+9\\cdot 16{,}5+8\\cdot 17{,}5+5\\cdot 18{,}5+3\\cdot 19{,}5}{30}=17{,}2$.<br>  Độ lệch chuẩn của mẫu số liệu ghép nhóm là<br> $s=\\sqrt{\\dfrac{1}{30}\\left(1\\cdot{14{,}5}^2+4\\cdot{15{,}5}^2+9\\cdot{16{,}5}^2+8\\cdot{17{,}5}^2+5\\cdot{18{,}5}^2+3\\cdot{19{,}5}^2\\right)-{17{,}2}^2}\\approx 1{,}27$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN14",
@@ -170,7 +183,8 @@ window.tracNghiem2D32 = [
       "$s=\\sqrt{\\dfrac{n_1(x_1-\\bar{x})^2+n_2(x_2-\\bar{x})^2+n_3(x_3-\\bar{x})^2+n_4(x_4-\\bar{x})^2}{50}}$"
     ],
     "answer": 3,
-    "explain": "Độ lệch chuẩn của mẫu số liệu ghép nhóm được tính bằng công thức  $s=\\sqrt{\\dfrac{n_1(x_1-\\bar{x})^2+n_2(x_2-\\bar{x})^2+n_3(x_3-\\bar{x})^2+n_4(x_4-\\bar{x})^2}{50}}$"
+    "explain": "Độ lệch chuẩn của mẫu số liệu ghép nhóm được tính bằng công thức  $s=\\sqrt{\\dfrac{n_1(x_1-\\bar{x})^2+n_2(x_2-\\bar{x})^2+n_3(x_3-\\bar{x})^2+n_4(x_4-\\bar{x})^2}{50}}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN15",
@@ -182,7 +196,8 @@ window.tracNghiem2D32 = [
       "$ 134{,}25 $"
     ],
     "answer": 0,
-    "explain": "Ta lập được bảng sau  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS15_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Cỡ mẫu $n=12$.<br>  Số trung bình của mẫu số liệu ghép nhóm   $  \\overline{x} = \\dfrac{1 \\cdot 72{,}5 + 1 \\cdot 75{,}5 + 2 \\cdot 78{,}5 + 6 \\cdot 81{,}5 + 2 \\cdot 84{,}5}{12}  =80{,}25.  $  Phương sai của mẫu số liệu ghép nhóm  $  S^2 = \\dfrac{1 \\cdot 72{,}5^2 + 1 \\cdot 75{,}5^2 + 2 \\cdot 78{,}5^2 + 6 \\cdot 81{,}5^2 + 2 \\cdot 84{,}5^2}{12}-80{,}25^{2}  =11{,}1875.  $"
+    "explain": "Ta lập được bảng sau  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS15_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Cỡ mẫu $n=12$.<br>  Số trung bình của mẫu số liệu ghép nhóm   $  \\overline{x} = \\dfrac{1 \\cdot 72{,}5 + 1 \\cdot 75{,}5 + 2 \\cdot 78{,}5 + 6 \\cdot 81{,}5 + 2 \\cdot 84{,}5}{12}  =80{,}25.  $  Phương sai của mẫu số liệu ghép nhóm  $  S^2 = \\dfrac{1 \\cdot 72{,}5^2 + 1 \\cdot 75{,}5^2 + 2 \\cdot 78{,}5^2 + 6 \\cdot 81{,}5^2 + 2 \\cdot 84{,}5^2}{12}-80{,}25^{2}  =11{,}1875.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN16",
@@ -194,7 +209,8 @@ window.tracNghiem2D32 = [
       "$111$"
     ],
     "answer": 0,
-    "explain": "Ta có bảng sau:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS18_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có: $\\overline{x}=\\dfrac{2\\cdot 35+11\\cdot 45+16\\cdot 55+8\\cdot 65+2\\cdot 75+1\\cdot 85}{40}=55$.<br>  $s^2=\\dfrac{2\\cdot 35^2+11\\cdot 45^2+16\\cdot 55^2+8\\cdot 65^2+2\\cdot 75^2+1\\cdot 85^2}{40}-55^2=110$.<br>  Vậy phương sai của mẫu số liệu trên là $s^2=110$."
+    "explain": "Ta có bảng sau:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS18_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có: $\\overline{x}=\\dfrac{2\\cdot 35+11\\cdot 45+16\\cdot 55+8\\cdot 65+2\\cdot 75+1\\cdot 85}{40}=55$.<br>  $s^2=\\dfrac{2\\cdot 35^2+11\\cdot 45^2+16\\cdot 55^2+8\\cdot 65^2+2\\cdot 75^2+1\\cdot 85^2}{40}-55^2=110$.<br>  Vậy phương sai của mẫu số liệu trên là $s^2=110$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN17",
@@ -206,7 +222,8 @@ window.tracNghiem2D32 = [
       "$11{,}62$"
     ],
     "answer": 0,
-    "explain": "Bảng giá trị đại diện  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS19_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Cỡ mẫu là $n = 20$.<br>  Số trung bình là $\\overline{x} = \\dfrac{3\\cdot2{,}85 + 6\\cdot3{,}15 + 5\\cdot3{,}45 + 4\\cdot3{,}75 + 2\\cdot4{,}05}{20}=3{,}39$.<br>  Phương sai là $s^2= \\dfrac{3\\cdot\\left(2{,}85-3{,}39\\right)^2 + \\cdots + 2\\cdot\\left(4{,}05-3{,}39\\right)^2}{20}=0{,}1314$.<br>  Độ lệch chuẩn là $s = \\sqrt{s^2} = \\sqrt{0{,}1314} \\approx 0{,}36$."
+    "explain": "Bảng giá trị đại diện  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS19_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Cỡ mẫu là $n = 20$.<br>  Số trung bình là $\\overline{x} = \\dfrac{3\\cdot2{,}85 + 6\\cdot3{,}15 + 5\\cdot3{,}45 + 4\\cdot3{,}75 + 2\\cdot4{,}05}{20}=3{,}39$.<br>  Phương sai là $s^2= \\dfrac{3\\cdot\\left(2{,}85-3{,}39\\right)^2 + \\cdots + 2\\cdot\\left(4{,}05-3{,}39\\right)^2}{20}=0{,}1314$.<br>  Độ lệch chuẩn là $s = \\sqrt{s^2} = \\sqrt{0{,}1314} \\approx 0{,}36$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN18",
@@ -218,7 +235,8 @@ window.tracNghiem2D32 = [
       "$s = \\sqrt{\\dfrac{n_1(x_1 - \\overline{x})^2 + n_2(x_2 - \\overline{x})^2 + \\cdots +n_k(x_k - \\overline{x})^2}{n_1 + n_2 + \\cdots +n_k}}$."
     ],
     "answer": 2,
-    "explain": "Phương sai của mẫu số liệu ghép nhóm được tính bằng công thức <br>[5pt]  \\[s^2 = \\dfrac{n_1(x_1 - \\overline{x})^2 + n_2(x_2 - \\overline{x})^2 + \\cdots +n_k(x_k - \\overline{x})^2}{n_1 + n_2 + \\cdots +n_k}.\\]"
+    "explain": "Phương sai của mẫu số liệu ghép nhóm được tính bằng công thức <br>[5pt]  \\[s^2 = \\dfrac{n_1(x_1 - \\overline{x})^2 + n_2(x_2 - \\overline{x})^2 + \\cdots +n_k(x_k - \\overline{x})^2}{n_1 + n_2 + \\cdots +n_k}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN19",
@@ -230,7 +248,8 @@ window.tracNghiem2D32 = [
       "$\\overline{x} = \\dfrac{n_1x_1 + n_2x_2 + \\cdots +n_kx_k}{n_1n_2 \\ldots n_k}$"
     ],
     "answer": 2,
-    "explain": "Giá trị trung bình của mẫu số liệu được tính bằng công thức <br>[5pt]  \\[\\overline{x} = \\dfrac{n_1x_1 + n_2x_2 + \\cdots +n_kx_k}{n_1 + n_2 + \\cdots +n_k}.\\]"
+    "explain": "Giá trị trung bình của mẫu số liệu được tính bằng công thức <br>[5pt]  \\[\\overline{x} = \\dfrac{n_1x_1 + n_2x_2 + \\cdots +n_kx_k}{n_1 + n_2 + \\cdots +n_k}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D321TN20",
@@ -242,7 +261,8 @@ window.tracNghiem2D32 = [
       "Phương sai của mẫu số liệu ghép nhóm là căn bậc hai số học của độ lệch chuẩn"
     ],
     "answer": 3,
-    "explain": "Khẳng định sai là “ Phương sai của mẫu số liệu ghép nhóm là căn bậc hai số học của độ lệch chuẩn”."
+    "explain": "Khẳng định sai là “ Phương sai của mẫu số liệu ghép nhóm là căn bậc hai số học của độ lệch chuẩn”.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN21",
@@ -254,7 +274,8 @@ window.tracNghiem2D32 = [
       "$23$"
     ],
     "answer": 0,
-    "explain": "Giá trị đại diện của mỗi nhóm  <br>- Nhóm $[1; 5)$: $3$<br>- Nhóm $[5; 9)$: $7$<br>- Nhóm $[9; 13)$: $11$<br>- Nhóm $[13; 17)$: $15$<br>- Nhóm $[17; 21)$: $19$  Số trung bình cộng là  \\[  \\overline{x} = \\dfrac{3 \\times 4 + 7 \\times 8 + 11 \\times 13 + 15 \\times 6 + 19 \\times 4}{4 + 8 + 13 + 6 + 4} = \\dfrac{12 + 56 + 143 + 90 + 76}{35} = \\dfrac{377}{35} \\approx 10{,}77.  \\]  Phương sai là  $s^2 = \\dfrac{4(3 - 10{,}77)^2 + 8(7 - 10{,}77)^2 + 13(11 - 10{,}77)^2 + 6(15 - 10{,}77)^2 + 4(19 - 10{,}77)^2}{35}$<br>$= \\dfrac{4(60{,}37) + 8(14{,}21) + 13(0{,}05) + 6(17{,}89) + 4(67{,}85)}{35}$<br>$= \\dfrac{241{,}48 + 113{,}68 + 0{,}65 + 107{,}34 + 271{,}40}{35} = \\dfrac{734{,}55}{35} \\approx 21{,}01.$  Vậy phương sai của mẫu số liệu là $21{,}01$."
+    "explain": "Giá trị đại diện của mỗi nhóm  <br>- Nhóm $[1; 5)$: $3$<br>- Nhóm $[5; 9)$: $7$<br>- Nhóm $[9; 13)$: $11$<br>- Nhóm $[13; 17)$: $15$<br>- Nhóm $[17; 21)$: $19$  Số trung bình cộng là  \\[  \\overline{x} = \\dfrac{3 \\times 4 + 7 \\times 8 + 11 \\times 13 + 15 \\times 6 + 19 \\times 4}{4 + 8 + 13 + 6 + 4} = \\dfrac{12 + 56 + 143 + 90 + 76}{35} = \\dfrac{377}{35} \\approx 10{,}77.  \\]  Phương sai là  $s^2 = \\dfrac{4(3 - 10{,}77)^2 + 8(7 - 10{,}77)^2 + 13(11 - 10{,}77)^2 + 6(15 - 10{,}77)^2 + 4(19 - 10{,}77)^2}{35}$<br>$= \\dfrac{4(60{,}37) + 8(14{,}21) + 13(0{,}05) + 6(17{,}89) + 4(67{,}85)}{35}$<br>$= \\dfrac{241{,}48 + 113{,}68 + 0{,}65 + 107{,}34 + 271{,}40}{35} = \\dfrac{734{,}55}{35} \\approx 21{,}01.$  Vậy phương sai của mẫu số liệu là $21{,}01$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN22",
@@ -266,7 +287,8 @@ window.tracNghiem2D32 = [
       "$46{,}1$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\bar{x}=\\dfrac{42{,}5\\cdot 4+47{,}5\\cdot 14+52{,}5\\cdot 8+57{,}5\\cdot 10+62{,}5\\cdot 6+67{,}5\\cdot 2}{44}=\\dfrac{585}{11}$.<br>  $s^2=\\dfrac{(42{,}5-\\bar{x})\\cdot 4+(47{,}5-\\bar{x})\\cdot 14+(52{,}5-\\bar{x})\\cdot 8+(57{,}5-\\bar{x})\\cdot 10+(62{,}5-\\bar{x})\\cdot 6+(67{,}5-\\bar{x})\\cdot 2}{44}$<br>  $\\approx 46{,}1$."
+    "explain": "Ta có $\\bar{x}=\\dfrac{42{,}5\\cdot 4+47{,}5\\cdot 14+52{,}5\\cdot 8+57{,}5\\cdot 10+62{,}5\\cdot 6+67{,}5\\cdot 2}{44}=\\dfrac{585}{11}$.<br>  $s^2=\\dfrac{(42{,}5-\\bar{x})\\cdot 4+(47{,}5-\\bar{x})\\cdot 14+(52{,}5-\\bar{x})\\cdot 8+(57{,}5-\\bar{x})\\cdot 10+(62{,}5-\\bar{x})\\cdot 6+(67{,}5-\\bar{x})\\cdot 2}{44}$<br>  $\\approx 46{,}1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN23",
@@ -278,7 +300,8 @@ window.tracNghiem2D32 = [
       "$4s_1=s_2$"
     ],
     "answer": 0,
-    "explain": "Xét mẫu số liệu $M_1$:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS36_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $n=25$. Khi đó $\\overline{x}=\\dfrac{3\\cdot 9+4\\cdot 11+8\\cdot 13+6\\cdot 15+4\\cdot 17}{25}=\\dfrac{333}{25}$.<br>   Độ lệch chuẩn của một mẫu số liệu $M_1$ là  $s=\\sqrt{\\dfrac{3(9-\\overline{x})^2+4(11-\\overline{x})^2+8(13-\\overline{x})^2+6(15-\\overline{x})^2+4(17-\\overline{x})^2}{25}}=2{,}445.$  Mẫu số liệu $M_2$:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS36_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $n=50$. Khi đó $\\overline{x}=\\dfrac{6\\cdot 9+8\\cdot 11+16\\cdot 13+12\\cdot 15+8\\cdot 17}{50}=\\dfrac{333}{25}$.<br>   Độ lệch chuẩn của một mẫu số liệu $M_2$ là  $s=\\sqrt{\\dfrac{6(9-\\overline{x})^2+8(11-\\overline{x})^2+16(13-\\overline{x})^2+12(15-\\overline{x})^2+8(17-\\overline{x})^2}{50}}=2{,}445.$"
+    "explain": "Xét mẫu số liệu $M_1$:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS36_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $n=25$. Khi đó $\\overline{x}=\\dfrac{3\\cdot 9+4\\cdot 11+8\\cdot 13+6\\cdot 15+4\\cdot 17}{25}=\\dfrac{333}{25}$.<br>   Độ lệch chuẩn của một mẫu số liệu $M_1$ là  $s=\\sqrt{\\dfrac{3(9-\\overline{x})^2+4(11-\\overline{x})^2+8(13-\\overline{x})^2+6(15-\\overline{x})^2+4(17-\\overline{x})^2}{25}}=2{,}445.$  Mẫu số liệu $M_2$:  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS36_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $n=50$. Khi đó $\\overline{x}=\\dfrac{6\\cdot 9+8\\cdot 11+16\\cdot 13+12\\cdot 15+8\\cdot 17}{50}=\\dfrac{333}{25}$.<br>   Độ lệch chuẩn của một mẫu số liệu $M_2$ là  $s=\\sqrt{\\dfrac{6(9-\\overline{x})^2+8(11-\\overline{x})^2+16(13-\\overline{x})^2+12(15-\\overline{x})^2+8(17-\\overline{x})^2}{50}}=2{,}445.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN24",
@@ -290,7 +313,8 @@ window.tracNghiem2D32 = [
       "$187{,}03$"
     ],
     "answer": 2,
-    "explain": "Ta có cỡ mẫu $n=10+6+15+19+25=75$. <br>  Ta tính giá trị đại diện của mẫu số liệu  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS38_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giá trị trung bình của mẫu số liệu là $\\overline{x}=\\dfrac{15\\cdot 10+25\\cdot 6+35\\cdot 15+45\\cdot 19+55\\cdot 25}{75}=\\dfrac{611}{15}\\approx 40{,}73$. <br>  Phương sai của mẫu số liệu là  $s^2=\\dfrac{1}{75}\\cdot \\left(10\\cdot 15^2+6\\cdot 25^2+15\\cdot 35^2+19\\cdot 45^2+25\\cdot 55^2\\right)-\\left(\\dfrac{611}{15}\\right)^2\\approx 187{,}13.$"
+    "explain": "Ta có cỡ mẫu $n=10+6+15+19+25=75$. <br>  Ta tính giá trị đại diện của mẫu số liệu  <br><img src=\"data/12/2D3/im2D32/dlts_12_DLTS38_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giá trị trung bình của mẫu số liệu là $\\overline{x}=\\dfrac{15\\cdot 10+25\\cdot 6+35\\cdot 15+45\\cdot 19+55\\cdot 25}{75}=\\dfrac{611}{15}\\approx 40{,}73$. <br>  Phương sai của mẫu số liệu là  $s^2=\\dfrac{1}{75}\\cdot \\left(10\\cdot 15^2+6\\cdot 25^2+15\\cdot 35^2+19\\cdot 45^2+25\\cdot 55^2\\right)-\\left(\\dfrac{611}{15}\\right)^2\\approx 187{,}13.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D322TN25",
@@ -302,6 +326,7 @@ window.tracNghiem2D32 = [
       "$4\\sqrt{3}$"
     ],
     "answer": 1,
-    "explain": "Mẫu số liệu ghép nhóm có phương sai bằng $32$ suy ra độ lệch chuẩn của mẫu số liệu trên là $\\sqrt{32}=4\\sqrt{2}$."
+    "explain": "Mẫu số liệu ghép nhóm có phương sai bằng $32$ suy ra độ lệch chuẩn của mẫu số liệu trên là $\\sqrt{32}=4\\sqrt{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

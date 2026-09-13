@@ -15,7 +15,8 @@ window.tracNghiem2H52 = [
       "$1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2H52 = [
       "$2y-2z-1=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2H52 = [
       "$5x-6y-7z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2H52 = [
       "$2x-y-z+4=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2H52 = [
       "$\\big(P\\big): 6x + 3y + z + 15 = 0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2H52 = [
       "$5x+2y-3z+1=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2H52 = [
       "$2x -2y+1 =0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2H52 = [
       "$ \\vec{a}=\\left(-1;0;-2 \\right) $"
     ],
     "answer": 0,
-    "explain": "$\\vec{AB}=\\left(-1;0;2\\right)$ là một véc-tơ chỉ phương của đường thẳng $AB$."
+    "explain": "$\\vec{AB}=\\left(-1;0;2\\right)$ là một véc-tơ chỉ phương của đường thẳng $AB$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2H52 = [
       "$M\\left(-\\dfrac{1}{6};-\\dfrac{7}{6};-\\dfrac{2}{3}\\right)$"
     ],
     "answer": 2,
-    "explain": "Vì $M\\in d$ nên tọa độ $M$ có dạng $M(1+t;2+t;1+2t)$.<br>  Ta có $MA^2+MB^2=28 \\Leftrightarrow t^2+(t+3)^2+(2t-1)^2 + (t+2)^2+t^2+(2t-2)^2 =28 <br> \\Leftrightarrow 12t^2-2t-10=0 \\Leftrightarrow t=1; t=-\\dfrac{5}{6}$.<br>  Với $t=1 \\Rightarrow M(2;3;3)$ loại vì $c&lt;0$.<br>  Với $t=-\\dfrac{5}{6} \\Rightarrow M\\left(\\dfrac{1}{6};\\dfrac{7}{6};-\\dfrac{2}{3}\\right)$ thỏa yêu cầu bài toán."
+    "explain": "Vì $M\\in d$ nên tọa độ $M$ có dạng $M(1+t;2+t;1+2t)$.<br>  Ta có $MA^2+MB^2=28 \\Leftrightarrow t^2+(t+3)^2+(2t-1)^2 + (t+2)^2+t^2+(2t-2)^2 =28 <br> \\Leftrightarrow 12t^2-2t-10=0 \\Leftrightarrow t=1; t=-\\dfrac{5}{6}$.<br>  Với $t=1 \\Rightarrow M(2;3;3)$ loại vì $c&lt;0$.<br>  Với $t=-\\dfrac{5}{6} \\Rightarrow M\\left(\\dfrac{1}{6};\\dfrac{7}{6};-\\dfrac{2}{3}\\right)$ thỏa yêu cầu bài toán.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2H52 = [
       "$\\bar{u}=(-1;3;1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN11",
@@ -135,7 +145,8 @@ window.tracNghiem2H52 = [
       "$ \\vec{u_1}=\\left(0;2;0\\right) $"
     ],
     "answer": 2,
-    "explain": "Ta có $ M_1\\left(1;0;0\\right) $ và $ M_2\\left(0;2;0\\right) $. Do đó, $ \\vec{M_1M_2}=\\left(-1;2;0\\right) $ là một véc-tơ chỉ phương của đường thẳng $M_1M_2 $."
+    "explain": "Ta có $ M_1\\left(1;0;0\\right) $ và $ M_2\\left(0;2;0\\right) $. Do đó, $ \\vec{M_1M_2}=\\left(-1;2;0\\right) $ là một véc-tơ chỉ phương của đường thẳng $M_1M_2 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN12",
@@ -147,7 +158,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u_4}=\\left(3;2;1\\right)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN13",
@@ -159,7 +171,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u_4}=(1;3;-1)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN14",
@@ -171,7 +184,8 @@ window.tracNghiem2H52 = [
       "Nếu đường thẳng $d$ song song với hai mặt phẳng $(P)$ và $(Q)$ thì một vec-tơ chỉ phương của $d$ là $\\overrightarrow{u} = \\big[\\overrightarrow{n}_{P}, \\overrightarrow{n}_{Q}\\big]$ với $\\overrightarrow{n}_{P}$, $\\overrightarrow{n}_{Q}$ lần lượt là vec-tơ pháp tuyến của mặt phẳng $(P)$, $(Q)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN15",
@@ -183,7 +197,8 @@ window.tracNghiem2H52 = [
       "$M\\big(1; 2; - 3\\big)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN16",
@@ -195,7 +210,8 @@ window.tracNghiem2H52 = [
       "$Q(2;0;4)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN17",
@@ -207,7 +223,8 @@ window.tracNghiem2H52 = [
       "$E(-5;1;-7)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN18",
@@ -219,7 +236,8 @@ window.tracNghiem2H52 = [
       "$(-1;4;-3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN19",
@@ -231,7 +249,8 @@ window.tracNghiem2H52 = [
       "$N(5;0;3)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN20",
@@ -243,7 +262,8 @@ window.tracNghiem2H52 = [
       "$7$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN21",
@@ -255,7 +275,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN22",
@@ -267,7 +288,8 @@ window.tracNghiem2H52 = [
       "$ M(3;-2;0)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN23",
@@ -279,7 +301,8 @@ window.tracNghiem2H52 = [
       "$(1;3;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN24",
@@ -291,7 +314,8 @@ window.tracNghiem2H52 = [
       "$-8$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN25",
@@ -303,7 +327,8 @@ window.tracNghiem2H52 = [
       "$M(2;-3;-2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN26",
@@ -315,7 +340,8 @@ window.tracNghiem2H52 = [
       "$x_M=-\\dfrac{15}4$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN27",
@@ -327,7 +353,8 @@ window.tracNghiem2H52 = [
       "$z_M=\\dfrac{43}{2}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN28",
@@ -339,7 +366,8 @@ window.tracNghiem2H52 = [
       "$C(1; 1; 1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN29",
@@ -351,7 +379,8 @@ window.tracNghiem2H52 = [
       "$d(I,\\Delta)=\\sqrt{14}$"
     ],
     "answer": 3,
-    "explain": "%  Có $\\vec{u_{\\Delta}} = (2;0;-1)$ và lấy $M(1;2;0) \\in \\Delta$. Suy ra $\\overrightarrow{AM}=(1;3;-3)$.<br>  Khi đó $d(I,\\Delta) = \\dfrac{\\left|\\left[\\overrightarrow{AM},\\vec{u_{\\Delta}}\\right]\\right|}{\\left|\\vec{u_{\\Delta}}\\right|}=\\sqrt{14}$."
+    "explain": "%  Có $\\vec{u_{\\Delta}} = (2;0;-1)$ và lấy $M(1;2;0) \\in \\Delta$. Suy ra $\\overrightarrow{AM}=(1;3;-3)$.<br>  Khi đó $d(I,\\Delta) = \\dfrac{\\left|\\left[\\overrightarrow{AM},\\vec{u_{\\Delta}}\\right]\\right|}{\\left|\\vec{u_{\\Delta}}\\right|}=\\sqrt{14}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN30",
@@ -363,7 +392,8 @@ window.tracNghiem2H52 = [
       "$ d=2$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN31",
@@ -375,7 +405,8 @@ window.tracNghiem2H52 = [
       "$d=\\dfrac{4\\sqrt{6}}{3}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN32",
@@ -387,7 +418,8 @@ window.tracNghiem2H52 = [
       "$m=-1$ và $d=\\dfrac{3}{\\sqrt{11}}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN33",
@@ -399,7 +431,8 @@ window.tracNghiem2H52 = [
       "$h=\\dfrac{10\\sqrt{21}}{21}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN34",
@@ -411,7 +444,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{\\sqrt{6}}{2}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN35",
@@ -423,7 +457,8 @@ window.tracNghiem2H52 = [
       "$d=\\dfrac{5}{13}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN36",
@@ -435,7 +470,8 @@ window.tracNghiem2H52 = [
       "$90^{\\circ}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN37",
@@ -447,7 +483,8 @@ window.tracNghiem2H52 = [
       "$30^\\circ$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN38",
@@ -459,7 +496,8 @@ window.tracNghiem2H52 = [
       "$48^\\circ 47'$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN39",
@@ -471,7 +509,8 @@ window.tracNghiem2H52 = [
       "$\\cos\\varphi=\\dfrac{4}{9}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN40",
@@ -483,7 +522,8 @@ window.tracNghiem2H52 = [
       "$d\\perp (\\alpha )$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN41",
@@ -495,7 +535,8 @@ window.tracNghiem2H52 = [
       "$A(2; -1; 0)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN42",
@@ -507,7 +548,8 @@ window.tracNghiem2H52 = [
       "$\\mathrm{d}(M, (P))=2\\sqrt2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN43",
@@ -519,7 +561,8 @@ window.tracNghiem2H52 = [
       "$A\\left(4;-2;1\\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN44",
@@ -531,7 +574,8 @@ window.tracNghiem2H52 = [
       "$(d_1)$ và $(d_2)$ trùng nhau"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN45",
@@ -543,7 +587,8 @@ window.tracNghiem2H52 = [
       "$d_1$ cắt $d_2$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN46",
@@ -555,7 +600,8 @@ window.tracNghiem2H52 = [
       "Trùng nhau"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN47",
@@ -567,7 +613,8 @@ window.tracNghiem2H52 = [
       "chéo nhau"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN48",
@@ -579,7 +626,8 @@ window.tracNghiem2H52 = [
       "$(P)\\parallel d$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN49",
@@ -591,7 +639,8 @@ window.tracNghiem2H52 = [
       "$d$ cắt và không vuông góc với $(P)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN50",
@@ -603,7 +652,8 @@ window.tracNghiem2H52 = [
       "$d$ song song với $d'$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN51",
@@ -615,7 +665,8 @@ window.tracNghiem2H52 = [
       "cắt nhau"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN52",
@@ -627,7 +678,8 @@ window.tracNghiem2H52 = [
       "Trùng nhau"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN53",
@@ -639,7 +691,8 @@ window.tracNghiem2H52 = [
       "Song song nhau"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN54",
@@ -651,7 +704,8 @@ window.tracNghiem2H52 = [
       "Đường thẳng $d$ vuông góc với mặt phẳng $(P)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN55",
@@ -663,7 +717,8 @@ window.tracNghiem2H52 = [
       "$(d)$ song song $(P)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN56",
@@ -675,7 +730,8 @@ window.tracNghiem2H52 = [
       "$d$ và $d'$ chéo nhau"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN57",
@@ -687,7 +743,8 @@ window.tracNghiem2H52 = [
       "$p$ chéo $q$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN58",
@@ -699,7 +756,8 @@ window.tracNghiem2H52 = [
       "$5x-3y+z-9=0$"
     ],
     "answer": 0,
-    "explain": "Kiểm tra các phương án, ta được kết quả đúng là $x+y-2z+2=0$."
+    "explain": "Kiểm tra các phương án, ta được kết quả đúng là $x+y-2z+2=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN59",
@@ -711,7 +769,8 @@ window.tracNghiem2H52 = [
       "Vô số"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN60",
@@ -723,7 +782,8 @@ window.tracNghiem2H52 = [
       "$m=-4$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN61",
@@ -735,7 +795,8 @@ window.tracNghiem2H52 = [
       "$ a=-1 $"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN62",
@@ -747,7 +808,8 @@ window.tracNghiem2H52 = [
       "$m=-2,n=8 \\text{ hoặc } m=2,n=8$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN63",
@@ -759,7 +821,8 @@ window.tracNghiem2H52 = [
       "$m=\\dfrac{3}{2}$, $n=5$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN64",
@@ -771,7 +834,8 @@ window.tracNghiem2H52 = [
       "$m=1$ và $m=-\\dfrac{1}{2}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN65",
@@ -783,7 +847,8 @@ window.tracNghiem2H52 = [
       "$k=-\\dfrac{1}{2}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN66",
@@ -795,7 +860,8 @@ window.tracNghiem2H52 = [
       "$m=\\pm 1$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN67",
@@ -807,7 +873,8 @@ window.tracNghiem2H52 = [
       "$d: x=1+t \\text{ và } y=2+3t \\text{ và } z=3+2t$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN68",
@@ -819,7 +886,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-2}{2}=\\dfrac{y}{-3}=\\dfrac{z+1}{1}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN69",
@@ -831,7 +899,8 @@ window.tracNghiem2H52 = [
       "$x=-1+t, \\text{ và } y=-3, \\text{ và } z=5-t.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN70",
@@ -843,7 +912,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}  x=4-2t\\\\  y=-1+t\\\\  z=4-t  \\end{cases}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN71",
@@ -855,7 +925,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned}x&=2-2t\\\\ y&=-t\\\\ z&=3+t\\end{aligned}\\right.$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN72",
@@ -867,7 +938,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{4}=\\dfrac{y-2}{-6}=\\dfrac{z-1}{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN73",
@@ -879,7 +951,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}x = 3 - 2t\\\\ y = 2 + t\\\\ z = - 2 + 3t\\end{cases}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN74",
@@ -891,7 +964,8 @@ window.tracNghiem2H52 = [
       "$x=1+2t \\text{ và } y=1-t \\text{ và } z=-4+3t$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN75",
@@ -903,7 +977,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}  x = -1+2t\\\\  y = 5-3t\\\\  z = -7+4t  \\end{cases}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN76",
@@ -915,7 +990,8 @@ window.tracNghiem2H52 = [
       "$x=3-t \\text{ và } y=-8+5t \\text{ và } z=5-4t$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN77",
@@ -927,7 +1003,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{matrix}  x=0\\\\  y=0\\\\  z=t\\\\  \\end{matrix}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN78",
@@ -939,7 +1016,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN79",
@@ -951,7 +1029,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{matrix} x&\\!\\!\\!\\!=&\\!\\!\\!\\!6t\\\\ y&\\!\\!\\!\\!=&\\!\\!\\!\\!4t\\\\ z&\\!\\!\\!\\!=&\\!\\!\\!\\!1-3t \\end{matrix}\\right.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN80",
@@ -963,7 +1042,8 @@ window.tracNghiem2H52 = [
       "$x=1+3t \\text{ và } y=3t \\text{ và } z=1+t.$"
     ],
     "answer": 1,
-    "explain": "Đường thẳng vuông góc với mặt phẳng $(P)$ nhận $\\overrightarrow{n_{(P)}}=(1;3;-1)$ làm véc-tơ chỉ phương $\\Rightarrow$ phương trình đường thẳng là $x=2+t \\text{ và } y=3+3t \\text{ và } z=-t$.<br>Lấy $t=-1\\Rightarrow N(1;0;1)$ thuộc đường thẳng $\\Rightarrow$ đáp án đúng là: $x=1+t \\text{ và } y=3t \\text{ và } z=1-t$."
+    "explain": "Đường thẳng vuông góc với mặt phẳng $(P)$ nhận $\\overrightarrow{n_{(P)}}=(1;3;-1)$ làm véc-tơ chỉ phương $\\Rightarrow$ phương trình đường thẳng là $x=2+t \\text{ và } y=3+3t \\text{ và } z=-t$.<br>Lấy $t=-1\\Rightarrow N(1;0;1)$ thuộc đường thẳng $\\Rightarrow$ đáp án đúng là: $x=1+t \\text{ và } y=3t \\text{ và } z=1-t$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN81",
@@ -975,7 +1055,8 @@ window.tracNghiem2H52 = [
       "$x-1=y-4=z+7$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN82",
@@ -987,7 +1068,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned}  x& = 1-4t \\\\  y& = 2-6t \\\\  z& = -3+t   \\end{aligned} \\right.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN83",
@@ -999,7 +1081,8 @@ window.tracNghiem2H52 = [
       "$x=t \\text{ và } y=t \\text{ và } z=0 (t\\in\\mathbb{R})$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN84",
@@ -1011,7 +1094,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}  x=4+2t \\\\  y=-3t \\\\  z=2+t  \\end{cases}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN85",
@@ -1023,7 +1107,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-3}{3}=\\dfrac{y-2}{1}=\\dfrac{z-2}{-2}$"
     ],
     "answer": 0,
-    "explain": "Từ giả thiết, $d$ song song với $d'$, $d$ đi qua điểm $A(2;-3;4)$ và $d'$ đi qua điểm $B(4;-1;0)$. Đường thẳng thỏa mãn yêu cầu bài toán là đường thẳng song song với $d$ và đi qua trung điểm $M(3;-2;2)$ của $AB$."
+    "explain": "Từ giả thiết, $d$ song song với $d'$, $d$ đi qua điểm $A(2;-3;4)$ và $d'$ đi qua điểm $B(4;-1;0)$. Đường thẳng thỏa mãn yêu cầu bài toán là đường thẳng song song với $d$ và đi qua trung điểm $M(3;-2;2)$ của $AB$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN86",
@@ -1035,7 +1120,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x}{2}=\\dfrac{y-2}{-3}=\\dfrac{z+2}{1}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN87",
@@ -1047,7 +1133,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned}x&=2+t,\\\\y&=-2+3t,\\\\z&=-4t.\\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN88",
@@ -1059,7 +1146,8 @@ window.tracNghiem2H52 = [
       "$d:\\dfrac{x+7}{3}=\\dfrac{y+3}{2}=\\dfrac{z-2}{-1}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN89",
@@ -1071,7 +1159,8 @@ window.tracNghiem2H52 = [
       "$ \\left\\{\\begin{aligned}x&=2-2t\\\\y&=\\frac{8}{3}-10t\\\\z&=\\frac{4}{3}-2t\\end{aligned}\\right.$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN90",
@@ -1083,7 +1172,8 @@ window.tracNghiem2H52 = [
       "$x =1+t \\text{ và } y =-2 \\text{ và } z =3-t.$"
     ],
     "answer": 3,
-    "explain": "$(P)$ có véc-tơ pháp tuyến $\\vec{n_1}(1;1;1)$, $(Q)$ có véc-tơ pháp tuyến $\\vec{n_2}(1;-1;1)$.<br> Ta có $\\left[\\vec{n_1},\\vec{n_2}\\right]=(2;0;-2)$.<br> Đường thẳng cần tìm nhận véc-tơ $\\vec{u}(1;0;-1)$ làm véc-tơ chỉ phương. Vậy phương trình đường thẳng cần tìm là $x =1+t \\text{ và } y =-2 \\text{ và } z =3-t.$"
+    "explain": "$(P)$ có véc-tơ pháp tuyến $\\vec{n_1}(1;1;1)$, $(Q)$ có véc-tơ pháp tuyến $\\vec{n_2}(1;-1;1)$.<br> Ta có $\\left[\\vec{n_1},\\vec{n_2}\\right]=(2;0;-2)$.<br> Đường thẳng cần tìm nhận véc-tơ $\\vec{u}(1;0;-1)$ làm véc-tơ chỉ phương. Vậy phương trình đường thẳng cần tìm là $x =1+t \\text{ và } y =-2 \\text{ và } z =3-t.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN91",
@@ -1095,7 +1185,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned} x &=1+t\\\\ y &=2-3t\\\\ z &=3+t \\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN92",
@@ -1107,7 +1198,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(4;-3;-1)$"
     ],
     "answer": 0,
-    "explain": "Gợi ý. $d$ chính là giao tuyến của $(\\alpha)$ với mặt phẳng trung trực của $AB$."
+    "explain": "Gợi ý. $d$ chính là giao tuyến của $(\\alpha)$ với mặt phẳng trung trực của $AB$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN93",
@@ -1119,7 +1211,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned}  x&=t\\\\  y&=7-3t\\\\  z&=2t  \\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": "Ta có: $d$ nằm trong mặt phẳng trung trực $(Q)$ của $AB$.<br>  $(Q): 3x+y-7=0$.<br>  $d=(P)\\cap (Q)\\Rightarrow d:\\left\\{\\begin{aligned}  x&=t\\\\  y&=7-3t\\\\  z&=2t  \\end{aligned}\\right.$."
+    "explain": "Ta có: $d$ nằm trong mặt phẳng trung trực $(Q)$ của $AB$.<br>  $(Q): 3x+y-7=0$.<br>  $d=(P)\\cap (Q)\\Rightarrow d:\\left\\{\\begin{aligned}  x&=t\\\\  y&=7-3t\\\\  z&=2t  \\end{aligned}\\right.$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN94",
@@ -1131,7 +1224,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{5}=\\dfrac{y-2}{4}=\\dfrac{z-3}{3}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN95",
@@ -1143,7 +1237,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{-1}=\\dfrac{y}{-3}=\\dfrac{z-1}{4}$"
     ],
     "answer": 0,
-    "explain": "$(P): -2x+2y+z-3=0$ là mặt phẳng đi qua $A$ và vuông góc với $\\Delta_1$. $(P)$ giao với $\\Delta_2$ tại $M(-\\dfrac{1}{4};\\dfrac{1}{4};2)$. Đường thẳng cần tìm chính là đường thẳng $AM$ có phương trình $\\dfrac{x}{-1}=\\dfrac{y-1}{-3}=\\dfrac{z-1}{4}$ nên chọn A."
+    "explain": "$(P): -2x+2y+z-3=0$ là mặt phẳng đi qua $A$ và vuông góc với $\\Delta_1$. $(P)$ giao với $\\Delta_2$ tại $M(-\\dfrac{1}{4};\\dfrac{1}{4};2)$. Đường thẳng cần tìm chính là đường thẳng $AM$ có phương trình $\\dfrac{x}{-1}=\\dfrac{y-1}{-3}=\\dfrac{z-1}{4}$ nên chọn A.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN96",
@@ -1155,7 +1250,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(2;2;3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN97",
@@ -1167,7 +1263,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{5}=\\dfrac{y+1}{-1}=\\dfrac{z+1}{-3}$"
     ],
     "answer": 2,
-    "explain": "Gọi $I$ là giao điểm của $d$ và $(P)$. Khi đó, $I(1;1;1)$.<br>  Hơn nữa, vì $\\Delta$ chứa trong $(P)$ và $\\Delta$ cắt $d$ nên $\\Delta$ đi qua $I$.<br>  Mặt khác, vì $\\Delta$ nằm trong $(P)$ và vuông góc với $(d)$ nên $\\Delta$ nhận $\\left[\\vec{n_{(P)}};\\vec{u_d}\\right]=(5;-1;-3)$ làm vec-tơ chỉ phương. <br>  Vậy $\\Delta$ có phương trình: $\\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
+    "explain": "Gọi $I$ là giao điểm của $d$ và $(P)$. Khi đó, $I(1;1;1)$.<br>  Hơn nữa, vì $\\Delta$ chứa trong $(P)$ và $\\Delta$ cắt $d$ nên $\\Delta$ đi qua $I$.<br>  Mặt khác, vì $\\Delta$ nằm trong $(P)$ và vuông góc với $(d)$ nên $\\Delta$ nhận $\\left[\\vec{n_{(P)}};\\vec{u_d}\\right]=(5;-1;-3)$ làm vec-tơ chỉ phương. <br>  Vậy $\\Delta$ có phương trình: $\\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN98",
@@ -1179,7 +1276,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}(1;-4;-2)$"
     ],
     "answer": 3,
-    "explain": "Gọi $A$ là giao điểm của $d$ với $\\Delta$. Khi đó, điểm $A$ thuộc $\\Delta$ nên $A(1 + 2t; -1 +t; -t)$ và véc-tơ $\\vec{MA}(2t - 1; t - 2; -t)$ là véc-tơ chỉ phương của $d$.<br>  Từ giả thiết $d \\perp \\Delta$ ta được $\\vec{MA}.\\vec{u'}=0$, với $\\vec{u'}(2; 1; -1)$ là véc-tơ chỉ phương của $\\Delta$. Từ đó suy ra được $t = \\dfrac{2}{3}$ và $\\vec{MA}\\left(\\dfrac{1}{3}; -\\dfrac{4}{3}; -\\dfrac{2}{3} \\right) \\parallel \\vec{u}(1;-4;-2)$.<br>  Lưu ý cách nhanh: Lấy điểm $N(1; -1; 0) \\in \\Delta$. Khi đó, véc-tơ chỉ phương của đường thẳng $d$ chính là $ \\left[ \\left[\\vec{MN};\\vec{u'}\\right] ; \\vec{u'} \\right]$"
+    "explain": "Gọi $A$ là giao điểm của $d$ với $\\Delta$. Khi đó, điểm $A$ thuộc $\\Delta$ nên $A(1 + 2t; -1 +t; -t)$ và véc-tơ $\\vec{MA}(2t - 1; t - 2; -t)$ là véc-tơ chỉ phương của $d$.<br>  Từ giả thiết $d \\perp \\Delta$ ta được $\\vec{MA}.\\vec{u'}=0$, với $\\vec{u'}(2; 1; -1)$ là véc-tơ chỉ phương của $\\Delta$. Từ đó suy ra được $t = \\dfrac{2}{3}$ và $\\vec{MA}\\left(\\dfrac{1}{3}; -\\dfrac{4}{3}; -\\dfrac{2}{3} \\right) \\parallel \\vec{u}(1;-4;-2)$.<br>  Lưu ý cách nhanh: Lấy điểm $N(1; -1; 0) \\in \\Delta$. Khi đó, véc-tơ chỉ phương của đường thẳng $d$ chính là $ \\left[ \\left[\\vec{MN};\\vec{u'}\\right] ; \\vec{u'} \\right]$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN99",
@@ -1191,7 +1289,8 @@ window.tracNghiem2H52 = [
       "$d:\\dfrac{x}{13}=\\dfrac{y-1}{-28}=\\dfrac{z+1}{20}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN100",
@@ -1203,7 +1302,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\left\\{\\begin{array}{l}  x=2+t \\\\ y=\\dfrac{1}{2}-2t \\\\ z=\\dfrac{7}{2}  \\end{array}\\right.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN101",
@@ -1215,7 +1315,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-9}{-1}=\\dfrac{y}{-3}=\\dfrac{z+6}{-4}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN102",
@@ -1227,7 +1328,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{5}=\\dfrac{y-1}{2}=\\dfrac{z-1}{3}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN103",
@@ -1239,7 +1341,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-2}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN104",
@@ -1251,7 +1354,8 @@ window.tracNghiem2H52 = [
       "$(\\Delta): \\dfrac{x-4}{7}=\\dfrac{y+7}{-5}=\\dfrac{z-7}{3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN105",
@@ -1263,7 +1367,8 @@ window.tracNghiem2H52 = [
       "$\\Delta : x=-1+t \\text{ và } y=2-2t \\text{ và } x=-2t$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN106",
@@ -1275,7 +1380,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN107",
@@ -1287,7 +1393,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\dfrac{x - 1}{1} = \\dfrac{y - 1}{2} = \\dfrac{z + 2}{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN108",
@@ -1299,7 +1406,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{1}=\\dfrac{y+1}{1}=\\dfrac{z+2}{1}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN109",
@@ -1311,7 +1419,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+\\dfrac{1}{2}}{7}=\\dfrac{y-1}{1}=\\dfrac{z-\\dfrac{1}{2}}{-4}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN110",
@@ -1323,7 +1432,8 @@ window.tracNghiem2H52 = [
       "$I(5;2;-4)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN111",
@@ -1335,7 +1445,8 @@ window.tracNghiem2H52 = [
       "$d$ là giao tuyến của hai mặt phẳng $(P):x-2y+3=0$ và $ (Q): x+y+1=0$"
     ],
     "answer": 1,
-    "explain": "Gọi $ A,B $ lần lượt là các điểm thuộc $ d_1,d_2 $, khi đó $ A(-23+8a; -10+4a;a), B(3+2b,-2-2b,b) $.<br>  Đường thẳng $ d $ song song với $ Oz $ nên $ \\overrightarrow{AB} =m.\\vec{k} \\Rightarrow \\begin{cases} 8a+2b=26\\\\ 4a+2b =8 \\end{cases} \\Rightarrow A(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{17}{6}), B(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{-5}{3})$.<br>  Thay tọa độ $ A,B $ vào các đáp ta chọn được đáp án đúng <strong>B</strong>."
+    "explain": "Gọi $ A,B $ lần lượt là các điểm thuộc $ d_1,d_2 $, khi đó $ A(-23+8a; -10+4a;a), B(3+2b,-2-2b,b) $.<br>  Đường thẳng $ d $ song song với $ Oz $ nên $ \\overrightarrow{AB} =m.\\vec{k} \\Rightarrow \\begin{cases} 8a+2b=26\\\\ 4a+2b =8 \\end{cases} \\Rightarrow A(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{17}{6}), B(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{-5}{3})$.<br>  Thay tọa độ $ A,B $ vào các đáp ta chọn được đáp án đúng <strong>B</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN112",
@@ -1347,7 +1458,8 @@ window.tracNghiem2H52 = [
       "1"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{n} = \\left[\\overrightarrow{u}_{d} , \\overrightarrow{u}_{d'} \\right]=(1;7;-5)$,  mặt phẳng $(P)$ qua $M$ với véc tơ pháp tuyến $\\overrightarrow{n}$   có phương trình $x+7y-5z-20=0$, mặt phẳng $(Q)$ chứa $d'$ với véc tơ pháp tuyến $\\overrightarrow{n}$   có phương trình $x+7y-5z-11=0$. Ta có $\\dfrac{AB}{AM} =\\dfrac{d(d,(Q))}{d(d,(P))} = \\dfrac{18}{9}=2$."
+    "explain": "$\\overrightarrow{n} = \\left[\\overrightarrow{u}_{d} , \\overrightarrow{u}_{d'} \\right]=(1;7;-5)$,  mặt phẳng $(P)$ qua $M$ với véc tơ pháp tuyến $\\overrightarrow{n}$   có phương trình $x+7y-5z-20=0$, mặt phẳng $(Q)$ chứa $d'$ với véc tơ pháp tuyến $\\overrightarrow{n}$   có phương trình $x+7y-5z-11=0$. Ta có $\\dfrac{AB}{AM} =\\dfrac{d(d,(Q))}{d(d,(P))} = \\dfrac{18}{9}=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN113",
@@ -1359,7 +1471,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": "Gọi $\\left(\\alpha\\right)$, $\\left(\\beta\\right)$ lần lượt là hai mặt phẳng chứa $d_1$, $d_2$ và song song với đường thẳng còn lại.<br>  Có $\\overrightarrow{n}=\\left[\\overrightarrow{u_1},\\overrightarrow{u_2}\\right]=\\left(1;-1;-2\\right)$<br>  Vậy $\\left(\\alpha\\right):x-y-2z+6=0$ và $\\left(\\beta\\right):x-y-2z+2=0$.<br>  Có $\\dfrac{MA}{MB}=\\dfrac{d\\left[M,\\left(\\alpha\\right)\\right]}{d\\left[M,\\left(\\beta\\right)\\right]}=5$."
+    "explain": "Gọi $\\left(\\alpha\\right)$, $\\left(\\beta\\right)$ lần lượt là hai mặt phẳng chứa $d_1$, $d_2$ và song song với đường thẳng còn lại.<br>  Có $\\overrightarrow{n}=\\left[\\overrightarrow{u_1},\\overrightarrow{u_2}\\right]=\\left(1;-1;-2\\right)$<br>  Vậy $\\left(\\alpha\\right):x-y-2z+6=0$ và $\\left(\\beta\\right):x-y-2z+2=0$.<br>  Có $\\dfrac{MA}{MB}=\\dfrac{d\\left[M,\\left(\\alpha\\right)\\right]}{d\\left[M,\\left(\\beta\\right)\\right]}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN114",
@@ -1371,7 +1484,8 @@ window.tracNghiem2H52 = [
       "$d:\\dfrac{7x-4}{3}=\\dfrac{7y+4}{8}=\\dfrac{7z+8}{-5}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN115",
@@ -1383,7 +1497,8 @@ window.tracNghiem2H52 = [
       "\\(\\dfrac{x}{1}=\\dfrac{y-2}{-1}=\\dfrac{z}{1}\\)"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN116",
@@ -1395,7 +1510,8 @@ window.tracNghiem2H52 = [
       "$m\\notin\\{-1;1\\}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN117",
@@ -1407,7 +1523,8 @@ window.tracNghiem2H52 = [
       "$x = 1+t \\text{ và } y =2+2t \\text{ và } z =3+3t$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN118",
@@ -1419,7 +1536,8 @@ window.tracNghiem2H52 = [
       "$x = 2t \\text{ và } y =-3+3t \\text{ và } z =2t$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN119",
@@ -1431,7 +1549,8 @@ window.tracNghiem2H52 = [
       "$x = 1+5t \\text{ và } y =2-2t \\text{ và } z =3-t$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN120",
@@ -1443,7 +1562,8 @@ window.tracNghiem2H52 = [
       "$x = 1-t \\text{ và } y =1+17t \\text{ và } z =1+10t$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN121",
@@ -1455,7 +1575,8 @@ window.tracNghiem2H52 = [
       "$A'(2;-3;-1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN122",
@@ -1467,7 +1588,8 @@ window.tracNghiem2H52 = [
       "$(0;2;3)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN123",
@@ -1479,7 +1601,8 @@ window.tracNghiem2H52 = [
       "$(-4;-1;3)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN124",
@@ -1491,7 +1614,8 @@ window.tracNghiem2H52 = [
       "$H(3; -4; 4)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN125",
@@ -1503,7 +1627,8 @@ window.tracNghiem2H52 = [
       "$H\\left(-2;-1;3\\right)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN126",
@@ -1515,7 +1640,8 @@ window.tracNghiem2H52 = [
       "$(-2;3;1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN127",
@@ -1527,7 +1653,8 @@ window.tracNghiem2H52 = [
       "$A'(5;-15;1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN128",
@@ -1539,7 +1666,8 @@ window.tracNghiem2H52 = [
       "$\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": "$\\bullet$ Trên đường thẳng $d$ lấy hai điểm $A(-1;2;-3)$ và $B(1;5;-2)$.<br>  $\\bullet$ Gọi $A', B'$ lần lượt là hình chiếu của $A,B$ xuống mặt phẳng $(Oxy)$ suy ra $A'(-1;2;0)$ và $B'(1;5;0)$.<br>  $\\bullet$ Khi đó hình chiếu $d'$ của $d$ xuống $(Oxy)$ qua hai điểm $A',B'$.<br>  Dễ thấy hai điểm $A',B'$ thuộc đường thẳng $\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$"
+    "explain": "$\\bullet$ Trên đường thẳng $d$ lấy hai điểm $A(-1;2;-3)$ và $B(1;5;-2)$.<br>  $\\bullet$ Gọi $A', B'$ lần lượt là hình chiếu của $A,B$ xuống mặt phẳng $(Oxy)$ suy ra $A'(-1;2;0)$ và $B'(1;5;0)$.<br>  $\\bullet$ Khi đó hình chiếu $d'$ của $d$ xuống $(Oxy)$ qua hai điểm $A',B'$.<br>  Dễ thấy hai điểm $A',B'$ thuộc đường thẳng $\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN129",
@@ -1551,7 +1679,8 @@ window.tracNghiem2H52 = [
       "$d':\\dfrac{x}{-1}=\\dfrac{y}{2}=\\dfrac{z-2}{-1}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN130",
@@ -1563,7 +1692,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{ \\begin{aligned}x&=3-t\\\\y&=1+2t\\\\z&=-1+t\\end{aligned}  \\right.$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN131",
@@ -1575,7 +1705,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned} x &= 2 + 3t\\\\y &= 1 + 3t\\\\z &= - 2 - t\\end{aligned}\\right.$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN132",
@@ -1587,7 +1718,8 @@ window.tracNghiem2H52 = [
       "$S=\\dfrac{\\sqrt{6}}{4}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN133",
@@ -1599,7 +1731,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-7}{-2}=\\dfrac{y-3}{5}=\\dfrac{z-9}{8}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN134",
@@ -1611,7 +1744,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(10;-102;-78)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN135",
@@ -1623,7 +1757,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{a\\sqrt{3}}{2}$"
     ],
     "answer": 1,
-    "explain": "Chọn hệ trục tọa độ $Oxyz$ sao cho $A$ trùng với gốc tọa độ và $B$, $D$, $A'$ lần lượt thuộc tia $Ox$, $Oy$, $Oz$.<br>  Ta có $A(0;0;0)$, $B'(a;0;a)$, $B(a;0;0)$, $C'(0;a;a)$.<br>  $\\overrightarrow{AB'}=(a;0;a)$, $\\overrightarrow{BC'}=(-a;a;a)$ và $\\overrightarrow{AB}=(a;0;0)$.<br>  $\\mathrm{d}(AB',BC')=\\dfrac{\\left| \\left[\\overrightarrow{AB'},\\overrightarrow{BC'}\\right] \\cdot \\overrightarrow{AB} \\right|}{\\left|\\left[\\overrightarrow{AB'},\\overrightarrow{BC'}\\right] \\right|}=\\dfrac{a\\sqrt{6}}{6}.$"
+    "explain": "Chọn hệ trục tọa độ $Oxyz$ sao cho $A$ trùng với gốc tọa độ và $B$, $D$, $A'$ lần lượt thuộc tia $Ox$, $Oy$, $Oz$.<br>  Ta có $A(0;0;0)$, $B'(a;0;a)$, $B(a;0;0)$, $C'(0;a;a)$.<br>  $\\overrightarrow{AB'}=(a;0;a)$, $\\overrightarrow{BC'}=(-a;a;a)$ và $\\overrightarrow{AB}=(a;0;0)$.<br>  $\\mathrm{d}(AB',BC')=\\dfrac{\\left| \\left[\\overrightarrow{AB'},\\overrightarrow{BC'}\\right] \\cdot \\overrightarrow{AB} \\right|}{\\left|\\left[\\overrightarrow{AB'},\\overrightarrow{BC'}\\right] \\right|}=\\dfrac{a\\sqrt{6}}{6}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN136",
@@ -1635,7 +1770,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{\\sqrt{5}}{3}$"
     ],
     "answer": 0,
-    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có <br>  $O(0;0;0)$, $S(0;-1;2\\sqrt{3})$, $A(0;-1;0)$, $C(0;1;0)$, $D(\\sqrt{3};0;0)$, $M\\left(\\dfrac{\\sqrt{3}}{2};-\\dfrac{1}{2};\\sqrt{3}\\right)$.<br>- $\\vec{CM} = \\left(\\dfrac{\\sqrt{3}}{2};-\\dfrac{3}{2};\\sqrt{3}\\right) \\parallel \\vec{u}_1 = (\\sqrt{3};-3;2\\sqrt{3})$.<br>- $\\vec{BD} \\parallel \\vec{u}_2 = \\vec{i} = (1;0;0)$.   $\\cos(CM,BD)=\\left|\\cos\\left(\\overrightarrow{u}_1,\\overrightarrow{u}_2\\right)\\right|=\\dfrac{\\left|\\overrightarrow{u}_1\\cdot\\overrightarrow{u}_2\\right|}{\\left|\\overrightarrow{u}_1\\right|\\cdot\\left|\\overrightarrow{u}_2\\right|}=\\dfrac{\\sqrt{2}}{4}$."
+    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có <br>  $O(0;0;0)$, $S(0;-1;2\\sqrt{3})$, $A(0;-1;0)$, $C(0;1;0)$, $D(\\sqrt{3};0;0)$, $M\\left(\\dfrac{\\sqrt{3}}{2};-\\dfrac{1}{2};\\sqrt{3}\\right)$.<br>- $\\vec{CM} = \\left(\\dfrac{\\sqrt{3}}{2};-\\dfrac{3}{2};\\sqrt{3}\\right) \\parallel \\vec{u}_1 = (\\sqrt{3};-3;2\\sqrt{3})$.<br>- $\\vec{BD} \\parallel \\vec{u}_2 = \\vec{i} = (1;0;0)$.   $\\cos(CM,BD)=\\left|\\cos\\left(\\overrightarrow{u}_1,\\overrightarrow{u}_2\\right)\\right|=\\dfrac{\\left|\\overrightarrow{u}_1\\cdot\\overrightarrow{u}_2\\right|}{\\left|\\overrightarrow{u}_1\\right|\\cdot\\left|\\overrightarrow{u}_2\\right|}=\\dfrac{\\sqrt{2}}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN137",
@@ -1647,7 +1783,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{\\sqrt{5}}{10}$"
     ],
     "answer": 2,
-    "explain": "Ta chuẩn hóa $a=1$.<br>  Chọn hệ trục tọa độ như hình vẽ với:<br>  $S(0;0;1)$, $A\\left(-\\dfrac{\\sqrt{2}}{2};0;0\\right)\\Rightarrow M\\left(-\\dfrac{\\sqrt{2}}{4};0;\\dfrac{1}{2}\\right)$.<br>  $B\\left(0;-\\dfrac{\\sqrt{2}}{2};0\\right)$, $C\\left(\\dfrac{\\sqrt{2}}{2};0;0\\right)\\Rightarrow N\\left(\\dfrac{\\sqrt{2}}{4};-\\dfrac{\\sqrt{2}}{4};0\\right)$.<br>  Suy ra $\\overrightarrow{MN}=\\left(\\dfrac{\\sqrt{2}}{2};-\\dfrac{\\sqrt{2}}{4};-\\dfrac{1}{2}\\right)$ do đó đường thẳng $MN$ có một véc-tơ chỉ phương là $\\overrightarrow{u}=(2;-1;-\\sqrt{2})$.<br>  Ta thấy mặt phẳng $(SBD)$ có một véc-tơ pháp tuyến là $\\overrightarrow{i}=(1;0;0)$.   Suy ra $\\sin\\alpha=\\dfrac{|2\\cdot 1 -1\\cdot 0 -\\sqrt{2}\\cdot 0|}{\\sqrt{2^2+(-1)^2+(-\\sqrt{2})^2}\\cdot \\sqrt{1^2+0^2+0^2}}=\\dfrac{2}{\\sqrt{7}}$.<br>  Vì $\\alpha \\leq 90^\\circ$ nên $\\cos\\alpha=\\dfrac{\\sqrt{21}}{7}$."
+    "explain": "Ta chuẩn hóa $a=1$.<br>  Chọn hệ trục tọa độ như hình vẽ với:<br>  $S(0;0;1)$, $A\\left(-\\dfrac{\\sqrt{2}}{2};0;0\\right)\\Rightarrow M\\left(-\\dfrac{\\sqrt{2}}{4};0;\\dfrac{1}{2}\\right)$.<br>  $B\\left(0;-\\dfrac{\\sqrt{2}}{2};0\\right)$, $C\\left(\\dfrac{\\sqrt{2}}{2};0;0\\right)\\Rightarrow N\\left(\\dfrac{\\sqrt{2}}{4};-\\dfrac{\\sqrt{2}}{4};0\\right)$.<br>  Suy ra $\\overrightarrow{MN}=\\left(\\dfrac{\\sqrt{2}}{2};-\\dfrac{\\sqrt{2}}{4};-\\dfrac{1}{2}\\right)$ do đó đường thẳng $MN$ có một véc-tơ chỉ phương là $\\overrightarrow{u}=(2;-1;-\\sqrt{2})$.<br>  Ta thấy mặt phẳng $(SBD)$ có một véc-tơ pháp tuyến là $\\overrightarrow{i}=(1;0;0)$.   Suy ra $\\sin\\alpha=\\dfrac{|2\\cdot 1 -1\\cdot 0 -\\sqrt{2}\\cdot 0|}{\\sqrt{2^2+(-1)^2+(-\\sqrt{2})^2}\\cdot \\sqrt{1^2+0^2+0^2}}=\\dfrac{2}{\\sqrt{7}}$.<br>  Vì $\\alpha \\leq 90^\\circ$ nên $\\cos\\alpha=\\dfrac{\\sqrt{21}}{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN138",
@@ -1659,7 +1796,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{\\sqrt{30}a}{12}$"
     ],
     "answer": 2,
-    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có $ A(0;0;0) $, $ B(0;a;0) $, $ D(2a;0;0) $, $ C(2a;a;0) $ và $ S(0;0;a) $.<br> Ta có <br>- $ \\vec{BD}=(2a;-a;0) $.<br>- $ \\vec{SC}=(2a;a;-a) $.<br>- $ \\vec{SB}=(0;a;-a) $.<br>- $ [\\vec{BD},\\vec{SC}]=(a^2;2a^2;4a^2)<br> \\Rightarrow \\left|[\\vec{BD},\\vec{SC}] \\right|=a^2\\sqrt{21} $.<br>- $ \\left| [\\vec{BD},\\vec{SC}]\\cdot\\vec{SB}\\right|=2a^3 $. Khoảng cách giữa hai đường thẳng $ BD $ và $ SC $ là $ \\mathrm{d}(SC,BD)=\\dfrac{\\left| [\\vec{BD},\\vec{SC}]\\cdot\\vec{SB}\\right| }{\\left| [\\vec{BD},\\vec{SC}] \\right| }=\\dfrac{2a\\sqrt{21}}{21}. $"
+    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có $ A(0;0;0) $, $ B(0;a;0) $, $ D(2a;0;0) $, $ C(2a;a;0) $ và $ S(0;0;a) $.<br> Ta có <br>- $ \\vec{BD}=(2a;-a;0) $.<br>- $ \\vec{SC}=(2a;a;-a) $.<br>- $ \\vec{SB}=(0;a;-a) $.<br>- $ [\\vec{BD},\\vec{SC}]=(a^2;2a^2;4a^2)<br> \\Rightarrow \\left|[\\vec{BD},\\vec{SC}] \\right|=a^2\\sqrt{21} $.<br>- $ \\left| [\\vec{BD},\\vec{SC}]\\cdot\\vec{SB}\\right|=2a^3 $. Khoảng cách giữa hai đường thẳng $ BD $ và $ SC $ là $ \\mathrm{d}(SC,BD)=\\dfrac{\\left| [\\vec{BD},\\vec{SC}]\\cdot\\vec{SB}\\right| }{\\left| [\\vec{BD},\\vec{SC}] \\right| }=\\dfrac{2a\\sqrt{21}}{21}. $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN139",
@@ -1671,7 +1809,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{a}{2}$"
     ],
     "answer": 1,
-    "explain": "<br>- Xét hệ trục tọa độ $Oxyz$ sao cho $A(0;0;0)$, $B(2a; 0; 0)$, $D(0; a; 0)$, $A'(0; 0; a)$. Ta có $D'(0; a; a)$.<br>- Khi đó $\\vec{BD} = (-2a; a; 0)$, $\\vec{AD'}=(0; a; a)$, $\\vec{AB} = (2a; 0; 0)$.<br>- Ta có $\\vec{AD'} \\wedge \\vec{BD} = (-a^2; -2a^2; 2a^2)$, $(\\vec{AD'} \\wedge \\vec{BD})\\vec{AB} = -2a^3$.<br>- $\\mathrm{d} \\left(AD',BD\\right) = \\dfrac{\\left|(\\vec{AD'} \\wedge \\vec{BD})\\vec{AB}\\right|}{\\left|\\vec{AD'} \\wedge \\vec{BD}\\right|} = \\dfrac{2a^3}{3a^2} = \\dfrac{2a}{3}$."
+    "explain": "<br>- Xét hệ trục tọa độ $Oxyz$ sao cho $A(0;0;0)$, $B(2a; 0; 0)$, $D(0; a; 0)$, $A'(0; 0; a)$. Ta có $D'(0; a; a)$.<br>- Khi đó $\\vec{BD} = (-2a; a; 0)$, $\\vec{AD'}=(0; a; a)$, $\\vec{AB} = (2a; 0; 0)$.<br>- Ta có $\\vec{AD'} \\wedge \\vec{BD} = (-a^2; -2a^2; 2a^2)$, $(\\vec{AD'} \\wedge \\vec{BD})\\vec{AB} = -2a^3$.<br>- $\\mathrm{d} \\left(AD',BD\\right) = \\dfrac{\\left|(\\vec{AD'} \\wedge \\vec{BD})\\vec{AB}\\right|}{\\left|\\vec{AD'} \\wedge \\vec{BD}\\right|} = \\dfrac{2a^3}{3a^2} = \\dfrac{2a}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN140",
@@ -1683,7 +1822,8 @@ window.tracNghiem2H52 = [
       "$90^\\circ$"
     ],
     "answer": 2,
-    "explain": "Dễ dàng chứng minh được các tam giác $ABC$ và $SBC$ là tam giác vuông cân tại $A$ và $S$.<br> Gọi $H$ là trung điểm của cạnh $BC$, suy ra $H$ là tâm đường tròn ngoại tiếp tam giác vuông $ABC$ và $AH=SH=a$. <br> Mặt khác, do $SA=SB=SC$ nên $SH$ là trục của đáy $ABC$, tương tự $AH$ là trục của tam giác $SBC$.<br> Gắn khối chóp vào hệ tọa độ $Oxyz$, với $H(0;0;0)$, $A(a;0;0)$, $C(0;a;0)$, $S(0;0;a)$, $B(0;-a;0)$.  Từ đó ta có $\\vec{SC}=(0;a;-a)=a(0;1;-1)$ và $\\vec{AB}=(-a;-a;0)=-a(1;1;0)$.<br> Gọi $\\varphi$ là góc giữa hai đường thẳng $SC$ và $AB$, suy ra $\\cos\\varphi=\\dfrac{\\left|\\vec{SC}\\cdot\\vec{AB}\\right|}{\\left|\\vec{SC}\\right|\\cdot\\left|\\vec{AB}\\right|}=\\dfrac{1}{\\sqrt{2}\\cdot\\sqrt{2}}=\\dfrac{1}{2}.$ Từ đó suy ra $\\varphi=60^\\circ$."
+    "explain": "Dễ dàng chứng minh được các tam giác $ABC$ và $SBC$ là tam giác vuông cân tại $A$ và $S$.<br> Gọi $H$ là trung điểm của cạnh $BC$, suy ra $H$ là tâm đường tròn ngoại tiếp tam giác vuông $ABC$ và $AH=SH=a$. <br> Mặt khác, do $SA=SB=SC$ nên $SH$ là trục của đáy $ABC$, tương tự $AH$ là trục của tam giác $SBC$.<br> Gắn khối chóp vào hệ tọa độ $Oxyz$, với $H(0;0;0)$, $A(a;0;0)$, $C(0;a;0)$, $S(0;0;a)$, $B(0;-a;0)$.  Từ đó ta có $\\vec{SC}=(0;a;-a)=a(0;1;-1)$ và $\\vec{AB}=(-a;-a;0)=-a(1;1;0)$.<br> Gọi $\\varphi$ là góc giữa hai đường thẳng $SC$ và $AB$, suy ra $\\cos\\varphi=\\dfrac{\\left|\\vec{SC}\\cdot\\vec{AB}\\right|}{\\left|\\vec{SC}\\right|\\cdot\\left|\\vec{AB}\\right|}=\\dfrac{1}{\\sqrt{2}\\cdot\\sqrt{2}}=\\dfrac{1}{2}.$ Từ đó suy ra $\\varphi=60^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN141",
@@ -1695,7 +1835,8 @@ window.tracNghiem2H52 = [
       "$(1;2;3)$"
     ],
     "answer": 1,
-    "explain": "Một vectơ chỉ phương của đường thẳng $d$ có toạ độ là $(2;1;-2)$."
+    "explain": "Một vectơ chỉ phương của đường thẳng $d$ có toạ độ là $(2;1;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN142",
@@ -1707,7 +1848,8 @@ window.tracNghiem2H52 = [
       "$(2;1;1)$"
     ],
     "answer": 2,
-    "explain": "Một vectơ chỉ phương của đường thẳng $d$ có toạ độ là $(2;1;-1)$."
+    "explain": "Một vectơ chỉ phương của đường thẳng $d$ có toạ độ là $(2;1;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN143",
@@ -1719,7 +1861,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{2}=\\dfrac{y-2}{1}=\\dfrac{z+3}{1}$"
     ],
     "answer": 2,
-    "explain": "Phương trình đường thẳng $d$ là $\\dfrac{x-2}{1}=\\dfrac{y+1}{2}=\\dfrac{z-1}{-3}$."
+    "explain": "Phương trình đường thẳng $d$ là $\\dfrac{x-2}{1}=\\dfrac{y+1}{2}=\\dfrac{z-1}{-3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN144",
@@ -1731,7 +1874,8 @@ window.tracNghiem2H52 = [
       "$x=-1+3t \\text{ và } y=t \\text{ và } z=-1+2t$"
     ],
     "answer": 3,
-    "explain": "Đường thẳng $AB$ nhận vectơ $\\vec{AB}=(3;1;2)$ làm một vectơ chỉ phương và đi qua $A(-1;0;1)$ nên có phương trình là $x=-1+3t \\text{ và } y=t \\text{ và } z=-1+2t$."
+    "explain": "Đường thẳng $AB$ nhận vectơ $\\vec{AB}=(3;1;2)$ làm một vectơ chỉ phương và đi qua $A(-1;0;1)$ nên có phương trình là $x=-1+3t \\text{ và } y=t \\text{ và } z=-1+2t$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN145",
@@ -1743,7 +1887,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-2}{1}=\\dfrac{y-1}{2}=\\dfrac{z+3}{1}$"
     ],
     "answer": 0,
-    "explain": "Một vectơ pháp tuyến của mặt phẳng $(P)$ có toạ độ là $(1;-2;1)$, mà đường thẳng $d$ vuông góc với mặt phẳng $(P)$ nên đường thẳng $d$ nhận vectơ có toạ độ $(1;-2;1)$ làm một vectơ chỉ phương. Đồng thời đường thẳng $d$ đi qua $I(2;1;-3)$ nên có phương trình là  $\\dfrac{x-2}{1}=\\dfrac{y-1}{-2}=\\dfrac{z+3}{1}$"
+    "explain": "Một vectơ pháp tuyến của mặt phẳng $(P)$ có toạ độ là $(1;-2;1)$, mà đường thẳng $d$ vuông góc với mặt phẳng $(P)$ nên đường thẳng $d$ nhận vectơ có toạ độ $(1;-2;1)$ làm một vectơ chỉ phương. Đồng thời đường thẳng $d$ đi qua $I(2;1;-3)$ nên có phương trình là  $\\dfrac{x-2}{1}=\\dfrac{y-1}{-2}=\\dfrac{z+3}{1}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN146",
@@ -1755,7 +1900,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}_4=(1;2;3)$"
     ],
     "answer": 3,
-    "explain": "Đường thẳng $d \\colon \\dfrac{x-2}{3}=\\dfrac{y-3}{6}=\\dfrac{z-1}{9}$ có một vectơ chỉ phương là $\\vec{u}_4=(1;2;3)$."
+    "explain": "Đường thẳng $d \\colon \\dfrac{x-2}{3}=\\dfrac{y-3}{6}=\\dfrac{z-1}{9}$ có một vectơ chỉ phương là $\\vec{u}_4=(1;2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN147",
@@ -1767,7 +1913,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{n_4}(-1;1;1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN148",
@@ -1779,7 +1926,8 @@ window.tracNghiem2H52 = [
       "$ \\vec{u_1}=\\left(0;2;0\\right) $"
     ],
     "answer": 2,
-    "explain": "Ta có $ M_1\\left(1;0;0\\right) $ và $ M_2\\left(0;2;0\\right) $. Do đó, $ \\vec{M_1M_2}=\\left(-1;2;0\\right) $ là một véc-tơ chỉ phương của đường thẳng $M_1M_2 $."
+    "explain": "Ta có $ M_1\\left(1;0;0\\right) $ và $ M_2\\left(0;2;0\\right) $. Do đó, $ \\vec{M_1M_2}=\\left(-1;2;0\\right) $ là một véc-tơ chỉ phương của đường thẳng $M_1M_2 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN149",
@@ -1791,7 +1939,8 @@ window.tracNghiem2H52 = [
       "$M\\big(1; 2; - 3\\big)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN150",
@@ -1803,7 +1952,8 @@ window.tracNghiem2H52 = [
       "$\\bar{u}=(-1;3;1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN151",
@@ -1815,7 +1965,8 @@ window.tracNghiem2H52 = [
       "$Q(2;0;4)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN152",
@@ -1827,7 +1978,8 @@ window.tracNghiem2H52 = [
       "$M(2;-3;-2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN153",
@@ -1839,7 +1991,8 @@ window.tracNghiem2H52 = [
       "$z_M=\\dfrac{43}{2}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN154",
@@ -1851,7 +2004,8 @@ window.tracNghiem2H52 = [
       "$7$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN155",
@@ -1863,7 +2017,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u}(1;1;-2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN156",
@@ -1875,7 +2030,8 @@ window.tracNghiem2H52 = [
       "$I(0;-1;-3)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN157",
@@ -1887,7 +2043,8 @@ window.tracNghiem2H52 = [
       "$(1;3;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN158",
@@ -1899,7 +2056,8 @@ window.tracNghiem2H52 = [
       "$C(1; 1; 1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN159",
@@ -1911,7 +2069,8 @@ window.tracNghiem2H52 = [
       "$-8$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN160",
@@ -1923,7 +2082,8 @@ window.tracNghiem2H52 = [
       "$\\left(1;1;-2\\right)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN161",
@@ -1935,7 +2095,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(2;2;3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN162",
@@ -1947,7 +2108,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{4}=\\dfrac{y-2}{-6}=\\dfrac{z-1}{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN163",
@@ -1959,7 +2121,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}x = 3 - 2t\\\\ y = 2 + t\\\\ z = - 2 + 3t\\end{cases}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN164",
@@ -1971,7 +2134,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases} x = -1+2t\\\\ y = 5-3t\\\\ z = -7+4t \\end{cases}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN165",
@@ -1983,7 +2147,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{matrix} x&\\!\\!\\!\\!=&\\!\\!\\!\\!6t\\\\ y&\\!\\!\\!\\!=&\\!\\!\\!\\!4t\\\\ z&\\!\\!\\!\\!=&\\!\\!\\!\\!1-3t \\end{matrix}\\right.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN166",
@@ -1995,7 +2160,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN167",
@@ -2007,7 +2173,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+2}{1}=\\dfrac{y+4}{-3}=\\dfrac{z+1}{2}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN168",
@@ -2019,7 +2186,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x}{2}=\\dfrac{y-2}{-3}=\\dfrac{z+2}{1}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN169",
@@ -2031,7 +2199,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned}x&=2+t,\\\\y&=-2+3t,\\\\z&=-4t.\\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN170",
@@ -2043,7 +2212,8 @@ window.tracNghiem2H52 = [
       "$x+4y-z+1=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN171",
@@ -2055,7 +2225,8 @@ window.tracNghiem2H52 = [
       "$A(2; -1; 0)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN172",
@@ -2067,7 +2238,8 @@ window.tracNghiem2H52 = [
       "$I(3;3;1)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN173",
@@ -2079,7 +2251,8 @@ window.tracNghiem2H52 = [
       "$ d=2$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN174",
@@ -2091,7 +2264,8 @@ window.tracNghiem2H52 = [
       "$h=\\dfrac{10\\sqrt{21}}{21}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN175",
@@ -2103,7 +2277,8 @@ window.tracNghiem2H52 = [
       "$d=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN176",
@@ -2115,7 +2290,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{\\sqrt{6}}{2}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN177",
@@ -2127,7 +2303,8 @@ window.tracNghiem2H52 = [
       "$A\\left(4;-2;1\\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN178",
@@ -2139,7 +2316,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u_4}=(3;5;4)$"
     ],
     "answer": 0,
-    "explain": "<br>- Giải theo tự luận.<br> VTPT của mặt phẳng $(P)$ là $\\vec{n_{P}}=(2;2;-1)$ và $\\vec{AB}=(-2;2;-4)$.<br> Cần nhớ: Mọi điểm trong không gian cách đều 2 điểm $A$ và $B$ đều nằm trên mặt phẳng $(Q)$ là mặt phẳng trung trực của đoạn thẳng $AB$.<br> Do đó $\\Delta=(P)\\cap(Q)$ nên VTCP của $\\Delta$ là $\\vec{u}=\\left[\\vec{n_{P}},\\vec{AB}\\right]=(3;-5;-4)$.<br>- Giải theo kiểu trắc nghiệm đối với bài này.<br> Do $\\Delta$ nằm trong mặt phẳng $(P)$ nên VTCP của $\\Delta$ phải vuông góc với VTPT mặt phẳng $(P)$. Vì vậy ta chỉ cần kiểm tra $\\vec{n_{P}}.\\vec{u}=0$."
+    "explain": "<br>- Giải theo tự luận.<br> VTPT của mặt phẳng $(P)$ là $\\vec{n_{P}}=(2;2;-1)$ và $\\vec{AB}=(-2;2;-4)$.<br> Cần nhớ: Mọi điểm trong không gian cách đều 2 điểm $A$ và $B$ đều nằm trên mặt phẳng $(Q)$ là mặt phẳng trung trực của đoạn thẳng $AB$.<br> Do đó $\\Delta=(P)\\cap(Q)$ nên VTCP của $\\Delta$ là $\\vec{u}=\\left[\\vec{n_{P}},\\vec{AB}\\right]=(3;-5;-4)$.<br>- Giải theo kiểu trắc nghiệm đối với bài này.<br> Do $\\Delta$ nằm trong mặt phẳng $(P)$ nên VTCP của $\\Delta$ phải vuông góc với VTPT mặt phẳng $(P)$. Vì vậy ta chỉ cần kiểm tra $\\vec{n_{P}}.\\vec{u}=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN179",
@@ -2151,7 +2329,8 @@ window.tracNghiem2H52 = [
       "$\\mathrm{d}(M, (P))=2\\sqrt2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN180",
@@ -2163,7 +2342,8 @@ window.tracNghiem2H52 = [
       "$m=-1$ và $d=\\dfrac{3}{\\sqrt{11}}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN181",
@@ -2175,7 +2355,8 @@ window.tracNghiem2H52 = [
       "$\\sqrt{\\dfrac{486}{107}}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN182",
@@ -2187,7 +2368,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{1}{\\sqrt{6}}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN183",
@@ -2199,7 +2381,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{2}{3}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN184",
@@ -2211,7 +2394,8 @@ window.tracNghiem2H52 = [
       "$30^\\circ$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN185",
@@ -2223,7 +2407,8 @@ window.tracNghiem2H52 = [
       "$a=-1$ hoặc $a=1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN186",
@@ -2235,7 +2420,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN187",
@@ -2247,7 +2433,8 @@ window.tracNghiem2H52 = [
       "$(d_1)$ và $(d_2)$ trùng nhau"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN188",
@@ -2259,7 +2446,8 @@ window.tracNghiem2H52 = [
       "$d$ cắt và không vuông góc với $(P)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN189",
@@ -2271,7 +2459,8 @@ window.tracNghiem2H52 = [
       "$d$ song song với $d'$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN190",
@@ -2283,7 +2472,8 @@ window.tracNghiem2H52 = [
       "Vô số"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN191",
@@ -2295,7 +2485,8 @@ window.tracNghiem2H52 = [
       "$ a=-1 $"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN192",
@@ -2307,7 +2498,8 @@ window.tracNghiem2H52 = [
       "$m=-2,n=8 \\text{ hoặc } m=2,n=8$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN193",
@@ -2319,7 +2511,8 @@ window.tracNghiem2H52 = [
       "$\\Delta$ cắt và không vuông góc với $(\\alpha)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN194",
@@ -2331,7 +2524,8 @@ window.tracNghiem2H52 = [
       "$\\Delta _1$ và $\\Delta _2$ song song với nhau"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN195",
@@ -2343,7 +2537,8 @@ window.tracNghiem2H52 = [
       "$k=-\\dfrac{1}{2}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN196",
@@ -2355,7 +2550,8 @@ window.tracNghiem2H52 = [
       "$2x-y-z+4=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN197",
@@ -2367,7 +2563,8 @@ window.tracNghiem2H52 = [
       "$3y-z+15=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN198",
@@ -2379,7 +2576,8 @@ window.tracNghiem2H52 = [
       "$(P):5x-4y+z+10=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN199",
@@ -2391,7 +2589,8 @@ window.tracNghiem2H52 = [
       "$x-y+2z-1=0$"
     ],
     "answer": 0,
-    "explain": "% Có $\\vec{n} = \\left[\\vec{u'},\\vec{u}\\right]=(1;1;-2)$.<br> Chọn $M(0;1;0) \\in d$ và $N(-1;0;1) \\in d'$. Khi đó trung điểm $I$ của đoạn $MN$ thuộc mặt phẳng cần tìm.<br> Ta có $I\\left(-\\dfrac{1}{2};\\dfrac{1}{2};\\dfrac{1}{2}\\right)$, do đó mặt phẳng cần tìm là $x+y-2z+1=0$."
+    "explain": "% Có $\\vec{n} = \\left[\\vec{u'},\\vec{u}\\right]=(1;1;-2)$.<br> Chọn $M(0;1;0) \\in d$ và $N(-1;0;1) \\in d'$. Khi đó trung điểm $I$ của đoạn $MN$ thuộc mặt phẳng cần tìm.<br> Ta có $I\\left(-\\dfrac{1}{2};\\dfrac{1}{2};\\dfrac{1}{2}\\right)$, do đó mặt phẳng cần tìm là $x+y-2z+1=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN200",
@@ -2403,7 +2602,8 @@ window.tracNghiem2H52 = [
       "$x + y - 2 = 0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN201",
@@ -2415,7 +2615,8 @@ window.tracNghiem2H52 = [
       "$14x-4y+8z-17=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN202",
@@ -2427,7 +2628,8 @@ window.tracNghiem2H52 = [
       "$x+y+z-6=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN203",
@@ -2439,7 +2641,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-9}{-1}=\\dfrac{y}{-3}=\\dfrac{z+6}{-4}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN204",
@@ -2451,7 +2654,8 @@ window.tracNghiem2H52 = [
       "$3$"
     ],
     "answer": 0,
-    "explain": "Gọi $\\left(\\alpha\\right)$, $\\left(\\beta\\right)$ lần lượt là hai mặt phẳng chứa $d_1$, $d_2$ và song song với đường thẳng còn lại.<br> Có $\\overrightarrow{n}=\\left[\\overrightarrow{u_1},\\overrightarrow{u_2}\\right]=\\left(1;-1;-2\\right)$<br> Vậy $\\left(\\alpha\\right):x-y-2z+6=0$ và $\\left(\\beta\\right):x-y-2z+2=0$.<br> Có $\\dfrac{MA}{MB}=\\dfrac{d\\left[M,\\left(\\alpha\\right)\\right]}{d\\left[M,\\left(\\beta\\right)\\right]}=5$."
+    "explain": "Gọi $\\left(\\alpha\\right)$, $\\left(\\beta\\right)$ lần lượt là hai mặt phẳng chứa $d_1$, $d_2$ và song song với đường thẳng còn lại.<br> Có $\\overrightarrow{n}=\\left[\\overrightarrow{u_1},\\overrightarrow{u_2}\\right]=\\left(1;-1;-2\\right)$<br> Vậy $\\left(\\alpha\\right):x-y-2z+6=0$ và $\\left(\\beta\\right):x-y-2z+2=0$.<br> Có $\\dfrac{MA}{MB}=\\dfrac{d\\left[M,\\left(\\alpha\\right)\\right]}{d\\left[M,\\left(\\beta\\right)\\right]}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN205",
@@ -2463,7 +2667,8 @@ window.tracNghiem2H52 = [
       "1"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{n} = \\left[\\overrightarrow{u}_{d} , \\overrightarrow{u}_{d'} \\right]=(1;7;-5)$, mặt phẳng $(P)$ qua $M$ với véc tơ pháp tuyến $\\overrightarrow{n}$  có phương trình $x+7y-5z-20=0$, mặt phẳng $(Q)$ chứa $d'$ với véc tơ pháp tuyến $\\overrightarrow{n}$  có phương trình $x+7y-5z-11=0$. Ta có $\\dfrac{AB}{AM} =\\dfrac{d(d,(Q))}{d(d,(P))} = \\dfrac{18}{9}=2$."
+    "explain": "$\\overrightarrow{n} = \\left[\\overrightarrow{u}_{d} , \\overrightarrow{u}_{d'} \\right]=(1;7;-5)$, mặt phẳng $(P)$ qua $M$ với véc tơ pháp tuyến $\\overrightarrow{n}$  có phương trình $x+7y-5z-20=0$, mặt phẳng $(Q)$ chứa $d'$ với véc tơ pháp tuyến $\\overrightarrow{n}$  có phương trình $x+7y-5z-11=0$. Ta có $\\dfrac{AB}{AM} =\\dfrac{d(d,(Q))}{d(d,(P))} = \\dfrac{18}{9}=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN206",
@@ -2475,7 +2680,8 @@ window.tracNghiem2H52 = [
       "$d$ là giao tuyến của hai mặt phẳng $(P):x-2y+3=0$ và $ (Q): x+y+1=0$"
     ],
     "answer": 1,
-    "explain": "Gọi $ A,B $ lần lượt là các điểm thuộc $ d_1,d_2 $, khi đó $ A(-23+8a; -10+4a;a), B(3+2b,-2-2b,b) $.<br> Đường thẳng $ d $ song song với $ Oz $ nên $ \\overrightarrow{AB} =m.\\vec{k} \\Rightarrow \\begin{cases} 8a+2b=26\\\\ 4a+2b =8 \\end{cases} \\Rightarrow A(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{17}{6}), B(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{-5}{3})$.<br> Thay tọa độ $ A,B $ vào các đáp ta chọn được đáp án đúng <strong>B</strong>."
+    "explain": "Gọi $ A,B $ lần lượt là các điểm thuộc $ d_1,d_2 $, khi đó $ A(-23+8a; -10+4a;a), B(3+2b,-2-2b,b) $.<br> Đường thẳng $ d $ song song với $ Oz $ nên $ \\overrightarrow{AB} =m.\\vec{k} \\Rightarrow \\begin{cases} 8a+2b=26\\\\ 4a+2b =8 \\end{cases} \\Rightarrow A(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{17}{6}), B(\\dfrac{-1}{3};\\dfrac{4}{3};\\dfrac{-5}{3})$.<br> Thay tọa độ $ A,B $ vào các đáp ta chọn được đáp án đúng <strong>B</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN207",
@@ -2487,7 +2693,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{-1}=\\dfrac{y}{-3}=\\dfrac{z-1}{4}$"
     ],
     "answer": 0,
-    "explain": "$(P): -2x+2y+z-3=0$ là mặt phẳng đi qua $A$ và vuông góc với $\\Delta_1$. $(P)$ giao với $\\Delta_2$ tại $M(-\\dfrac{1}{4};\\dfrac{1}{4};2)$. Đường thẳng cần tìm chính là đường thẳng $AM$ có phương trình $\\dfrac{x}{-1}=\\dfrac{y-1}{-3}=\\dfrac{z-1}{4}$ nên chọn A."
+    "explain": "$(P): -2x+2y+z-3=0$ là mặt phẳng đi qua $A$ và vuông góc với $\\Delta_1$. $(P)$ giao với $\\Delta_2$ tại $M(-\\dfrac{1}{4};\\dfrac{1}{4};2)$. Đường thẳng cần tìm chính là đường thẳng $AM$ có phương trình $\\dfrac{x}{-1}=\\dfrac{y-1}{-3}=\\dfrac{z-1}{4}$ nên chọn A.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN208",
@@ -2499,7 +2706,8 @@ window.tracNghiem2H52 = [
       "\\(\\dfrac{x}{1}=\\dfrac{y-2}{-1}=\\dfrac{z}{1}\\)"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN209",
@@ -2511,7 +2719,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{1}=\\dfrac{y+1}{1}=\\dfrac{z+2}{1}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN210",
@@ -2523,7 +2732,8 @@ window.tracNghiem2H52 = [
       "$m\\notin\\{-1;1\\}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN211",
@@ -2535,7 +2745,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{5}=\\dfrac{y-2}{4}=\\dfrac{z-3}{3}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN212",
@@ -2547,7 +2758,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+\\dfrac{1}{2}}{7}=\\dfrac{y-1}{1}=\\dfrac{z-\\dfrac{1}{2}}{-4}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN213",
@@ -2559,7 +2771,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+\\frac{1}{2}}{7}=\\dfrac{y-1}{1}=\\dfrac{z-\\frac{1}{2}}{-4}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN214",
@@ -2571,7 +2784,8 @@ window.tracNghiem2H52 = [
       "$I(5;2;-4)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN215",
@@ -2583,7 +2797,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{-2}=\\dfrac{y}{3}=\\dfrac{z-2}{-4}$"
     ],
     "answer": 1,
-    "explain": "Gọi $B(1+t;-1+2t;-t) \\in d_1$. Do đó $\\vec{AB}=(t;2t-1;-t-2)$.<br> Xét $\\vec{AB}.\\vec{u}_{d_2}=0 \\Longleftrightarrow 1.t +2(2t-1)+2(-t-2)=0\\Longleftrightarrow t=2$.<br> Ta có $\\vec{AB}=(2;3;-4)$ chính là vec-tơ chỉ phương của đường thẳng $\\Delta$.<br> Vậy phương trình đường thẳng $\\Delta$ là $x=1+2t \\text{ và } y=3t \\text{ và } z=2-4t$.<br> Với $t=1$ thì đường thẳng $\\Delta$ đi qua điểm $C(3;3;-2)$.<br> Vậy phương trình đường thẳng $\\Delta$ là $\\dfrac{x-3}{2}=\\dfrac{y-3}{3}=\\dfrac{z+2}{-4}$."
+    "explain": "Gọi $B(1+t;-1+2t;-t) \\in d_1$. Do đó $\\vec{AB}=(t;2t-1;-t-2)$.<br> Xét $\\vec{AB}.\\vec{u}_{d_2}=0 \\Longleftrightarrow 1.t +2(2t-1)+2(-t-2)=0\\Longleftrightarrow t=2$.<br> Ta có $\\vec{AB}=(2;3;-4)$ chính là vec-tơ chỉ phương của đường thẳng $\\Delta$.<br> Vậy phương trình đường thẳng $\\Delta$ là $x=1+2t \\text{ và } y=3t \\text{ và } z=2-4t$.<br> Với $t=1$ thì đường thẳng $\\Delta$ đi qua điểm $C(3;3;-2)$.<br> Vậy phương trình đường thẳng $\\Delta$ là $\\dfrac{x-3}{2}=\\dfrac{y-3}{3}=\\dfrac{z+2}{-4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN216",
@@ -2595,7 +2810,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}x = 2 + t\\\\ y = - 1 - 4t\\\\ z = 2t\\end{cases}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN217",
@@ -2607,7 +2823,8 @@ window.tracNghiem2H52 = [
       "$(\\Delta): \\dfrac{x-4}{7}=\\dfrac{y+7}{-5}=\\dfrac{z-7}{3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN218",
@@ -2619,7 +2836,8 @@ window.tracNghiem2H52 = [
       "$d : x=5+5t' \\text{ và } y=6+5t' \\text{ và } z=9+8t'$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN219",
@@ -2631,7 +2849,8 @@ window.tracNghiem2H52 = [
       "$(3;0;-1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN220",
@@ -2643,7 +2862,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{5}=\\dfrac{y+1}{-1}=\\dfrac{z+1}{-3}$"
     ],
     "answer": 2,
-    "explain": "Gọi $I$ là giao điểm của $d$ và $(P)$. Khi đó, $I(1;1;1)$.<br> Hơn nữa, vì $\\Delta$ chứa trong $(P)$ và $\\Delta$ cắt $d$ nên $\\Delta$ đi qua $I$.<br> Mặt khác, vì $\\Delta$ nằm trong $(P)$ và vuông góc với $(d)$ nên $\\Delta$ nhận $\\left[\\vec{n_{(P)}};\\vec{u_d}\\right]=(5;-1;-3)$ làm vec-tơ chỉ phương. <br> Vậy $\\Delta$ có phương trình: $\\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
+    "explain": "Gọi $I$ là giao điểm của $d$ và $(P)$. Khi đó, $I(1;1;1)$.<br> Hơn nữa, vì $\\Delta$ chứa trong $(P)$ và $\\Delta$ cắt $d$ nên $\\Delta$ đi qua $I$.<br> Mặt khác, vì $\\Delta$ nằm trong $(P)$ và vuông góc với $(d)$ nên $\\Delta$ nhận $\\left[\\vec{n_{(P)}};\\vec{u_d}\\right]=(5;-1;-3)$ làm vec-tơ chỉ phương. <br> Vậy $\\Delta$ có phương trình: $\\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN221",
@@ -2655,7 +2875,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\left\\{\\begin{array}{l} x=2+t \\\\ y=\\dfrac{1}{2}-2t \\\\ z=\\dfrac{7}{2} \\end{array}\\right.$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN222",
@@ -2667,7 +2888,8 @@ window.tracNghiem2H52 = [
       "$d:\\dfrac{x}{13}=\\dfrac{y-1}{-28}=\\dfrac{z+1}{20}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN223",
@@ -2679,7 +2901,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}(1;-4;-2)$"
     ],
     "answer": 3,
-    "explain": "Gọi $A$ là giao điểm của $d$ với $\\Delta$. Khi đó, điểm $A$ thuộc $\\Delta$ nên $A(1 + 2t; -1 +t; -t)$ và véc-tơ $\\vec{MA}(2t - 1; t - 2; -t)$ là véc-tơ chỉ phương của $d$.<br> Từ giả thiết $d \\perp \\Delta$ ta được $\\vec{MA}.\\vec{u'}=0$, với $\\vec{u'}(2; 1; -1)$ là véc-tơ chỉ phương của $\\Delta$. Từ đó suy ra được $t = \\dfrac{2}{3}$ và $\\vec{MA}\\left(\\dfrac{1}{3}; -\\dfrac{4}{3}; -\\dfrac{2}{3} \\right) \\parallel \\vec{u}(1;-4;-2)$.<br> Lưu ý cách nhanh: Lấy điểm $N(1; -1; 0) \\in \\Delta$. Khi đó, véc-tơ chỉ phương của đường thẳng $d$ chính là $ \\left[ \\left[\\vec{MN};\\vec{u'}\\right] ; \\vec{u'} \\right]$"
+    "explain": "Gọi $A$ là giao điểm của $d$ với $\\Delta$. Khi đó, điểm $A$ thuộc $\\Delta$ nên $A(1 + 2t; -1 +t; -t)$ và véc-tơ $\\vec{MA}(2t - 1; t - 2; -t)$ là véc-tơ chỉ phương của $d$.<br> Từ giả thiết $d \\perp \\Delta$ ta được $\\vec{MA}.\\vec{u'}=0$, với $\\vec{u'}(2; 1; -1)$ là véc-tơ chỉ phương của $\\Delta$. Từ đó suy ra được $t = \\dfrac{2}{3}$ và $\\vec{MA}\\left(\\dfrac{1}{3}; -\\dfrac{4}{3}; -\\dfrac{2}{3} \\right) \\parallel \\vec{u}(1;-4;-2)$.<br> Lưu ý cách nhanh: Lấy điểm $N(1; -1; 0) \\in \\Delta$. Khi đó, véc-tơ chỉ phương của đường thẳng $d$ chính là $ \\left[ \\left[\\vec{MN};\\vec{u'}\\right] ; \\vec{u'} \\right]$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN224",
@@ -2691,7 +2914,8 @@ window.tracNghiem2H52 = [
       "$\\Delta : x=-1+t \\text{ và } y=2-2t \\text{ và } x=-2t$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN225",
@@ -2703,7 +2927,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{1}=\\dfrac{y}{-3}=\\dfrac{z-2}{1}$"
     ],
     "answer": 1,
-    "explain": "% Gọi $M(1+t;t;-1+2t) \\in d$. Khi đó $\\overrightarrow{AM}=(t;t;2t-3)$.<br> Theo giả thiết ta có $\\overrightarrow{AM}.\\vec{u_d}=0 \\Longrightarrow 1.t+1.t+2(2t-3)=0 \\Longrightarrow t=1$.<br> Vậy $\\overrightarrow{AM}=(1;1;-1)$, suy ra đường thẳng cần tìm là $\\dfrac{x-1}{1}=\\dfrac{y}{1}=\\dfrac{z-2}{-1}$."
+    "explain": "% Gọi $M(1+t;t;-1+2t) \\in d$. Khi đó $\\overrightarrow{AM}=(t;t;2t-3)$.<br> Theo giả thiết ta có $\\overrightarrow{AM}.\\vec{u_d}=0 \\Longrightarrow 1.t+1.t+2(2t-3)=0 \\Longrightarrow t=1$.<br> Vậy $\\overrightarrow{AM}=(1;1;-1)$, suy ra đường thẳng cần tìm là $\\dfrac{x-1}{1}=\\dfrac{y}{1}=\\dfrac{z-2}{-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN226",
@@ -2715,7 +2940,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\dfrac{x-1}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN227",
@@ -2727,7 +2953,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{5}=\\dfrac{y-1}{2}=\\dfrac{z-1}{3}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN228",
@@ -2739,7 +2966,8 @@ window.tracNghiem2H52 = [
       "$\\Delta: \\dfrac{x - 6}{3} = \\dfrac{y + 4}{- 2} = \\dfrac{4 - z}{- 1}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN229",
@@ -2751,7 +2979,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-2}{5}=\\dfrac{y-1}{-1}=\\dfrac{z-1}{-3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN230",
@@ -2763,7 +2992,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x+1}{-2}=\\dfrac{y-2}{1}=\\dfrac{z+5}{-3}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN231",
@@ -2775,7 +3005,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(4;-3;-1)$"
     ],
     "answer": 0,
-    "explain": "Gợi ý. $d$ chính là giao tuyến của $(\\alpha)$ với mặt phẳng trung trực của $AB$."
+    "explain": "Gợi ý. $d$ chính là giao tuyến của $(\\alpha)$ với mặt phẳng trung trực của $AB$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN232",
@@ -2787,7 +3018,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned} x &=1+t\\\\ y &=2-3t\\\\ z &=3+t \\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN233",
@@ -2799,7 +3031,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{\\begin{aligned} x &= 2 + 3t\\\\y &= 1 + 3t\\\\z &= - 2 - t\\end{aligned}\\right.$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN234",
@@ -2811,7 +3044,8 @@ window.tracNghiem2H52 = [
       "$A'(2;-3;-1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN235",
@@ -2823,7 +3057,8 @@ window.tracNghiem2H52 = [
       "$(-1;2;3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN236",
@@ -2835,7 +3070,8 @@ window.tracNghiem2H52 = [
       "$a+b+c=4$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN237",
@@ -2847,7 +3083,8 @@ window.tracNghiem2H52 = [
       "$(0;2;3)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN238",
@@ -2859,7 +3096,8 @@ window.tracNghiem2H52 = [
       "$H(3; -4; 4)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN239",
@@ -2871,7 +3109,8 @@ window.tracNghiem2H52 = [
       "$H(2;-3;1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN240",
@@ -2883,7 +3122,8 @@ window.tracNghiem2H52 = [
       "$A'(5;-15;1)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN241",
@@ -2895,7 +3135,8 @@ window.tracNghiem2H52 = [
       "$\\begin{cases}x=-3\\\\ y=-6-t\\\\ z=7+4t\\end{cases}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN242",
@@ -2907,7 +3148,8 @@ window.tracNghiem2H52 = [
       "$ \\dfrac{x}{1}=\\dfrac{y-1}{3}=\\dfrac{z+5}{8} $"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN243",
@@ -2919,7 +3161,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow u(1;-1;1)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H526TN244",
@@ -2931,7 +3174,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(10;-102;-78)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN245",
@@ -2943,7 +3187,8 @@ window.tracNghiem2H52 = [
       "$\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$"
     ],
     "answer": 3,
-    "explain": "$\\bullet$ Trên đường thẳng $d$ lấy hai điểm $A(-1;2;-3)$ và $B(1;5;-2)$.<br> $\\bullet$ Gọi $A', B'$ lần lượt là hình chiếu của $A,B$ xuống mặt phẳng $(Oxy)$ suy ra $A'(-1;2;0)$ và $B'(1;5;0)$.<br> $\\bullet$ Khi đó hình chiếu $d'$ của $d$ xuống $(Oxy)$ qua hai điểm $A',B'$.<br> Dễ thấy hai điểm $A',B'$ thuộc đường thẳng $\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$"
+    "explain": "$\\bullet$ Trên đường thẳng $d$ lấy hai điểm $A(-1;2;-3)$ và $B(1;5;-2)$.<br> $\\bullet$ Gọi $A', B'$ lần lượt là hình chiếu của $A,B$ xuống mặt phẳng $(Oxy)$ suy ra $A'(-1;2;0)$ và $B'(1;5;0)$.<br> $\\bullet$ Khi đó hình chiếu $d'$ của $d$ xuống $(Oxy)$ qua hai điểm $A',B'$.<br> Dễ thấy hai điểm $A',B'$ thuộc đường thẳng $\\left \\{\\begin{aligned} x& =5-6t\\\\ y &=11-9t\\\\ z &=0 \\end{aligned}\\right.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN246",
@@ -2955,7 +3200,8 @@ window.tracNghiem2H52 = [
       "$\\left\\{ \\begin{aligned}x&=3-t\\\\y&=1+2t\\\\z&=-1+t\\end{aligned} \\right.$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN247",
@@ -2967,7 +3213,8 @@ window.tracNghiem2H52 = [
       "$P(0;-4; 4)$"
     ],
     "answer": 2,
-    "explain": "Điểm $Q(0; 4;-4)$ thuộc $d$."
+    "explain": "Điểm $Q(0; 4;-4)$ thuộc $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN248",
@@ -2979,7 +3226,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{a}=(2;-5;-3)$"
     ],
     "answer": 1,
-    "explain": "Véc-tơ chỉ phương của $d$ là $\\overrightarrow{a}=(2;-5;3)$."
+    "explain": "Véc-tơ chỉ phương của $d$ là $\\overrightarrow{a}=(2;-5;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H524TN249",
@@ -2991,7 +3239,8 @@ window.tracNghiem2H52 = [
       "$M(3;-5;5)$"
     ],
     "answer": 2,
-    "explain": "Gọi $M=d_1 \\cap d_2$.<br>  Phương trình tham số của $d_1$ là $ d_1\\colon x=2t+1 \\text{ và } y=t+7 \\text{ và } z=4t+3.$<br>  Vì $M \\in d_1$ nên tọa độ $M$ có dạng $M(2t+1; t+7; 4t+3)$.<br>  Vì $M \\in d_2$ nên thay tọa độ $M$ vào phương trình $d_2$ ta được  $\\dfrac{2t+1}{3}=\\dfrac{t+4}{-2}=\\dfrac{4t+7}{1}$<br>$\\Leftrightarrow -2(2t+1)=3(t+4) \\text{ và } 2t+1=3(4t+7)$<br>$\\Leftrightarrow -4t-2=3t+12 \\text{ và } 2t+1=12t+21$<br>$\\Leftrightarrow -7t=14 \\text{ và } -10t=20$<br>$\\Leftrightarrow t=-2.$  Vậy giao điểm $M$ có tọa độ là $(-3;5;-5)$."
+    "explain": "Gọi $M=d_1 \\cap d_2$.<br>  Phương trình tham số của $d_1$ là $ d_1\\colon x=2t+1 \\text{ và } y=t+7 \\text{ và } z=4t+3.$<br>  Vì $M \\in d_1$ nên tọa độ $M$ có dạng $M(2t+1; t+7; 4t+3)$.<br>  Vì $M \\in d_2$ nên thay tọa độ $M$ vào phương trình $d_2$ ta được  $\\dfrac{2t+1}{3}=\\dfrac{t+4}{-2}=\\dfrac{4t+7}{1}$<br>$\\Leftrightarrow -2(2t+1)=3(t+4) \\text{ và } 2t+1=3(4t+7)$<br>$\\Leftrightarrow -4t-2=3t+12 \\text{ và } 2t+1=12t+21$<br>$\\Leftrightarrow -7t=14 \\text{ và } -10t=20$<br>$\\Leftrightarrow t=-2.$  Vậy giao điểm $M$ có tọa độ là $(-3;5;-5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN250",
@@ -3003,7 +3252,8 @@ window.tracNghiem2H52 = [
       "$x=1+2t \\text{ và } y=0 \\text{ và } z=3t$"
     ],
     "answer": 1,
-    "explain": "Gọi $M(m;0;0)$, $N(0;0;n)$ là giao điểm của đường thẳng $\\Delta$ với hai trục $Ox$ và $Oz$.<br>  Ta có  $\\overrightarrow{AM}=(m-1; 0;-3)$;  $\\overrightarrow{AN}=(0-1; 0-0; n-3)=(-1; 0; n-3)$.<br>  Vì $\\overrightarrow{AM}=2\\overrightarrow{AN}$ nên ta có hệ  $m-1=2 \\cdot (-1) \\text{ và } 0=2 \\cdot 0 \\text{ và } -3=2 (n-3)$  $\\Leftrightarrow m=-1 \\text{ và } n=\\dfrac{3}{2}.$<br>  Suy ra $M(-1; 0; 0)$ và $N(0; 0; \\dfrac{3}{2})$.<br>  Ta có $\\overrightarrow{MN}=(1; 0;\\dfrac{3}{2})$.<br>  Véc-tơ chỉ phương của đường thẳng $\\Delta$ là $\\overrightarrow{u}=(2;0;3)$.<br>  Vậy phương trình tham số đường thẳng $\\Delta$ đi qua điểm $M(-1;0;0)$ có véc-tơ chỉ phương $\\overrightarrow{u}=(2;0;3)$ là  $x=-1+2t \\text{ và } y=0 \\text{ và } z=3t.$"
+    "explain": "Gọi $M(m;0;0)$, $N(0;0;n)$ là giao điểm của đường thẳng $\\Delta$ với hai trục $Ox$ và $Oz$.<br>  Ta có  $\\overrightarrow{AM}=(m-1; 0;-3)$;  $\\overrightarrow{AN}=(0-1; 0-0; n-3)=(-1; 0; n-3)$.<br>  Vì $\\overrightarrow{AM}=2\\overrightarrow{AN}$ nên ta có hệ  $m-1=2 \\cdot (-1) \\text{ và } 0=2 \\cdot 0 \\text{ và } -3=2 (n-3)$  $\\Leftrightarrow m=-1 \\text{ và } n=\\dfrac{3}{2}.$<br>  Suy ra $M(-1; 0; 0)$ và $N(0; 0; \\dfrac{3}{2})$.<br>  Ta có $\\overrightarrow{MN}=(1; 0;\\dfrac{3}{2})$.<br>  Véc-tơ chỉ phương của đường thẳng $\\Delta$ là $\\overrightarrow{u}=(2;0;3)$.<br>  Vậy phương trình tham số đường thẳng $\\Delta$ đi qua điểm $M(-1;0;0)$ có véc-tơ chỉ phương $\\overrightarrow{u}=(2;0;3)$ là  $x=-1+2t \\text{ và } y=0 \\text{ và } z=3t.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN251",
@@ -3015,7 +3265,8 @@ window.tracNghiem2H52 = [
       "$\\cos \\left(\\Delta, (P)\\right)=\\dfrac{a\\cdot A+b\\cdot B+c\\cdot C}{\\sqrt{a^2+b^2+c^2}\\cdot \\sqrt{A^2+B^2+C^2}}$"
     ],
     "answer": 2,
-    "explain": "Vì đường thẳng $\\Delta$ có vectơ chỉ phương $\\overrightarrow{u} = (a;b;c)$ và mặt phẳng $(P)$ có vectơ pháp tuyến $\\overrightarrow{n} = (A;B;C)$ nên góc giữa đường thẳng $\\Delta$ và mặt phẳng $(P)$ được tính theo công thức  $\\sin \\left(\\Delta, (P)\\right)=\\dfrac{\\left|a\\cdot A+b\\cdot B+c\\cdot C\\right|}{\\sqrt{a^2+b^2+c^2}\\cdot \\sqrt{A^2+B^2+C^2}}.$"
+    "explain": "Vì đường thẳng $\\Delta$ có vectơ chỉ phương $\\overrightarrow{u} = (a;b;c)$ và mặt phẳng $(P)$ có vectơ pháp tuyến $\\overrightarrow{n} = (A;B;C)$ nên góc giữa đường thẳng $\\Delta$ và mặt phẳng $(P)$ được tính theo công thức  $\\sin \\left(\\Delta, (P)\\right)=\\dfrac{\\left|a\\cdot A+b\\cdot B+c\\cdot C\\right|}{\\sqrt{a^2+b^2+c^2}\\cdot \\sqrt{A^2+B^2+C^2}}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN252",
@@ -3027,7 +3278,8 @@ window.tracNghiem2H52 = [
       "$x=-2+2t \\text{ và } y=-3t \\text{ và } z=1+t$"
     ],
     "answer": 2,
-    "explain": "Đường thẳng đi qua $M(2;0;-1)$ có vectơ chỉ phương $\\vec{a}=(2;-3;1)$ có dạng $x=2+2t \\text{ và } y=-3t \\text{ và } z=-1+t$."
+    "explain": "Đường thẳng đi qua $M(2;0;-1)$ có vectơ chỉ phương $\\vec{a}=(2;-3;1)$ có dạng $x=2+2t \\text{ và } y=-3t \\text{ và } z=-1+t$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN253",
@@ -3039,7 +3291,8 @@ window.tracNghiem2H52 = [
       "$99$"
     ],
     "answer": 0,
-    "explain": "Gọi $M(a;b;c)$ là tọa độ của du khách khi ở độ cao $12$ mét.<br>  Ta có $\\overrightarrow{AB}=(18;25;-5)$.<br>  Phương trình đường thẳng $AB\\colon x=3+18t \\text{ và } y=3+25t \\text{ và } z=15-5t. (t\\in\\mathbb{R})$<br>  Khi ở độ cao $12$ mét tức $z=12$ suy ra $t=\\dfrac{3}{5}$.<br>  Suy ra tọa độ điểm $M\\left(\\dfrac{69}{5};18;12\\right)$.<br>  Vậy $P=5a+b-c=5\\cdot\\dfrac{69}{5}+18-12=75$."
+    "explain": "Gọi $M(a;b;c)$ là tọa độ của du khách khi ở độ cao $12$ mét.<br>  Ta có $\\overrightarrow{AB}=(18;25;-5)$.<br>  Phương trình đường thẳng $AB\\colon x=3+18t \\text{ và } y=3+25t \\text{ và } z=15-5t. (t\\in\\mathbb{R})$<br>  Khi ở độ cao $12$ mét tức $z=12$ suy ra $t=\\dfrac{3}{5}$.<br>  Suy ra tọa độ điểm $M\\left(\\dfrac{69}{5};18;12\\right)$.<br>  Vậy $P=5a+b-c=5\\cdot\\dfrac{69}{5}+18-12=75$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN254",
@@ -3051,7 +3304,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u_3}=(2;5;3)$"
     ],
     "answer": 2,
-    "explain": "Vectơ chỉ phương của đường thẳng $d$ là $\\vec{u}=(2;-5;3)$."
+    "explain": "Vectơ chỉ phương của đường thẳng $d$ là $\\vec{u}=(2;-5;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN255",
@@ -3063,7 +3317,8 @@ window.tracNghiem2H52 = [
       "$5\\sqrt{2}$"
     ],
     "answer": 2,
-    "explain": "Gọi $d$ là giao tuyến của hai mặt phẳng $(P)$ và $(Q)$.<br>  Khi đó đường thẳng $d$ thỏa hệ $x-2y+5=0 \\text{ và } x-2y-3z+20=0.$<br>  Đặt $y=t$, ta có $d\\colon x=-5+2t \\text{ và } y=t \\text{ và } z=5$.<br>  Chọn $t=0$, ta có $M(-5;0;5)\\in d$.<br>  Chiều cao của ngôi nhà $\\mathrm{d}(M, (Oxy))=5$."
+    "explain": "Gọi $d$ là giao tuyến của hai mặt phẳng $(P)$ và $(Q)$.<br>  Khi đó đường thẳng $d$ thỏa hệ $x-2y+5=0 \\text{ và } x-2y-3z+20=0.$<br>  Đặt $y=t$, ta có $d\\colon x=-5+2t \\text{ và } y=t \\text{ và } z=5$.<br>  Chọn $t=0$, ta có $M(-5;0;5)\\in d$.<br>  Chiều cao của ngôi nhà $\\mathrm{d}(M, (Oxy))=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN256",
@@ -3075,7 +3330,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{-1}=\\dfrac{y-2}{2}=\\dfrac{z+3}{1}$"
     ],
     "answer": 3,
-    "explain": "Phương trình đường thẳng $\\Delta \\colon \\dfrac{x-1}{-1}=\\dfrac{y-2}{2}=\\dfrac{z+3}{1}$."
+    "explain": "Phương trình đường thẳng $\\Delta \\colon \\dfrac{x-1}{-1}=\\dfrac{y-2}{2}=\\dfrac{z+3}{1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN257",
@@ -3087,7 +3343,8 @@ window.tracNghiem2H52 = [
       "$N(-2; 1; -3)$"
     ],
     "answer": 2,
-    "explain": "Nhận ra, điểm $M(2; -1; 3) \\in d$ vì $2=2- t \\text{ và } -1 = -1+2t \\text{ và } 3 = 3-3t\\Rightarrow t = 0$."
+    "explain": "Nhận ra, điểm $M(2; -1; 3) \\in d$ vì $2=2- t \\text{ và } -1 = -1+2t \\text{ và } 3 = 3-3t\\Rightarrow t = 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN258",
@@ -3099,7 +3356,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u}_2 = (1;-1;2)$"
     ],
     "answer": 3,
-    "explain": "Đường thẳng $d\\colon\\dfrac{x + 1}{1} = \\dfrac{y - 3}{-1} = \\dfrac{z - 2}{2}$ có một vectơ chỉ phương là $\\overrightarrow{u} = (1;-1;2)$."
+    "explain": "Đường thẳng $d\\colon\\dfrac{x + 1}{1} = \\dfrac{y - 3}{-1} = \\dfrac{z - 2}{2}$ có một vectơ chỉ phương là $\\overrightarrow{u} = (1;-1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN259",
@@ -3111,7 +3369,8 @@ window.tracNghiem2H52 = [
       "$x=-2+3t \\text{ và } y=4-t \\text{ và } z=5+4t$"
     ],
     "answer": 0,
-    "explain": "Đường thẳng đi qua điểm $M(3;-1;4)$ và có vectơ chỉ phương $\\overrightarrow{u}=(-2;4;5)$ có phương trình tham số là $x=3-2t \\text{ và } y=-1+4t \\text{ và } z=4+5t.$"
+    "explain": "Đường thẳng đi qua điểm $M(3;-1;4)$ và có vectơ chỉ phương $\\overrightarrow{u}=(-2;4;5)$ có phương trình tham số là $x=3-2t \\text{ và } y=-1+4t \\text{ và } z=4+5t.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H521TN260",
@@ -3123,7 +3382,8 @@ window.tracNghiem2H52 = [
       "$\\Delta_1$ và $\\Delta_2$ không vuông góc với nhau"
     ],
     "answer": 2,
-    "explain": "$\\Delta_1\\colon \\dfrac{x-1}{2} = \\dfrac{y+2}{-1} = \\dfrac{z-1}{3}$ có một vectơ chỉ phương là $\\overrightarrow{u}_1=(2;-1;3)$ <br>  $\\Delta_2\\colon \\dfrac{x-3}{-1} = \\dfrac{y-1}{1} = \\dfrac{z+2}{1}$ có một vectơ chỉ phương là $\\overrightarrow{u}_2=(-1;1;1)$ <br>  Ta có  $\\overrightarrow{u}_1\\perp \\overrightarrow{u}_2$ vì $\\overrightarrow{u}_1 \\cdot \\overrightarrow{u}_2 = 2\\cdot(-1) + (-1)\\cdot1 + 3\\cdot1 = -2 - 1 + 3 = 0$.<br>  Vậy $\\Delta_1$ và $\\Delta_2$ vuông góc với nhau."
+    "explain": "$\\Delta_1\\colon \\dfrac{x-1}{2} = \\dfrac{y+2}{-1} = \\dfrac{z-1}{3}$ có một vectơ chỉ phương là $\\overrightarrow{u}_1=(2;-1;3)$ <br>  $\\Delta_2\\colon \\dfrac{x-3}{-1} = \\dfrac{y-1}{1} = \\dfrac{z+2}{1}$ có một vectơ chỉ phương là $\\overrightarrow{u}_2=(-1;1;1)$ <br>  Ta có  $\\overrightarrow{u}_1\\perp \\overrightarrow{u}_2$ vì $\\overrightarrow{u}_1 \\cdot \\overrightarrow{u}_2 = 2\\cdot(-1) + (-1)\\cdot1 + 3\\cdot1 = -2 - 1 + 3 = 0$.<br>  Vậy $\\Delta_1$ và $\\Delta_2$ vuông góc với nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H528TN261",
@@ -3135,7 +3395,8 @@ window.tracNghiem2H52 = [
       "$P = -2$"
     ],
     "answer": 0,
-    "explain": "Đường đi của viên đạn là đường thẳng $d$ đi qua $A(3;2;5)$ và có vec tơ chỉ phương $\\overrightarrow{v}=(1;3;4)$ có phương trình là $x=3+t \\text{ và } y=2+3t \\text{ và } z=5+4t$.<br>  Trong đó $A$ là thời điểm ban đầu ứng với $t=0$.<br>  Vì viên đạn trúng mục tiêu là điểm $B(a;b;13)$ nên $B\\in d$, suy ra<br>  $x=3+t \\text{ và } y=2+3t \\text{ và } 13=5+4t\\Leftrightarrow x=5 \\text{ và } y=8 \\text{ và } t=2\\Rightarrow B(5;8;13)\\Rightarrow a=5 \\text{ và } b=8$.<br>  Vậy $P = 2a - b=2\\cdot5-8=2$."
+    "explain": "Đường đi của viên đạn là đường thẳng $d$ đi qua $A(3;2;5)$ và có vec tơ chỉ phương $\\overrightarrow{v}=(1;3;4)$ có phương trình là $x=3+t \\text{ và } y=2+3t \\text{ và } z=5+4t$.<br>  Trong đó $A$ là thời điểm ban đầu ứng với $t=0$.<br>  Vì viên đạn trúng mục tiêu là điểm $B(a;b;13)$ nên $B\\in d$, suy ra<br>  $x=3+t \\text{ và } y=2+3t \\text{ và } 13=5+4t\\Leftrightarrow x=5 \\text{ và } y=8 \\text{ và } t=2\\Rightarrow B(5;8;13)\\Rightarrow a=5 \\text{ và } b=8$.<br>  Vậy $P = 2a - b=2\\cdot5-8=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN262",
@@ -3147,7 +3408,8 @@ window.tracNghiem2H52 = [
       "$\\vec{v} = \\left(\\dfrac{1}{2}; 0; -1\\right)$"
     ],
     "answer": 2,
-    "explain": "Ta có $d$ có vectơ chỉ phương $\\vec{a} = (-1; 0; 2)$.<br>  Kiểm tra từng vectơ   <br>- $\\vec{m} = (-2; 0; 4) = 2\\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{n} = (1; 0; -2) = -1\\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{v} = \\left(\\dfrac{1}{2}; 0; -1\\right) = -\\dfrac{1}{2} \\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{u} = (-1; -2; 2)$ có tung độ $y = -2 \\ne 0 \\Rightarrow$ không cùng phương với $\\vec{a}$.  Vậy $\\vec{u}$ không phải là vectơ chỉ phương của $d$."
+    "explain": "Ta có $d$ có vectơ chỉ phương $\\vec{a} = (-1; 0; 2)$.<br>  Kiểm tra từng vectơ   <br>- $\\vec{m} = (-2; 0; 4) = 2\\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{n} = (1; 0; -2) = -1\\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{v} = \\left(\\dfrac{1}{2}; 0; -1\\right) = -\\dfrac{1}{2} \\vec{a} \\Rightarrow$ là vectơ chỉ phương.<br>- $\\vec{u} = (-1; -2; 2)$ có tung độ $y = -2 \\ne 0 \\Rightarrow$ không cùng phương với $\\vec{a}$.  Vậy $\\vec{u}$ không phải là vectơ chỉ phương của $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN263",
@@ -3159,7 +3421,8 @@ window.tracNghiem2H52 = [
       "$a + b + c = 7$"
     ],
     "answer": 0,
-    "explain": "Đường thẳng $d$ có dạng tham số $x=1+2t \\text{ và } y=-t \\text{ và } z=t.$<br>  Thay vào mặt phẳng  \\[  (1 + 2t) + 2(-t) - t + 2 = 0 \\Rightarrow 1 + 2t - 2t - t + 2 = 0\\Rightarrow t = 3.  \\]  Khi đó $M(1 + 6, -3, 3) = (7, -3, 3)$. Vậy $a+b+c=7$."
+    "explain": "Đường thẳng $d$ có dạng tham số $x=1+2t \\text{ và } y=-t \\text{ và } z=t.$<br>  Thay vào mặt phẳng  \\[  (1 + 2t) + 2(-t) - t + 2 = 0 \\Rightarrow 1 + 2t - 2t - t + 2 = 0\\Rightarrow t = 3.  \\]  Khi đó $M(1 + 6, -3, 3) = (7, -3, 3)$. Vậy $a+b+c=7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN264",
@@ -3171,7 +3434,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{2\\sqrt{3}}{3}$"
     ],
     "answer": 0,
-    "explain": "Đường thẳng $d$ có tâm $I(1;0;-2)$ (lấy $1$ điểm trên $d$).<br>   Gọi $R$ là bán kính đường tròn $(C)$. Vì khoảng cách giữa hai đường thẳng $d_1$, $d_2$ là $2R$, và mỗi đường cách $d$ một khoảng $R$, nên ta có  \\[  R = \\sqrt{2 - d^2(I; (P))}.  \\]  Khoảng cách từ $I(1;0;-2)$ đến mặt phẳng $(P)\\colon x + 2y + z - 1 = 0$ là \\[  \\mathrm{d} = \\dfrac{|1 + 2 \\cdot 0 + (-2) - 1|}{\\sqrt{1^2 + 2^2 + 1^2}} = \\dfrac{|-2|}{\\sqrt{6}} = \\dfrac{2}{\\sqrt{6}} = \\dfrac{\\sqrt{6}}{3}  \\Rightarrow \\mathrm{d}^2 = \\left(\\dfrac{\\sqrt{6}}{3}\\right)^2 = \\dfrac{6}{9} = \\dfrac{2}{3}.  \\]  Vậy  \\[  R = \\sqrt{2 - \\dfrac{2}{3}} = \\sqrt{\\dfrac{1}{3}} = \\dfrac{\\sqrt{3}}{3}.  \\]  Do $(C)$ tiếp xúc với $d_1$, $d_2$ nên $R = \\dfrac{\\sqrt{3}}{3}$."
+    "explain": "Đường thẳng $d$ có tâm $I(1;0;-2)$ (lấy $1$ điểm trên $d$).<br>   Gọi $R$ là bán kính đường tròn $(C)$. Vì khoảng cách giữa hai đường thẳng $d_1$, $d_2$ là $2R$, và mỗi đường cách $d$ một khoảng $R$, nên ta có  \\[  R = \\sqrt{2 - d^2(I; (P))}.  \\]  Khoảng cách từ $I(1;0;-2)$ đến mặt phẳng $(P)\\colon x + 2y + z - 1 = 0$ là \\[  \\mathrm{d} = \\dfrac{|1 + 2 \\cdot 0 + (-2) - 1|}{\\sqrt{1^2 + 2^2 + 1^2}} = \\dfrac{|-2|}{\\sqrt{6}} = \\dfrac{2}{\\sqrt{6}} = \\dfrac{\\sqrt{6}}{3}  \\Rightarrow \\mathrm{d}^2 = \\left(\\dfrac{\\sqrt{6}}{3}\\right)^2 = \\dfrac{6}{9} = \\dfrac{2}{3}.  \\]  Vậy  \\[  R = \\sqrt{2 - \\dfrac{2}{3}} = \\sqrt{\\dfrac{1}{3}} = \\dfrac{\\sqrt{3}}{3}.  \\]  Do $(C)$ tiếp xúc với $d_1$, $d_2$ nên $R = \\dfrac{\\sqrt{3}}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN265",
@@ -3183,7 +3447,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u}_3=(-8; 6;-3)$"
     ],
     "answer": 2,
-    "explain": "Vectơ chỉ phương cùa đường thẳng $\\Delta$ là $\\overrightarrow{u}_1=(8; 6; 3)$."
+    "explain": "Vectơ chỉ phương cùa đường thẳng $\\Delta$ là $\\overrightarrow{u}_1=(8; 6; 3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN266",
@@ -3195,7 +3460,8 @@ window.tracNghiem2H52 = [
       "$Q(1;-2;-1)$"
     ],
     "answer": 2,
-    "explain": "Điểm $P(-1; 2; 1)$ thuộc đường thẳng $d: \\dfrac{x+1}{-1}=\\dfrac{y-2}{3}=\\dfrac{z-1}{3}$."
+    "explain": "Điểm $P(-1; 2; 1)$ thuộc đường thẳng $d: \\dfrac{x+1}{-1}=\\dfrac{y-2}{3}=\\dfrac{z-1}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN267",
@@ -3207,7 +3473,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{2}=\\dfrac{y-1}{3}=\\dfrac{z+1}{2}$"
     ],
     "answer": 0,
-    "explain": "Phương trình đường thẳng đi qua điểm $P(1; 1;-1)$ và có vectơ chỉ phương $\\overrightarrow{u}=(1; 2; 3)$ là $\\dfrac{x-1}{1}=\\dfrac{y-1}{2}=\\dfrac{z+1}{3}$."
+    "explain": "Phương trình đường thẳng đi qua điểm $P(1; 1;-1)$ và có vectơ chỉ phương $\\overrightarrow{u}=(1; 2; 3)$ là $\\dfrac{x-1}{1}=\\dfrac{y-1}{2}=\\dfrac{z+1}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN268",
@@ -3219,7 +3486,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x - 1}{2} = \\dfrac{y + 2}{1} = \\dfrac{z - 3}{-1}$"
     ],
     "answer": 0,
-    "explain": "Đường thẳng đi qua $M(2;1;-1)$, nhận $\\overrightarrow{u} = (1;-2;3)$ làm vectơ chỉ phương có phương trình là  $  \\dfrac{x - 2}{1} = \\dfrac{y - 1}{-2} = \\dfrac{z + 1}{3}.  $"
+    "explain": "Đường thẳng đi qua $M(2;1;-1)$, nhận $\\overrightarrow{u} = (1;-2;3)$ làm vectơ chỉ phương có phương trình là  $  \\dfrac{x - 2}{1} = \\dfrac{y - 1}{-2} = \\dfrac{z + 1}{3}.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN269",
@@ -3231,7 +3499,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u}=(0 ; 1 ; 2)$"
     ],
     "answer": 0,
-    "explain": "Vectơ chỉ phương của đường thẳng $d$ là $\\overrightarrow{u}=(0 ; 1 ;-1)$."
+    "explain": "Vectơ chỉ phương của đường thẳng $d$ là $\\overrightarrow{u}=(0 ; 1 ;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H527TN270",
@@ -3243,7 +3512,8 @@ window.tracNghiem2H52 = [
       "$60^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "$\\cos(d_1,d_2)=\\dfrac{\\left|\\overrightarrow{u_1}\\cdot\\overrightarrow{u_2}\\right|}{\\left|\\overrightarrow{u_1}\\right|\\cdot \\left|\\overrightarrow{u_2}\\right|}=\\dfrac{|1\\cdot(-1)+(-1)\\cdot 1+2\\cdot1|}{\\sqrt{1^2+(-1)^2+2^2}\\cdot\\sqrt{(-1)^2+1^2+1^2}}=0$.<br>  Suy ra $(d_1,d_2)=90^\\circ$."
+    "explain": "$\\cos(d_1,d_2)=\\dfrac{\\left|\\overrightarrow{u_1}\\cdot\\overrightarrow{u_2}\\right|}{\\left|\\overrightarrow{u_1}\\right|\\cdot \\left|\\overrightarrow{u_2}\\right|}=\\dfrac{|1\\cdot(-1)+(-1)\\cdot 1+2\\cdot1|}{\\sqrt{1^2+(-1)^2+2^2}\\cdot\\sqrt{(-1)^2+1^2+1^2}}=0$.<br>  Suy ra $(d_1,d_2)=90^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN271",
@@ -3255,7 +3525,8 @@ window.tracNghiem2H52 = [
       "$x=-2+4t \\text{ và } y=-6t \\text{ và } z=1+2t$"
     ],
     "answer": 2,
-    "explain": "$d$ đi qua $M(2 ; 0 ;-1)$ và có véctơ chỉ phương $\\overrightarrow{a}=(2 ;-3 ; 1)$ là $d\\colonx=2+2t \\text{ và } y=-3t \\text{ và } z=-1+t.$"
+    "explain": "$d$ đi qua $M(2 ; 0 ;-1)$ và có véctơ chỉ phương $\\overrightarrow{a}=(2 ;-3 ; 1)$ là $d\\colonx=2+2t \\text{ và } y=-3t \\text{ và } z=-1+t.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN272",
@@ -3267,7 +3538,8 @@ window.tracNghiem2H52 = [
       "$x=5+2t \\text{ và } y=2+2t \\text{ và } -3-1t$"
     ],
     "answer": 0,
-    "explain": "Phương trình đường thẳng đi qua điểm $M(2;2;1)$ và có một vectơ chỉ phương $\\overrightarrow{n}=(2;3;-1)$ là $d\\colonx=2+5t \\text{ và } y=2+2t \\text{ và } -1-3t.$"
+    "explain": "Phương trình đường thẳng đi qua điểm $M(2;2;1)$ và có một vectơ chỉ phương $\\overrightarrow{n}=(2;3;-1)$ là $d\\colonx=2+5t \\text{ và } y=2+2t \\text{ và } -1-3t.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H525TN273",
@@ -3279,7 +3551,8 @@ window.tracNghiem2H52 = [
       "$\\dfrac{x-1}{-1}=\\dfrac{y+3}{-3}=\\dfrac{z+1}{1}$"
     ],
     "answer": 1,
-    "explain": "Nếu đường thẳng $d$ song song với mặt phẳng $(P)$ thì véc-tơ chỉ phương của $d$ phải vuông góc với véc-tơ pháp tuyến của $(P)$. <br>  Trong các đường thẳng đã cho, chỉ có đường thẳng $\\dfrac{x+1}{-1}=\\dfrac{y-2}{3}=\\dfrac{z}{1}$ thỏa mãn."
+    "explain": "Nếu đường thẳng $d$ song song với mặt phẳng $(P)$ thì véc-tơ chỉ phương của $d$ phải vuông góc với véc-tơ pháp tuyến của $(P)$. <br>  Trong các đường thẳng đã cho, chỉ có đường thẳng $\\dfrac{x+1}{-1}=\\dfrac{y-2}{3}=\\dfrac{z}{1}$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN274",
@@ -3291,7 +3564,8 @@ window.tracNghiem2H52 = [
       "$D(1;0;-4)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\dfrac{1+1}{2}=\\dfrac{0-1}{-1}=\\dfrac{-4+2}{-2}=1$ nên điểm $D(1;0;-4)$ thuộc đường thẳng $d$."
+    "explain": "Ta có $\\dfrac{1+1}{2}=\\dfrac{0-1}{-1}=\\dfrac{-4+2}{-2}=1$ nên điểm $D(1;0;-4)$ thuộc đường thẳng $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN1",
@@ -3303,7 +3577,8 @@ window.tracNghiem2H52 = [
       "$\\overrightarrow{u}_4=(-2;1;0)$"
     ],
     "answer": 3,
-    "explain": "Véc-tơ chỉ phương của đường thẳng $d$ là $\\overrightarrow{u}_2=(-2;1;0)$."
+    "explain": "Véc-tơ chỉ phương của đường thẳng $d$ là $\\overrightarrow{u}_2=(-2;1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H522TN2",
@@ -3315,7 +3590,8 @@ window.tracNghiem2H52 = [
       "$\\vec{u}=(1;-2;2)$"
     ],
     "answer": 0,
-    "explain": "Một vectơ chỉ phương của $d\\colon x=3+t \\text{ và } y=1-2t \\text{ và } z=2$ là $\\vec{u}=(1;-2; 0)$."
+    "explain": "Một vectơ chỉ phương của $d\\colon x=3+t \\text{ và } y=1-2t \\text{ và } z=2$ là $\\vec{u}=(1;-2; 0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN275",
@@ -3327,7 +3603,8 @@ window.tracNghiem2H52 = [
       "$x=3 \\text{ và } y=-1+t \\text{ và } z=0.$"
     ],
     "answer": 1,
-    "explain": "Đường thẳng này vuông góc với mặt phẳng $Oxz$ nên $\\overrightarrow{u}=\\overrightarrow{n}_{(Oxz)}=(0;1;0)$.<br>  Khi đó phương trình tham số của đường thẳng này là $x=3 \\text{ và } y=-1+t \\text{ và } z=0.$"
+    "explain": "Đường thẳng này vuông góc với mặt phẳng $Oxz$ nên $\\overrightarrow{u}=\\overrightarrow{n}_{(Oxz)}=(0;1;0)$.<br>  Khi đó phương trình tham số của đường thẳng này là $x=3 \\text{ và } y=-1+t \\text{ và } z=0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H523TN1",
@@ -3339,6 +3616,7 @@ window.tracNghiem2H52 = [
       "$Q(-3;1;0)$"
     ],
     "answer": 0,
-    "explain": "Véc-tơ chỉ phương của đường thẳng $AB$ là $\\overrightarrow{AB} = (4;-6;6) = 2(2;-3;3)$.<br>  Phương trình tham số của đường thẳng $AB$ là $x=-3+2t \\text{ và } y=1-3t \\text{ và } z=-4+3t.$<br>  Gọi $M=AB\\cap (Oxy)$, khi đó $M$ có tọa độ là $M\\left(-3+2t,1-3t,-4+3t\\right)$.<br>  Ta có $M\\in (Oxy)$ nên ta có $-4+3t=0 \\Leftrightarrow t = \\dfrac{4}{3}$.<br>  Vậy giao điểm là $M\\left(-\\dfrac{1}{3};-3;0\\right)$."
+    "explain": "Véc-tơ chỉ phương của đường thẳng $AB$ là $\\overrightarrow{AB} = (4;-6;6) = 2(2;-3;3)$.<br>  Phương trình tham số của đường thẳng $AB$ là $x=-3+2t \\text{ và } y=1-3t \\text{ và } z=-4+3t.$<br>  Gọi $M=AB\\cap (Oxy)$, khi đó $M$ có tọa độ là $M\\left(-3+2t,1-3t,-4+3t\\right)$.<br>  Ta có $M\\in (Oxy)$ nên ta có $-4+3t=0 \\Leftrightarrow t = \\dfrac{4}{3}$.<br>  Vậy giao điểm là $M\\left(-\\dfrac{1}{3};-3;0\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

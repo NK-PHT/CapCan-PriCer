@@ -15,7 +15,8 @@ window.tracNghiem2H21 = [
       "$5a\\sqrt{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\vec{AC}+\\vec{C'D'}=\\vec{AC}+\\vec{CD}=\\vec{AD}$.<br> Suy ra $\\left|\\vec{AC}+\\vec{C'D'}\\right|=AD=5a$."
+    "explain": "Ta có $\\vec{AC}+\\vec{C'D'}=\\vec{AC}+\\vec{CD}=\\vec{AD}$.<br> Suy ra $\\left|\\vec{AC}+\\vec{C'D'}\\right|=AD=5a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2H21 = [
       "$9a^2$"
     ],
     "answer": 3,
-    "explain": "Ta có   $\\vec{B'D'}\\cdot \\vec{AD}=\\vec{BD}\\cdot \\vec{AD}=\\vec{DB}\\cdot \\vec{DA}$<br>$= \\dfrac{\\vec{DB}^2+\\vec{DA}^2-\\vec{AB}^2}{2}=\\dfrac{DB^2+DA^2-AB^2}{2}$<br>$= \\dfrac{\\left(3a\\sqrt{2}\\right)^2+(3a)^2-(3a)^2}{2}=9a^2.$"
+    "explain": "Ta có   $\\vec{B'D'}\\cdot \\vec{AD}=\\vec{BD}\\cdot \\vec{AD}=\\vec{DB}\\cdot \\vec{DA}$<br>$= \\dfrac{\\vec{DB}^2+\\vec{DA}^2-\\vec{AB}^2}{2}=\\dfrac{DB^2+DA^2-AB^2}{2}$<br>$= \\dfrac{\\left(3a\\sqrt{2}\\right)^2+(3a)^2-(3a)^2}{2}=9a^2.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{OA} = \\overrightarrow{OB} - \\overrightarrow{BA}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{OA} = \\overrightarrow{CA} - \\overrightarrow{CO}$."
+    "explain": "Ta có $\\overrightarrow{OA} = \\overrightarrow{CA} - \\overrightarrow{CO}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2H21 = [
       "$\\dfrac{9}{2}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AC} \\cdot \\overrightarrow{B'D'}=\\overrightarrow{AC} \\cdot \\overrightarrow{BD}=\\left|\\overrightarrow{AC}\\right|\\cdot\\left|\\overrightarrow{BD}\\right|\\cdot \\cos\\left(\\overrightarrow{AC},\\overrightarrow{BD}\\right)=3\\sqrt{2}\\cdot 3\\sqrt{2}\\cos 90^\\circ=0$."
+    "explain": "Ta có $\\overrightarrow{AC} \\cdot \\overrightarrow{B'D'}=\\overrightarrow{AC} \\cdot \\overrightarrow{BD}=\\left|\\overrightarrow{AC}\\right|\\cdot\\left|\\overrightarrow{BD}\\right|\\cdot \\cos\\left(\\overrightarrow{AC},\\overrightarrow{BD}\\right)=3\\sqrt{2}\\cdot 3\\sqrt{2}\\cos 90^\\circ=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A'C}$"
     ],
     "answer": 3,
-    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{A'C}=\\overrightarrow{A'A} + \\overrightarrow{A'B'} + \\overrightarrow{A'D'}$."
+    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{A'C}=\\overrightarrow{A'A} + \\overrightarrow{A'B'} + \\overrightarrow{A'D'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2H21 = [
       "$1$"
     ],
     "answer": 2,
-    "explain": "Các vectơ có điểm đầu và điểm cuối là các đỉnh của hình hộp và là vectơ đối của $\\overrightarrow{DC}$ là $\\overrightarrow{BA}$, $\\overrightarrow{FE}$, $\\overrightarrow{GH}$, $\\overrightarrow{CD}$."
+    "explain": "Các vectơ có điểm đầu và điểm cuối là các đỉnh của hình hộp và là vectơ đối của $\\overrightarrow{DC}$ là $\\overrightarrow{BA}$, $\\overrightarrow{FE}$, $\\overrightarrow{GH}$, $\\overrightarrow{CD}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{0}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{AB}+\\overrightarrow{BS}+\\overrightarrow{SA}=\\overrightarrow{AA}=\\overrightarrow{0}$."
+    "explain": "Ta có $\\overrightarrow{AB}+\\overrightarrow{BS}+\\overrightarrow{SA}=\\overrightarrow{AA}=\\overrightarrow{0}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A'C'}$"
     ],
     "answer": 2,
-    "explain": "Ta có tứ giác $ABC'D'$ là hình bình hành, do đó $\\overrightarrow{BC'}=\\overrightarrow{AD'}$."
+    "explain": "Ta có tứ giác $ABC'D'$ là hình bình hành, do đó $\\overrightarrow{BC'}=\\overrightarrow{AD'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MN}=\\dfrac{\\overrightarrow{AC}+\\overrightarrow{BD}}{2}$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\overrightarrow{AD}+\\overrightarrow{BC}=\\left(\\overrightarrow{AB}+\\overrightarrow{BD}\\right)+\\left(\\overrightarrow{BD}+\\overrightarrow{DC}\\right)=\\overrightarrow{AB}+\\overrightarrow{DC}+2\\overrightarrow{BD}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\overrightarrow{AD}+\\overrightarrow{BC}=\\left(\\overrightarrow{AB}+\\overrightarrow{BD}\\right)+\\left(\\overrightarrow{BD}+\\overrightarrow{DC}\\right)=\\overrightarrow{AB}+\\overrightarrow{DC}+2\\overrightarrow{BD}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2H21 = [
       "$12$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=\\left|\\overrightarrow{u}\\right|\\cdot\\left|\\overrightarrow{v}\\right|\\cdot \\cos\\left(\\overrightarrow{u},\\overrightarrow{v}\\right)=3$."
+    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=\\left|\\overrightarrow{u}\\right|\\cdot\\left|\\overrightarrow{v}\\right|\\cdot \\cos\\left(\\overrightarrow{u},\\overrightarrow{v}\\right)=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN5",
@@ -135,7 +145,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow0$"
     ],
     "answer": 1,
-    "explain": "Theo qui tắc của hình hộp ta có $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$."
+    "explain": "Theo qui tắc của hình hộp ta có $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN9",
@@ -147,7 +158,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $G$ là trung điểm của $MN$ nên $\\overrightarrow{GM}+\\overrightarrow{GN}=\\overrightarrow{0}$ đúng.<br>  Ta có $\\overrightarrow{GA}+\\overrightarrow{GB}=2 \\overrightarrow{GM} \\text{ và } \\overrightarrow{GC}+\\overrightarrow{GD}=2\\overrightarrow{GN} \\Rightarrow \\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=2 \\left( \\overrightarrow{GM}+\\overrightarrow{GN} \\right)=2\\cdot \\overrightarrow{0}= \\overrightarrow{0}$.<br>  Do đó khẳng định $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\overrightarrow{0}$ đúng.<br>  Ta có $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}+ \\overrightarrow{GA}+ \\overrightarrow{GB}+ \\overrightarrow{GC}+ \\overrightarrow{GD}=4\\overrightarrow{MG} $.<br>  Suy ra khẳng định $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}$ đúng."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $G$ là trung điểm của $MN$ nên $\\overrightarrow{GM}+\\overrightarrow{GN}=\\overrightarrow{0}$ đúng.<br>  Ta có $\\overrightarrow{GA}+\\overrightarrow{GB}=2 \\overrightarrow{GM} \\text{ và } \\overrightarrow{GC}+\\overrightarrow{GD}=2\\overrightarrow{GN} \\Rightarrow \\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=2 \\left( \\overrightarrow{GM}+\\overrightarrow{GN} \\right)=2\\cdot \\overrightarrow{0}= \\overrightarrow{0}$.<br>  Do đó khẳng định $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\overrightarrow{0}$ đúng.<br>  Ta có $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}+ \\overrightarrow{GA}+ \\overrightarrow{GB}+ \\overrightarrow{GC}+ \\overrightarrow{GD}=4\\overrightarrow{MG} $.<br>  Suy ra khẳng định $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+\\overrightarrow{MD}=4\\overrightarrow{MG}$ đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN11",
@@ -159,7 +171,8 @@ window.tracNghiem2H21 = [
       "$a^2$"
     ],
     "answer": 2,
-    "explain": "Ta có $ABCD.A'B'C'D'$ là hình lập phương nên $AB\\perp AD$, suy ra $\\overrightarrow{AB}\\cdot\\overrightarrow{AD}=0$."
+    "explain": "Ta có $ABCD.A'B'C'D'$ là hình lập phương nên $AB\\perp AD$, suy ra $\\overrightarrow{AB}\\cdot\\overrightarrow{AD}=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN12",
@@ -171,7 +184,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{BC}$, $\\overrightarrow{C_1B_1}$, $\\overrightarrow{B_1D_1}$"
     ],
     "answer": 2,
-    "explain": "Các vectơ bằng với vectơ $\\overrightarrow{A_1A}$ là $\\overrightarrow{B_1B}$, $\\overrightarrow{C_1C}$, $\\overrightarrow{D_1D}$."
+    "explain": "Các vectơ bằng với vectơ $\\overrightarrow{A_1A}$ là $\\overrightarrow{B_1B}$, $\\overrightarrow{C_1C}$, $\\overrightarrow{D_1D}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN13",
@@ -183,7 +197,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{BD'}$"
     ],
     "answer": 1,
-    "explain": "Theo quy tắc hình hộp, ta có: $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$."
+    "explain": "Theo quy tắc hình hộp, ta có: $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN14",
@@ -195,7 +210,8 @@ window.tracNghiem2H21 = [
       "$2$"
     ],
     "answer": 3,
-    "explain": "Ta có: $\\overrightarrow{DA}\\cdot\\overrightarrow{DB}=DA\\cdot DB\\cdot \\cos\\left(\\overrightarrow{DA},\\overrightarrow{DB}\\right)=2\\cdot 2\\cdot \\cos60^\\circ=2$."
+    "explain": "Ta có: $\\overrightarrow{DA}\\cdot\\overrightarrow{DB}=DA\\cdot DB\\cdot \\cos\\left(\\overrightarrow{DA},\\overrightarrow{DB}\\right)=2\\cdot 2\\cdot \\cos60^\\circ=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN15",
@@ -207,7 +223,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'C}=\\overrightarrow{AA'}+\\overrightarrow{AB}+\\overrightarrow{AC}$"
     ],
     "answer": 2,
-    "explain": "Ta có $-\\overrightarrow{AA'}-\\overrightarrow{AB}+\\overrightarrow{AC}=-\\overrightarrow{AA'}+\\overrightarrow{BC}=\\overrightarrow{BC}-\\overrightarrow{BB'}=\\overrightarrow{B'C}$."
+    "explain": "Ta có $-\\overrightarrow{AA'}-\\overrightarrow{AB}+\\overrightarrow{AC}=-\\overrightarrow{AA'}+\\overrightarrow{BC}=\\overrightarrow{BC}-\\overrightarrow{BB'}=\\overrightarrow{B'C}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN16",
@@ -219,7 +236,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'A'}$"
     ],
     "answer": 0,
-    "explain": "Các vectơ có điểm đầu và điểm cuối là các đỉnh của hình lập phương và bằng $\\overrightarrow{AB}$ là $\\overrightarrow{D'C'}$."
+    "explain": "Các vectơ có điểm đầu và điểm cuối là các đỉnh của hình lập phương và bằng $\\overrightarrow{AB}$ là $\\overrightarrow{D'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN17",
@@ -231,7 +249,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{SO}$"
     ],
     "answer": 1,
-    "explain": "Do $O$ là trung điểm của $AC$ nên $\\overrightarrow{SA} + \\overrightarrow{SC} = 2\\overrightarrow{SO}$.<br>  Và $O$ là trung điểm của $BD$ nên $\\overrightarrow{SB} + \\overrightarrow{SD} = 2\\overrightarrow{SO}$. Suy ra  \\[\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 2\\overrightarrow{SO} + 2\\overrightarrow{SO} = 4\\overrightarrow{SO}\\]"
+    "explain": "Do $O$ là trung điểm của $AC$ nên $\\overrightarrow{SA} + \\overrightarrow{SC} = 2\\overrightarrow{SO}$.<br>  Và $O$ là trung điểm của $BD$ nên $\\overrightarrow{SB} + \\overrightarrow{SD} = 2\\overrightarrow{SO}$. Suy ra  \\[\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 2\\overrightarrow{SO} + 2\\overrightarrow{SO} = 4\\overrightarrow{SO}\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN18",
@@ -243,7 +262,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{DC}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_027.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Trong hình chữ nhật $ABCD$, ta có $\\overrightarrow{AB} = \\overrightarrow{DC}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_027.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Trong hình chữ nhật $ABCD$, ta có $\\overrightarrow{AB} = \\overrightarrow{DC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN19",
@@ -255,7 +275,8 @@ window.tracNghiem2H21 = [
       "$(-6;-4;3)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{OA} = 6\\overrightarrow{j} + 4\\overrightarrow{i} - 3\\overrightarrow{k} = (4;6;-3)$ nên tọa độ điểm $A(4;6;-3)$."
+    "explain": "Ta có $\\overrightarrow{OA} = 6\\overrightarrow{j} + 4\\overrightarrow{i} - 3\\overrightarrow{k} = (4;6;-3)$ nên tọa độ điểm $A(4;6;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN20",
@@ -267,7 +288,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{d}=(-7;0;-4)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{d}=\\overrightarrow{a}-\\overrightarrow{b}+2\\overrightarrow{c}=(7;0;-4)$."
+    "explain": "Ta có $\\overrightarrow{d}=\\overrightarrow{a}-\\overrightarrow{b}+2\\overrightarrow{c}=(7;0;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN21",
@@ -279,7 +301,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AA'}$"
     ],
     "answer": 2,
-    "explain": "Trong hình lập phương ta có $\\overrightarrow{C'D'}=\\overrightarrow{CD}$. Do đó  \\[\\overrightarrow{AC}+\\overrightarrow{C'D'}=\\overrightarrow{AC}+\\overrightarrow{CD}=\\overrightarrow{AD}.  \\]"
+    "explain": "Trong hình lập phương ta có $\\overrightarrow{C'D'}=\\overrightarrow{CD}$. Do đó  \\[\\overrightarrow{AC}+\\overrightarrow{C'D'}=\\overrightarrow{AC}+\\overrightarrow{CD}=\\overrightarrow{AD}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN22",
@@ -291,7 +314,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{DB'} = \\overrightarrow{DA} + \\overrightarrow{DD'} + \\overrightarrow{DC}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_030.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp, ta có $\\overrightarrow{DB'} = \\overrightarrow{DA} + \\overrightarrow{DD'} + \\overrightarrow{DC}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_030.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp, ta có $\\overrightarrow{DB'} = \\overrightarrow{DA} + \\overrightarrow{DD'} + \\overrightarrow{DC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN23",
@@ -303,7 +327,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{HE}$, $\\overrightarrow{FG}$, $\\overrightarrow{CB}$"
     ],
     "answer": 1,
-    "explain": "Các vectơ khác vectơ $\\vec0$ cùng hướng với $\\overrightarrow{AD}$ là $\\overrightarrow{EH}$, $\\overrightarrow{FG}$, $\\overrightarrow{BC}$."
+    "explain": "Các vectơ khác vectơ $\\vec0$ cùng hướng với $\\overrightarrow{AD}$ là $\\overrightarrow{EH}$, $\\overrightarrow{FG}$, $\\overrightarrow{BC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN24",
@@ -315,7 +340,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_032.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD'}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_032.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có $\\overrightarrow{BA}+\\overrightarrow{BC}+\\overrightarrow{BB'}=\\overrightarrow{BD'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN25",
@@ -327,7 +353,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'A'}$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_034.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vectơ bằng vectơ $\\overrightarrow{AB}$ là $\\overrightarrow{D'C'}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_034.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vectơ bằng vectơ $\\overrightarrow{AB}$ là $\\overrightarrow{D'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN26",
@@ -339,7 +366,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MN} = \\overrightarrow{BC} + \\overrightarrow{AD}$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_035.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{BC}+\\overrightarrow{AD} =\\overrightarrow{BM}+\\overrightarrow{MN}+\\overrightarrow{NC}+\\overrightarrow{AM}+\\overrightarrow{MN}+\\overrightarrow{ND}$<br>$\\overrightarrow{BC}+\\overrightarrow{AD} =(\\overrightarrow{BM}+\\overrightarrow{AM})+2\\overrightarrow{MN}+(\\overrightarrow{NC}+\\overrightarrow{ND})$<br>$=2\\overrightarrow{MN}.$  Khẳng định đúng là $\\overrightarrow{MN} = \\dfrac{1}{2} (\\overrightarrow{BC} + \\overrightarrow{AD})$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_035.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{BC}+\\overrightarrow{AD} =\\overrightarrow{BM}+\\overrightarrow{MN}+\\overrightarrow{NC}+\\overrightarrow{AM}+\\overrightarrow{MN}+\\overrightarrow{ND}$<br>$\\overrightarrow{BC}+\\overrightarrow{AD} =(\\overrightarrow{BM}+\\overrightarrow{AM})+2\\overrightarrow{MN}+(\\overrightarrow{NC}+\\overrightarrow{ND})$<br>$=2\\overrightarrow{MN}.$  Khẳng định đúng là $\\overrightarrow{MN} = \\dfrac{1}{2} (\\overrightarrow{BC} + \\overrightarrow{AD})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN27",
@@ -351,7 +379,8 @@ window.tracNghiem2H21 = [
       "$2 \\overrightarrow{E F}=\\overrightarrow{A D}+\\overrightarrow{B C}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\vec{AD} +\\vec{BC}= 2 \\vec{EF} + \\vec{AE} + \\vec{BE} + \\vec{FD}+ \\vec{FC}.$<br>  Do $E. \\, F$ lần lượt là trung điểm của hai cạnh $AB$ và $CD$ nên $\\vec{AE}+ \\vec{BE} =\\vec{0}$ và $\\vec{FC} +\\vec{FD} =\\vec{0}$.<br>  Vậy $\\vec{AD} +\\vec{BC} =2 \\vec{EF}.$"
+    "explain": "Ta có $\\vec{AD} +\\vec{BC}= 2 \\vec{EF} + \\vec{AE} + \\vec{BE} + \\vec{FD}+ \\vec{FC}.$<br>  Do $E. \\, F$ lần lượt là trung điểm của hai cạnh $AB$ và $CD$ nên $\\vec{AE}+ \\vec{BE} =\\vec{0}$ và $\\vec{FC} +\\vec{FD} =\\vec{0}$.<br>  Vậy $\\vec{AD} +\\vec{BC} =2 \\vec{EF}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN28",
@@ -363,7 +392,8 @@ window.tracNghiem2H21 = [
       "$k(\\overrightarrow{a}+\\overrightarrow{b})=\\overrightarrow{a}+\\overrightarrow{b}$"
     ],
     "answer": 1,
-    "explain": "Ta có $k(\\overrightarrow{a}+\\overrightarrow{b})=k\\overrightarrow{a}+k\\overrightarrow{b}$."
+    "explain": "Ta có $k(\\overrightarrow{a}+\\overrightarrow{b})=k\\overrightarrow{a}+k\\overrightarrow{b}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN29",
@@ -375,7 +405,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AG}=\\dfrac{1}{4}(\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c})$"
     ],
     "answer": 0,
-    "explain": "Vì $G$ là trọng tâm của tam giác $BCD$ nên $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=3\\overrightarrow{AG}$.<br>  Hay $\\overrightarrow{AG}=\\dfrac{1}{3}(\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c})$."
+    "explain": "Vì $G$ là trọng tâm của tam giác $BCD$ nên $\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}=3\\overrightarrow{AG}$.<br>  Hay $\\overrightarrow{AG}=\\dfrac{1}{3}(\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN30",
@@ -387,7 +418,8 @@ window.tracNghiem2H21 = [
       "$6\\sqrt{3}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=\\left|\\overrightarrow{u}\\right|\\cdot\\left|\\overrightarrow{v}\\right|\\cdot\\cos\\left(\\overrightarrow{u},\\overrightarrow{v}\\right)=3\\sqrt{3}\\cdot4\\cdot\\cos30^\\circ=18$."
+    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=\\left|\\overrightarrow{u}\\right|\\cdot\\left|\\overrightarrow{v}\\right|\\cdot\\cos\\left(\\overrightarrow{u},\\overrightarrow{v}\\right)=3\\sqrt{3}\\cdot4\\cdot\\cos30^\\circ=18$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN31",
@@ -399,7 +431,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A'C'}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=\\overrightarrow{DC}$."
+    "explain": "Ta có $\\overrightarrow{AB}=\\overrightarrow{DC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN32",
@@ -411,7 +444,8 @@ window.tracNghiem2H21 = [
       "$2$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\left|\\overrightarrow{a}\\right|\\cdot\\left|\\overrightarrow{b}\\right|\\cdot\\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=1\\cdot2\\cdot\\cos60^\\circ=1$."
+    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\left|\\overrightarrow{a}\\right|\\cdot\\left|\\overrightarrow{b}\\right|\\cdot\\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=1\\cdot2\\cdot\\cos60^\\circ=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN33",
@@ -423,7 +457,8 @@ window.tracNghiem2H21 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": "Vì $ABCD.A'B'C'D'$ là lăng trụ tứ giác đều nên $\\overrightarrow{AA'}=\\overrightarrow{CC'} \\Rightarrow \\overrightarrow{AA'}=-\\overrightarrow{C'C}$.<br>  Do đó $\\overrightarrow{AA'} \\cdot \\overrightarrow{CC'}=-\\overrightarrow{AA'} \\cdot \\overrightarrow{AA'}=-AA'^2=-4$."
+    "explain": "Vì $ABCD.A'B'C'D'$ là lăng trụ tứ giác đều nên $\\overrightarrow{AA'}=\\overrightarrow{CC'} \\Rightarrow \\overrightarrow{AA'}=-\\overrightarrow{C'C}$.<br>  Do đó $\\overrightarrow{AA'} \\cdot \\overrightarrow{CC'}=-\\overrightarrow{AA'} \\cdot \\overrightarrow{AA'}=-AA'^2=-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN34",
@@ -435,7 +470,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B A}+\\overrightarrow{B G}+\\overrightarrow{B B'}=\\overrightarrow{B C'}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_043.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có$\\colon \\overrightarrow{B A}+\\overrightarrow{B C}+\\overrightarrow{B B'}=\\overrightarrow{B D'}$"
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_043.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có$\\colon \\overrightarrow{B A}+\\overrightarrow{B C}+\\overrightarrow{B B'}=\\overrightarrow{B D'}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN35",
@@ -447,7 +483,8 @@ window.tracNghiem2H21 = [
       "Hai vectơ $\\overrightarrow{a}$ và $\\overrightarrow{c}$ cùng hướng"
     ],
     "answer": 3,
-    "explain": "Từ hình vẽ ta thấy hai vectơ $\\overrightarrow{a}$ và $\\overrightarrow{c}$ ngược hướng."
+    "explain": "Từ hình vẽ ta thấy hai vectơ $\\overrightarrow{a}$ và $\\overrightarrow{c}$ ngược hướng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN36",
@@ -459,7 +496,8 @@ window.tracNghiem2H21 = [
       "$12$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_046.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=6\\Leftrightarrow AB\\cdot AC \\cdot \\cos60^\\circ=6\\Leftrightarrow 4\\cdot AC \\cdot \\dfrac{1}{2}=6\\Leftrightarrow AC =3.$"
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_046.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=6\\Leftrightarrow AB\\cdot AC \\cdot \\cos60^\\circ=6\\Leftrightarrow 4\\cdot AC \\cdot \\dfrac{1}{2}=6\\Leftrightarrow AC =3.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN37",
@@ -471,7 +509,8 @@ window.tracNghiem2H21 = [
       "$\\overline{A B}+\\overrightarrow{A D}+\\overrightarrow{A A'}=\\overline{A' C}$"
     ],
     "answer": 1,
-    "explain": "Theo quy tắc hình hộp ta có $\\overline{A B}+\\overrightarrow{A D}+\\overrightarrow{A A'}=\\overrightarrow{A C'}$."
+    "explain": "Theo quy tắc hình hộp ta có $\\overline{A B}+\\overrightarrow{A D}+\\overrightarrow{A A'}=\\overrightarrow{A C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN38",
@@ -483,7 +522,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'C'}=-\\overrightarrow{A'D'}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{B'C'}=\\overrightarrow{A'D'}$ nên $\\overrightarrow{B'C'}=-\\overrightarrow{A'D'}$ là sai."
+    "explain": "Ta có $\\overrightarrow{B'C'}=\\overrightarrow{A'D'}$ nên $\\overrightarrow{B'C'}=-\\overrightarrow{A'D'}$ là sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN39",
@@ -495,7 +535,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MP}=\\dfrac{1}{2}\\left(\\overrightarrow{c}+\\overrightarrow{d}-\\overrightarrow{b}\\right)$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_050.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $P$ là trung điểm $CD$ nên $\\overrightarrow{MP}=\\dfrac{1}{2}\\left(\\overrightarrow{MC}+\\overrightarrow{MD}\\right)$. Khi đó  $\\overrightarrow{MP} =\\dfrac{1}{2}\\left(\\overrightarrow{AC}-\\overrightarrow{AM}+\\overrightarrow{AD}-\\overrightarrow{AM}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{AC}+\\overrightarrow{AD}-2\\overrightarrow{AM}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{AC}+\\overrightarrow{AD}-\\overrightarrow{AB}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{c}+\\overrightarrow{d}-\\overrightarrow{b}\\right).$"
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_050.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $P$ là trung điểm $CD$ nên $\\overrightarrow{MP}=\\dfrac{1}{2}\\left(\\overrightarrow{MC}+\\overrightarrow{MD}\\right)$. Khi đó  $\\overrightarrow{MP} =\\dfrac{1}{2}\\left(\\overrightarrow{AC}-\\overrightarrow{AM}+\\overrightarrow{AD}-\\overrightarrow{AM}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{AC}+\\overrightarrow{AD}-2\\overrightarrow{AM}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{AC}+\\overrightarrow{AD}-\\overrightarrow{AB}\\right)$<br>$=\\dfrac{1}{2}\\left(\\overrightarrow{c}+\\overrightarrow{d}-\\overrightarrow{b}\\right).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN40",
@@ -507,7 +548,8 @@ window.tracNghiem2H21 = [
       "$(1;2;-3)$"
     ],
     "answer": 1,
-    "explain": "Tọa độ của vectơ $\\overrightarrow{AB}=(x_B-x_A;y_B-y_A;z_B-z_A)=(-1;-2;3)$."
+    "explain": "Tọa độ của vectơ $\\overrightarrow{AB}=(x_B-x_A;y_B-y_A;z_B-z_A)=(-1;-2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN41",
@@ -519,7 +561,8 @@ window.tracNghiem2H21 = [
       "$(4; 3; 4)$"
     ],
     "answer": 2,
-    "explain": "Để $ABCD$ hình bình hành thì $\\overrightarrow{AB}=\\overrightarrow{DC}$.<br>  $\\overrightarrow{AB}=(-1;-3;3)$, $\\overrightarrow{DC}=(3-x_D;-y_D;-1-z_D)\\Rightarrow D(4;3;-4)$."
+    "explain": "Để $ABCD$ hình bình hành thì $\\overrightarrow{AB}=\\overrightarrow{DC}$.<br>  $\\overrightarrow{AB}=(-1;-3;3)$, $\\overrightarrow{DC}=(3-x_D;-y_D;-1-z_D)\\Rightarrow D(4;3;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN42",
@@ -531,7 +574,8 @@ window.tracNghiem2H21 = [
       "$-12$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{a} \\cdot \\overrightarrow{b}=1 \\cdot 2 + (-2) \\cdot (-4) + 1 \\cdot 2 = 12$."
+    "explain": "Ta có $\\overrightarrow{a} \\cdot \\overrightarrow{b}=1 \\cdot 2 + (-2) \\cdot (-4) + 1 \\cdot 2 = 12$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN43",
@@ -543,7 +587,8 @@ window.tracNghiem2H21 = [
       "$\\vec{SA}+\\vec{SC}=\\vec{SO}$"
     ],
     "answer": 3,
-    "explain": "Do $O$ là trung điểm của $AC$ nên ta có $\\vec{SA}+\\vec{SC}=2\\vec{SO}$.<br>  Vậy khẳng định sai là ``$\\vec{SA}+\\vec{SC}=\\vec{SO}$''."
+    "explain": "Do $O$ là trung điểm của $AC$ nên ta có $\\vec{SA}+\\vec{SC}=2\\vec{SO}$.<br>  Vậy khẳng định sai là ``$\\vec{SA}+\\vec{SC}=\\vec{SO}$''.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN44",
@@ -555,7 +600,8 @@ window.tracNghiem2H21 = [
       "$\\vec{BD'}=\\vec{BC}+\\vec{BA}+\\vec{BB'}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_055.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có ``$\\vec{BD'}=\\vec{BC}+\\vec{BA}+\\vec{BB'}$'' là mệnh đề đúng."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_055.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có ``$\\vec{BD'}=\\vec{BC}+\\vec{BA}+\\vec{BB'}$'' là mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN45",
@@ -567,7 +613,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{C' C}=\\overrightarrow{CA'}$"
     ],
     "answer": 2,
-    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{CC'}=\\overrightarrow{CA'}$."
+    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{CC'}=\\overrightarrow{CA'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN46",
@@ -579,7 +626,8 @@ window.tracNghiem2H21 = [
       "$45^{\\circ}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\left(\\overrightarrow{BC},\\overrightarrow{B'D'}\\right)=\\left(\\overrightarrow{BC},\\overrightarrow{BD}\\right)=45^{\\circ}$."
+    "explain": "Ta có $\\left(\\overrightarrow{BC},\\overrightarrow{B'D'}\\right)=\\left(\\overrightarrow{BC},\\overrightarrow{BD}\\right)=45^{\\circ}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN47",
@@ -591,7 +639,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AA'}+\\overrightarrow{AD}=\\overrightarrow{AC'}$"
     ],
     "answer": 3,
-    "explain": "Theo quy tắc hình hộp, ta có $\\overrightarrow{AB}+\\overrightarrow{AA'}+\\overrightarrow{AD}=\\overrightarrow{AC'}$."
+    "explain": "Theo quy tắc hình hộp, ta có $\\overrightarrow{AB}+\\overrightarrow{AA'}+\\overrightarrow{AD}=\\overrightarrow{AC'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN48",
@@ -603,7 +652,8 @@ window.tracNghiem2H21 = [
       "$(5;-2;1)$"
     ],
     "answer": 1,
-    "explain": "$\\overrightarrow{OM}=\\overrightarrow{j}-2\\overrightarrow{i}+5\\overrightarrow{k}=(-2;1;5)$."
+    "explain": "$\\overrightarrow{OM}=\\overrightarrow{j}-2\\overrightarrow{i}+5\\overrightarrow{k}=(-2;1;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN49",
@@ -615,7 +665,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{m}=(-3;2;4)$"
     ],
     "answer": 1,
-    "explain": "$\\overrightarrow{m}=3\\overrightarrow{a}+\\overrightarrow{b}=\\left(3\\cdot(-2)+3;3\\cdot1-1;3\\cdot(-3)+5\\right)=(-3;2;-4)$."
+    "explain": "$\\overrightarrow{m}=3\\overrightarrow{a}+\\overrightarrow{b}=\\left(3\\cdot(-2)+3;3\\cdot1-1;3\\cdot(-3)+5\\right)=(-3;2;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN50",
@@ -627,7 +678,8 @@ window.tracNghiem2H21 = [
       "$\\vec{D'C'}$"
     ],
     "answer": 3,
-    "explain": "Trong hình hộp $ABCD.A'B'C'D'$, ta có<br>  $\\vec{AB} = \\vec{DC}$ (Do $ABCD$ là hình bình hành).<br>  $\\vec{AB} = \\vec{A'B'}$ (Do $ABB'A'$ là hình bình hành).<br>  $\\vec{A'B'} = \\vec{D'C'}$ (Do $A'B'C'D'$ là hình bình hành).<br>  Vậy $\\vec{AB} = \\vec{D'C'}$."
+    "explain": "Trong hình hộp $ABCD.A'B'C'D'$, ta có<br>  $\\vec{AB} = \\vec{DC}$ (Do $ABCD$ là hình bình hành).<br>  $\\vec{AB} = \\vec{A'B'}$ (Do $ABB'A'$ là hình bình hành).<br>  $\\vec{A'B'} = \\vec{D'C'}$ (Do $A'B'C'D'$ là hình bình hành).<br>  Vậy $\\vec{AB} = \\vec{D'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN51",
@@ -639,7 +691,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{SH} \\cdot \\overrightarrow{BC}=2$"
     ],
     "answer": 1,
-    "explain": "Ta có $SA\\perp SB \\text{ và } SA\\perp SC\\Rightarrow SA\\perp (SBC)\\Rightarrow SA\\perp BC$.<br>  Ta có $BC\\perp SA \\text{ và } BC\\perp AH\\Rightarrow BC\\perp (SAH)\\Rightarrow BC\\perp SH$.<br>  Suy ra $\\overrightarrow{SH} \\cdot \\overrightarrow{BC}=0$."
+    "explain": "Ta có $SA\\perp SB \\text{ và } SA\\perp SC\\Rightarrow SA\\perp (SBC)\\Rightarrow SA\\perp BC$.<br>  Ta có $BC\\perp SA \\text{ và } BC\\perp AH\\Rightarrow BC\\perp (SAH)\\Rightarrow BC\\perp SH$.<br>  Suy ra $\\overrightarrow{SH} \\cdot \\overrightarrow{BC}=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN52",
@@ -651,7 +704,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = \\overrightarrow{SG}$"
     ],
     "answer": 0,
-    "explain": "Ta có: $\\overrightarrow{SA}=\\overrightarrow{SG}+\\overrightarrow{GA}$, $\\overrightarrow{SB}=\\overrightarrow{SG}+\\overrightarrow{GB}$, $\\overrightarrow{SC}=\\overrightarrow{SG}+\\overrightarrow{GC}$.<br>  Suy ra $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG} + \\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC}$.<br>  Vì $G$ là trọng tâm của tam giác $ABC$ nên $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{0}$.<br>  Do đó $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG}$."
+    "explain": "Ta có: $\\overrightarrow{SA}=\\overrightarrow{SG}+\\overrightarrow{GA}$, $\\overrightarrow{SB}=\\overrightarrow{SG}+\\overrightarrow{GB}$, $\\overrightarrow{SC}=\\overrightarrow{SG}+\\overrightarrow{GC}$.<br>  Suy ra $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG} + \\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC}$.<br>  Vì $G$ là trọng tâm của tam giác $ABC$ nên $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}=\\overrightarrow{0}$.<br>  Do đó $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} = 3\\overrightarrow{SG}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN53",
@@ -663,7 +717,8 @@ window.tracNghiem2H21 = [
       "$\\dfrac{a^2}{2}$"
     ],
     "answer": 3,
-    "explain": "Do $ABCD$ là tứ diện đều cạnh $a$ nên tam giác $ABC$ là tam giác đều cạnh $a$.<br>  Vậy ta có $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=\\left|\\overrightarrow{AB}\\right|\\cdot\\left|\\overrightarrow{AC}\\right|\\cdot\\cos\\left(\\overrightarrow{AB},\\overrightarrow{AC}\\right)=a\\cdot a\\cdot\\cos60^\\circ=\\dfrac{a^2}{2}$."
+    "explain": "Do $ABCD$ là tứ diện đều cạnh $a$ nên tam giác $ABC$ là tam giác đều cạnh $a$.<br>  Vậy ta có $\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=\\left|\\overrightarrow{AB}\\right|\\cdot\\left|\\overrightarrow{AC}\\right|\\cdot\\cos\\left(\\overrightarrow{AB},\\overrightarrow{AC}\\right)=a\\cdot a\\cdot\\cos60^\\circ=\\dfrac{a^2}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN54",
@@ -675,7 +730,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'A}$"
     ],
     "answer": 2,
-    "explain": "Theo tính chất hình hộp ta có $A'BCD'$ là hình bình hành nên $\\overrightarrow{A'B}=\\overrightarrow{D'C}$."
+    "explain": "Theo tính chất hình hộp ta có $A'BCD'$ là hình bình hành nên $\\overrightarrow{A'B}=\\overrightarrow{D'C}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN55",
@@ -687,7 +743,8 @@ window.tracNghiem2H21 = [
       "$\\vec{a}=\\overrightarrow{CA}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{a}=\\overrightarrow{AE}+\\overrightarrow{EC}=\\overrightarrow{AC}$."
+    "explain": "Ta có $\\vec{a}=\\overrightarrow{AE}+\\overrightarrow{EC}=\\overrightarrow{AC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN56",
@@ -699,7 +756,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B'C'}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{A'D'}=\\overrightarrow{AD}=\\overrightarrow{B'C'}=\\overrightarrow{BC}$."
+    "explain": "Ta có $\\overrightarrow{A'D'}=\\overrightarrow{AD}=\\overrightarrow{B'C'}=\\overrightarrow{BC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN57",
@@ -711,7 +769,8 @@ window.tracNghiem2H21 = [
       "$\\sqrt{2}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\vec{a}+\\vec{b} = (1;2;2)$ nên  $  \\left| \\vec{a}+\\vec{b} \\right|  = \\sqrt{(1)^2+(2)^2+(2)^2}  = 3.  $"
+    "explain": "Ta có $\\vec{a}+\\vec{b} = (1;2;2)$ nên  $  \\left| \\vec{a}+\\vec{b} \\right|  = \\sqrt{(1)^2+(2)^2+(2)^2}  = 3.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN58",
@@ -723,7 +782,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{CD}$ cùng hướng với $\\overrightarrow{D'C'}$"
     ],
     "answer": 2,
-    "explain": "Vì $ABCD.A'B'C'D'$ là hình hộp nên $AD\\parallel B'C'$. Do đó $\\overrightarrow{AD}$ cùng hướng với $\\overrightarrow{B'C'}$."
+    "explain": "Vì $ABCD.A'B'C'D'$ là hình hộp nên $AD\\parallel B'C'$. Do đó $\\overrightarrow{AD}$ cùng hướng với $\\overrightarrow{B'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN59",
@@ -735,7 +795,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{BC}$"
     ],
     "answer": 3,
-    "explain": "Theo quy tắc ba điểm $\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}$."
+    "explain": "Theo quy tắc ba điểm $\\overrightarrow{AB}+\\overrightarrow{BC}=\\overrightarrow{AC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN60",
@@ -747,7 +808,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{OA}+\\overrightarrow{OD}=\\overrightarrow{0}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_080.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $O$ là tâm của hình hộp nên $O$ là trung điểm của $AC'$. Do đó $\\overrightarrow{OA}+\\overrightarrow{OC'}=\\overrightarrow{0}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_080.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $O$ là tâm của hình hộp nên $O$ là trung điểm của $AC'$. Do đó $\\overrightarrow{OA}+\\overrightarrow{OC'}=\\overrightarrow{0}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN61",
@@ -759,7 +821,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A_1 A}+\\overrightarrow{AC}=\\overrightarrow{CA_1}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{A_1 A}+\\overrightarrow{AC} = \\overrightarrow{A_1 C} \\ne \\overrightarrow{CA_1}$."
+    "explain": "Ta có $\\overrightarrow{A_1 A}+\\overrightarrow{AC} = \\overrightarrow{A_1 C} \\ne \\overrightarrow{CA_1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN62",
@@ -771,7 +834,8 @@ window.tracNghiem2H21 = [
       "$0$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_084.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $ABCD$ là tứ diện đều nên các mặt là tam giác đều.<br>  Suy ra góc giữa $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$ là $\\widehat{BAC} = 60^\\circ$.<br>  Ta có  \\[  \\overrightarrow{AB} \\cdot \\overrightarrow{AC} = AB \\cdot AC \\cdot \\cos 60^\\circ = a \\cdot a \\cdot \\dfrac{1}{2} = \\dfrac{a^2}{2}.  \\]"
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H21_tikz_084.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $ABCD$ là tứ diện đều nên các mặt là tam giác đều.<br>  Suy ra góc giữa $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$ là $\\widehat{BAC} = 60^\\circ$.<br>  Ta có  \\[  \\overrightarrow{AB} \\cdot \\overrightarrow{AC} = AB \\cdot AC \\cdot \\cos 60^\\circ = a \\cdot a \\cdot \\dfrac{1}{2} = \\dfrac{a^2}{2}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN63",
@@ -783,7 +847,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B C'}=\\overrightarrow{a}+\\overrightarrow{b}-\\overrightarrow{c}$"
     ],
     "answer": 1,
-    "explain": "Ta có<br>  $\\overrightarrow{B C'}=\\overrightarrow{BA}+\\overrightarrow{AA'}+\\overrightarrow{A'C'}=\\overrightarrow{a}-\\overrightarrow{b}+\\overrightarrow{c}$."
+    "explain": "Ta có<br>  $\\overrightarrow{B C'}=\\overrightarrow{BA}+\\overrightarrow{AA'}+\\overrightarrow{A'C'}=\\overrightarrow{a}-\\overrightarrow{b}+\\overrightarrow{c}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN64",
@@ -795,7 +860,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AF}$"
     ],
     "answer": 2,
-    "explain": "Ta có $ABCDEFGH$ là hình hộp nên $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AE}=\\overrightarrow{AG} \\text{ (quy tắc hình hộp)}$."
+    "explain": "Ta có $ABCDEFGH$ là hình hộp nên $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AE}=\\overrightarrow{AG} \\text{ (quy tắc hình hộp)}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN65",
@@ -807,7 +873,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$"
     ],
     "answer": 3,
-    "explain": "Áp dụng quy tắc hình hộp, ta có \\[\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}.\\]"
+    "explain": "Áp dụng quy tắc hình hộp, ta có \\[\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN66",
@@ -819,7 +886,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{u} \\cdot \\overrightarrow{v}=\\overrightarrow{u} \\cdot \\overrightarrow{v} \\cdot \\cos \\left(\\overrightarrow{u}, \\overrightarrow{v}\\right)$"
     ],
     "answer": 2,
-    "explain": "Theo định nghĩa tích vô hướng hai vectơ, ta có  \\[\\overrightarrow{u} \\cdot \\overrightarrow{v}=\\left|\\overrightarrow{u}\\right| \\cdot \\left|\\overrightarrow{v}\\right| \\cdot \\cos \\left(\\overrightarrow{u}, \\overrightarrow{v}\\right).\\]"
+    "explain": "Theo định nghĩa tích vô hướng hai vectơ, ta có  \\[\\overrightarrow{u} \\cdot \\overrightarrow{v}=\\left|\\overrightarrow{u}\\right| \\cdot \\left|\\overrightarrow{v}\\right| \\cdot \\cos \\left(\\overrightarrow{u}, \\overrightarrow{v}\\right).\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN67",
@@ -831,7 +899,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{CD}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=\\overrightarrow{D'C'}$."
+    "explain": "Ta có $\\overrightarrow{AB}=\\overrightarrow{D'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN68",
@@ -843,7 +912,8 @@ window.tracNghiem2H21 = [
       "$2\\overrightarrow{AO}$"
     ],
     "answer": 3,
-    "explain": "Ta có $ACC'A'$ là hình bình hành, có $O$ là trung điểm của $A'C$. <br>  Suy ra $O$ là trung điểm của $AC'$.<br>  Khi đó $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}=2\\overrightarrow{AO}$."
+    "explain": "Ta có $ACC'A'$ là hình bình hành, có $O$ là trung điểm của $A'C$. <br>  Suy ra $O$ là trung điểm của $AC'$.<br>  Khi đó $\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}=2\\overrightarrow{AO}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN69",
@@ -855,7 +925,8 @@ window.tracNghiem2H21 = [
       "$\\dfrac{a^2\\sqrt{2}}{2}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AB}\\cdot \\overrightarrow{EG}=\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=\\left| \\overrightarrow{AB}\\right| \\cdot\\left| \\overrightarrow{AC}\\right|\\cdot \\cos \\left(\\overrightarrow{AB}; \\overrightarrow{AC} \\right) =a\\cdot a\\sqrt{2}\\cdot\\cos 45^\\circ= a^2$."
+    "explain": "Ta có $\\overrightarrow{AB}\\cdot \\overrightarrow{EG}=\\overrightarrow{AB}\\cdot\\overrightarrow{AC}=\\left| \\overrightarrow{AB}\\right| \\cdot\\left| \\overrightarrow{AC}\\right|\\cdot \\cos \\left(\\overrightarrow{AB}; \\overrightarrow{AC} \\right) =a\\cdot a\\sqrt{2}\\cdot\\cos 45^\\circ= a^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN70",
@@ -867,7 +938,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AC}=2\\overrightarrow{AM}$"
     ],
     "answer": 3,
-    "explain": "Ta có $M$ là trung điểm của $BC$ nên $\\overrightarrow{AB}+\\overrightarrow{AC}=2\\overrightarrow{AM}$."
+    "explain": "Ta có $M$ là trung điểm của $BC$ nên $\\overrightarrow{AB}+\\overrightarrow{AC}=2\\overrightarrow{AM}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN71",
@@ -879,7 +951,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{AA'} = \\overrightarrow{CD'}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{AA'} = \\overrightarrow{CD'}  =\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{CC'}  =\\overrightarrow{CA'}$. Do đó mệnh đề này sai."
+    "explain": "Ta có $\\overrightarrow{CB} + \\overrightarrow{CD} + \\overrightarrow{AA'} = \\overrightarrow{CD'}  =\\overrightarrow{CB}+\\overrightarrow{CD}+\\overrightarrow{CC'}  =\\overrightarrow{CA'}$. Do đó mệnh đề này sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN73",
@@ -891,7 +964,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}-\\overrightarrow{AD}=\\overrightarrow{CD}+\\overrightarrow{BC}$"
     ],
     "answer": 2,
-    "explain": "Áp dụng quy tắc ba điểm, ta có  <br>- $\\overrightarrow{AC}+\\overrightarrow{BA}=\\overrightarrow{DA}-\\overrightarrow{DC} \\Leftrightarrow \\overrightarrow{BC}=\\overrightarrow{CA}$ sai.<br>- $\\overrightarrow{DC}-\\overrightarrow{DB}=\\overrightarrow{AB}-\\overrightarrow{AC} \\Leftrightarrow \\overrightarrow{BC}=\\overrightarrow{CB}$ sai.<br>- $\\overrightarrow{BC}-\\overrightarrow{BD}=\\overrightarrow{AC}-\\overrightarrow{AD} \\Leftrightarrow \\overrightarrow{DC}=\\overrightarrow{DC}$ đúng.<br>- $\\overrightarrow{AB}-\\overrightarrow{AD}=\\overrightarrow{CD}+\\overrightarrow{BC} \\Leftrightarrow \\overrightarrow{DB}=\\overrightarrow{BD}$ sai."
+    "explain": "Áp dụng quy tắc ba điểm, ta có  <br>- $\\overrightarrow{AC}+\\overrightarrow{BA}=\\overrightarrow{DA}-\\overrightarrow{DC} \\Leftrightarrow \\overrightarrow{BC}=\\overrightarrow{CA}$ sai.<br>- $\\overrightarrow{DC}-\\overrightarrow{DB}=\\overrightarrow{AB}-\\overrightarrow{AC} \\Leftrightarrow \\overrightarrow{BC}=\\overrightarrow{CB}$ sai.<br>- $\\overrightarrow{BC}-\\overrightarrow{BD}=\\overrightarrow{AC}-\\overrightarrow{AD} \\Leftrightarrow \\overrightarrow{DC}=\\overrightarrow{DC}$ đúng.<br>- $\\overrightarrow{AB}-\\overrightarrow{AD}=\\overrightarrow{CD}+\\overrightarrow{BC} \\Leftrightarrow \\overrightarrow{DB}=\\overrightarrow{BD}$ sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN75",
@@ -903,7 +977,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AD} + \\overrightarrow{DC} = \\overrightarrow{CA}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AB} - \\overrightarrow{AC} = \\overrightarrow{CB}$ đúng."
+    "explain": "Ta có $\\overrightarrow{AB} - \\overrightarrow{AC} = \\overrightarrow{CB}$ đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN76",
@@ -915,7 +990,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MN} = \\overrightarrow{BC} + \\overrightarrow{AD}$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS21_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{BC}+\\overrightarrow{AD} =\\overrightarrow{BM}+\\overrightarrow{MN}+\\overrightarrow{NC}+\\overrightarrow{AM}+\\overrightarrow{MN}+\\overrightarrow{ND}$<br>$\\overrightarrow{BC}+\\overrightarrow{AD} =(\\overrightarrow{BM}+\\overrightarrow{AM})+2\\overrightarrow{MN}+(\\overrightarrow{NC}+\\overrightarrow{ND})$<br>$=2\\overrightarrow{MN}.$  Khẳng định đúng là $\\overrightarrow{MN} = \\dfrac{1}{2} (\\overrightarrow{BC} + \\overrightarrow{AD})$."
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS21_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{BC}+\\overrightarrow{AD} =\\overrightarrow{BM}+\\overrightarrow{MN}+\\overrightarrow{NC}+\\overrightarrow{AM}+\\overrightarrow{MN}+\\overrightarrow{ND}$<br>$\\overrightarrow{BC}+\\overrightarrow{AD} =(\\overrightarrow{BM}+\\overrightarrow{AM})+2\\overrightarrow{MN}+(\\overrightarrow{NC}+\\overrightarrow{ND})$<br>$=2\\overrightarrow{MN}.$  Khẳng định đúng là $\\overrightarrow{MN} = \\dfrac{1}{2} (\\overrightarrow{BC} + \\overrightarrow{AD})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN77",
@@ -927,7 +1003,8 @@ window.tracNghiem2H21 = [
       "$\\vec{C'A}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\vec{AB}+\\vec{B'C'}+\\vec{DD'}=\\vec{AB}+\\vec{AD}+\\vec{AA'}=\\vec{AC'}$ (theo quy tắc hình hộp)."
+    "explain": "Ta có $\\vec{AB}+\\vec{B'C'}+\\vec{DD'}=\\vec{AB}+\\vec{AD}+\\vec{AA'}=\\vec{AC'}$ (theo quy tắc hình hộp).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN78",
@@ -939,7 +1016,8 @@ window.tracNghiem2H21 = [
       "$0^\\circ \\le\\varphi\\le 90^\\circ$"
     ],
     "answer": 1,
-    "explain": "Gọi $\\varphi$ là góc giữa hai vectơ $\\overrightarrow{a}$ và $\\overrightarrow{b}$. Khi đó $0^\\circ \\le \\varphi\\le 180^\\circ$."
+    "explain": "Gọi $\\varphi$ là góc giữa hai vectơ $\\overrightarrow{a}$ và $\\overrightarrow{b}$. Khi đó $0^\\circ \\le \\varphi\\le 180^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN79",
@@ -951,7 +1029,8 @@ window.tracNghiem2H21 = [
       "Bình phương vô hướng bằng bình phương độ dài"
     ],
     "answer": 2,
-    "explain": "Tích vô hướng của hai véc-tơ $\\overrightarrow{a}$ và $\\overrightarrow{b}$ tính theo công thức $\\overrightarrow{a}\\cdot \\overrightarrow{b}=|\\overrightarrow{a}|\\cdot |\\overrightarrow{b}|\\cdot \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)$.  <br>- [\\color{blue}\\checkmark]<br>- Nếu $\\vec{a}\\perp\\vec{b}$ thì $\\left(\\vec{a},\\vec{b}\\right)=90^\\circ \\text{ và } \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=0$.   Khi đó $\\vec{a}\\perp\\vec{b} \\Leftrightarrow \\vec{a}\\cdot\\vec{b}=0$.<br>- Nếu $\\vec{a}=\\vec{b}$ thì $\\left(\\vec{a},\\vec{b}\\right)=0^\\circ \\text{ và } \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=1$.   Khi đó $\\vec{a}\\cdot\\vec{b} = \\vec{a}\\cdot\\vec{a}=\\vec{a}^2 = |\\vec{a}|^2$."
+    "explain": "Tích vô hướng của hai véc-tơ $\\overrightarrow{a}$ và $\\overrightarrow{b}$ tính theo công thức $\\overrightarrow{a}\\cdot \\overrightarrow{b}=|\\overrightarrow{a}|\\cdot |\\overrightarrow{b}|\\cdot \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)$.  <br>- [\\color{blue}\\checkmark]<br>- Nếu $\\vec{a}\\perp\\vec{b}$ thì $\\left(\\vec{a},\\vec{b}\\right)=90^\\circ \\text{ và } \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=0$.   Khi đó $\\vec{a}\\perp\\vec{b} \\Leftrightarrow \\vec{a}\\cdot\\vec{b}=0$.<br>- Nếu $\\vec{a}=\\vec{b}$ thì $\\left(\\vec{a},\\vec{b}\\right)=0^\\circ \\text{ và } \\cos\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=1$.   Khi đó $\\vec{a}\\cdot\\vec{b} = \\vec{a}\\cdot\\vec{a}=\\vec{a}^2 = |\\vec{a}|^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN80",
@@ -963,7 +1042,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AD}+\\overrightarrow{AB}+\\overrightarrow{AA'}=\\overrightarrow{A'C}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- Đẳng thức $\\vec{AB}+\\vec{AD}+\\vec{AA'}=\\vec{AC'}$<br>  $\\vec{AB}+\\vec{AD}+\\vec{AA'}=(\\vec{AB}+\\vec{AD})+\\vec{AA'} =\\vec{AC}+\\vec{AA'} =\\vec{AC'}$<br>- Đẳng thức $\\vec{BC}+\\vec{CD}+\\vec{BB'}=\\vec{BD'}$<br>  $\\vec{BC}+\\vec{CD}+\\vec{BB'}=(\\vec{BC}+\\vec{CD})+\\vec{BB'} =\\vec{BD}+\\vec{BB'} =\\vec{BD'}$<br>- Đẳng thức $\\vec{CB}+\\vec{CD}+\\vec{DD'}=\\vec{CA'}$<br>  $\\vec{CB}+\\vec{CD}+\\vec{DD'}=(\\vec{CB}+\\vec{CD})+\\vec{DD'} =\\vec{CA}+\\vec{DD'} =\\vec{CA'}$<br>- Đẳng thức $\\vec{AD}+\\vec{AB}+\\vec{AA'}=\\vec{A'C}$<br>  $\\vec{AB}+\\vec{AD}+\\vec{AA'}=(\\vec{AB}+\\vec{AD})+\\vec{AA'} =\\vec{AC}+\\vec{AA'} =\\vec{AC'}\\ne\\vec{A'C}$"
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- Đẳng thức $\\vec{AB}+\\vec{AD}+\\vec{AA'}=\\vec{AC'}$<br>  $\\vec{AB}+\\vec{AD}+\\vec{AA'}=(\\vec{AB}+\\vec{AD})+\\vec{AA'} =\\vec{AC}+\\vec{AA'} =\\vec{AC'}$<br>- Đẳng thức $\\vec{BC}+\\vec{CD}+\\vec{BB'}=\\vec{BD'}$<br>  $\\vec{BC}+\\vec{CD}+\\vec{BB'}=(\\vec{BC}+\\vec{CD})+\\vec{BB'} =\\vec{BD}+\\vec{BB'} =\\vec{BD'}$<br>- Đẳng thức $\\vec{CB}+\\vec{CD}+\\vec{DD'}=\\vec{CA'}$<br>  $\\vec{CB}+\\vec{CD}+\\vec{DD'}=(\\vec{CB}+\\vec{CD})+\\vec{DD'} =\\vec{CA}+\\vec{DD'} =\\vec{CA'}$<br>- Đẳng thức $\\vec{AD}+\\vec{AB}+\\vec{AA'}=\\vec{A'C}$<br>  $\\vec{AB}+\\vec{AD}+\\vec{AA'}=(\\vec{AB}+\\vec{AD})+\\vec{AA'} =\\vec{AC}+\\vec{AA'} =\\vec{AC'}\\ne\\vec{A'C}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN81",
@@ -975,7 +1055,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{a}+\\overrightarrow{c} + \\overrightarrow{d}+\\overrightarrow{b} =\\overrightarrow{0}$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $O$ là tâm hình bình hành $ABCD$, khi đó   $\\overrightarrow{SA}+\\overrightarrow{SC}= \\overrightarrow{SD}+\\overrightarrow{SB} =2\\overrightarrow{SO}$.<br>  Vậy $\\overrightarrow{a}+\\overrightarrow{c}= \\overrightarrow{d}+\\overrightarrow{b}$"
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $O$ là tâm hình bình hành $ABCD$, khi đó   $\\overrightarrow{SA}+\\overrightarrow{SC}= \\overrightarrow{SD}+\\overrightarrow{SB} =2\\overrightarrow{SO}$.<br>  Vậy $\\overrightarrow{a}+\\overrightarrow{c}= \\overrightarrow{d}+\\overrightarrow{b}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN82",
@@ -987,7 +1068,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{MQ}$, $\\overrightarrow{NP}$, $\\dfrac{1}{2}\\left( \\overrightarrow{CB}- \\overrightarrow{CD} \\right)$"
     ],
     "answer": 2,
-    "explain": "<br>- $\\overrightarrow{MI} \\ne \\overrightarrow{IQ}$.<br>- $\\overrightarrow{MN} = -\\overrightarrow{CI} \\ne\\vec{CI}$.<br>- $\\overrightarrow{MQ}= \\overrightarrow{NP} =\\dfrac{1}{2}\\left(\\overrightarrow{CD}-\\overrightarrow{CB}\\right) =\\dfrac{\\overrightarrow{BD}}{2}$.<br>- $\\overrightarrow{MQ }=\\overrightarrow{NP} \\ne\\dfrac{1}{2}\\left( \\overrightarrow{CB}- \\overrightarrow{CD} \\right) =\\dfrac{1}{2}\\vec{DB}$."
+    "explain": "<br>- $\\overrightarrow{MI} \\ne \\overrightarrow{IQ}$.<br>- $\\overrightarrow{MN} = -\\overrightarrow{CI} \\ne\\vec{CI}$.<br>- $\\overrightarrow{MQ}= \\overrightarrow{NP} =\\dfrac{1}{2}\\left(\\overrightarrow{CD}-\\overrightarrow{CB}\\right) =\\dfrac{\\overrightarrow{BD}}{2}$.<br>- $\\overrightarrow{MQ }=\\overrightarrow{NP} \\ne\\dfrac{1}{2}\\left( \\overrightarrow{CB}- \\overrightarrow{CD} \\right) =\\dfrac{1}{2}\\vec{DB}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN83",
@@ -999,7 +1081,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{a} =\\overrightarrow{b}+\\overrightarrow{c}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{b}-\\overrightarrow{c}+\\overrightarrow{d}   = \\overrightarrow{AB}-\\overrightarrow{AC}+\\overrightarrow{BC}=  \\overrightarrow{CB}+\\overrightarrow{BC}= \\overrightarrow{0}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{b}-\\overrightarrow{c}+\\overrightarrow{d}   = \\overrightarrow{AB}-\\overrightarrow{AC}+\\overrightarrow{BC}=  \\overrightarrow{CB}+\\overrightarrow{BC}= \\overrightarrow{0}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN84",
@@ -1011,7 +1094,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AC}\\cdot\\overrightarrow{B'C'}=2a^2$"
     ],
     "answer": 1,
-    "explain": "Do $\\vec{AD}=\\vec{B'C'}$,<br>   nên $\\left(\\vec{AC},\\vec{B'C'}\\right) =\\left(\\vec{AC},\\vec{AD}\\right) =\\widehat{CAD}=45^{\\circ}$.<br>  Cho nên  $\\vec{AC}\\cdot\\vec{B'C'} =\\left|\\vec{AC}\\right|\\cdot\\left|\\vec{B'C'}\\right|\\cdot\\cos \\left(\\vec{AC},\\vec{B'C'}\\right)$<br>$=a\\sqrt{2}\\cdot a\\cdot\\cos 45^{\\circ}=a^2.$"
+    "explain": "Do $\\vec{AD}=\\vec{B'C'}$,<br>   nên $\\left(\\vec{AC},\\vec{B'C'}\\right) =\\left(\\vec{AC},\\vec{AD}\\right) =\\widehat{CAD}=45^{\\circ}$.<br>  Cho nên  $\\vec{AC}\\cdot\\vec{B'C'} =\\left|\\vec{AC}\\right|\\cdot\\left|\\vec{B'C'}\\right|\\cdot\\cos \\left(\\vec{AC},\\vec{B'C'}\\right)$<br>$=a\\sqrt{2}\\cdot a\\cdot\\cos 45^{\\circ}=a^2.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN85",
@@ -1023,7 +1107,8 @@ window.tracNghiem2H21 = [
       "$\\vec{SA}+\\vec{SC}=\\vec{SB}+\\vec{SD}$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\vec{SA}+\\vec{SC}=2\\vec{SO}=\\vec{SB}+\\vec{SD}$.  <br>- $\\vec{SA}+\\vec{SC}=2\\vec{SO}$<br>  Vì $O$ là trung điểm $AC$ nên $\\forall\\text{ điểm } S, \\vec{SA}+\\vec{SC}=2\\vec{SO}$.<br>- {$\\vec{SB}+\\vec{SD}=2\\vec{SO}$}<br>  Vì $O$ là trung điểm $BD$ nên $\\forall\\text{ điểm } S, \\vec{SB}+\\vec{SD}=2\\vec{SO}$.<br>- {$\\vec{SA}+\\vec{SB}+\\vec{SC}+\\vec{SD}=\\vec{AC}+\\vec{BD}$}<br>  $\\vec{SA}+\\vec{SB}+\\vec{SC}+\\vec{SD}=4\\vec{SO}\\ne\\vec{AC}+\\vec{BD}$<br>- {$\\vec{SA}+\\vec{SC}=\\vec{SB}+\\vec{SD}$}<br>  Vì $O$ là trung điểm $AC$ và $BD$ nên $\\forall\\text{ điểm } S, \\vec{SA}+\\vec{SC}=\\vec{SB}+\\vec{SD}=2\\vec{SO}$."
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\vec{SA}+\\vec{SC}=2\\vec{SO}=\\vec{SB}+\\vec{SD}$.  <br>- $\\vec{SA}+\\vec{SC}=2\\vec{SO}$<br>  Vì $O$ là trung điểm $AC$ nên $\\forall\\text{ điểm } S, \\vec{SA}+\\vec{SC}=2\\vec{SO}$.<br>- {$\\vec{SB}+\\vec{SD}=2\\vec{SO}$}<br>  Vì $O$ là trung điểm $BD$ nên $\\forall\\text{ điểm } S, \\vec{SB}+\\vec{SD}=2\\vec{SO}$.<br>- {$\\vec{SA}+\\vec{SB}+\\vec{SC}+\\vec{SD}=\\vec{AC}+\\vec{BD}$}<br>  $\\vec{SA}+\\vec{SB}+\\vec{SC}+\\vec{SD}=4\\vec{SO}\\ne\\vec{AC}+\\vec{BD}$<br>- {$\\vec{SA}+\\vec{SC}=\\vec{SB}+\\vec{SD}$}<br>  Vì $O$ là trung điểm $AC$ và $BD$ nên $\\forall\\text{ điểm } S, \\vec{SA}+\\vec{SC}=\\vec{SB}+\\vec{SD}=2\\vec{SO}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN86",
@@ -1035,7 +1120,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{OG}=\\dfrac{1}{4}\\left(\\overrightarrow{OA}+\\overrightarrow{OB}+\\overrightarrow{OC}+\\overrightarrow{OD}\\right)$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có  <br>- {$\\vec{AG} =\\dfrac{1}{4}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right)$}<br>  Ta có $\\begin{aligned}[t]  & \\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\vec{GB}+\\vec{GC}+\\vec{GD}\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\left(\\vec{AB}-\\vec{AG}\\right)+\\left(\\vec{AC}-\\vec{AG}\\right)+\\left(\\vec{AD}-\\vec{AG}\\right)\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\dfrac{1}{4}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right).  \\end{aligned}$<br>- { $\\vec{AG} =\\dfrac{2}{3}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right)$}<br>  Sai khác.<br>- {$\\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}$}<br>  Luôn luôn đúng.<br>- {$\\vec{OG} =\\dfrac{1}{4}\\left(\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\right)$}<br>  Điểm $G$ là trọng tâm của tứ diện $ABCD$ ta luôn có $\\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}$.<br>  Khi đó $\\begin{aligned}[t]  & \\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}\\\\  \\Leftrightarrow &\\ \\vec{OA}-\\vec{OG} +\\vec{OB}-\\vec{OG} +\\vec{OC}-\\vec{OG} +\\vec{OD}-\\vec{OG}=\\vec{0}\\\\  \\Leftrightarrow &\\ 4\\vec{OG} =\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\\\  \\Leftrightarrow &\\ \\vec{OG} =\\dfrac{1}{4}\\left(\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\right).  \\end{aligned}$"
+    "explain": "<br><img src=\"data/12/2D2/im2H21/dlts_12_DLTS5_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có  <br>- {$\\vec{AG} =\\dfrac{1}{4}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right)$}<br>  Ta có $\\begin{aligned}[t]  & \\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\vec{GB}+\\vec{GC}+\\vec{GD}\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\left(\\vec{AB}-\\vec{AG}\\right)+\\left(\\vec{AC}-\\vec{AG}\\right)+\\left(\\vec{AD}-\\vec{AG}\\right)\\\\  \\Leftrightarrow &\\ \\vec{AG}=\\dfrac{1}{4}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right).  \\end{aligned}$<br>- { $\\vec{AG} =\\dfrac{2}{3}\\left(\\vec{AB}+\\vec{AC}+\\vec{AD}\\right)$}<br>  Sai khác.<br>- {$\\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}$}<br>  Luôn luôn đúng.<br>- {$\\vec{OG} =\\dfrac{1}{4}\\left(\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\right)$}<br>  Điểm $G$ là trọng tâm của tứ diện $ABCD$ ta luôn có $\\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}$.<br>  Khi đó $\\begin{aligned}[t]  & \\vec{GA}+\\vec{GB}+\\vec{GC}+\\vec{GD}=\\vec{0}\\\\  \\Leftrightarrow &\\ \\vec{OA}-\\vec{OG} +\\vec{OB}-\\vec{OG} +\\vec{OC}-\\vec{OG} +\\vec{OD}-\\vec{OG}=\\vec{0}\\\\  \\Leftrightarrow &\\ 4\\vec{OG} =\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\\\  \\Leftrightarrow &\\ \\vec{OG} =\\dfrac{1}{4}\\left(\\vec{OA}+\\vec{OB}+\\vec{OC}+\\vec{OD}\\right).  \\end{aligned}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN87",
@@ -1047,7 +1133,8 @@ window.tracNghiem2H21 = [
       "$40$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\begin{aligned}[t]  \\left(\\vec{SC}-\\vec{SA}\\right)^2 = \\vec{AC}^2 &= \\left(\\vec{AB} -\\vec{BC}\\right)^2\\\\  &= \\vec{AB}^2+\\vec{AD}^2+2 \\vec{AB}\\cdot\\vec{AD}\\\\  &= 36+16-2=28.  \\end{aligned}$"
+    "explain": "Ta có $\\begin{aligned}[t]  \\left(\\vec{SC}-\\vec{SA}\\right)^2 = \\vec{AC}^2 &= \\left(\\vec{AB} -\\vec{BC}\\right)^2\\\\  &= \\vec{AB}^2+\\vec{AD}^2+2 \\vec{AB}\\cdot\\vec{AD}\\\\  &= 36+16-2=28.  \\end{aligned}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN88",
@@ -1059,7 +1146,8 @@ window.tracNghiem2H21 = [
       "$\\dfrac{\\sqrt{3}}{2}$"
     ],
     "answer": 1,
-    "explain": "Gọi $M$ là trung điểm của $CD$.<br>  Ta có  $\\triangle BCD$ đều nên $BM\\perp CD$, $\\triangle ACD$ cân tại $A$ nên $AM\\perp CD$.<br>  Suy ra <br> $\\vec{AB}\\cdot \\vec{CD} =\\left(\\vec{AM}+\\vec{MB} \\right)\\cdot\\vec{CD} =\\vec{AM}\\cdot \\vec{CD} +\\vec{MB}\\cdot \\vec{CD}=0$.<br>  $\\Rightarrow\\cos\\left(\\vec{AB}, \\vec{CD} \\right) =\\dfrac{\\vec{AB}\\cdot\\vec{CD}}{\\left|\\vec{AB}\\right|\\cdot\\left|\\vec{CD} \\right|} =0$"
+    "explain": "Gọi $M$ là trung điểm của $CD$.<br>  Ta có  $\\triangle BCD$ đều nên $BM\\perp CD$, $\\triangle ACD$ cân tại $A$ nên $AM\\perp CD$.<br>  Suy ra <br> $\\vec{AB}\\cdot \\vec{CD} =\\left(\\vec{AM}+\\vec{MB} \\right)\\cdot\\vec{CD} =\\vec{AM}\\cdot \\vec{CD} +\\vec{MB}\\cdot \\vec{CD}=0$.<br>  $\\Rightarrow\\cos\\left(\\vec{AB}, \\vec{CD} \\right) =\\dfrac{\\vec{AB}\\cdot\\vec{CD}}{\\left|\\vec{AB}\\right|\\cdot\\left|\\vec{CD} \\right|} =0$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN89",
@@ -1071,7 +1159,8 @@ window.tracNghiem2H21 = [
       "$\\dfrac{1}{2}$"
     ],
     "answer": 3,
-    "explain": "Vì $M$, $N$ lần lượt là trung điểm của $AB$, $CD$ nên ta có:<br> $\\vec{MA}+\\vec{MB}=\\vec{0}$, $\\vec{DN}+\\vec{CN}=\\vec{0}$.<br>  Mặt khác $ \\vec{MN} =\\vec{MA}+\\vec{AD}+\\vec{DN} \\text{ và } \\vec{MN} =\\vec{MB}+\\vec{BC}+\\vec{CN}.$<br>  $\\Rightarrow 2\\vec{MN} = \\vec{AD}+\\vec{BC}  \\Rightarrow \\vec{MN} = \\dfrac{1}{2}\\left(\\vec{AD} + \\vec{BC} \\right)$.<br>   Vậy $k=\\dfrac{1}{2}$"
+    "explain": "Vì $M$, $N$ lần lượt là trung điểm của $AB$, $CD$ nên ta có:<br> $\\vec{MA}+\\vec{MB}=\\vec{0}$, $\\vec{DN}+\\vec{CN}=\\vec{0}$.<br>  Mặt khác $ \\vec{MN} =\\vec{MA}+\\vec{AD}+\\vec{DN} \\text{ và } \\vec{MN} =\\vec{MB}+\\vec{BC}+\\vec{CN}.$<br>  $\\Rightarrow 2\\vec{MN} = \\vec{AD}+\\vec{BC}  \\Rightarrow \\vec{MN} = \\dfrac{1}{2}\\left(\\vec{AD} + \\vec{BC} \\right)$.<br>   Vậy $k=\\dfrac{1}{2}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN90",
@@ -1083,7 +1172,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A'A}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{AC}+\\overrightarrow{C'B}+\\overrightarrow{B'A'}=\\overrightarrow{A'C'}+\\overrightarrow{C'B}+\\overrightarrow{B'A'}=\\overrightarrow{A'B}+\\overrightarrow{B'A'}=\\overrightarrow{B'B}=\\overrightarrow{A'A}$."
+    "explain": "Ta có $\\overrightarrow{AC}+\\overrightarrow{C'B}+\\overrightarrow{B'A'}=\\overrightarrow{A'C'}+\\overrightarrow{C'B}+\\overrightarrow{B'A'}=\\overrightarrow{A'B}+\\overrightarrow{B'A'}=\\overrightarrow{B'B}=\\overrightarrow{A'A}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN91",
@@ -1095,7 +1185,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD'}+\\overrightarrow{AB'}$"
     ],
     "answer": 2,
-    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$."
+    "explain": "Theo quy tắc hình hộp ta có $\\overrightarrow{AC'}=\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN2",
@@ -1107,7 +1198,8 @@ window.tracNghiem2H21 = [
       "$(-2; 1;-5)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{a}=-2\\overrightarrow{i}+\\overrightarrow{j}-5\\overrightarrow{k}\\Rightarrow \\overrightarrow{a}=(-2; 1;-5)$."
+    "explain": "Ta có $\\overrightarrow{a}=-2\\overrightarrow{i}+\\overrightarrow{j}-5\\overrightarrow{k}\\Rightarrow \\overrightarrow{a}=(-2; 1;-5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN91",
@@ -1119,7 +1211,8 @@ window.tracNghiem2H21 = [
       "$(-2; 2;-7)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{u}=2\\overrightarrow{a}+3\\overrightarrow{b}-2\\overrightarrow{c}=(-2; 2;-7)$."
+    "explain": "Ta có $\\overrightarrow{u}=2\\overrightarrow{a}+3\\overrightarrow{b}-2\\overrightarrow{c}=(-2; 2;-7)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN4",
@@ -1131,7 +1224,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AD}-\\overrightarrow{AC}=\\overrightarrow{CD}$"
     ],
     "answer": 1,
-    "explain": "$\\overrightarrow{DA}+\\overrightarrow{DB}=\\overrightarrow 0$ là phát biểu sai."
+    "explain": "$\\overrightarrow{DA}+\\overrightarrow{DB}=\\overrightarrow 0$ là phát biểu sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN1",
@@ -1143,7 +1237,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{u}\\cdot \\overrightarrow{v}=40$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\vec{u}\\cdot \\vec{v}=\\left|\\vec{u}\\right|\\cdot \\left|\\vec{v}\\right|\\cdot \\cos \\left(\\vec{u},\\vec{v}\\right)=5\\cdot 8\\cdot \\cos 120^{\\circ}=-20$."
+    "explain": "Ta có $\\vec{u}\\cdot \\vec{v}=\\left|\\vec{u}\\right|\\cdot \\left|\\vec{v}\\right|\\cdot \\cos \\left(\\vec{u},\\vec{v}\\right)=5\\cdot 8\\cdot \\cos 120^{\\circ}=-20$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H213TN79",
@@ -1155,7 +1250,8 @@ window.tracNghiem2H21 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Ta có $ABCD$ là hình thoi $\\Rightarrow BA=BC$ $\\Rightarrow \\triangle ABC$ cân tại $B$.<br>  Lại có $\\widehat{ABC}=60^{\\circ}$ $\\Rightarrow \\triangle ABC$ cân là tam giác đều $\\Rightarrow BA=BC=AC=2$.<br>  Suy ra $\\triangle SAB=\\triangle SAC$ (c-g-c) $\\Rightarrow SB=SC$.<br>  Do đó $\\triangle SBC$ cân tại $S$.<br>  Gọi $I$ là trung điểm của $BC$ thì ta có<br>  $SI\\perp BC\\Rightarrow SI^2=SB^2-BI^2=SA^2+AB^2-\\left(\\dfrac{1}{2} BC\\right)^2=2^2+2^2-1^2=7$.<br>   $2\\overrightarrow{SH}+\\overrightarrow{AD}-2\\overrightarrow{BH}=2\\left(\\overrightarrow{SH}+\\overrightarrow{HB}\\right)+\\overrightarrow{BC}=\\overrightarrow{SB}+\\overrightarrow{SB}+\\overrightarrow{BC}=\\overrightarrow{SB}+\\overrightarrow{SC}=2\\overrightarrow{SI}$.<br>  Suy ra $D^2=\\left(\\left|2\\overrightarrow{SI}\\right|\\right)^2=2^2\\cdot 7\\Rightarrow D=2\\sqrt{7}$."
+    "explain": "Ta có $ABCD$ là hình thoi $\\Rightarrow BA=BC$ $\\Rightarrow \\triangle ABC$ cân tại $B$.<br>  Lại có $\\widehat{ABC}=60^{\\circ}$ $\\Rightarrow \\triangle ABC$ cân là tam giác đều $\\Rightarrow BA=BC=AC=2$.<br>  Suy ra $\\triangle SAB=\\triangle SAC$ (c-g-c) $\\Rightarrow SB=SC$.<br>  Do đó $\\triangle SBC$ cân tại $S$.<br>  Gọi $I$ là trung điểm của $BC$ thì ta có<br>  $SI\\perp BC\\Rightarrow SI^2=SB^2-BI^2=SA^2+AB^2-\\left(\\dfrac{1}{2} BC\\right)^2=2^2+2^2-1^2=7$.<br>   $2\\overrightarrow{SH}+\\overrightarrow{AD}-2\\overrightarrow{BH}=2\\left(\\overrightarrow{SH}+\\overrightarrow{HB}\\right)+\\overrightarrow{BC}=\\overrightarrow{SB}+\\overrightarrow{SB}+\\overrightarrow{BC}=\\overrightarrow{SB}+\\overrightarrow{SC}=2\\overrightarrow{SI}$.<br>  Suy ra $D^2=\\left(\\left|2\\overrightarrow{SI}\\right|\\right)^2=2^2\\cdot 7\\Rightarrow D=2\\sqrt{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN3",
@@ -1167,7 +1263,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AO} = \\dfrac{1}{4}\\left(\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right)$"
     ],
     "answer": 1,
-    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_QV1_TT1_LVT_B_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ mà $\\overrightarrow{AC'} = 2\\overrightarrow{AO}$.<br>  Suy ra $\\overrightarrow{AO} = \\dfrac{1}{2}\\left(\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right)$."
+    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_QV1_TT1_LVT_B_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo quy tắc hình hộp ta có $\\overrightarrow{AC'} = \\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ mà $\\overrightarrow{AC'} = 2\\overrightarrow{AO}$.<br>  Suy ra $\\overrightarrow{AO} = \\dfrac{1}{2}\\left(\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN92",
@@ -1179,7 +1276,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}+\\overrightarrow{AD}+\\overrightarrow{AA'}=\\overrightarrow{AC'}$"
     ],
     "answer": 1,
-    "explain": "Mệnh đề sai là $\\overrightarrow{AB}=\\overrightarrow{CD}$ vì $\\overrightarrow{AB}$ và $\\overrightarrow{CD}$ là hai vectơ đối nhau."
+    "explain": "Mệnh đề sai là $\\overrightarrow{AB}=\\overrightarrow{CD}$ vì $\\overrightarrow{AB}$ và $\\overrightarrow{CD}$ là hai vectơ đối nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN92",
@@ -1191,7 +1289,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{AB}$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AD}=\\overrightarrow{BC}=\\overrightarrow{A'D'}=\\overrightarrow{B'C'}$."
+    "explain": "Ta có $\\overrightarrow{AD}=\\overrightarrow{BC}=\\overrightarrow{A'D'}=\\overrightarrow{B'C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN6",
@@ -1203,7 +1302,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=\\overrightarrow{0}$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_THPT_Chuyen_B_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $J$ là trọng tâm tứ diện $ABCD$, ta có $\\overrightarrow{JA}+\\overrightarrow{JB}+\\overrightarrow{JC}+\\overrightarrow{JD}=\\overrightarrow{0}$.<br>  Suy ra $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=4\\overrightarrow{GJ}\\ne\\overrightarrow{0}$."
+    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_THPT_Chuyen_B_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $J$ là trọng tâm tứ diện $ABCD$, ta có $\\overrightarrow{JA}+\\overrightarrow{JB}+\\overrightarrow{JC}+\\overrightarrow{JD}=\\overrightarrow{0}$.<br>  Suy ra $\\overrightarrow{GA}+\\overrightarrow{GB}+\\overrightarrow{GC}+\\overrightarrow{GD}=4\\overrightarrow{GJ}\\ne\\overrightarrow{0}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN7",
@@ -1215,7 +1315,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{B A}+\\overrightarrow{D D'}+\\overrightarrow{B D'}=\\overrightarrow{B C}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{A D}+\\overrightarrow{D' C'}+\\overrightarrow{C C'}=\\overrightarrow{A D}+\\overrightarrow{A B}+\\overrightarrow{A A'}=\\overrightarrow{A C'}$."
+    "explain": "Ta có $\\overrightarrow{A D}+\\overrightarrow{D' C'}+\\overrightarrow{C C'}=\\overrightarrow{A D}+\\overrightarrow{A B}+\\overrightarrow{A A'}=\\overrightarrow{A C'}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN8",
@@ -1227,7 +1328,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{A' B}+\\overrightarrow{B' C'}=\\overrightarrow{B' C'}$"
     ],
     "answer": 0,
-    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_THPT_NguyenKh_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\overrightarrow{A' B}+\\overrightarrow{B' C'}=\\overrightarrow{A' A}+\\overrightarrow{A' B'}+\\overrightarrow{B' C'}=\\overrightarrow{A' A}+\\overrightarrow{A' C'}=\\overrightarrow{A' C}$."
+    "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_THPT_NguyenKh_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\overrightarrow{A' B}+\\overrightarrow{B' C'}=\\overrightarrow{A' A}+\\overrightarrow{A' B'}+\\overrightarrow{B' C'}=\\overrightarrow{A' A}+\\overrightarrow{A' C'}=\\overrightarrow{A' C}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H211TN93",
@@ -1239,7 +1341,8 @@ window.tracNghiem2H21 = [
       "$\\overrightarrow{BA}+\\overrightarrow{A'C'}=\\overrightarrow{B'C}$"
     ],
     "answer": 1,
-    "explain": "Trong lăng trụ $ABC.A'B'C'$, ta có $\\overrightarrow{A'C'} = \\overrightarrow{AC}$.<br>  Khi đó $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BA} + \\overrightarrow{AC} = \\overrightarrow{BC}$."
+    "explain": "Trong lăng trụ $ABC.A'B'C'$, ta có $\\overrightarrow{A'C'} = \\overrightarrow{AC}$.<br>  Khi đó $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BA} + \\overrightarrow{AC} = \\overrightarrow{BC}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H212TN93",
@@ -1251,6 +1354,7 @@ window.tracNghiem2H21 = [
       "$\\dfrac{1}{3}\\left(3\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c}\\right)$"
     ],
     "answer": 3,
-    "explain": "Gọi $M$ là trung điểm của $B'C'$.<br>  Ta có $\\begin{aligned}[t]  \\overrightarrow{AG'} &= \\overrightarrow{AA'} + \\overrightarrow{A'G'} \\\\  &= \\overrightarrow{AA'} + \\dfrac{2}{3}\\overrightarrow{A'M} \\\\  &= \\overrightarrow{AA'} + \\dfrac{1}{3}\\left(\\overrightarrow{A'B'} + \\overrightarrow{A'C'}\\right) \\\\  &= \\dfrac{1}{3}\\left(3\\overrightarrow{a} + \\overrightarrow{b} + \\overrightarrow{c}\\right).  \\end{aligned}$<br>  Vậy $\\overrightarrow{AG'} = \\dfrac{1}{3}\\left(3\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c}\\right)$"
+    "explain": "Gọi $M$ là trung điểm của $B'C'$.<br>  Ta có $\\begin{aligned}[t]  \\overrightarrow{AG'} &= \\overrightarrow{AA'} + \\overrightarrow{A'G'} \\\\  &= \\overrightarrow{AA'} + \\dfrac{2}{3}\\overrightarrow{A'M} \\\\  &= \\overrightarrow{AA'} + \\dfrac{1}{3}\\left(\\overrightarrow{A'B'} + \\overrightarrow{A'C'}\\right) \\\\  &= \\dfrac{1}{3}\\left(3\\overrightarrow{a} + \\overrightarrow{b} + \\overrightarrow{c}\\right).  \\end{aligned}$<br>  Vậy $\\overrightarrow{AG'} = \\dfrac{1}{3}\\left(3\\overrightarrow{a}+\\overrightarrow{b}+\\overrightarrow{c}\\right)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

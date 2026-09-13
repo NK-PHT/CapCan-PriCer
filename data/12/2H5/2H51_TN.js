@@ -15,7 +15,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n} = \\left(2; 0; 3\\right)$."
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(P)\\colon 2x + x - 3 = 0$ có một véc-tơ pháp tuyến là $\\overrightarrow{n}=\\left(2;0;1\\right)$."
+    "explain": "Mặt phẳng $(P)\\colon 2x + x - 3 = 0$ có một véc-tơ pháp tuyến là $\\overrightarrow{n}=\\left(2;0;1\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{d} = \\left(2; 2; -2\\right)$"
     ],
     "answer": 0,
-    "explain": "Véc-tơ là véc-tơ pháp tuyến của mặt phẳng $(P)$ khi véc-tơ đó cùng phương với véc-tơ $\\overrightarrow{n}$.<br>  Ta thấy $\\overrightarrow{n} = \\left(2; -2; 1\\right)$ và $\\overrightarrow{a} = \\left(1; -1; \\dfrac{1}{2}\\right)$, suy ra $\\overrightarrow{n}=2\\overrightarrow{a}$.<br>  Do đó $\\overrightarrow{n}$ và $\\overrightarrow{a}$ là hai véc-tơ cùng phương, nên $\\overrightarrow{a}$ là một véc-tơ chỉ phương của mặt phẳng $(P)$."
+    "explain": "Véc-tơ là véc-tơ pháp tuyến của mặt phẳng $(P)$ khi véc-tơ đó cùng phương với véc-tơ $\\overrightarrow{n}$.<br>  Ta thấy $\\overrightarrow{n} = \\left(2; -2; 1\\right)$ và $\\overrightarrow{a} = \\left(1; -1; \\dfrac{1}{2}\\right)$, suy ra $\\overrightarrow{n}=2\\overrightarrow{a}$.<br>  Do đó $\\overrightarrow{n}$ và $\\overrightarrow{a}$ là hai véc-tơ cùng phương, nên $\\overrightarrow{a}$ là một véc-tơ chỉ phương của mặt phẳng $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN1",
@@ -39,7 +41,8 @@ window.tracNghiem2H51 = [
       "$M(1; 1; 6)$"
     ],
     "answer": 3,
-    "explain": "Sử dụng chức năng CALC của MTCT tìm được $M(1; 1; 6)$ thỏa phương trình $(P)$, do đó $M$ thuộc $(P)$."
+    "explain": "Sử dụng chức năng CALC của MTCT tìm được $M(1; 1; 6)$ thỏa phương trình $(P)$, do đó $M$ thuộc $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN3",
@@ -51,7 +54,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{m}=(1; 1; 1)$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(Oxy)$ có một véc-tơ pháp tuyến là $\\overrightarrow{k}=(0;0;1)$."
+    "explain": "Mặt phẳng $(Oxy)$ có một véc-tơ pháp tuyến là $\\overrightarrow{k}=(0;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN3",
@@ -63,7 +67,8 @@ window.tracNghiem2H51 = [
       "$\\left(0;\\dfrac{3}{2};-\\dfrac{11}{2}\\right)$"
     ],
     "answer": 2,
-    "explain": "Ta có: $\\vec{AB}=(-1;2;0)$, $\\vec{AC}=(2;0;4)$. Suy ra $\\left[\\vec{AB},\\vec{AC}\\right]=(8;4;-4)$, chọn $\\vec{n}=(2;1;-1)$ là vtpt của $(ABC)$.<br> $M\\in (Oyz)\\Rightarrow M(0;y_M;z_M)\\Rightarrow \\vec{MC}=(3;-y_M;4-z_M)$.<br> Ta có $MC\\perp (ABC)\\Rightarrow \\vec{MC}$ cùng phương $\\vec{n}\\Rightarrow \\vec{MC}=k\\vec{n}$<br> $\\Rightarrow 3=2k \\text{ và } -y_M=k \\text{ và } 4-z_M=-k\\Rightarrow k=\\dfrac{3}{2} \\text{ và } y_M=-\\dfrac{3}{2} \\text{ và } z_M=\\dfrac{11}{2}$."
+    "explain": "Ta có: $\\vec{AB}=(-1;2;0)$, $\\vec{AC}=(2;0;4)$. Suy ra $\\left[\\vec{AB},\\vec{AC}\\right]=(8;4;-4)$, chọn $\\vec{n}=(2;1;-1)$ là vtpt của $(ABC)$.<br> $M\\in (Oyz)\\Rightarrow M(0;y_M;z_M)\\Rightarrow \\vec{MC}=(3;-y_M;4-z_M)$.<br> Ta có $MC\\perp (ABC)\\Rightarrow \\vec{MC}$ cùng phương $\\vec{n}\\Rightarrow \\vec{MC}=k\\vec{n}$<br> $\\Rightarrow 3=2k \\text{ và } -y_M=k \\text{ và } 4-z_M=-k\\Rightarrow k=\\dfrac{3}{2} \\text{ và } y_M=-\\dfrac{3}{2} \\text{ và } z_M=\\dfrac{11}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN4",
@@ -75,7 +80,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(3;2;-1)$"
     ],
     "answer": 0,
-    "explain": "Nhập tọa độ $\\vec{a}$ và $\\vec{b}$ vào máy: \\key{w811}; \\key{w821}. Sau đó về màn hình chính \\key{C}.<br> Tính tích có hướng: \\key{q53Oq54} ta được $[\\vec{a},\\vec{b}]=(1;-2;-1)$. Vậy ta chọn $\\vec{n}=(-1;2;1)$ là véc-tơ pháp tuyến của $(P)$."
+    "explain": "Nhập tọa độ $\\vec{a}$ và $\\vec{b}$ vào máy: \\key{w811}; \\key{w821}. Sau đó về màn hình chính \\key{C}.<br> Tính tích có hướng: \\key{q53Oq54} ta được $[\\vec{a},\\vec{b}]=(1;-2;-1)$. Vậy ta chọn $\\vec{n}=(-1;2;1)$ là véc-tơ pháp tuyến của $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN5",
@@ -87,7 +93,8 @@ window.tracNghiem2H51 = [
       "$M(1;-1;1)$"
     ],
     "answer": 3,
-    "explain": "Thay tọa độ của $M$ vào phương trình mặt phẳng $(\\alpha)$ ta được $1-1+1-6=-5\\neq 0\\Rightarrow M\\notin (\\alpha)$."
+    "explain": "Thay tọa độ của $M$ vào phương trình mặt phẳng $(\\alpha)$ ta được $1-1+1-6=-5\\neq 0\\Rightarrow M\\notin (\\alpha)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN6",
@@ -99,7 +106,8 @@ window.tracNghiem2H51 = [
       "$ M(1;1;-1)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN7",
@@ -111,7 +119,8 @@ window.tracNghiem2H51 = [
       "$(P_4):3x-y+z+5=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN8",
@@ -123,7 +132,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow n = (2;0;1)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN9",
@@ -135,7 +145,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(-4;10;2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN10",
@@ -147,7 +158,8 @@ window.tracNghiem2H51 = [
       "$(2;7;2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN11",
@@ -159,7 +171,8 @@ window.tracNghiem2H51 = [
       "$Q\\biggl(0;\\dfrac{3}{2};\\dfrac{11}{2}\\biggr)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN12",
@@ -171,7 +184,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(2;3;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN13",
@@ -183,7 +197,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{3}{4}$"
     ],
     "answer": 0,
-    "explain": "Ta tìm được $M\\left(-\\dfrac{3}{2};0;0\\right), N(0;0;-3)$.<br> Ta có $S_{\\Delta OMN} = \\dfrac{1}{2}\\left|\\left[\\vec{OM},\\vec{ON}\\right]\\right| = \\dfrac{9}{4}$."
+    "explain": "Ta tìm được $M\\left(-\\dfrac{3}{2};0;0\\right), N(0;0;-3)$.<br> Ta có $S_{\\Delta OMN} = \\dfrac{1}{2}\\left|\\left[\\vec{OM},\\vec{ON}\\right]\\right| = \\dfrac{9}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN14",
@@ -195,7 +210,8 @@ window.tracNghiem2H51 = [
       "2"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN15",
@@ -207,7 +223,8 @@ window.tracNghiem2H51 = [
       "$3$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN16",
@@ -219,7 +236,8 @@ window.tracNghiem2H51 = [
       "$V=\\dfrac{27}{8}$"
     ],
     "answer": 3,
-    "explain": "<br>  $(\\alpha):4x-4y+2z-7=0$<br>  $(\\beta):2x-2y+z+1=0$<br>  Vì $(\\alpha)$ và $(\\beta)$ song song với nhau nên hai mặt này chứa hai mặt đối nhau của hình lập phương; và khi đó độ dài cạnh của hình lập phương chính là khoảng cách giữa $(\\alpha)$ và $(\\beta)$. <br>  Chọn $A(0,0,-1)\\in (\\alpha)$. Khi đó, $d((\\alpha), (\\beta))=d(A,(\\beta))=\\dfrac{3}{2}$.<br>  Vậy, thể tích của hình lập phương là $V=\\dfrac{27}{8}$."
+    "explain": "<br>  $(\\alpha):4x-4y+2z-7=0$<br>  $(\\beta):2x-2y+z+1=0$<br>  Vì $(\\alpha)$ và $(\\beta)$ song song với nhau nên hai mặt này chứa hai mặt đối nhau của hình lập phương; và khi đó độ dài cạnh của hình lập phương chính là khoảng cách giữa $(\\alpha)$ và $(\\beta)$. <br>  Chọn $A(0,0,-1)\\in (\\alpha)$. Khi đó, $d((\\alpha), (\\beta))=d(A,(\\beta))=\\dfrac{3}{2}$.<br>  Vậy, thể tích của hình lập phương là $V=\\dfrac{27}{8}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN17",
@@ -231,7 +249,8 @@ window.tracNghiem2H51 = [
       "$d=\\sqrt{5}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN18",
@@ -243,7 +262,8 @@ window.tracNghiem2H51 = [
       "$0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN19",
@@ -255,7 +275,8 @@ window.tracNghiem2H51 = [
       "$d=6$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN20",
@@ -267,7 +288,8 @@ window.tracNghiem2H51 = [
       "Khoảng cách từ điểm $M\\left(x_0,y_0,z_0 \\right)$ đến mặt phẳng $(R): 2x+2y+z+1=0$ là $\\dfrac{2x_0+2y_0+z_0+1}{3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN21",
@@ -279,7 +301,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha)$ qua $I$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN22",
@@ -291,7 +314,8 @@ window.tracNghiem2H51 = [
       "$(\\beta  )$ song song với $(Oxz)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN23",
@@ -303,7 +327,8 @@ window.tracNghiem2H51 = [
       "$(3;-1)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN24",
@@ -315,7 +340,8 @@ window.tracNghiem2H51 = [
       "$m = \\dfrac{3}{7}$; $n = 9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN25",
@@ -327,7 +353,8 @@ window.tracNghiem2H51 = [
       "Không tồn tại $m$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN26",
@@ -339,7 +366,8 @@ window.tracNghiem2H51 = [
       "$m=\\dfrac{5}{2}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN27",
@@ -351,7 +379,8 @@ window.tracNghiem2H51 = [
       "$a=-1,b=6$"
     ],
     "answer": 1,
-    "explain": "Để $(P)$ và $(Q)$ song song với nhau thì $\\dfrac{2}{a}=\\dfrac{b}{3}=\\dfrac{4}{-2}\\neq \\dfrac{-3}{1}$.<br>  Suy ra $a=-1, b=-6$."
+    "explain": "Để $(P)$ và $(Q)$ song song với nhau thì $\\dfrac{2}{a}=\\dfrac{b}{3}=\\dfrac{4}{-2}\\neq \\dfrac{-3}{1}$.<br>  Suy ra $a=-1, b=-6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN28",
@@ -363,7 +392,8 @@ window.tracNghiem2H51 = [
       "$h_2=4h_1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN29",
@@ -375,7 +405,8 @@ window.tracNghiem2H51 = [
       "$h_1=\\dfrac{4}{5}h_2$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN30",
@@ -387,7 +418,8 @@ window.tracNghiem2H51 = [
       "$m=\\pm2$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN31",
@@ -399,7 +431,8 @@ window.tracNghiem2H51 = [
       "$m=\\pm 2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN32",
@@ -411,7 +444,8 @@ window.tracNghiem2H51 = [
       "$M(0;0;3)$ và $M(0;0;-15)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN33",
@@ -423,7 +457,8 @@ window.tracNghiem2H51 = [
       "$a=18$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN34",
@@ -435,7 +470,8 @@ window.tracNghiem2H51 = [
       "$45^\\circ$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN35",
@@ -447,7 +483,8 @@ window.tracNghiem2H51 = [
       "$\\varphi = 60^{\\circ}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN36",
@@ -459,7 +496,8 @@ window.tracNghiem2H51 = [
       "\\(30^\\circ\\)"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN37",
@@ -471,7 +509,8 @@ window.tracNghiem2H51 = [
       "2"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN38",
@@ -483,7 +522,8 @@ window.tracNghiem2H51 = [
       "$a=-1$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN39",
@@ -495,7 +535,8 @@ window.tracNghiem2H51 = [
       "$m=-1$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN40",
@@ -507,7 +548,8 @@ window.tracNghiem2H51 = [
       "$\\left|m\\right|=\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN41",
@@ -519,7 +561,8 @@ window.tracNghiem2H51 = [
       "$2x+3y+3z-7=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN42",
@@ -531,7 +574,8 @@ window.tracNghiem2H51 = [
       "$4x-5z+4=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN43",
@@ -543,7 +587,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha):\\ 6x+3y-2z+8=0$"
     ],
     "answer": 0,
-    "explain": "Giả sử $A(a;0;0)$, $B(0;b;0)$ và $C(0;0;c)$, với $a,b,c\\ne 0$. Điểm $H(1;2;-3)$ là trực tâm của tam giác $ABC$ khi và chỉ khi $\\overrightarrow{AH}\\cdot\\overrightarrow{BC}=0 \\text{ và } \\overrightarrow{BH}\\cdot\\overrightarrow{AC}=0 \\text{ và } H\\in (ABC)\\Leftrightarrow a=14 \\text{ và } b=7 \\text{ và } c=-\\dfrac{14}{3}$.<br>  Từ đó ta có $(\\alpha):\\ \\dfrac{x}{14}+\\dfrac{y}{7}-\\dfrac{3z}{14}=1$ hay $(\\alpha):\\ x+2y-3z-14=0$."
+    "explain": "Giả sử $A(a;0;0)$, $B(0;b;0)$ và $C(0;0;c)$, với $a,b,c\\ne 0$. Điểm $H(1;2;-3)$ là trực tâm của tam giác $ABC$ khi và chỉ khi $\\overrightarrow{AH}\\cdot\\overrightarrow{BC}=0 \\text{ và } \\overrightarrow{BH}\\cdot\\overrightarrow{AC}=0 \\text{ và } H\\in (ABC)\\Leftrightarrow a=14 \\text{ và } b=7 \\text{ và } c=-\\dfrac{14}{3}$.<br>  Từ đó ta có $(\\alpha):\\ \\dfrac{x}{14}+\\dfrac{y}{7}-\\dfrac{3z}{14}=1$ hay $(\\alpha):\\ x+2y-3z-14=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN44",
@@ -555,7 +600,8 @@ window.tracNghiem2H51 = [
       "$6x-2y-2z-1=0$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\vec{AB}(-6;2;2)$, trung điểm của $AB$ là $I(1;1;2)$.<br>  Mặt phẳng trung trực của $AB$ nhận véc-tơ $\\vec{n}(3;-1;-1)$ làm véc-tơ pháp tuyến và đi qua điểm $I(1;1;2)$. Vậy phương trình mặt phẳng trung trực của $AB$ là  $3(x-1)-(y-1)-(z-2)=0\\Leftrightarrow 3x-y-z=0.$"
+    "explain": "Ta có $\\vec{AB}(-6;2;2)$, trung điểm của $AB$ là $I(1;1;2)$.<br>  Mặt phẳng trung trực của $AB$ nhận véc-tơ $\\vec{n}(3;-1;-1)$ làm véc-tơ pháp tuyến và đi qua điểm $I(1;1;2)$. Vậy phương trình mặt phẳng trung trực của $AB$ là  $3(x-1)-(y-1)-(z-2)=0\\Leftrightarrow 3x-y-z=0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN45",
@@ -567,7 +613,8 @@ window.tracNghiem2H51 = [
       "$- x + 3z - 10 = 0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN46",
@@ -579,7 +626,8 @@ window.tracNghiem2H51 = [
       "$x+4y-2z-25=0$"
     ],
     "answer": 2,
-    "explain": "Gọi $(P)$ là mặt phẳng trung trực của đoạn thẳng $AB$. Khi đó $(P)$ đi qua trung điểm $I$ của $AB$ và nhận $\\overrightarrow{AB}$ làm véc-tơ pháp tuyến. <br>  Ta có $A(4;1;-2)$ và $B(6;9;2)$ nên $I(5;5;0)$ và $\\vec{AB}=(2;8;4)$. Một véc-tơ pháp tuyến khác của $(P)$ là $\\vec{n}=\\dfrac{1}{2}\\vec{AB}=(1;4;2)$. <br>  Phương trình mặt phẳng $(P)$ là   $(P)\\colon (x-5)+4(y-5)+2z=0 \\Leftrightarrow x+4y+2z-25=0.$"
+    "explain": "Gọi $(P)$ là mặt phẳng trung trực của đoạn thẳng $AB$. Khi đó $(P)$ đi qua trung điểm $I$ của $AB$ và nhận $\\overrightarrow{AB}$ làm véc-tơ pháp tuyến. <br>  Ta có $A(4;1;-2)$ và $B(6;9;2)$ nên $I(5;5;0)$ và $\\vec{AB}=(2;8;4)$. Một véc-tơ pháp tuyến khác của $(P)$ là $\\vec{n}=\\dfrac{1}{2}\\vec{AB}=(1;4;2)$. <br>  Phương trình mặt phẳng $(P)$ là   $(P)\\colon (x-5)+4(y-5)+2z=0 \\Leftrightarrow x+4y+2z-25=0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN47",
@@ -591,7 +639,8 @@ window.tracNghiem2H51 = [
       "$3x+y-1=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN48",
@@ -603,7 +652,8 @@ window.tracNghiem2H51 = [
       "$(P):4x+2y+6z-6=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN49",
@@ -615,7 +665,8 @@ window.tracNghiem2H51 = [
       "$x+y=0$"
     ],
     "answer": 1,
-    "explain": "Trục $Oz$ có $\\vec{k}=(0;0;1)$. Mặt phẳng $(P)\\bot Oz$ nên $(P): 1(z-2)=0$"
+    "explain": "Trục $Oz$ có $\\vec{k}=(0;0;1)$. Mặt phẳng $(P)\\bot Oz$ nên $(P): 1(z-2)=0$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN50",
@@ -627,7 +678,8 @@ window.tracNghiem2H51 = [
       "$3x - y - 2z + 6 = 0$"
     ],
     "answer": 2,
-    "explain": "Mặt phẳng song song với $\\left(\\alpha\\right)$ và qua điểm $M$ là $3x - y + 2z - 6 = 0$."
+    "explain": "Mặt phẳng song song với $\\left(\\alpha\\right)$ và qua điểm $M$ là $3x - y + 2z - 6 = 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN51",
@@ -639,7 +691,8 @@ window.tracNghiem2H51 = [
       "$3x-y+2z-2017=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN52",
@@ -651,7 +704,8 @@ window.tracNghiem2H51 = [
       "$(P):-x+y+3z+10=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN53",
@@ -663,7 +717,8 @@ window.tracNghiem2H51 = [
       "$2x+y-2z+6=0$"
     ],
     "answer": 2,
-    "explain": "Mặt phẳng cần tìm $2(x-1)+1(y-0)-2(z+2)=0 \\Leftrightarrow 2x+y-2z-6=0$."
+    "explain": "Mặt phẳng cần tìm $2(x-1)+1(y-0)-2(z+2)=0 \\Leftrightarrow 2x+y-2z-6=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN54",
@@ -675,7 +730,8 @@ window.tracNghiem2H51 = [
       "$a=5, b=2, c=-3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN55",
@@ -687,7 +743,8 @@ window.tracNghiem2H51 = [
       "$5x+60y+16z+14=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN56",
@@ -699,7 +756,8 @@ window.tracNghiem2H51 = [
       "$h=1$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN57",
@@ -711,7 +769,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{\\sqrt{5}}{5}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN58",
@@ -723,7 +782,8 @@ window.tracNghiem2H51 = [
       "Vô số mặt phẳng"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN59",
@@ -735,7 +795,8 @@ window.tracNghiem2H51 = [
       "$x-3y+3z-15=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN60",
@@ -747,7 +808,8 @@ window.tracNghiem2H51 = [
       "$3y-2z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN61",
@@ -759,7 +821,8 @@ window.tracNghiem2H51 = [
       "$x-z=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN62",
@@ -771,7 +834,8 @@ window.tracNghiem2H51 = [
       "$3x+z=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN63",
@@ -783,7 +847,8 @@ window.tracNghiem2H51 = [
       "$2x+y+1=0$"
     ],
     "answer": 2,
-    "explain": "Có $\\left[\\vec{k}, \\vec{OQ}\\right]=(3;2;0)$.<br>  Mặt phẳng $(\\alpha)$ đi qua điểm $Q$ và có véc-tơ pháp tuyến $\\vec{n}=(3;2;0)$ nên có phương trình là $3x+2y=0$."
+    "explain": "Có $\\left[\\vec{k}, \\vec{OQ}\\right]=(3;2;0)$.<br>  Mặt phẳng $(\\alpha)$ đi qua điểm $Q$ và có véc-tơ pháp tuyến $\\vec{n}=(3;2;0)$ nên có phương trình là $3x+2y=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN64",
@@ -795,7 +860,8 @@ window.tracNghiem2H51 = [
       "$5x-3y+z+10=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN65",
@@ -807,7 +873,8 @@ window.tracNghiem2H51 = [
       "$y-2z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN66",
@@ -819,7 +886,8 @@ window.tracNghiem2H51 = [
       "$x+y=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN67",
@@ -831,7 +899,8 @@ window.tracNghiem2H51 = [
       "$y-2z+2=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN68",
@@ -843,7 +912,8 @@ window.tracNghiem2H51 = [
       "$x+y-z=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN69",
@@ -855,7 +925,8 @@ window.tracNghiem2H51 = [
       "$11x-7y-2z-21=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN70",
@@ -867,7 +938,8 @@ window.tracNghiem2H51 = [
       "$S=-12$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN71",
@@ -879,7 +951,8 @@ window.tracNghiem2H51 = [
       "$18x + 3y + 13 z + 61 = 0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN72",
@@ -891,7 +964,8 @@ window.tracNghiem2H51 = [
       "$x+y-z-1=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN73",
@@ -903,7 +977,8 @@ window.tracNghiem2H51 = [
       "$(Q)$: $2x+y+2z-2=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN74",
@@ -915,7 +990,8 @@ window.tracNghiem2H51 = [
       "$3x+4y-z-19=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN75",
@@ -927,7 +1003,8 @@ window.tracNghiem2H51 = [
       "$3x-4y+z+19=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN76",
@@ -939,7 +1016,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha): y+2z-4=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN77",
@@ -951,7 +1029,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x}{3}+\\dfrac{y}{2}+\\dfrac{z}{-1}=1$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN78",
@@ -963,7 +1042,8 @@ window.tracNghiem2H51 = [
       "$x-2y+3z-2=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN79",
@@ -975,7 +1055,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x}{2}+\\dfrac{y}{1}+\\dfrac{z}{3}=-1$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN80",
@@ -987,7 +1068,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x}{b}+\\dfrac{y}{a}+\\dfrac{z}{c}=1$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN81",
@@ -999,7 +1081,8 @@ window.tracNghiem2H51 = [
       "$ \\dfrac{x}{a} + \\dfrac{y}{b} + \\dfrac{z}{c} = 0 $"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN82",
@@ -1011,7 +1094,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x}{1}-\\dfrac{y}{2}-\\dfrac{z}{2}+1=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN83",
@@ -1023,7 +1107,8 @@ window.tracNghiem2H51 = [
       "$2x + 2y + 6z - 6 = 0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN84",
@@ -1035,7 +1120,8 @@ window.tracNghiem2H51 = [
       "$bc=b+2c$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN85",
@@ -1047,7 +1133,8 @@ window.tracNghiem2H51 = [
       "$ 2x+4y+4z-12=0$"
     ],
     "answer": 3,
-    "explain": "Gọi $A(a;0;0), B(0;b;0), C(0;0;c)$ lần lượt là giao điểm của $(P)$ với trục $Ox, Oy, Oz$. Khi đó mặt phẳng $(P)$ có dạng $ \\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1.$<br>  Mặt khác $G(2;1;1)$ là trọng tâm tam giác $ABC\\Rightarrow \\begin{cases}  x_A+x_B+x_C=3x_G\\\\  y_A+y_B+y_C=3y_G \\\\  z_A+z_B+z_C=3z_G.  \\end{cases} \\Leftrightarrow \\begin{cases}  a=6\\\\  b=2 \\\\  z=2.  \\end{cases} $ hay $(P): 2x+4y+4z-12=0$"
+    "explain": "Gọi $A(a;0;0), B(0;b;0), C(0;0;c)$ lần lượt là giao điểm của $(P)$ với trục $Ox, Oy, Oz$. Khi đó mặt phẳng $(P)$ có dạng $ \\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1.$<br>  Mặt khác $G(2;1;1)$ là trọng tâm tam giác $ABC\\Rightarrow \\begin{cases}  x_A+x_B+x_C=3x_G\\\\  y_A+y_B+y_C=3y_G \\\\  z_A+z_B+z_C=3z_G.  \\end{cases} \\Leftrightarrow \\begin{cases}  a=6\\\\  b=2 \\\\  z=2.  \\end{cases} $ hay $(P): 2x+4y+4z-12=0$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN86",
@@ -1059,7 +1146,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha):\\ 6x-3y+2z-6=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN87",
@@ -1071,7 +1159,8 @@ window.tracNghiem2H51 = [
       "$(4;1;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN88",
@@ -1083,7 +1172,8 @@ window.tracNghiem2H51 = [
       "$6x-3y-2z+6=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN89",
@@ -1095,7 +1185,8 @@ window.tracNghiem2H51 = [
       "$A'(9; 0; 9)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN90",
@@ -1107,7 +1198,8 @@ window.tracNghiem2H51 = [
       "$(1;1;2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN91",
@@ -1119,7 +1211,8 @@ window.tracNghiem2H51 = [
       "$4x-3y-z=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN92",
@@ -1131,7 +1224,8 @@ window.tracNghiem2H51 = [
       "$(P): 2x-y+2z-6=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN93",
@@ -1143,7 +1237,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{3}{\\sqrt{14}}$"
     ],
     "answer": 0,
-    "explain": "Chọn $M(1;7;3) \\in \\Delta$.<br>  Ta có $d((P),(Q))=d(\\Delta,(P))=d(M, (P))=\\dfrac{\\left|3.1-2.7-1.3+5\\right|}{\\sqrt{3^2+(-2)^2+(-1)^2}}=\\dfrac{9}{\\sqrt{14}}$."
+    "explain": "Chọn $M(1;7;3) \\in \\Delta$.<br>  Ta có $d((P),(Q))=d(\\Delta,(P))=d(M, (P))=\\dfrac{\\left|3.1-2.7-1.3+5\\right|}{\\sqrt{3^2+(-2)^2+(-1)^2}}=\\dfrac{9}{\\sqrt{14}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN94",
@@ -1155,7 +1250,8 @@ window.tracNghiem2H51 = [
       "$\\varphi=90^\\circ$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN95",
@@ -1167,7 +1263,8 @@ window.tracNghiem2H51 = [
       "$\\alpha =60^{\\circ}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN96",
@@ -1179,7 +1276,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{5}{3}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN97",
@@ -1191,7 +1289,8 @@ window.tracNghiem2H51 = [
       "$x=a-x_0t \\text{ và } y=b-y_0t \\text{ và } z=c-z_0t$ $(t\\in\\mathbb{R})$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN98",
@@ -1203,7 +1302,8 @@ window.tracNghiem2H51 = [
       "$(3;-2;-3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN99",
@@ -1215,7 +1315,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{a}=\\left( 2;-1;1 \\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN100",
@@ -1227,7 +1328,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{u}=(-4;3;12)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN101",
@@ -1239,7 +1341,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x+1}{1}=\\dfrac{y+3}{3}=\\dfrac{z+5}{5}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN102",
@@ -1251,7 +1354,8 @@ window.tracNghiem2H51 = [
       "$d_1\\parallel d_2\\parallel d_3$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN103",
@@ -1263,7 +1367,8 @@ window.tracNghiem2H51 = [
       "$A'(0;1;2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN104",
@@ -1275,7 +1380,8 @@ window.tracNghiem2H51 = [
       "$(1;1;0)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN105",
@@ -1287,7 +1393,8 @@ window.tracNghiem2H51 = [
       "$N(-2;0;2)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN106",
@@ -1299,7 +1406,8 @@ window.tracNghiem2H51 = [
       "$H\\big(- 2; 1;-1\\big)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN107",
@@ -1311,7 +1419,8 @@ window.tracNghiem2H51 = [
       "$A'(4;1;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN108",
@@ -1323,7 +1432,8 @@ window.tracNghiem2H51 = [
       "$N(3;4;-4)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN109",
@@ -1335,7 +1445,8 @@ window.tracNghiem2H51 = [
       "$(4;1;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN110",
@@ -1347,7 +1458,8 @@ window.tracNghiem2H51 = [
       "$(1;1;2)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN111",
@@ -1359,7 +1471,8 @@ window.tracNghiem2H51 = [
       "$S=2018$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN112",
@@ -1371,7 +1484,8 @@ window.tracNghiem2H51 = [
       "$\\sqrt{\\dfrac{2}{3}}$"
     ],
     "answer": 2,
-    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có  $A(0;0;0)$, $B(a;0;0)$, $D(0;a\\sqrt{2};0)$, $C(a;a\\sqrt{2};0)$, $S(0;0;2a)$.<br>  $\\overrightarrow{BC}=(0;a\\sqrt{2};0)$, $\\overrightarrow{BS}=(-a;0;2a)$, $\\overrightarrow{BD}=(-a;a\\sqrt{2};0)$.<br>  $(SBC)$ có một véc-tơ pháp tuyến $\\overrightarrow{n}_1=[\\overrightarrow{BC},\\overrightarrow{BS}]=(2a^2\\sqrt{2};0;a^2\\sqrt{2})$.<br>  $(SBD)$ có một véc-tơ pháp tuyến $\\overrightarrow{n}_2=[\\overrightarrow{BS},\\overrightarrow{BD}]=(-2a^2\\sqrt{2};-2a^2;-a^2\\sqrt{2})$.<br>  $\\cos\\alpha=\\left|\\cos\\left(\\overrightarrow{n}_1,\\overrightarrow{n}_2\\right)\\right|=\\dfrac{\\left|\\overrightarrow{n}_1\\cdot\\overrightarrow{n}_2\\right|}{\\left|\\overrightarrow{n}_1\\right|\\cdot\\left|\\overrightarrow{n}_2\\right|}=\\sqrt{\\dfrac{5}{7}}$."
+    "explain": "Chọn hệ trục tọa độ như hình vẽ, ta có  $A(0;0;0)$, $B(a;0;0)$, $D(0;a\\sqrt{2};0)$, $C(a;a\\sqrt{2};0)$, $S(0;0;2a)$.<br>  $\\overrightarrow{BC}=(0;a\\sqrt{2};0)$, $\\overrightarrow{BS}=(-a;0;2a)$, $\\overrightarrow{BD}=(-a;a\\sqrt{2};0)$.<br>  $(SBC)$ có một véc-tơ pháp tuyến $\\overrightarrow{n}_1=[\\overrightarrow{BC},\\overrightarrow{BS}]=(2a^2\\sqrt{2};0;a^2\\sqrt{2})$.<br>  $(SBD)$ có một véc-tơ pháp tuyến $\\overrightarrow{n}_2=[\\overrightarrow{BS},\\overrightarrow{BD}]=(-2a^2\\sqrt{2};-2a^2;-a^2\\sqrt{2})$.<br>  $\\cos\\alpha=\\left|\\cos\\left(\\overrightarrow{n}_1,\\overrightarrow{n}_2\\right)\\right|=\\dfrac{\\left|\\overrightarrow{n}_1\\cdot\\overrightarrow{n}_2\\right|}{\\left|\\overrightarrow{n}_1\\right|\\cdot\\left|\\overrightarrow{n}_2\\right|}=\\sqrt{\\dfrac{5}{7}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN113",
@@ -1383,7 +1497,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{\\sqrt{13}}{7}$"
     ],
     "answer": 0,
-    "explain": "Chọn hệ trục tọa độ $ Oxyz$ sao cho $ O\\equiv B, C\\in Ox, A\\in Oy, Bz\\parallel AS$ (như hình vẽ).<br>  Ta có<br>  $ B(0;0;0), C(2a;0;0), A(0;a;0), S(0;a;3a)$;  $ \\overrightarrow{AS}=(0;0;3a), \\overrightarrow{AC}=(2a;-a;0)$<br>  $ \\Rightarrow \\left[\\overrightarrow{AS}, \\overrightarrow{AC}\\right]=\\left(3a^2;6a^2;0\\right)$  $ \\Rightarrow \\vec{u}=(1;2;0)$ là một véc-tơ pháp tuyến của $ (SAC)$;<br>  $ \\overrightarrow{BS}=(0;a;3a), \\overrightarrow{BC}=(2a;0;0) \\Rightarrow \\left[ \\overrightarrow{BS}, \\overrightarrow{BC}\\right]=\\left(0;6a^2;-2a^2\\right)$  $ \\Rightarrow \\vec{v}=(0;3;-1)$ là một véc-tơ pháp tuyến của $ (SBC)$.<br>  Do đó, $ \\cos \\alpha =\\dfrac{\\left|\\vec{u}\\cdot\\vec{v}\\right|}{\\left|\\vec{u}\\right|\\cdot\\left|\\vec{v}\\right|}$ =\\dfrac{6}{\\sqrt{5}\\cdot\\sqrt{10}}$ =\\dfrac{3\\sqrt{2}}{5}$. Vậy $ \\sin \\alpha =\\dfrac{\\sqrt{7}}{5}$."
+    "explain": "Chọn hệ trục tọa độ $ Oxyz$ sao cho $ O\\equiv B, C\\in Ox, A\\in Oy, Bz\\parallel AS$ (như hình vẽ).<br>  Ta có<br>  $ B(0;0;0), C(2a;0;0), A(0;a;0), S(0;a;3a)$;  $ \\overrightarrow{AS}=(0;0;3a), \\overrightarrow{AC}=(2a;-a;0)$<br>  $ \\Rightarrow \\left[\\overrightarrow{AS}, \\overrightarrow{AC}\\right]=\\left(3a^2;6a^2;0\\right)$  $ \\Rightarrow \\vec{u}=(1;2;0)$ là một véc-tơ pháp tuyến của $ (SAC)$;<br>  $ \\overrightarrow{BS}=(0;a;3a), \\overrightarrow{BC}=(2a;0;0) \\Rightarrow \\left[ \\overrightarrow{BS}, \\overrightarrow{BC}\\right]=\\left(0;6a^2;-2a^2\\right)$  $ \\Rightarrow \\vec{v}=(0;3;-1)$ là một véc-tơ pháp tuyến của $ (SBC)$.<br>  Do đó, $ \\cos \\alpha =\\dfrac{\\left|\\vec{u}\\cdot\\vec{v}\\right|}{\\left|\\vec{u}\\right|\\cdot\\left|\\vec{v}\\right|}$ =\\dfrac{6}{\\sqrt{5}\\cdot\\sqrt{10}}$ =\\dfrac{3\\sqrt{2}}{5}$. Vậy $ \\sin \\alpha =\\dfrac{\\sqrt{7}}{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN114",
@@ -1395,7 +1510,8 @@ window.tracNghiem2H51 = [
       "$90^\\circ$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN115",
@@ -1407,7 +1523,8 @@ window.tracNghiem2H51 = [
       "$d=\\dfrac{1}{\\sqrt{5}}$"
     ],
     "answer": 2,
-    "explain": "Chọn hệ trục tọa độ $Oxyz$ như sau: $O\\equiv B, C$ nằm trên tia $Ox, A$ nằm trên tia $Oy, B'$ nằm trên tia $Oz$.<br>  Gọi $N, P$ lần lượt là giao điểm của mặt phẳng $(\\alpha)$ với cạnh $AB, BC$.<br>  Dễ tìm được $M(0;\\dfrac{3}{2};1), N(0;1;0)$.<br>  Ta có $\\vec{NM}=(0;\\dfrac{1}{2};1), \\vec{i}=(1;0;0)$.<br>  VTPT của $(\\alpha)$ là $\\vec{n}=[{\\vec{NM},\\vec{i}}]=(0;1;-\\dfrac{1}{2})$.<br>  Phương trình $(\\alpha)\\colon y-\\dfrac{1}{2}z-1=0$.<br>  Khoảng cách từ $A(0;3;0)$ đến $(\\alpha)$ là $d=\\dfrac{\\left|{3-1}\\right|}{\\sqrt{1+\\dfrac{1}{4}}}$=\\dfrac{4}{\\sqrt{5}}$."
+    "explain": "Chọn hệ trục tọa độ $Oxyz$ như sau: $O\\equiv B, C$ nằm trên tia $Ox, A$ nằm trên tia $Oy, B'$ nằm trên tia $Oz$.<br>  Gọi $N, P$ lần lượt là giao điểm của mặt phẳng $(\\alpha)$ với cạnh $AB, BC$.<br>  Dễ tìm được $M(0;\\dfrac{3}{2};1), N(0;1;0)$.<br>  Ta có $\\vec{NM}=(0;\\dfrac{1}{2};1), \\vec{i}=(1;0;0)$.<br>  VTPT của $(\\alpha)$ là $\\vec{n}=[{\\vec{NM},\\vec{i}}]=(0;1;-\\dfrac{1}{2})$.<br>  Phương trình $(\\alpha)\\colon y-\\dfrac{1}{2}z-1=0$.<br>  Khoảng cách từ $A(0;3;0)$ đến $(\\alpha)$ là $d=\\dfrac{\\left|{3-1}\\right|}{\\sqrt{1+\\dfrac{1}{4}}}$=\\dfrac{4}{\\sqrt{5}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN116",
@@ -1419,7 +1536,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{33}{\\sqrt{3157}}$"
     ],
     "answer": 3,
-    "explain": "Gọi $H$ là trung điểm$BC$, theo giả thiết ta có $B'H\\perp \\left(ABC\\right)$.<br>  Mặt khác ta lại có tam giác $ABC$ vuông tại $A$, $AB=3$, $AC=4$ nên $BC=\\sqrt{AB^2+AC^2}=5$.<br>  Xét tam giác vuông $B'BH$ ta có   $B'H^2=\\sqrt{BB'^2-B'H^2}=3.$  Chọn hệ trục tọa độ $Oxyz$ có $A$ trùng với $O$ như hình vẽ<br>  Với$A\\left(0;0;0\\right)$, $B\\left(4;0;0\\right)$, $C\\left(0;3;0\\right)$, khi đó trung điểm $H$ của $BC$ là $H\\left(\\dfrac{3}{2};2;0\\right)$.<br> Mặt khác theo giả thiết ta có $AA'=BB'=\\dfrac{\\sqrt{61}}{2}$ nên $B'\\left(\\dfrac{3}{2};2;3\\right)$.<br>  Do $\\overrightarrow{BB'}=\\overrightarrow{AA'}=\\overrightarrow{CC'}$ nên $A'\\left(-\\dfrac{3}{2};2;3\\right)$; $C'\\left(-\\dfrac{3}{2};6;3\\right)\\Rightarrow M\\left(0;2;3\\right)$.<br>  $\\overrightarrow{AM}=\\left(0;2;3\\right)$; $\\overrightarrow{AC'}=\\left(-\\dfrac{3}{2};6;3\\right)$ nên vectơ pháp tuyến của $\\left(MAC'\\right)$ là $\\overrightarrow{n}_1=\\left[\\overrightarrow{AM},\\overrightarrow{AC'}\\right]=\\left(-12;-\\dfrac{9}{2};3\\right)$.<br>  $\\overrightarrow{A'B}=\\left(\\dfrac{9}{2};-2;-3\\right)$; $\\overrightarrow{A'C}=\\left(\\dfrac{3}{2};2;-3\\right)$ nên vectơ pháp tuyến của $\\left(A'BC\\right)$ là $\\overrightarrow{n}_2=\\left[\\overrightarrow{A'B},\\overrightarrow{A'C}\\right]=\\left(12;9;12\\right)$.<br>  Gọi $\\varphi $ là góc tạo bởi mặt phẳng $\\left(AMC'\\right)$ và mặt phẳng$\\left(A'BC\\right)$, ta có<br>  $\\cos \\varphi =\\dfrac{\\left| \\overrightarrow{n}_1\\cdot\\overrightarrow{n}_2\\right|}{\\left| \\overrightarrow{n}_1\\right|\\cdot\\left| \\overrightarrow{n}_2\\right|}=\\dfrac{\\left| 12\\cdot(-12)+9\\cdot\\left(-\\dfrac{9}{2}\\right)+12\\cdot 3\\right|}{\\sqrt{\\left(-12\\right)^2+\\left(-\\dfrac{9}{2}\\right)^2+3^2}\\cdot\\sqrt{9^2+12^2+12^2}}=\\dfrac{33}{\\sqrt{3157}}$."
+    "explain": "Gọi $H$ là trung điểm$BC$, theo giả thiết ta có $B'H\\perp \\left(ABC\\right)$.<br>  Mặt khác ta lại có tam giác $ABC$ vuông tại $A$, $AB=3$, $AC=4$ nên $BC=\\sqrt{AB^2+AC^2}=5$.<br>  Xét tam giác vuông $B'BH$ ta có   $B'H^2=\\sqrt{BB'^2-B'H^2}=3.$  Chọn hệ trục tọa độ $Oxyz$ có $A$ trùng với $O$ như hình vẽ<br>  Với$A\\left(0;0;0\\right)$, $B\\left(4;0;0\\right)$, $C\\left(0;3;0\\right)$, khi đó trung điểm $H$ của $BC$ là $H\\left(\\dfrac{3}{2};2;0\\right)$.<br> Mặt khác theo giả thiết ta có $AA'=BB'=\\dfrac{\\sqrt{61}}{2}$ nên $B'\\left(\\dfrac{3}{2};2;3\\right)$.<br>  Do $\\overrightarrow{BB'}=\\overrightarrow{AA'}=\\overrightarrow{CC'}$ nên $A'\\left(-\\dfrac{3}{2};2;3\\right)$; $C'\\left(-\\dfrac{3}{2};6;3\\right)\\Rightarrow M\\left(0;2;3\\right)$.<br>  $\\overrightarrow{AM}=\\left(0;2;3\\right)$; $\\overrightarrow{AC'}=\\left(-\\dfrac{3}{2};6;3\\right)$ nên vectơ pháp tuyến của $\\left(MAC'\\right)$ là $\\overrightarrow{n}_1=\\left[\\overrightarrow{AM},\\overrightarrow{AC'}\\right]=\\left(-12;-\\dfrac{9}{2};3\\right)$.<br>  $\\overrightarrow{A'B}=\\left(\\dfrac{9}{2};-2;-3\\right)$; $\\overrightarrow{A'C}=\\left(\\dfrac{3}{2};2;-3\\right)$ nên vectơ pháp tuyến của $\\left(A'BC\\right)$ là $\\overrightarrow{n}_2=\\left[\\overrightarrow{A'B},\\overrightarrow{A'C}\\right]=\\left(12;9;12\\right)$.<br>  Gọi $\\varphi $ là góc tạo bởi mặt phẳng $\\left(AMC'\\right)$ và mặt phẳng$\\left(A'BC\\right)$, ta có<br>  $\\cos \\varphi =\\dfrac{\\left| \\overrightarrow{n}_1\\cdot\\overrightarrow{n}_2\\right|}{\\left| \\overrightarrow{n}_1\\right|\\cdot\\left| \\overrightarrow{n}_2\\right|}=\\dfrac{\\left| 12\\cdot(-12)+9\\cdot\\left(-\\dfrac{9}{2}\\right)+12\\cdot 3\\right|}{\\sqrt{\\left(-12\\right)^2+\\left(-\\dfrac{9}{2}\\right)^2+3^2}\\cdot\\sqrt{9^2+12^2+12^2}}=\\dfrac{33}{\\sqrt{3157}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN117",
@@ -1431,7 +1549,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{\\sqrt{5}a^3}{6}$"
     ],
     "answer": 1,
-    "explain": "Đặt $SO=x&gt;0$ và gọi $O$ là tâm hình vuông $ABCD$. Dựng hệ trục toạ độ $Oxyz$ như hình vẽ, khi đó toạ độ các điểm là $S(0,0,x)$, $A\\left(-\\dfrac{a\\sqrt{2}}{2},0,0\\right)$, $B\\left(0,-\\dfrac{a\\sqrt{2}}{2},0\\right)$, $C\\left(\\dfrac{a\\sqrt{2}}{2},0,0\\right)$, $D\\left(0,\\dfrac{a\\sqrt{2}}{2},0\\right)$, $M\\left(-\\dfrac{a\\sqrt{2}}{4},0,\\dfrac{x}{2}\\right)$.<br>  Ta có $\\left[\\vec{MC},\\vec{CD}\\right]=\\left(\\dfrac{ax\\sqrt{2}}{4},\\dfrac{ax\\sqrt{2}}{4},\\dfrac{3a^2}{4}\\right)=\\dfrac{a}{4}\\left(x\\sqrt{2},x\\sqrt{2},3a\\right)$ nên mp$(MCD)$ có véc-tơ pháp tuyến $\\vec{n_1}=\\left(x\\sqrt{2},x\\sqrt{2},3a\\right)$.<br>  Và $\\left[\\vec{AS},\\vec{AB}\\right]=\\left(\\dfrac{ax\\sqrt{2}}{2},\\dfrac{ax\\sqrt{2}}{2},\\dfrac{-a^2}{2}\\right)=\\dfrac{a}{2}\\left(x\\sqrt{2},x\\sqrt{2},-a\\right)$ nên mp$(SAB)$ có véc-tơ pháp tuyến $\\vec{n_2}=\\left(x\\sqrt{2},x\\sqrt{2},-a\\right)$.  Để mặt phẳng $(MCD)$ vuông góc với mặt phẳng $(SAB)$ thì $\\vec{n_1}\\cdot \\vec{n_2}=0 \\Leftrightarrow 4x^2-3a^2=0 \\Leftrightarrow x=\\dfrac{a\\sqrt{3}}{2}\\quad(\\text{vì }x&gt;0).$  Suy ra thể tích khối chóp $S.ABCD$ là $V=\\dfrac{1}{3}\\cdot SO\\cdot S_{ABCD}=\\dfrac{\\sqrt{3}a^3}{6}$."
+    "explain": "Đặt $SO=x&gt;0$ và gọi $O$ là tâm hình vuông $ABCD$. Dựng hệ trục toạ độ $Oxyz$ như hình vẽ, khi đó toạ độ các điểm là $S(0,0,x)$, $A\\left(-\\dfrac{a\\sqrt{2}}{2},0,0\\right)$, $B\\left(0,-\\dfrac{a\\sqrt{2}}{2},0\\right)$, $C\\left(\\dfrac{a\\sqrt{2}}{2},0,0\\right)$, $D\\left(0,\\dfrac{a\\sqrt{2}}{2},0\\right)$, $M\\left(-\\dfrac{a\\sqrt{2}}{4},0,\\dfrac{x}{2}\\right)$.<br>  Ta có $\\left[\\vec{MC},\\vec{CD}\\right]=\\left(\\dfrac{ax\\sqrt{2}}{4},\\dfrac{ax\\sqrt{2}}{4},\\dfrac{3a^2}{4}\\right)=\\dfrac{a}{4}\\left(x\\sqrt{2},x\\sqrt{2},3a\\right)$ nên mp$(MCD)$ có véc-tơ pháp tuyến $\\vec{n_1}=\\left(x\\sqrt{2},x\\sqrt{2},3a\\right)$.<br>  Và $\\left[\\vec{AS},\\vec{AB}\\right]=\\left(\\dfrac{ax\\sqrt{2}}{2},\\dfrac{ax\\sqrt{2}}{2},\\dfrac{-a^2}{2}\\right)=\\dfrac{a}{2}\\left(x\\sqrt{2},x\\sqrt{2},-a\\right)$ nên mp$(SAB)$ có véc-tơ pháp tuyến $\\vec{n_2}=\\left(x\\sqrt{2},x\\sqrt{2},-a\\right)$.  Để mặt phẳng $(MCD)$ vuông góc với mặt phẳng $(SAB)$ thì $\\vec{n_1}\\cdot \\vec{n_2}=0 \\Leftrightarrow 4x^2-3a^2=0 \\Leftrightarrow x=\\dfrac{a\\sqrt{3}}{2}\\quad(\\text{vì }x&gt;0).$  Suy ra thể tích khối chóp $S.ABCD$ là $V=\\dfrac{1}{3}\\cdot SO\\cdot S_{ABCD}=\\dfrac{\\sqrt{3}a^3}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN118",
@@ -1443,7 +1562,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{\\sqrt{3}}{6}$"
     ],
     "answer": 0,
-    "explain": "Đặt $SA=h&gt;0$ và chọn hệ trục tọa độ $Oxyz$ như hình vẽ.<br>  Khi đó $A(0;0;0)$, $B(1;0;0)$, $M\\left(\\dfrac{1}{2};0;0\\right)$, $C(0;1;0)$, $S(0;0;h)$.<br>  Suy ra phương trình của mặt phẳng $(SBC)$ là $\\dfrac{x}{1}+\\dfrac{y}{1}+\\dfrac{z}{h}=1$ nên có $\\overrightarrow{n}_{1}=\\left(1;1; \\dfrac{1}{h}\\right)$ là véc-tơ pháp tuyến của mặt phẳng $(SBC)$.  Phương trình của mặt phẳng $(SMC)$ là $\\dfrac{x}{\\tfrac{1}{2}}+\\dfrac{y}{1}+\\dfrac{z}{h}=1 \\quad$ nên có $\\overrightarrow{n}_{2}=\\left(2;1;\\dfrac{1}{h}\\right)$ là véc-tơ pháp tuyến của mặt phẳng $(SMC)$.<br>  Từ $\\sin \\varphi=\\dfrac{1}{3}$ có $\\cos \\varphi=\\dfrac{2\\sqrt{2}}{3}$ hay $\\dfrac{2 \\sqrt{2}}{3}=\\left|\\cos \\left(\\overrightarrow{n}_1, \\overrightarrow{n}_2\\right)\\right|=\\dfrac{\\left|3+\\dfrac{1}{h^2}\\right|}{\\sqrt{2+\\dfrac{1}{h^2}} \\cdot \\sqrt{5+\\dfrac{1}{h^2}}} \\quad (*)$.<br>  Đặt $t=\\dfrac{1}{h^2}$, $t&gt;0$. Khi đó phương trình $(*)$ tương đương  $\\dfrac{\\vert 3+t \\vert}{\\sqrt{2+t}\\cdot \\sqrt{5+t}}=\\dfrac{2\\sqrt{2}}{3}$<br>$\\Leftrightarrow \\dfrac{(3+t)^2}{(2+t)(5+t)}=\\dfrac{8}{9}$<br>$\\Leftrightarrow 9(3+t)^2=8(2+t)(5+t)$<br>$\\Leftrightarrow 81+54t+9t^2=80+56t+8t^2$<br>$\\Leftrightarrow t^2-2t+1=0$<br>$\\Leftrightarrow t=1$<br>$\\Rightarrow h=1.$  Suy ra $V_{S.ABC}=\\dfrac{1}{3} h \\cdot S_{ABC}=\\dfrac{1}{6}$."
+    "explain": "Đặt $SA=h&gt;0$ và chọn hệ trục tọa độ $Oxyz$ như hình vẽ.<br>  Khi đó $A(0;0;0)$, $B(1;0;0)$, $M\\left(\\dfrac{1}{2};0;0\\right)$, $C(0;1;0)$, $S(0;0;h)$.<br>  Suy ra phương trình của mặt phẳng $(SBC)$ là $\\dfrac{x}{1}+\\dfrac{y}{1}+\\dfrac{z}{h}=1$ nên có $\\overrightarrow{n}_{1}=\\left(1;1; \\dfrac{1}{h}\\right)$ là véc-tơ pháp tuyến của mặt phẳng $(SBC)$.  Phương trình của mặt phẳng $(SMC)$ là $\\dfrac{x}{\\tfrac{1}{2}}+\\dfrac{y}{1}+\\dfrac{z}{h}=1 \\quad$ nên có $\\overrightarrow{n}_{2}=\\left(2;1;\\dfrac{1}{h}\\right)$ là véc-tơ pháp tuyến của mặt phẳng $(SMC)$.<br>  Từ $\\sin \\varphi=\\dfrac{1}{3}$ có $\\cos \\varphi=\\dfrac{2\\sqrt{2}}{3}$ hay $\\dfrac{2 \\sqrt{2}}{3}=\\left|\\cos \\left(\\overrightarrow{n}_1, \\overrightarrow{n}_2\\right)\\right|=\\dfrac{\\left|3+\\dfrac{1}{h^2}\\right|}{\\sqrt{2+\\dfrac{1}{h^2}} \\cdot \\sqrt{5+\\dfrac{1}{h^2}}} \\quad (*)$.<br>  Đặt $t=\\dfrac{1}{h^2}$, $t&gt;0$. Khi đó phương trình $(*)$ tương đương  $\\dfrac{\\vert 3+t \\vert}{\\sqrt{2+t}\\cdot \\sqrt{5+t}}=\\dfrac{2\\sqrt{2}}{3}$<br>$\\Leftrightarrow \\dfrac{(3+t)^2}{(2+t)(5+t)}=\\dfrac{8}{9}$<br>$\\Leftrightarrow 9(3+t)^2=8(2+t)(5+t)$<br>$\\Leftrightarrow 81+54t+9t^2=80+56t+8t^2$<br>$\\Leftrightarrow t^2-2t+1=0$<br>$\\Leftrightarrow t=1$<br>$\\Rightarrow h=1.$  Suy ra $V_{S.ABC}=\\dfrac{1}{3} h \\cdot S_{ABC}=\\dfrac{1}{6}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN119",
@@ -1455,7 +1575,8 @@ window.tracNghiem2H51 = [
       "$ \\dfrac{1}{2} $"
     ],
     "answer": 1,
-    "explain": "Cho độ dài của cạnh hình lập phương là $ 1 $. Đắt hệ trục tọa độ vuông góc $ Oxyz $ sao cho gốc $ O $ trùng với điểm $ A $, $ AB $ trùng với $ Ox $, $ AD $ trùng với $ Oy $ và $ AA' $ trùng với $ Oz $. Khi đó ta tính được tọa độ các điểm $ A(0,0,0) $, $ E\\left (1;\\dfrac{1}{2};1\\right ) $, $ F\\left (\\dfrac{1}{2};1;1\\right ) $, $ C(1;1;0) $, $ M\\left (\\dfrac{1}{2};0;1\\right ) $, $ N\\left (0;\\dfrac{1}{2};1\\right ) $.<br> Ta tính được $ \\overrightarrow{AE}= \\left (1;\\dfrac{1}{2};1\\right )$, $ \\overrightarrow{AF}=\\left (\\dfrac{1}{2};1;1\\right ) $, $ \\overrightarrow{CM}=\\left (-\\dfrac{1}{2};-1;1\\right ) $, $ \\overrightarrow{CN}=\\left (-1;-\\dfrac{1}{2};1\\right ) $.<br> $ \\overrightarrow{n}_{(AEF)}=\\left [\\overrightarrow{AE};\\overrightarrow{AF}\\right ]=\\left (-\\dfrac{1}{2};-\\dfrac{1}{2};\\dfrac{3}{4}\\right ). $<br> $ \\overrightarrow{n}_{(CMN)}=\\left [\\overrightarrow{CM};\\overrightarrow{CN}\\right ]=\\left (-\\dfrac{1}{2};-\\dfrac{1}{2};-\\dfrac{3}{4}\\right ). $<br> $ \\cos \\left [\\overrightarrow{n}_{(AEF)}; \\overrightarrow{n}_{(CMN)}\\right ]=\\dfrac{\\overrightarrow{n}_{(AEF)}\\cdot \\overrightarrow{n}_{(CMN}}{\\left |\\overrightarrow{n}_{(AEF)}\\right |\\cdot \\left |\\overrightarrow{n}_{(CMN)}\\right |} =-\\dfrac{1}{17}$.<br> Vậy cosin của góc tạo giữa hai mặt phẳng $ (CMN) $ và $ (AEF) $ là $ \\dfrac{1}{17} $."
+    "explain": "Cho độ dài của cạnh hình lập phương là $ 1 $. Đắt hệ trục tọa độ vuông góc $ Oxyz $ sao cho gốc $ O $ trùng với điểm $ A $, $ AB $ trùng với $ Ox $, $ AD $ trùng với $ Oy $ và $ AA' $ trùng với $ Oz $. Khi đó ta tính được tọa độ các điểm $ A(0,0,0) $, $ E\\left (1;\\dfrac{1}{2};1\\right ) $, $ F\\left (\\dfrac{1}{2};1;1\\right ) $, $ C(1;1;0) $, $ M\\left (\\dfrac{1}{2};0;1\\right ) $, $ N\\left (0;\\dfrac{1}{2};1\\right ) $.<br> Ta tính được $ \\overrightarrow{AE}= \\left (1;\\dfrac{1}{2};1\\right )$, $ \\overrightarrow{AF}=\\left (\\dfrac{1}{2};1;1\\right ) $, $ \\overrightarrow{CM}=\\left (-\\dfrac{1}{2};-1;1\\right ) $, $ \\overrightarrow{CN}=\\left (-1;-\\dfrac{1}{2};1\\right ) $.<br> $ \\overrightarrow{n}_{(AEF)}=\\left [\\overrightarrow{AE};\\overrightarrow{AF}\\right ]=\\left (-\\dfrac{1}{2};-\\dfrac{1}{2};\\dfrac{3}{4}\\right ). $<br> $ \\overrightarrow{n}_{(CMN)}=\\left [\\overrightarrow{CM};\\overrightarrow{CN}\\right ]=\\left (-\\dfrac{1}{2};-\\dfrac{1}{2};-\\dfrac{3}{4}\\right ). $<br> $ \\cos \\left [\\overrightarrow{n}_{(AEF)}; \\overrightarrow{n}_{(CMN)}\\right ]=\\dfrac{\\overrightarrow{n}_{(AEF)}\\cdot \\overrightarrow{n}_{(CMN}}{\\left |\\overrightarrow{n}_{(AEF)}\\right |\\cdot \\left |\\overrightarrow{n}_{(CMN)}\\right |} =-\\dfrac{1}{17}$.<br> Vậy cosin của góc tạo giữa hai mặt phẳng $ (CMN) $ và $ (AEF) $ là $ \\dfrac{1}{17} $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN120",
@@ -1467,7 +1588,8 @@ window.tracNghiem2H51 = [
       "$\\sin \\alpha =\\dfrac{3}{4}$"
     ],
     "answer": 0,
-    "explain": "Xét $\\triangle ABD$ có $BD^2 =AB^2+AD^2-2\\cdot AB\\cdot AD\\cdot \\cos\\widehat{BAD}$<br>$=1+4-2=3.$ Suy ra $AD^2=BD^2+AB^2$, vậy tam giác $ABD$ vuông tại $B$ và $BD=\\sqrt{3}$.<br> Lại có $(SAB)$ và $(SBC)$ cùng vuông góc với đáy nên $SB\\perp (ABCD)$. Suy ra $BA$, $BD$, $BS$ đôi một vuông góc.  Xét hệ trục tọa độ $Oxyz$, sao cho <br>- gốc $O$ trùng với $B$<br>- trục $Ox$ trùng với tia $BA$<br>- trục $Oy$ trùng với tia $BD$<br>- trục $Oz$ trùng với tia $BS$.  Ta có $B(0;0;0)$, $A(1;0;0)$, $C(-1;\\sqrt{3};0)$, $D(0;\\sqrt{3};0)$, $S(0;0;\\sqrt{3})$.<br> $\\vec{SD}=(0;\\sqrt{3};\\sqrt{3})\\Rightarrow \\vec{u}=(0;1;-1)$ là một véc-tơ chỉ phương của đường thẳng $SD$.<br> $\\vec{SA}=(1;0;-\\sqrt{3})$, $\\vec{SC}=(-1;\\sqrt{3};-\\sqrt{3})\\Rightarrow [\\vec{SA},\\vec{SC}]=(3;2\\sqrt{3};\\sqrt{3})\\Rightarrow \\vec{n}=(\\sqrt{3};2;1)$ là một véc-tơ pháp tuyến của mặt phẳng $(SAC)$. Vì $\\alpha$ là góc tạo bởi $SD$ và mặt phẳng $(SAC)$ nên $\\sin \\alpha =|\\cos(\\vec{u},\\vec{n})|=\\dfrac{|0+2-1|}{\\sqrt{2}\\cdot \\sqrt{8}}=\\dfrac{1}{4}.$"
+    "explain": "Xét $\\triangle ABD$ có $BD^2 =AB^2+AD^2-2\\cdot AB\\cdot AD\\cdot \\cos\\widehat{BAD}$<br>$=1+4-2=3.$ Suy ra $AD^2=BD^2+AB^2$, vậy tam giác $ABD$ vuông tại $B$ và $BD=\\sqrt{3}$.<br> Lại có $(SAB)$ và $(SBC)$ cùng vuông góc với đáy nên $SB\\perp (ABCD)$. Suy ra $BA$, $BD$, $BS$ đôi một vuông góc.  Xét hệ trục tọa độ $Oxyz$, sao cho <br>- gốc $O$ trùng với $B$<br>- trục $Ox$ trùng với tia $BA$<br>- trục $Oy$ trùng với tia $BD$<br>- trục $Oz$ trùng với tia $BS$.  Ta có $B(0;0;0)$, $A(1;0;0)$, $C(-1;\\sqrt{3};0)$, $D(0;\\sqrt{3};0)$, $S(0;0;\\sqrt{3})$.<br> $\\vec{SD}=(0;\\sqrt{3};\\sqrt{3})\\Rightarrow \\vec{u}=(0;1;-1)$ là một véc-tơ chỉ phương của đường thẳng $SD$.<br> $\\vec{SA}=(1;0;-\\sqrt{3})$, $\\vec{SC}=(-1;\\sqrt{3};-\\sqrt{3})\\Rightarrow [\\vec{SA},\\vec{SC}]=(3;2\\sqrt{3};\\sqrt{3})\\Rightarrow \\vec{n}=(\\sqrt{3};2;1)$ là một véc-tơ pháp tuyến của mặt phẳng $(SAC)$. Vì $\\alpha$ là góc tạo bởi $SD$ và mặt phẳng $(SAC)$ nên $\\sin \\alpha =|\\cos(\\vec{u},\\vec{n})|=\\dfrac{|0+2-1|}{\\sqrt{2}\\cdot \\sqrt{8}}=\\dfrac{1}{4}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN121",
@@ -1479,7 +1601,8 @@ window.tracNghiem2H51 = [
       "$ \\dfrac{\\sqrt{6}}{2} $"
     ],
     "answer": 3,
-    "explain": "Gọi $ O $ là trung điểm $ AD $, $ a $ là độ dài cạnh hình vuông. <br> Gắn hệ tọa độ $ Oxyz $ như hình vẽ. Khi đó $ S\\left( 0;0;\\dfrac{a}{2} \\right),B\\left( a;-\\dfrac{a}{2};0 \\right),C\\left( a;\\dfrac{a}{2};0 \\right), D\\left( 0;\\dfrac{a}{2};0 \\right) $ Ta có <br>- $ \\vec{SC}\\left( a;\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $.<br>- $ \\vec{SB}\\left( a;-\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $.<br>- $ \\vec{SD}\\left( 0;\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $. <br>- $ \\left[ \\vec{SC},\\vec{SB} \\right]=a^2\\left( -\\dfrac{1}{2};0;-1 \\right) $,  vậy $ (SBC) $ có một véc-tơ pháp tuyến là $ \\vec{n}_1=\\left( -\\dfrac{1}{2};0;-1 \\right) $.<br>- $ \\left[ \\vec{SC},\\vec{SD} \\right]=a^2\\left( 0;\\dfrac{1}{2};\\dfrac{1}{2} \\right) $, vậy $ (SCD) $ có một véc-tơ pháp tuyến là $ \\vec{n}_2=\\left( 0;\\dfrac{1}{2};\\dfrac{1}{2} \\right) $. Ta có $ \\cos(\\vec{n}_1,\\vec{n}_2)=\\dfrac{\\vec{n}_1\\cdot\\vec{n}_2}{|\\vec{n}_1|\\cdot|\\vec{n}_2|}=-\\dfrac{\\sqrt{2}}{\\sqrt{5}} \\Rightarrow \\cos\\alpha=\\dfrac{\\sqrt{2}}{\\sqrt{5}} \\Rightarrow \\sin\\alpha=\\dfrac{\\sqrt{3}}{\\sqrt{5}}$. <br> Vậy $ \\tan\\alpha=\\dfrac{\\sin\\alpha}{\\cos\\alpha}=\\dfrac{\\sqrt{6}}{2} $."
+    "explain": "Gọi $ O $ là trung điểm $ AD $, $ a $ là độ dài cạnh hình vuông. <br> Gắn hệ tọa độ $ Oxyz $ như hình vẽ. Khi đó $ S\\left( 0;0;\\dfrac{a}{2} \\right),B\\left( a;-\\dfrac{a}{2};0 \\right),C\\left( a;\\dfrac{a}{2};0 \\right), D\\left( 0;\\dfrac{a}{2};0 \\right) $ Ta có <br>- $ \\vec{SC}\\left( a;\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $.<br>- $ \\vec{SB}\\left( a;-\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $.<br>- $ \\vec{SD}\\left( 0;\\dfrac{a}{2};-\\dfrac{a}{2} \\right) $. <br>- $ \\left[ \\vec{SC},\\vec{SB} \\right]=a^2\\left( -\\dfrac{1}{2};0;-1 \\right) $,  vậy $ (SBC) $ có một véc-tơ pháp tuyến là $ \\vec{n}_1=\\left( -\\dfrac{1}{2};0;-1 \\right) $.<br>- $ \\left[ \\vec{SC},\\vec{SD} \\right]=a^2\\left( 0;\\dfrac{1}{2};\\dfrac{1}{2} \\right) $, vậy $ (SCD) $ có một véc-tơ pháp tuyến là $ \\vec{n}_2=\\left( 0;\\dfrac{1}{2};\\dfrac{1}{2} \\right) $. Ta có $ \\cos(\\vec{n}_1,\\vec{n}_2)=\\dfrac{\\vec{n}_1\\cdot\\vec{n}_2}{|\\vec{n}_1|\\cdot|\\vec{n}_2|}=-\\dfrac{\\sqrt{2}}{\\sqrt{5}} \\Rightarrow \\cos\\alpha=\\dfrac{\\sqrt{2}}{\\sqrt{5}} \\Rightarrow \\sin\\alpha=\\dfrac{\\sqrt{3}}{\\sqrt{5}}$. <br> Vậy $ \\tan\\alpha=\\dfrac{\\sin\\alpha}{\\cos\\alpha}=\\dfrac{\\sqrt{6}}{2} $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN122",
@@ -1491,7 +1614,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{343}{9}$"
     ],
     "answer": 2,
-    "explain": "Không mất tính tổng quát, giả sử $A$, $B$, $C$ lần lượt là giao điểm của mặt phẳng $(P)$ và các trục tọa độ $Ox$, $Oy$, $Oz$.<br> Ta có $\\mathrm{d}\\left(O, (P)\\right) \\le OM$. Nên khoảng cách từ $O$ đến mặt phẳng $(P)$ lớn nhất $\\Leftrightarrow OM \\perp (P)$.<br> Phương trình mặt phẳng $(P)$ đi qua điểm $M(1;2;3)$ nhận $\\vec{OM}$ làm véc-tơ pháp tuyến là $1(x-1)+2(y-2)+3(z-3)=0 \\Leftrightarrow x+2y+3z-14=0.$ Khi đó $A(14;0;0)$, $B(0;7;0)$ và $C\\left(0;0;\\dfrac{14}{3}\\right)$.<br> Vậy thể tích khối chóp $O.ABC$ là $V=\\dfrac{1}{6}OA \\cdot OB \\cdot OC = \\dfrac{1}{6} \\cdot 14 \\cdot 7 \\cdot \\dfrac{14}{3} = \\dfrac{686}{9}$."
+    "explain": "Không mất tính tổng quát, giả sử $A$, $B$, $C$ lần lượt là giao điểm của mặt phẳng $(P)$ và các trục tọa độ $Ox$, $Oy$, $Oz$.<br> Ta có $\\mathrm{d}\\left(O, (P)\\right) \\le OM$. Nên khoảng cách từ $O$ đến mặt phẳng $(P)$ lớn nhất $\\Leftrightarrow OM \\perp (P)$.<br> Phương trình mặt phẳng $(P)$ đi qua điểm $M(1;2;3)$ nhận $\\vec{OM}$ làm véc-tơ pháp tuyến là $1(x-1)+2(y-2)+3(z-3)=0 \\Leftrightarrow x+2y+3z-14=0.$ Khi đó $A(14;0;0)$, $B(0;7;0)$ và $C\\left(0;0;\\dfrac{14}{3}\\right)$.<br> Vậy thể tích khối chóp $O.ABC$ là $V=\\dfrac{1}{6}OA \\cdot OB \\cdot OC = \\dfrac{1}{6} \\cdot 14 \\cdot 7 \\cdot \\dfrac{14}{3} = \\dfrac{686}{9}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN123",
@@ -1503,7 +1627,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{2}{3}$"
     ],
     "answer": 0,
-    "explain": "Gắn khối chóp vào hệ tọa độ $Oxyz$ với $A(0;0;0)$, $B(2;0;0)$, $D(0;2;0)$, $S(0;0;2)$, $C(2;2;0)$.<br> Do $M$, $N$, $P$ lần lượt là trung điểm của $AB$, $BC$, $SC$ suy ra $M(1;0;0)$, $N(2;1;0)$, $P(1;1;1)$.<br> Ta có phương trình dạng chắn của mặt phẳng $(SBD)$ là $\\dfrac{x}{2}+\\dfrac{y}{2}+\\dfrac{z}{2}=1,$ từ đó suy ra mặt phẳng $(SBD)$ có véc-tơ pháp tuyến là $\\vec{n}_1=(1;1;1)$.  Mặt khác, mặt phẳng $(MNP)$ có hai véc-tơ chỉ phương là $\\vec{MN}=(1;1;0)$ và $\\vec{MP}=(0;1;1)$, từ đó suy ra $\\vec{n}_2=\\left[\\vec{MN},\\vec{MP}\\right]=(1;-1;1)$ là véc-tơ pháp tuyến của mặt phẳng $(MNP)$.<br> Gọi $\\varphi$ là góc tạo bởi hai mặt phẳng $(MNP)$ và $(SBD)$, suy ra  $\\cos\\varphi=\\dfrac{\\left|\\vec{n}_1\\cdot\\vec{n}_2\\right|}{\\left|\\vec{n}_1\\right|\\cdot\\left|\\vec{n}_2\\right|}=\\dfrac{1}{\\sqrt{3}\\cdot\\sqrt{3}}=\\dfrac{1}{3}$."
+    "explain": "Gắn khối chóp vào hệ tọa độ $Oxyz$ với $A(0;0;0)$, $B(2;0;0)$, $D(0;2;0)$, $S(0;0;2)$, $C(2;2;0)$.<br> Do $M$, $N$, $P$ lần lượt là trung điểm của $AB$, $BC$, $SC$ suy ra $M(1;0;0)$, $N(2;1;0)$, $P(1;1;1)$.<br> Ta có phương trình dạng chắn của mặt phẳng $(SBD)$ là $\\dfrac{x}{2}+\\dfrac{y}{2}+\\dfrac{z}{2}=1,$ từ đó suy ra mặt phẳng $(SBD)$ có véc-tơ pháp tuyến là $\\vec{n}_1=(1;1;1)$.  Mặt khác, mặt phẳng $(MNP)$ có hai véc-tơ chỉ phương là $\\vec{MN}=(1;1;0)$ và $\\vec{MP}=(0;1;1)$, từ đó suy ra $\\vec{n}_2=\\left[\\vec{MN},\\vec{MP}\\right]=(1;-1;1)$ là véc-tơ pháp tuyến của mặt phẳng $(MNP)$.<br> Gọi $\\varphi$ là góc tạo bởi hai mặt phẳng $(MNP)$ và $(SBD)$, suy ra  $\\cos\\varphi=\\dfrac{\\left|\\vec{n}_1\\cdot\\vec{n}_2\\right|}{\\left|\\vec{n}_1\\right|\\cdot\\left|\\vec{n}_2\\right|}=\\dfrac{1}{\\sqrt{3}\\cdot\\sqrt{3}}=\\dfrac{1}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN124",
@@ -1515,7 +1640,8 @@ window.tracNghiem2H51 = [
       "$(1;-2;-3)$"
     ],
     "answer": 3,
-    "explain": "Mặt phẳng $(P):~x-2y-3z+1=0$ có vectơ pháp tuyến là $(1;-2;-3)$."
+    "explain": "Mặt phẳng $(P):~x-2y-3z+1=0$ có vectơ pháp tuyến là $(1;-2;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN125",
@@ -1527,7 +1653,8 @@ window.tracNghiem2H51 = [
       "$2x+y-z+1=0$"
     ],
     "answer": 3,
-    "explain": "Vì mặt phẳng $(P)$ đi qua điểm $I(1;-1;2)$ và nhận vectơ $\\vec{n}=(2;1;-1)$ làm một vectơ pháp tuyến nên có phương trình là $2(x-1)+(y+1)-(z-2)=0\\Leftrightarrow 2x+y-z+1=0$."
+    "explain": "Vì mặt phẳng $(P)$ đi qua điểm $I(1;-1;2)$ và nhận vectơ $\\vec{n}=(2;1;-1)$ làm một vectơ pháp tuyến nên có phương trình là $2(x-1)+(y+1)-(z-2)=0\\Leftrightarrow 2x+y-z+1=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN126",
@@ -1539,7 +1666,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}_4=(3;4;-5)$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(P)\\colon 3x-4y+5z-6=0$ có một vectơ pháp tuyến là $\\vec{n}_2=(3;-4;5)$."
+    "explain": "Mặt phẳng $(P)\\colon 3x-4y+5z-6=0$ có một vectơ pháp tuyến là $\\vec{n}_2=(3;-4;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN127",
@@ -1551,7 +1679,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{|b+c|}{\\sqrt{a^2+b^2+c^2}}$"
     ],
     "answer": 1,
-    "explain": "Khoảng cách từ điểm $M(a;b;c)$ đến mặt phẳng $x-a-b-c=0$ là $\\dfrac{\\left|-b-c\\right| }{\\sqrt{1^2+0^2+0^2}}=|b+c|$."
+    "explain": "Khoảng cách từ điểm $M(a;b;c)$ đến mặt phẳng $x-a-b-c=0$ là $\\dfrac{\\left|-b-c\\right| }{\\sqrt{1^2+0^2+0^2}}=|b+c|$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN128",
@@ -1563,7 +1692,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(1;2;0)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN129",
@@ -1575,7 +1705,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=\\left(\\dfrac{1}{6};\\dfrac{1}{3};-\\dfrac{1}{2}\\right)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN130",
@@ -1587,7 +1718,8 @@ window.tracNghiem2H51 = [
       "$(2;3;2)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN131",
@@ -1599,7 +1731,8 @@ window.tracNghiem2H51 = [
       "$\\left(\\dfrac{2}{3};\\dfrac{1}{6};-\\dfrac{17}{6}\\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN132",
@@ -1611,7 +1744,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n_4}=(2;0;1)$"
     ],
     "answer": 3,
-    "explain": "Mặt phẳng $(Ozx)\\bot Oy$ nên có VTPT là $\\vec{j}=(0;1;0)$. $\\vec{AB}=(1;3;-2)$.<br> VTPT của $(P)$ là $\\vec{n}=\\left[\\vec{j},\\vec{AB}\\right]=(2;0;1)$."
+    "explain": "Mặt phẳng $(Ozx)\\bot Oy$ nên có VTPT là $\\vec{j}=(0;1;0)$. $\\vec{AB}=(1;3;-2)$.<br> VTPT của $(P)$ là $\\vec{n}=\\left[\\vec{j},\\vec{AB}\\right]=(2;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN133",
@@ -1623,7 +1757,8 @@ window.tracNghiem2H51 = [
       "$M(-1;0;0)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN134",
@@ -1635,7 +1770,8 @@ window.tracNghiem2H51 = [
       "$x+2y-3z+7=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN135",
@@ -1647,7 +1783,8 @@ window.tracNghiem2H51 = [
       "$3x-y+2z-2017=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN136",
@@ -1659,7 +1796,8 @@ window.tracNghiem2H51 = [
       "$4x + y - 4z - 12 = 0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN137",
@@ -1671,7 +1809,8 @@ window.tracNghiem2H51 = [
       "$4x-4y-z+5=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN138",
@@ -1683,7 +1822,8 @@ window.tracNghiem2H51 = [
       "$y+1=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN139",
@@ -1695,7 +1835,8 @@ window.tracNghiem2H51 = [
       "$(R): -x+2y-z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN140",
@@ -1707,7 +1848,8 @@ window.tracNghiem2H51 = [
       "$y+z-3=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN141",
@@ -1719,7 +1861,8 @@ window.tracNghiem2H51 = [
       "$\\left(\\alpha\\right):7x-11y-z+1=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN142",
@@ -1731,7 +1874,8 @@ window.tracNghiem2H51 = [
       "$d=\\dfrac{27}{7}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN143",
@@ -1743,7 +1887,8 @@ window.tracNghiem2H51 = [
       "$(P): 2x-y+2z-6=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN144",
@@ -1755,7 +1900,8 @@ window.tracNghiem2H51 = [
       "1"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN145",
@@ -1767,7 +1913,8 @@ window.tracNghiem2H51 = [
       "$m=4$ và $d=\\dfrac{2}{\\sqrt{21}}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN146",
@@ -1779,7 +1926,8 @@ window.tracNghiem2H51 = [
       "$21$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN147",
@@ -1791,7 +1939,8 @@ window.tracNghiem2H51 = [
       "$x-y+4=0$ hoặc $x-y-4=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN148",
@@ -1803,7 +1952,8 @@ window.tracNghiem2H51 = [
       "Vô số"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN149",
@@ -1815,7 +1965,8 @@ window.tracNghiem2H51 = [
       "$90^{\\circ}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN150",
@@ -1827,7 +1978,8 @@ window.tracNghiem2H51 = [
       "$\\varphi=90^\\circ$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN151",
@@ -1839,7 +1991,8 @@ window.tracNghiem2H51 = [
       "$30^\\circ$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN152",
@@ -1851,7 +2004,8 @@ window.tracNghiem2H51 = [
       "Đáp án khác"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN153",
@@ -1863,7 +2017,8 @@ window.tracNghiem2H51 = [
       "$y-z=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN154",
@@ -1875,7 +2030,8 @@ window.tracNghiem2H51 = [
       "$\\left|m\\right|=\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN155",
@@ -1887,7 +2043,8 @@ window.tracNghiem2H51 = [
       "$m=2$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN156",
@@ -1899,7 +2056,8 @@ window.tracNghiem2H51 = [
       "$m=-4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN157",
@@ -1911,7 +2069,8 @@ window.tracNghiem2H51 = [
       "$d_1\\parallel d_2\\parallel d_3$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN158",
@@ -1923,7 +2082,8 @@ window.tracNghiem2H51 = [
       "$(Q):2x+y-z+3=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN159",
@@ -1935,7 +2095,8 @@ window.tracNghiem2H51 = [
       "$7x+6y+2z-24=0$"
     ],
     "answer": 3,
-    "explain": "$d$ đi qua $M(2;1;2)$ và có VTCP $\\overrightarrow{u}=(0;-1;3)$, $(\\alpha)$ có VTPT $\\overrightarrow{n}=(2;-1;-4)$. Mặt phẳng chứa $d$ và vuông góc với $(\\alpha)$ đi qua $M(2;1;2)$ và có véc-tơ pháp tuyến là $[\\overrightarrow{u}, \\overrightarrow{n}]=(7;6;7)$ nên có phương trình $7x+6y+2z-24=0$."
+    "explain": "$d$ đi qua $M(2;1;2)$ và có VTCP $\\overrightarrow{u}=(0;-1;3)$, $(\\alpha)$ có VTPT $\\overrightarrow{n}=(2;-1;-4)$. Mặt phẳng chứa $d$ và vuông góc với $(\\alpha)$ đi qua $M(2;1;2)$ và có véc-tơ pháp tuyến là $[\\overrightarrow{u}, \\overrightarrow{n}]=(7;6;7)$ nên có phương trình $7x+6y+2z-24=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN160",
@@ -1947,7 +2108,8 @@ window.tracNghiem2H51 = [
       "$x+y+z-14=0 \\text{ hoặc } x+y-z-6=0 \\text{ hoặc } x-y+z+4=0 \\text{ hoặc } x-y-z+12=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN161",
@@ -1959,7 +2121,8 @@ window.tracNghiem2H51 = [
       "Đáp án khác"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN162",
@@ -1971,7 +2134,8 @@ window.tracNghiem2H51 = [
       "$5$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN163",
@@ -1983,7 +2147,8 @@ window.tracNghiem2H51 = [
       "$x+y+2z-14=0$"
     ],
     "answer": 2,
-    "explain": "Cách 1: Thử thấy chỉ có mặt phẳng $2x+2y+z+14=0$ chứa $M$ nên chọn phương án C.<br> Cách 2: Sử dụng phương trình mặt phẳng theo đoạn chắn dạng $\\dfrac{x}{a}+\\dfrac{y}{a}+\\dfrac{z}{2a}=1$ suy ra $a=7$, từ đó dẫn đến phương trình $2x+2y+z-14=0$."
+    "explain": "Cách 1: Thử thấy chỉ có mặt phẳng $2x+2y+z+14=0$ chứa $M$ nên chọn phương án C.<br> Cách 2: Sử dụng phương trình mặt phẳng theo đoạn chắn dạng $\\dfrac{x}{a}+\\dfrac{y}{a}+\\dfrac{z}{2a}=1$ suy ra $a=7$, từ đó dẫn đến phương trình $2x+2y+z-14=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN164",
@@ -1995,7 +2160,8 @@ window.tracNghiem2H51 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN165",
@@ -2007,7 +2173,8 @@ window.tracNghiem2H51 = [
       "$(P):-\\dfrac{x}{1}+\\dfrac{y}{2}+\\dfrac{z}{3}=1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN166",
@@ -2019,7 +2186,8 @@ window.tracNghiem2H51 = [
       "$(P):x+y+z-1=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN167",
@@ -2031,7 +2199,8 @@ window.tracNghiem2H51 = [
       "$S = - \\dfrac{2}{7}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN168",
@@ -2043,7 +2212,8 @@ window.tracNghiem2H51 = [
       "$x-y+2z+3=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN169",
@@ -2055,7 +2225,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha): x - 2y + z - 8 = 0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN170",
@@ -2067,7 +2238,8 @@ window.tracNghiem2H51 = [
       "$(3;-2;-3)$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN171",
@@ -2079,7 +2251,8 @@ window.tracNghiem2H51 = [
       "$(R):x+y-z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN172",
@@ -2091,7 +2264,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{a}=\\left( 2;-1;1 \\right)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN173",
@@ -2103,7 +2277,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{u}=(-4;3;12)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN174",
@@ -2115,7 +2290,8 @@ window.tracNghiem2H51 = [
       "$N(3;4;-4)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN175",
@@ -2127,7 +2303,8 @@ window.tracNghiem2H51 = [
       "$-7x+5y-z+14=0$"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{u}=\\dfrac{1}{3}\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(3;2;2)$.<br> $\\vec{u},\\overrightarrow{AD}$ là cặp VTCP.$\\Rightarrow\\text{VTPT của}\\,(ADH) là \\vec{n}=\\left[\\overrightarrow{AD},\\overrightarrow{u}\\right]=(6;-8;-1)$."
+    "explain": "$\\overrightarrow{u}=\\dfrac{1}{3}\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(3;2;2)$.<br> $\\vec{u},\\overrightarrow{AD}$ là cặp VTCP.$\\Rightarrow\\text{VTPT của}\\,(ADH) là \\vec{n}=\\left[\\overrightarrow{AD},\\overrightarrow{u}\\right]=(6;-8;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN176",
@@ -2139,7 +2316,8 @@ window.tracNghiem2H51 = [
       "$S=2018$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN177",
@@ -2151,7 +2329,8 @@ window.tracNghiem2H51 = [
       "\\(OA'=\\sqrt{186}\\)"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN178",
@@ -2163,7 +2342,8 @@ window.tracNghiem2H51 = [
       "$A'(4;1;2)$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN179",
@@ -2175,7 +2355,8 @@ window.tracNghiem2H51 = [
       "$(1;1;0)$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN182",
@@ -2187,7 +2368,8 @@ window.tracNghiem2H51 = [
       "$-2 x+7 y+4 z-1=0$"
     ],
     "answer": 3,
-    "explain": "Trong không gian $Oxyz$, phương trình $-2 x+7 y+4 z-1=0$ là phương trình tổng quát của mặt phẳng."
+    "explain": "Trong không gian $Oxyz$, phương trình $-2 x+7 y+4 z-1=0$ là phương trình tổng quát của mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN183",
@@ -2199,7 +2381,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{\\sqrt{30}}{15}$"
     ],
     "answer": 1,
-    "explain": "Khoảng cách từ $M(-7 ; 2 ; 3)$ đến mặt phẳng $(\\alpha):-x+5 y-2 z+3=0$ bằng  $  \\dfrac{|7+10-6+3|}{\\sqrt{1+25+4}} = \\dfrac{7 \\sqrt{30}}{15}.  $"
+    "explain": "Khoảng cách từ $M(-7 ; 2 ; 3)$ đến mặt phẳng $(\\alpha):-x+5 y-2 z+3=0$ bằng  $  \\dfrac{|7+10-6+3|}{\\sqrt{1+25+4}} = \\dfrac{7 \\sqrt{30}}{15}.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN184",
@@ -2211,7 +2394,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}_1=(3 ;-2 ; 1)$"
     ],
     "answer": 3,
-    "explain": "Ta thấy $\\vec{n}_1=(3 ;-2 ; 1)$ là một vec-tơ pháp tuyến của mặt phẳng $(\\alpha): 3 x-2 y+z+5=0$."
+    "explain": "Ta thấy $\\vec{n}_1=(3 ;-2 ; 1)$ là một vec-tơ pháp tuyến của mặt phẳng $(\\alpha): 3 x-2 y+z+5=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN185",
@@ -2223,7 +2407,8 @@ window.tracNghiem2H51 = [
       "$-2 x+3 y-z+2=0$"
     ],
     "answer": 0,
-    "explain": "Ta thấy $(P) \\colon 2 x-3 y+z-2=0$ song song với $ (Q) \\colon 4 x-6 y+2 z-2=0$ vì  $  \\dfrac{2}{4} = \\dfrac{-3}{-6} = \\dfrac{1}{2} \\ne \\dfrac{-2}{-2}.  $"
+    "explain": "Ta thấy $(P) \\colon 2 x-3 y+z-2=0$ song song với $ (Q) \\colon 4 x-6 y+2 z-2=0$ vì  $  \\dfrac{2}{4} = \\dfrac{-3}{-6} = \\dfrac{1}{2} \\ne \\dfrac{-2}{-2}.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN186",
@@ -2235,7 +2420,8 @@ window.tracNghiem2H51 = [
       "$(1;2;-1)$"
     ],
     "answer": 2,
-    "explain": "Một vectơ pháp tuyến của $(P)$ có tọa độ là $(1;-2;1)$."
+    "explain": "Một vectơ pháp tuyến của $(P)$ có tọa độ là $(1;-2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN187",
@@ -2247,7 +2433,8 @@ window.tracNghiem2H51 = [
       "$(-2;-1;5)$"
     ],
     "answer": 0,
-    "explain": "Vectơ $[\\vec{a},\\vec{b}]=(-2;-1;1)$."
+    "explain": "Vectơ $[\\vec{a},\\vec{b}]=(-2;-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN188",
@@ -2259,7 +2446,8 @@ window.tracNghiem2H51 = [
       "$y-z=0$"
     ],
     "answer": 2,
-    "explain": "Phương trình của mặt phẳng $(Oyz)$ là $x=0$."
+    "explain": "Phương trình của mặt phẳng $(Oyz)$ là $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN189",
@@ -2271,7 +2459,8 @@ window.tracNghiem2H51 = [
       "$Q(2;-3;1)$"
     ],
     "answer": 3,
-    "explain": "Điểm $Q(2;-3;1)$ không thuộc $(P)$."
+    "explain": "Điểm $Q(2;-3;1)$ không thuộc $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN190",
@@ -2283,7 +2472,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n_2}=(2;1;0)$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(P)$ có véc-tơ pháp tuyến là $\\overrightarrow{n_3}=-2(-2;1;0)$."
+    "explain": "Mặt phẳng $(P)$ có véc-tơ pháp tuyến là $\\overrightarrow{n_3}=-2(-2;1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN191",
@@ -2295,7 +2485,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(-2;-6;-10)$"
     ],
     "answer": 3,
-    "explain": "Mặt phẳng $(P)$ nhận $\\vec{a}=(1;3;-5)$ làm vectơ pháp tuyến.<br>  Do $\\vec{n}=(-2;-6;-10)$ không cùng phương với $\\vec{a}$ nên không phải là vectơ pháp tuyến của $(P)$."
+    "explain": "Mặt phẳng $(P)$ nhận $\\vec{a}=(1;3;-5)$ làm vectơ pháp tuyến.<br>  Do $\\vec{n}=(-2;-6;-10)$ không cùng phương với $\\vec{a}$ nên không phải là vectơ pháp tuyến của $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN192",
@@ -2307,7 +2498,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(1;2;1)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{AB}=(1;-1;-1)$, $\\vec{AC}=(2;-2;-3)$.<br>  Vectơ pháp tuyến của mặt phẳng $(ABC)$ là $\\vec{n}=\\left[\\vec{AB},\\vec{AC}\\right]=(1;1;0)$."
+    "explain": "Ta có $\\vec{AB}=(1;-1;-1)$, $\\vec{AC}=(2;-2;-3)$.<br>  Vectơ pháp tuyến của mặt phẳng $(ABC)$ là $\\vec{n}=\\left[\\vec{AB},\\vec{AC}\\right]=(1;1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN193",
@@ -2319,7 +2511,8 @@ window.tracNghiem2H51 = [
       "$(P)$ và $(Q)$ cắt nhau nhưng không vuông góc"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(P)$ có vectơ pháp tuyến là $\\vec{n}_1=(2;-3;1)$.<br>  Mặt phẳng $(Q)$ có vectơ pháp tuyến là $\\vec{n}_2=(2;1;-1)$.<br>  Ta có $\\vec{n}_1$ không cùng phương $\\vec{n}_2$ nên $(P)$ và $(Q)$ cắt nhau.<br>  Do $\\vec{n}_1\\cdot\\vec{n}_2=2\\cdot2+(-3)\\cdot1+1\\cdot(-1)=0$ nên $\\vec{n}_1\\perp\\vec{n}_2$, suy ra $(P)$ vuông góc $(Q)$."
+    "explain": "Mặt phẳng $(P)$ có vectơ pháp tuyến là $\\vec{n}_1=(2;-3;1)$.<br>  Mặt phẳng $(Q)$ có vectơ pháp tuyến là $\\vec{n}_2=(2;1;-1)$.<br>  Ta có $\\vec{n}_1$ không cùng phương $\\vec{n}_2$ nên $(P)$ và $(Q)$ cắt nhau.<br>  Do $\\vec{n}_1\\cdot\\vec{n}_2=2\\cdot2+(-3)\\cdot1+1\\cdot(-1)=0$ nên $\\vec{n}_1\\perp\\vec{n}_2$, suy ra $(P)$ vuông góc $(Q)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN194",
@@ -2331,7 +2524,8 @@ window.tracNghiem2H51 = [
       "$4$"
     ],
     "answer": 2,
-    "explain": "Khoảng cách từ $M$ đến $(P)$ là $\\mathrm{d}\\big(M,(P)\\big)=\\dfrac{\\left|1-2\\cdot2+2\\cdot(-3)+3\\right|}{\\sqrt{1^2+(-2)^2+2^2}}=2$."
+    "explain": "Khoảng cách từ $M$ đến $(P)$ là $\\mathrm{d}\\big(M,(P)\\big)=\\dfrac{\\left|1-2\\cdot2+2\\cdot(-3)+3\\right|}{\\sqrt{1^2+(-2)^2+2^2}}=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN195",
@@ -2343,7 +2537,8 @@ window.tracNghiem2H51 = [
       "$D(-1;-1;3)$"
     ],
     "answer": 0,
-    "explain": "Thay tọa độ các điểm vào phương trình mặt phẳng $(P)\\colon x+y-z+1=0$, ta có  <br>- Với $A(1;1;3)\\Rightarrow 1+1-3+1=0\\Rightarrow 0=0$, đúng;<br>- Với $B(1;1;-3)\\Rightarrow 1+1+3+1=6\\ne 0$, sai;<br>- Với $C(3;1;1)\\Rightarrow 3+1-1+1=4\\ne 0$, sai;<br>- Với $D(-1;-1;3)\\Rightarrow-1-1-3+1=-4\\ne 0$, sai."
+    "explain": "Thay tọa độ các điểm vào phương trình mặt phẳng $(P)\\colon x+y-z+1=0$, ta có  <br>- Với $A(1;1;3)\\Rightarrow 1+1-3+1=0\\Rightarrow 0=0$, đúng;<br>- Với $B(1;1;-3)\\Rightarrow 1+1+3+1=6\\ne 0$, sai;<br>- Với $C(3;1;1)\\Rightarrow 3+1-1+1=4\\ne 0$, sai;<br>- Với $D(-1;-1;3)\\Rightarrow-1-1-3+1=-4\\ne 0$, sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN196",
@@ -2355,7 +2550,8 @@ window.tracNghiem2H51 = [
       "$2x-3y-4z-2=0$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AB}=(3;-2;0)$, $\\overrightarrow{AC}=(1;-2;-1)$.<br>  Véc-tơ pháp tuyến của mặt phẳng $(ABC)$ là $\\overrightarrow{n}=\\left[\\overrightarrow{AB}, \\overrightarrow{AC}\\right]=(2;3;-4)$.<br>  Suy ra phương trình mặt phẳng $(ABC)$ có dạng $2x+3y-4z+d=0$.<br>  Thay tọa độ điểm $A(0;2;1)$ vào $(ABC)$ ta được $2\\cdot0+3\\cdot2-4\\cdot1+d=0 \\Rightarrow d=-2$.<br>  Vậy phương trình mặt phẳng là $2x+3y-4z-2=0$.<br>"
+    "explain": "Ta có $\\overrightarrow{AB}=(3;-2;0)$, $\\overrightarrow{AC}=(1;-2;-1)$.<br>  Véc-tơ pháp tuyến của mặt phẳng $(ABC)$ là $\\overrightarrow{n}=\\left[\\overrightarrow{AB}, \\overrightarrow{AC}\\right]=(2;3;-4)$.<br>  Suy ra phương trình mặt phẳng $(ABC)$ có dạng $2x+3y-4z+d=0$.<br>  Thay tọa độ điểm $A(0;2;1)$ vào $(ABC)$ ta được $2\\cdot0+3\\cdot2-4\\cdot1+d=0 \\Rightarrow d=-2$.<br>  Vậy phương trình mặt phẳng là $2x+3y-4z-2=0$.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN197",
@@ -2367,7 +2563,8 @@ window.tracNghiem2H51 = [
       "$3x-z=0$"
     ],
     "answer": 0,
-    "explain": "Mặt phẳng chứa trục $Oz$ nên nhận một véc-tơ chỉ phương là $\\overrightarrow{k}=(0;0;1)$.<br>  Mặt phẳng lại đi qua điểm $A(1;2;3)$ nên véc-tơ $\\overrightarrow{OA}=(1;2;3)$ cũng là véc-tơ chỉ phương của mặt phẳng.<br>  Vậy cặp véc-tơ chỉ phương là $\\overrightarrow{k}$ và $\\overrightarrow{OA}$.<br>  Véc-tơ pháp tuyến của mặt phẳng là  $\\overrightarrow{n}=\\left[ \\overrightarrow{k}, \\overrightarrow{OA}\\right] =(-2;1;0)=-(2;-1;0)$.<br>  Phương trình mặt phẳng có dạng $(P)\\colon 2x-y+d=0$.<br>  Thay điểm $O(0;0;0)$ vào phương trình $(P)$ ta được $2\\cdot0-0+d=0 \\Rightarrow d=0$.<br>  Vậy phương trình mặt phẳng là $2x-y=0$."
+    "explain": "Mặt phẳng chứa trục $Oz$ nên nhận một véc-tơ chỉ phương là $\\overrightarrow{k}=(0;0;1)$.<br>  Mặt phẳng lại đi qua điểm $A(1;2;3)$ nên véc-tơ $\\overrightarrow{OA}=(1;2;3)$ cũng là véc-tơ chỉ phương của mặt phẳng.<br>  Vậy cặp véc-tơ chỉ phương là $\\overrightarrow{k}$ và $\\overrightarrow{OA}$.<br>  Véc-tơ pháp tuyến của mặt phẳng là  $\\overrightarrow{n}=\\left[ \\overrightarrow{k}, \\overrightarrow{OA}\\right] =(-2;1;0)=-(2;-1;0)$.<br>  Phương trình mặt phẳng có dạng $(P)\\colon 2x-y+d=0$.<br>  Thay điểm $O(0;0;0)$ vào phương trình $(P)$ ta được $2\\cdot0-0+d=0 \\Rightarrow d=0$.<br>  Vậy phương trình mặt phẳng là $2x-y=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN198",
@@ -2379,7 +2576,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{x}{2}+\\dfrac{y}{3}+\\dfrac{z}{-1}=1$"
     ],
     "answer": 1,
-    "explain": "Phương trình tổng quát của mặt phẳng có dạng $Ax+By+Cz+D=0$ nên $x-y-z+2=0$ là phương trình mặt phẳng."
+    "explain": "Phương trình tổng quát của mặt phẳng có dạng $Ax+By+Cz+D=0$ nên $x-y-z+2=0$ là phương trình mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN199",
@@ -2391,7 +2589,8 @@ window.tracNghiem2H51 = [
       "$F(0;0;-3)$"
     ],
     "answer": 3,
-    "explain": "Thay $x=0$; $y=0$; $z=-3$ vào $2x-y+3z-9=0$ ta được $0=0$ nên điểm tọa độ điểm $F(0;0;-3)$ thuộc mặt phẳng $(P)$."
+    "explain": "Thay $x=0$; $y=0$; $z=-3$ vào $2x-y+3z-9=0$ ta được $0=0$ nên điểm tọa độ điểm $F(0;0;-3)$ thuộc mặt phẳng $(P)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN200",
@@ -2403,7 +2602,8 @@ window.tracNghiem2H51 = [
       "$2x - z = 0$"
     ],
     "answer": 0,
-    "explain": "Phương trình mặt phẳng là phương trình có dạng $Ax+By+Cz+D=0$ trong đó $A$, $B$, $C$, $D$ không đồng thời bằng $0$.<br>  Phương trình $x - 3y + z^2 = 0$ có $z^2$ là bậc hai nên không là phương trình của mặt phẳng."
+    "explain": "Phương trình mặt phẳng là phương trình có dạng $Ax+By+Cz+D=0$ trong đó $A$, $B$, $C$, $D$ không đồng thời bằng $0$.<br>  Phương trình $x - 3y + z^2 = 0$ có $z^2$ là bậc hai nên không là phương trình của mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN201",
@@ -2415,7 +2615,8 @@ window.tracNghiem2H51 = [
       "$x + 3 = 0$"
     ],
     "answer": 2,
-    "explain": "Phương trình mặt phẳng $Oyz$ là $x = 0$."
+    "explain": "Phương trình mặt phẳng $Oyz$ là $x = 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN202",
@@ -2427,7 +2628,8 @@ window.tracNghiem2H51 = [
       "$N(-2; 0; 1)$"
     ],
     "answer": 3,
-    "explain": "Thay từng điểm vào phương trình mặt phẳng  <br>- Với $Q\\colon 2\\cdot 0 + (-1) - 2 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $M\\colon 2\\cdot 1 + (-4) - 1 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $P\\colon 2\\cdot (-1) + 0 - 1 + 3 = -2 -1 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $N\\colon 2\\cdot (-2) + 0 - 1 + 3 = -4 -1 + 3 = -2 \\ne 0$ $\\Rightarrow$ <strong>Không thuộc</strong>."
+    "explain": "Thay từng điểm vào phương trình mặt phẳng  <br>- Với $Q\\colon 2\\cdot 0 + (-1) - 2 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $M\\colon 2\\cdot 1 + (-4) - 1 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $P\\colon 2\\cdot (-1) + 0 - 1 + 3 = -2 -1 + 3 = 0 \\Rightarrow$ thuộc mặt phẳng.<br>- Với $N\\colon 2\\cdot (-2) + 0 - 1 + 3 = -4 -1 + 3 = -2 \\ne 0$ $\\Rightarrow$ <strong>Không thuộc</strong>.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN203",
@@ -2439,7 +2641,8 @@ window.tracNghiem2H51 = [
       "$-2$"
     ],
     "answer": 2,
-    "explain": "Vì mặt phẳng $(P)$ chứa trục $Oz$ nên nhận vectơ chỉ phương $\\vec{u} = (0; 0; 1)$.<br>   Mặt khác, $\\vec{n} = (1; a; b)$ là pháp tuyến của $(P)$ nên ta có  $\\vec{n} \\cdot \\vec{u} = 0 \\Rightarrow 1 \\cdot 0 + a \\cdot 0 + b \\cdot 1 = 0 \\Rightarrow b = 0.$  Vậy $\\vec{n} = (1; a; 0)$.<br>   Ta có mặt phẳng $(P)$ đi qua điểm $A(-1; -2; 2)$ và có pháp tuyến $\\vec{n} = (1; a; 0)$ nên phương trình mặt phẳng là  $1(x + 1) + a(y + 2) + 0(z - 2) = 0 \\Rightarrow x + 1 + a(y + 2) = 0.$  Để mặt phẳng chứa trục $Oz$ thì điểm $O(0; 0; 0)$ thuộc mặt phẳng. Thay tọa độ $O$ vào  $0 + 1 + a(0 + 2) = 0 \\Rightarrow 1 + 2a = 0 \\Rightarrow a = -\\dfrac{1}{2}.$  Vì $b = 0$ nên $a + b = -\\dfrac{1}{2} + 0 = -\\dfrac{1}{2}$."
+    "explain": "Vì mặt phẳng $(P)$ chứa trục $Oz$ nên nhận vectơ chỉ phương $\\vec{u} = (0; 0; 1)$.<br>   Mặt khác, $\\vec{n} = (1; a; b)$ là pháp tuyến của $(P)$ nên ta có  $\\vec{n} \\cdot \\vec{u} = 0 \\Rightarrow 1 \\cdot 0 + a \\cdot 0 + b \\cdot 1 = 0 \\Rightarrow b = 0.$  Vậy $\\vec{n} = (1; a; 0)$.<br>   Ta có mặt phẳng $(P)$ đi qua điểm $A(-1; -2; 2)$ và có pháp tuyến $\\vec{n} = (1; a; 0)$ nên phương trình mặt phẳng là  $1(x + 1) + a(y + 2) + 0(z - 2) = 0 \\Rightarrow x + 1 + a(y + 2) = 0.$  Để mặt phẳng chứa trục $Oz$ thì điểm $O(0; 0; 0)$ thuộc mặt phẳng. Thay tọa độ $O$ vào  $0 + 1 + a(0 + 2) = 0 \\Rightarrow 1 + 2a = 0 \\Rightarrow a = -\\dfrac{1}{2}.$  Vì $b = 0$ nên $a + b = -\\dfrac{1}{2} + 0 = -\\dfrac{1}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN204",
@@ -2451,7 +2654,8 @@ window.tracNghiem2H51 = [
       "$\\sqrt{6}$"
     ],
     "answer": 3,
-    "explain": "Ta nhận thấy $(Q)$ có thể viết lại thành  \\[  Q\\colon -(x - 2y + z) + 7 = 0 \\Leftrightarrow x - 2y + z - 7 = 0.  \\]  So với $(P)\\colon x - 2y + z - 1 = 0$, ta thấy hai mặt phẳng song song.<br>   Khoảng cách giữa hai mặt phẳng song song  \\[  \\mathrm{d} = \\dfrac{|d_1 - d_2|}{\\sqrt{a^2 + b^2 + c^2}} = \\dfrac{| -1 - (-7) |}{\\sqrt{1^2 + (-2)^2 + 1^2}} = \\dfrac{6}{\\sqrt{6}} = \\sqrt{6}.  \\]"
+    "explain": "Ta nhận thấy $(Q)$ có thể viết lại thành  \\[  Q\\colon -(x - 2y + z) + 7 = 0 \\Leftrightarrow x - 2y + z - 7 = 0.  \\]  So với $(P)\\colon x - 2y + z - 1 = 0$, ta thấy hai mặt phẳng song song.<br>   Khoảng cách giữa hai mặt phẳng song song  \\[  \\mathrm{d} = \\dfrac{|d_1 - d_2|}{\\sqrt{a^2 + b^2 + c^2}} = \\dfrac{| -1 - (-7) |}{\\sqrt{1^2 + (-2)^2 + 1^2}} = \\dfrac{6}{\\sqrt{6}} = \\sqrt{6}.  \\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN205",
@@ -2463,7 +2667,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{4}{9}$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{n}_{(P)} =(1;-2;2)$, $\\overrightarrow{n}_{(Q)}=(2;2;-1)$.<br>  Khi đó $\\cos \\alpha=\\dfrac{|\\overrightarrow{n}_{(P)} \\cdot \\overrightarrow{n}_{(Q)}|}{|\\overrightarrow{n}_{(P)}|\\cdot |\\overrightarrow{n}_{(Q)}|}=\\dfrac{|1\\cdot2+(-2)\\cdot 2+2\\cdot (-1)|}{\\sqrt{1^2 +(-2)^2+2^2} \\cdot \\sqrt{2^2+2^2+(-1)^2}}=\\dfrac{4}{9}$."
+    "explain": "Ta có $\\overrightarrow{n}_{(P)} =(1;-2;2)$, $\\overrightarrow{n}_{(Q)}=(2;2;-1)$.<br>  Khi đó $\\cos \\alpha=\\dfrac{|\\overrightarrow{n}_{(P)} \\cdot \\overrightarrow{n}_{(Q)}|}{|\\overrightarrow{n}_{(P)}|\\cdot |\\overrightarrow{n}_{(Q)}|}=\\dfrac{|1\\cdot2+(-2)\\cdot 2+2\\cdot (-1)|}{\\sqrt{1^2 +(-2)^2+2^2} \\cdot \\sqrt{2^2+2^2+(-1)^2}}=\\dfrac{4}{9}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN206",
@@ -2475,7 +2680,8 @@ window.tracNghiem2H51 = [
       "$2 x+y+z^2+4=0$"
     ],
     "answer": 2,
-    "explain": "Trong không gian với hệ tọa độ $Oxyz$, phương trình $2 x+y+z+3=0$ là phương trình tổng quát của mặt phẳng."
+    "explain": "Trong không gian với hệ tọa độ $Oxyz$, phương trình $2 x+y+z+3=0$ là phương trình tổng quát của mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN207",
@@ -2487,7 +2693,8 @@ window.tracNghiem2H51 = [
       "$-x+y-2z-1=0$"
     ],
     "answer": 1,
-    "explain": "Phương trình mặt phẳng qua $A(-1; 1;-2)$ và có vectơ pháp tuyến $\\overrightarrow{n}=(1;-2;-2)$ là $1(x+1)-2(y-1)-2(z+2)=0 \\Leftrightarrow x-2y-2z-1=0$."
+    "explain": "Phương trình mặt phẳng qua $A(-1; 1;-2)$ và có vectơ pháp tuyến $\\overrightarrow{n}=(1;-2;-2)$ là $1(x+1)-2(y-1)-2(z+2)=0 \\Leftrightarrow x-2y-2z-1=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN208",
@@ -2499,7 +2706,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n}_1=(3; 4; 5)$"
     ],
     "answer": 0,
-    "explain": "Vectơ pháp tuyến của mặt phẳng $(P)\\colon x+3y-4z+5=0$ là $\\overrightarrow{n}_2=(1; 3;-4)$."
+    "explain": "Vectơ pháp tuyến của mặt phẳng $(P)\\colon x+3y-4z+5=0$ là $\\overrightarrow{n}_2=(1; 3;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H516TN209",
@@ -2511,7 +2719,8 @@ window.tracNghiem2H51 = [
       "$\\dfrac{1}{3}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{n}_\\alpha = (1,1,-2)$, $\\overrightarrow{n}_\\beta = (1,2,0)$ là các vectơ pháp tuyến của hai mặt phẳng $(\\alpha)$ và $(\\beta)$.<br>  $\\cos((\\alpha);(\\beta)) = \\dfrac{|\\overrightarrow{n}_\\alpha \\cdot \\overrightarrow{n}_\\beta|}{|\\overrightarrow{n}_\\alpha|\\cdot|\\overrightarrow{n}_\\beta|} = \\dfrac{|1\\cdot1 + 1\\cdot2 + (-2)\\cdot0|}{\\sqrt{1^2 + 1^2 + (-2)^2}\\cdot\\sqrt{1^2 + 2^2}} = \\dfrac{3}{\\sqrt{6}\\cdot\\sqrt{5}} = \\dfrac{3}{\\sqrt{30}} = \\boxed{\\dfrac{\\sqrt{30}}{10}}$."
+    "explain": "Ta có $\\overrightarrow{n}_\\alpha = (1,1,-2)$, $\\overrightarrow{n}_\\beta = (1,2,0)$ là các vectơ pháp tuyến của hai mặt phẳng $(\\alpha)$ và $(\\beta)$.<br>  $\\cos((\\alpha);(\\beta)) = \\dfrac{|\\overrightarrow{n}_\\alpha \\cdot \\overrightarrow{n}_\\beta|}{|\\overrightarrow{n}_\\alpha|\\cdot|\\overrightarrow{n}_\\beta|} = \\dfrac{|1\\cdot1 + 1\\cdot2 + (-2)\\cdot0|}{\\sqrt{1^2 + 1^2 + (-2)^2}\\cdot\\sqrt{1^2 + 2^2}} = \\dfrac{3}{\\sqrt{6}\\cdot\\sqrt{5}} = \\dfrac{3}{\\sqrt{30}} = \\boxed{\\dfrac{\\sqrt{30}}{10}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN210",
@@ -2523,7 +2732,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n}_4 = (1;0;0)$"
     ],
     "answer": 2,
-    "explain": "Mặt phẳng $(Oxy)$ có vec-tơ pháp tuyến là $\\overrightarrow{n} = (0;0;1)$."
+    "explain": "Mặt phẳng $(Oxy)$ có vec-tơ pháp tuyến là $\\overrightarrow{n} = (0;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H511TN211",
@@ -2535,7 +2745,8 @@ window.tracNghiem2H51 = [
       "$7x + y - 5z - 22 = 0$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB} = (-1;-3;2)$, $\\overrightarrow{AC} = (-2;-1;3)$.<br>  Suy ra $\\overrightarrow{n} = \\left[\\overrightarrow{AB}; \\overrightarrow{AC}\\right] = (-7;-1;-5)$ là véc-tơ pháp tuyến của mặt phẳng $(\\alpha)$.<br>  Vậy phương trình mặt phẳng $(\\alpha)$ là $-7(x - 2) - (y - 3) -5(z + 1) = 0 \\Leftrightarrow 7x + y + 5z - 12 = 0.$"
+    "explain": "Ta có $\\overrightarrow{AB} = (-1;-3;2)$, $\\overrightarrow{AC} = (-2;-1;3)$.<br>  Suy ra $\\overrightarrow{n} = \\left[\\overrightarrow{AB}; \\overrightarrow{AC}\\right] = (-7;-1;-5)$ là véc-tơ pháp tuyến của mặt phẳng $(\\alpha)$.<br>  Vậy phương trình mặt phẳng $(\\alpha)$ là $-7(x - 2) - (y - 3) -5(z + 1) = 0 \\Leftrightarrow 7x + y + 5z - 12 = 0.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN212",
@@ -2547,7 +2758,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n}=(2;3;-1)$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(P)$ có vectơ pháp tuyến là $\\overrightarrow{n}=(3 ; 2 ;-1)$."
+    "explain": "Mặt phẳng $(P)$ có vectơ pháp tuyến là $\\overrightarrow{n}=(3 ; 2 ;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN213",
@@ -2559,7 +2771,8 @@ window.tracNghiem2H51 = [
       "$7x-2y+z-9=0$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng $(ABC)$ có vectơ pháp tuyến là $\\overrightarrow{n}=\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(14;-14;14)=14(1;-1;1)$ và đi qua $A(1;1;4)$ có phương trình là  \\[1(x-1)-(y-1)+1(z-4)=0\\Leftrightarrow x-y+z-4=0.\\]"
+    "explain": "Mặt phẳng $(ABC)$ có vectơ pháp tuyến là $\\overrightarrow{n}=\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(14;-14;14)=14(1;-1;1)$ và đi qua $A(1;1;4)$ có phương trình là  \\[1(x-1)-(y-1)+1(z-4)=0\\Leftrightarrow x-y+z-4=0.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN214",
@@ -2571,7 +2784,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha)\\colon 2x-y+3z-2=0$"
     ],
     "answer": 1,
-    "explain": "Phương trình mặt phẳng đi qua điểm $A(2;-1;3)$ và có vectơ pháp tuyến $\\overrightarrow{n}=(2;3;-1)$ là \\[(\\alpha)\\colon 2(x-2)+3(y+1)-(z-3)=0\\Leftrightarrow 2x+3y-z+2=0.\\]"
+    "explain": "Phương trình mặt phẳng đi qua điểm $A(2;-1;3)$ và có vectơ pháp tuyến $\\overrightarrow{n}=(2;3;-1)$ là \\[(\\alpha)\\colon 2(x-2)+3(y+1)-(z-3)=0\\Leftrightarrow 2x+3y-z+2=0.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN1",
@@ -2583,7 +2797,8 @@ window.tracNghiem2H51 = [
       "$2x-y+3z+24=0$"
     ],
     "answer": 0,
-    "explain": "Vì $(\\alpha)\\parallel(Q)$ suy ra $(\\alpha)$ nhận $\\overrightarrow{n}=(2;-1;3)$ làm véc-tơ pháp tuyến. Do đó phương trình mặt phẳng $(\\alpha)$ đi qua điểm $A(2;-1;1)$ và có véc-tơ pháp tuyến $\\overrightarrow{n}$ là  \\[2(x-2)-(y+1)+3(z-1)=0\\Leftrightarrow 2x-y+3z-8=0.\\]"
+    "explain": "Vì $(\\alpha)\\parallel(Q)$ suy ra $(\\alpha)$ nhận $\\overrightarrow{n}=(2;-1;3)$ làm véc-tơ pháp tuyến. Do đó phương trình mặt phẳng $(\\alpha)$ đi qua điểm $A(2;-1;1)$ và có véc-tơ pháp tuyến $\\overrightarrow{n}$ là  \\[2(x-2)-(y+1)+3(z-1)=0\\Leftrightarrow 2x-y+3z-8=0.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN213",
@@ -2595,7 +2810,8 @@ window.tracNghiem2H51 = [
       "$(2;-1;-1)$"
     ],
     "answer": 0,
-    "explain": "Véc-tơ pháp tuyến của mặt phẳng $(P)$ là $(2;1;-1)$."
+    "explain": "Véc-tơ pháp tuyến của mặt phẳng $(P)$ là $(2;1;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN214",
@@ -2607,7 +2823,8 @@ window.tracNghiem2H51 = [
       "$b(x - x_0) + a(y - y_0) + c(z - z_0) = 0$"
     ],
     "answer": 0,
-    "explain": "Mặt phẳng đi qua điểm $I(x_0 ; y_0 ; z_0)$ và nhận $\\overrightarrow{n} = (a ; b ; c)$ làm vectơ pháp tuyến có phương trình là   \\[a(x - x_0) + b(y - y_0) + c(z - z_0) = 0.\\]"
+    "explain": "Mặt phẳng đi qua điểm $I(x_0 ; y_0 ; z_0)$ và nhận $\\overrightarrow{n} = (a ; b ; c)$ làm vectơ pháp tuyến có phương trình là   \\[a(x - x_0) + b(y - y_0) + c(z - z_0) = 0.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN5",
@@ -2619,7 +2836,8 @@ window.tracNghiem2H51 = [
       "$\\overrightarrow{n}_2 = (3 ; 2 ; 4)$"
     ],
     "answer": 1,
-    "explain": "Một vectơ pháp tuyến của $(\\alpha) \\colon 3x + 2y - 4z + 1 = 0$ là $\\overrightarrow{n}=(3;2;-4)$."
+    "explain": "Một vectơ pháp tuyến của $(\\alpha) \\colon 3x + 2y - 4z + 1 = 0$ là $\\overrightarrow{n}=(3;2;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H513TN6",
@@ -2631,7 +2849,8 @@ window.tracNghiem2H51 = [
       "$(\\alpha) \\colon 4x + 2y + 12z + 7 = 0$"
     ],
     "answer": 0,
-    "explain": "Mặt phẳng $(\\alpha)$ nhận $\\overrightarrow{AB}=(-2;-1;6)$ là một vectơ pháp tuyến của mặt phẳng và đi qua trung điểm $I\\left(0;\\dfrac{5}{2};-1\\right)$ của đoạn thẳng $AB$. Phương trình mặt phẳng $(\\alpha)$ là  \\[-2(x-0)-1\\left(y-\\dfrac{5}{2}\\right)+6(z+1)=0 \\Leftrightarrow -2x-y+6z+\\dfrac{17}{2}=0 \\Leftrightarrow 4x + 2y -12z - 17 = 0\\]"
+    "explain": "Mặt phẳng $(\\alpha)$ nhận $\\overrightarrow{AB}=(-2;-1;6)$ là một vectơ pháp tuyến của mặt phẳng và đi qua trung điểm $I\\left(0;\\dfrac{5}{2};-1\\right)$ của đoạn thẳng $AB$. Phương trình mặt phẳng $(\\alpha)$ là  \\[-2(x-0)-1\\left(y-\\dfrac{5}{2}\\right)+6(z+1)=0 \\Leftrightarrow -2x-y+6z+\\dfrac{17}{2}=0 \\Leftrightarrow 4x + 2y -12z - 17 = 0\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H512TN7",
@@ -2643,7 +2862,8 @@ window.tracNghiem2H51 = [
       "$\\vec{n}=(1;2;0)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=(2;1;-2)$ và $\\overrightarrow{AC}=(-12;6;0)$.<br>  Suy ra $\\vec{n}=\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(12;24;24)=12(1;2;2)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(2;1;-2)$ và $\\overrightarrow{AC}=(-12;6;0)$.<br>  Suy ra $\\vec{n}=\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(12;24;24)=12(1;2;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H514TN8",
@@ -2655,7 +2875,8 @@ window.tracNghiem2H51 = [
       "$2x+y+1=0$"
     ],
     "answer": 2,
-    "explain": "Mặt phẳng $y-2z+1=0$ có vectơ pháp tuyến $\\overrightarrow{n}=(0;1;-2)$ và $\\overrightarrow{n}\\cdot \\overrightarrow{i}=0$ nên song song hoặc chứa trục $Ox$. <br>  Tuy nhiên $O(0;0;0) \\in Ox$ nhưng $O \\notin y-2z+1=0$ nên đây là mặt phẳng song song với trục $Ox$."
+    "explain": "Mặt phẳng $y-2z+1=0$ có vectơ pháp tuyến $\\overrightarrow{n}=(0;1;-2)$ và $\\overrightarrow{n}\\cdot \\overrightarrow{i}=0$ nên song song hoặc chứa trục $Ox$. <br>  Tuy nhiên $O(0;0;0) \\in Ox$ nhưng $O \\notin y-2z+1=0$ nên đây là mặt phẳng song song với trục $Ox$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H515TN1",
@@ -2667,6 +2888,7 @@ window.tracNghiem2H51 = [
       "$7$"
     ],
     "answer": 1,
-    "explain": "Mặt phẳng tọa độ $(Ox z)$ có phương trình là: $y=0$.  $\\mathrm{d}(A,(Oxz))=\\dfrac{\\big|-6\\big|}{1}=6.$"
+    "explain": "Mặt phẳng tọa độ $(Ox z)$ có phương trình là: $y=0$.  $\\mathrm{d}(A,(Oxz))=\\dfrac{\\big|-6\\big|}{1}=6.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

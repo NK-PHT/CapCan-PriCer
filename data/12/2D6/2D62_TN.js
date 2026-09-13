@@ -13,7 +13,8 @@ window.tracNghiem2D62 = [
       "$0{,}89$"
     ],
     "answer": 1,
-    "explain": "Gọi biến cố $A$“ máy bay xuất hiện ở vị trí $X$”<br>  Biến cố $B$“ máy bay bị bắn rơi”.<br>  Ta cần tính $\\mathrm{P}(\\overline{A}|B)$.<br>  Ta có sơ đồ hình cây   <br><img src=\"data/12/2D6/im2D62/dlts_12_DLTS29_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\mathrm{P}(\\overline{A}|B)=\\dfrac{P(\\overline{A})\\mathrm{P}(B|\\overline{A})}{\\mathrm{P}(B)}=\\dfrac{0{,}45\\cdot0{,}8}{0{,}55\\cdot0{,}96+0{,}45\\cdot0{,}8}\\approx 0{,}41$."
+    "explain": "Gọi biến cố $A$“ máy bay xuất hiện ở vị trí $X$”<br>  Biến cố $B$“ máy bay bị bắn rơi”.<br>  Ta cần tính $\\mathrm{P}(\\overline{A}|B)$.<br>  Ta có sơ đồ hình cây   <br><img src=\"data/12/2D6/im2D62/dlts_12_DLTS29_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  $\\mathrm{P}(\\overline{A}|B)=\\dfrac{P(\\overline{A})\\mathrm{P}(B|\\overline{A})}{\\mathrm{P}(B)}=\\dfrac{0{,}45\\cdot0{,}8}{0{,}55\\cdot0{,}96+0{,}45\\cdot0{,}8}\\approx 0{,}41$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN2",
@@ -25,7 +26,8 @@ window.tracNghiem2D62 = [
       "$\\mathrm{P}(B)=0{,}4\\cdot0{,}3-0{,}6\\cdot0{,}4$"
     ],
     "answer": 2,
-    "explain": "Xác suất để $B$ xảy ra là <br>  $\\mathrm{P}(B) = \\mathrm{P}(A).\\mathrm{P}(B|A) + \\mathrm{P}(\\overline{A}).\\mathrm{P}(B|\\overline{A}) = 0{,}4 \\cdot 0{,}3 + 0{,}6 \\cdot 0{,}4 = 0{,}12 + 0{,}24 = 0{,}36$."
+    "explain": "Xác suất để $B$ xảy ra là <br>  $\\mathrm{P}(B) = \\mathrm{P}(A).\\mathrm{P}(B|A) + \\mathrm{P}(\\overline{A}).\\mathrm{P}(B|\\overline{A}) = 0{,}4 \\cdot 0{,}3 + 0{,}6 \\cdot 0{,}4 = 0{,}12 + 0{,}24 = 0{,}36$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN3",
@@ -37,7 +39,8 @@ window.tracNghiem2D62 = [
       "${P}(B \\mid A)=\\dfrac{{P}(A B)}{{P}(\\overline{B})}$"
     ],
     "answer": 1,
-    "explain": "Cho $A$ và $B$ là hai biến cố bất kì, với $0&lt;{P}(B)&lt;1$. Khi đó ${P}(A \\mid B)=\\dfrac{{P}(A B)}{{P}(B)}$."
+    "explain": "Cho $A$ và $B$ là hai biến cố bất kì, với $0&lt;{P}(B)&lt;1$. Khi đó ${P}(A \\mid B)=\\dfrac{{P}(A B)}{{P}(B)}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN4",
@@ -49,7 +52,8 @@ window.tracNghiem2D62 = [
       "$0{,}95$"
     ],
     "answer": 1,
-    "explain": "Áp dụng công thức Bayes ta được ${P}(B \\mid A)=\\dfrac{{P}(A\\mid B) \\cdot {P}(B)}{{P}(A)}=\\dfrac{0{,}25 \\cdot 0{,}3} {0{,}4}=0{,}1875. $"
+    "explain": "Áp dụng công thức Bayes ta được ${P}(B \\mid A)=\\dfrac{{P}(A\\mid B) \\cdot {P}(B)}{{P}(A)}=\\dfrac{0{,}25 \\cdot 0{,}3} {0{,}4}=0{,}1875. $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN5",
@@ -61,7 +65,8 @@ window.tracNghiem2D62 = [
       "$0{,}55$"
     ],
     "answer": 1,
-    "explain": "Ta có ${P}(\\overline{B})=1-{P}(B)=0{,}6.$<br>   Áp dụng công thức xác suất toàn phần ta có ${P}(A)={P}(A\\mid B)\\cdot {P}(B)+{P}(A\\mid \\overline{B})\\cdot {P}(\\overline{B})=0{,}8\\cdot 0{,}4+0{,}3\\cdot 0{,}6=0{,}5.$"
+    "explain": "Ta có ${P}(\\overline{B})=1-{P}(B)=0{,}6.$<br>   Áp dụng công thức xác suất toàn phần ta có ${P}(A)={P}(A\\mid B)\\cdot {P}(B)+{P}(A\\mid \\overline{B})\\cdot {P}(\\overline{B})=0{,}8\\cdot 0{,}4+0{,}3\\cdot 0{,}6=0{,}5.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D621TN6",
@@ -73,7 +78,8 @@ window.tracNghiem2D62 = [
       "${P}(B)={P}(A)\\cdot{P}\\left(A\\mid B\\right)+{P}\\left(\\overline{A}\\right)\\cdot{P}\\left(B\\mid\\overline{A}\\right)$"
     ],
     "answer": 2,
-    "explain": "Công thức xác suất toàn phần  \\[{P}(B)={P}(A)\\cdot{P}\\left(B\\mid A\\right)+{P}\\left(\\overline{A}\\right)\\cdot{P}\\left(B\\mid\\overline{A}\\right).\\]"
+    "explain": "Công thức xác suất toàn phần  \\[{P}(B)={P}(A)\\cdot{P}\\left(B\\mid A\\right)+{P}\\left(\\overline{A}\\right)\\cdot{P}\\left(B\\mid\\overline{A}\\right).\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN7",
@@ -85,7 +91,8 @@ window.tracNghiem2D62 = [
       "$0{,}12$"
     ],
     "answer": 1,
-    "explain": "Ta có   \\[{P}(A)={P}(B)\\cdot{P}\\left(A\\mid B\\right)+{P}\\left(\\overline{B}\\right)\\cdot{P}\\left(A\\mid \\overline{B}\\right)=0{,}4\\cdot0{,}5+0{,}6\\cdot0{,}3.\\]"
+    "explain": "Ta có   \\[{P}(A)={P}(B)\\cdot{P}\\left(A\\mid B\\right)+{P}\\left(\\overline{B}\\right)\\cdot{P}\\left(A\\mid \\overline{B}\\right)=0{,}4\\cdot0{,}5+0{,}6\\cdot0{,}3.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN8",
@@ -97,7 +104,8 @@ window.tracNghiem2D62 = [
       "$\\dfrac{4}{19}$"
     ],
     "answer": 2,
-    "explain": "Ta có ${P}\\left(A\\cap\\overline{B}\\right)={P}(A){P}\\left(\\overline{B}\\mid A\\right)={P}(A)[1-{P}\\left(B\\mid A\\right)]=\\dfrac{4}{15}$."
+    "explain": "Ta có ${P}\\left(A\\cap\\overline{B}\\right)={P}(A){P}\\left(\\overline{B}\\mid A\\right)={P}(A)[1-{P}\\left(B\\mid A\\right)]=\\dfrac{4}{15}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN9",
@@ -109,7 +117,8 @@ window.tracNghiem2D62 = [
       "$0{,}3$"
     ],
     "answer": 0,
-    "explain": "Một người bệnh được chọn ngẫu nhiên từ hai phòng khám.<br>  Gọi $X$ là biến cố “ Người đó đến từ phòng khám A” \\, và $Y$, $\\overline{Y}$ lần lượt là biến cố “ Người đó là nam” \\; và “ Người đó không là nam”.<br>  Ta có sơ đồ hình cây sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(X|Y)=\\dfrac{P(X)P(Y|X)}{P(X)P(Y|X)+P(\\overline{X})P(Y|\\overline{X})}=\\dfrac{0{,}3}{0{,}3+0{,}2}=0{,}6.$  Vậy với một người bệnh được chọn ngẫu nhiêu từ hai phòng khám và biết người này là nam, xác suất để người đó đến từ phòng A là $0{,}6$."
+    "explain": "Một người bệnh được chọn ngẫu nhiên từ hai phòng khám.<br>  Gọi $X$ là biến cố “ Người đó đến từ phòng khám A” \\, và $Y$, $\\overline{Y}$ lần lượt là biến cố “ Người đó là nam” \\; và “ Người đó không là nam”.<br>  Ta có sơ đồ hình cây sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(X|Y)=\\dfrac{P(X)P(Y|X)}{P(X)P(Y|X)+P(\\overline{X})P(Y|\\overline{X})}=\\dfrac{0{,}3}{0{,}3+0{,}2}=0{,}6.$  Vậy với một người bệnh được chọn ngẫu nhiêu từ hai phòng khám và biết người này là nam, xác suất để người đó đến từ phòng A là $0{,}6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN10",
@@ -121,7 +130,8 @@ window.tracNghiem2D62 = [
       "$\\dfrac{2}{3}$"
     ],
     "answer": 1,
-    "explain": "Ta có $P\\left( {\\overline {AB} } \\right) = P\\left( {\\overline A } \\right)P\\left( {\\overline B |\\overline A } \\right) \\Rightarrow P\\left( {\\overline B |\\overline A } \\right) = \\dfrac{{P\\left( {\\overline {AB} } \\right)}}{{P\\left( {\\overline A } \\right)}} = \\dfrac{{0{,}35}}{{0{,}75}} = \\dfrac{7}{{15}}.$ <br>  Suy ra $P\\left( {B|\\overline A } \\right) = 1 - \\dfrac{7}{{15}} = \\dfrac{8}{{15}}$.<br>  Theo công thức xác suất toàn phần, ta có  $\\begin{array}{l}  P\\left( B \\right) = P\\left( {B|A} \\right)P\\left( A \\right) + P\\left( {B|\\overline A } \\right)P\\left( {\\overline A } \\right)\\\\  \\Rightarrow P\\left( {B|A} \\right) = \\dfrac{{P\\left( B \\right) - P\\left( {B|\\overline A } \\right)P\\left( {\\overline A } \\right)}}{{P\\left( A \\right)}} = \\dfrac{{0{,}6 - \\dfrac{8}{{15}} \\cdot 0{,}75}}{{0{,}25}} = 0{,}8.  \\end{array}.$  Theo công thức Bayes, ta được  $P\\left( {A|B} \\right) = \\dfrac{{P\\left( A \\right)P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\dfrac{{0{,}25 \\cdot 0{,}8}}{{0{,}6}} = \\dfrac{1}{3}.$"
+    "explain": "Ta có $P\\left( {\\overline {AB} } \\right) = P\\left( {\\overline A } \\right)P\\left( {\\overline B |\\overline A } \\right) \\Rightarrow P\\left( {\\overline B |\\overline A } \\right) = \\dfrac{{P\\left( {\\overline {AB} } \\right)}}{{P\\left( {\\overline A } \\right)}} = \\dfrac{{0{,}35}}{{0{,}75}} = \\dfrac{7}{{15}}.$ <br>  Suy ra $P\\left( {B|\\overline A } \\right) = 1 - \\dfrac{7}{{15}} = \\dfrac{8}{{15}}$.<br>  Theo công thức xác suất toàn phần, ta có  $\\begin{array}{l}  P\\left( B \\right) = P\\left( {B|A} \\right)P\\left( A \\right) + P\\left( {B|\\overline A } \\right)P\\left( {\\overline A } \\right)\\\\  \\Rightarrow P\\left( {B|A} \\right) = \\dfrac{{P\\left( B \\right) - P\\left( {B|\\overline A } \\right)P\\left( {\\overline A } \\right)}}{{P\\left( A \\right)}} = \\dfrac{{0{,}6 - \\dfrac{8}{{15}} \\cdot 0{,}75}}{{0{,}25}} = 0{,}8.  \\end{array}.$  Theo công thức Bayes, ta được  $P\\left( {A|B} \\right) = \\dfrac{{P\\left( A \\right)P\\left( {B|A} \\right)}}{{P\\left( B \\right)}} = \\dfrac{{0{,}25 \\cdot 0{,}8}}{{0{,}6}} = \\dfrac{1}{3}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN11",
@@ -133,7 +143,8 @@ window.tracNghiem2D62 = [
       "$\\dfrac{2}{7}$"
     ],
     "answer": 2,
-    "explain": "Một bệnh nhân đến một bệnh viên để xét nghiệm.<br>  Gọi $A$ là biến cố “ Bệnh nhân bị nhiễm virus $X$” \\, và $B$, $\\overline{B}$ lần lượt là biến cố “ Kết quả xét nghiệm dương tính” \\; và “ Kết quả xét nghiệm âm tính”.<br>  Ta xét sơ đồ hình cây như sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(A|B)=\\dfrac{P(A)P(B|A)}{P(A)P(B|A)+P(\\overline{A})P(B|\\overline{A})}=\\dfrac{0{,}0475}{0{,}0475+0{,}019}=\\dfrac{5}{7}.$   Vậy với một bệnh nhân có kết quả xét nghiệm dương tính, xác suất để bệnh nhân đó thực sự bị nhiễm virus $X$ là $\\dfrac{5}{7}$."
+    "explain": "Một bệnh nhân đến một bệnh viên để xét nghiệm.<br>  Gọi $A$ là biến cố “ Bệnh nhân bị nhiễm virus $X$” \\, và $B$, $\\overline{B}$ lần lượt là biến cố “ Kết quả xét nghiệm dương tính” \\; và “ Kết quả xét nghiệm âm tính”.<br>  Ta xét sơ đồ hình cây như sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(A|B)=\\dfrac{P(A)P(B|A)}{P(A)P(B|A)+P(\\overline{A})P(B|\\overline{A})}=\\dfrac{0{,}0475}{0{,}0475+0{,}019}=\\dfrac{5}{7}.$   Vậy với một bệnh nhân có kết quả xét nghiệm dương tính, xác suất để bệnh nhân đó thực sự bị nhiễm virus $X$ là $\\dfrac{5}{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D622TN12",
@@ -145,6 +156,7 @@ window.tracNghiem2D62 = [
       "$0{,}59375$"
     ],
     "answer": 0,
-    "explain": "Một bệnh nhân trên 40 tuổi ở địa phương X đến bác sĩ để khám bệnh ung thư.<br>  Gọi $A$ là biến cố “ Người đó mắc bệnh ung thư” \\, và $B$, $\\overline{B}$ lần lượt là biến cố “ Bác sĩ chẩn đoán người đó bị ung thư” \\;và “ Bác sĩ chẩn đoán người đó không bị ung thư”.<br>  Ta xét sơ đồ hình cây như sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(A|B)=\\dfrac{P(A)P(B|A)}{P(A)P(B|A)+P(\\overline{A})P(B|\\overline{A})}=\\dfrac{0{,}039}{0{,}039+0{,}057}=0{,}40625.$   Vậy xác suất để một người thật sự mắc bệnh ung thư khi nhận được kết quả chẩn đoán bị ung thư bằng $0{,}40625$."
+    "explain": "Một bệnh nhân trên 40 tuổi ở địa phương X đến bác sĩ để khám bệnh ung thư.<br>  Gọi $A$ là biến cố “ Người đó mắc bệnh ung thư” \\, và $B$, $\\overline{B}$ lần lượt là biến cố “ Bác sĩ chẩn đoán người đó bị ung thư” \\;và “ Bác sĩ chẩn đoán người đó không bị ung thư”.<br>  Ta xét sơ đồ hình cây như sau<br>  <br><img src=\"data/12/2D6/im2D61/dlts_sbh_xsontap_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo công thức Bayes, ta có $P(A|B)=\\dfrac{P(A)P(B|A)}{P(A)P(B|A)+P(\\overline{A})P(B|\\overline{A})}=\\dfrac{0{,}039}{0{,}039+0{,}057}=0{,}40625.$   Vậy xác suất để một người thật sự mắc bệnh ung thư khi nhận được kết quả chẩn đoán bị ung thư bằng $0{,}40625$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

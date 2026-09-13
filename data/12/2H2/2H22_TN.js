@@ -15,7 +15,8 @@ window.tracNghiem2H22 = [
       "$-1$"
     ],
     "answer": 0,
-    "explain": "Ta có  <br>- $B(3;0;0)$ vì $B$ nằm trên trục $Ox$ và $AB=3$.<br>- $D(0;5;0)$ vì $D$ nằm trên trục $Oy$ và $AD=5$.<br>- $A'(0;0;4)$ vì $A'$ nằm trên trục $Oz$ và $AA'=4$.  Do $ABCD.A'B'C'D'$ là hình hộp chữ nhật nên $C'$ là đỉnh đối của $A$ trong hình hộp. Suy ra $C'(3;5;4)$ tức là $a=3$; $b=5$; $c=4$.<br>  Thay vào $T=2a+3b-5c=2\\cdot (3)+3\\cdot (5)-5\\cdot (4)=1$."
+    "explain": "Ta có  <br>- $B(3;0;0)$ vì $B$ nằm trên trục $Ox$ và $AB=3$.<br>- $D(0;5;0)$ vì $D$ nằm trên trục $Oy$ và $AD=5$.<br>- $A'(0;0;4)$ vì $A'$ nằm trên trục $Oz$ và $AA'=4$.  Do $ABCD.A'B'C'D'$ là hình hộp chữ nhật nên $C'$ là đỉnh đối của $A$ trong hình hộp. Suy ra $C'(3;5;4)$ tức là $a=3$; $b=5$; $c=4$.<br>  Thay vào $T=2a+3b-5c=2\\cdot (3)+3\\cdot (5)-5\\cdot (4)=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2H22 = [
       "$M(-3;2;5)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{MO}=2\\vec{j}-3\\vec{i}+5\\vec{k}$ suy ra $\\overrightarrow{MO}=(-3;2;5) \\Rightarrow \\overrightarrow{OM}=(3;-2;-5)$.<br>  Vậy $M(3;-2;-5)$."
+    "explain": "Ta có $\\overrightarrow{MO}=2\\vec{j}-3\\vec{i}+5\\vec{k}$ suy ra $\\overrightarrow{MO}=(-3;2;5) \\Rightarrow \\overrightarrow{OM}=(3;-2;-5)$.<br>  Vậy $M(3;-2;-5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2H22 = [
       "$36$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\vec{a} \\cdot \\vec{b}=1\\cdot3+(-2)\\cdot0+3\\cdot4=15$."
+    "explain": "Ta có $\\vec{a} \\cdot \\vec{b}=1\\cdot3+(-2)\\cdot0+3\\cdot4=15$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2H22 = [
       "$(-2;0;3)$"
     ],
     "answer": 0,
-    "explain": "Vectơ $\\vec{u} = 2\\vec{i} - 3\\vec{k}$ có tọa độ là $(2;0;-3)$."
+    "explain": "Vectơ $\\vec{u} = 2\\vec{i} - 3\\vec{k}$ có tọa độ là $(2;0;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2H22 = [
       "$(3;1;1)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=(1;1;3)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(1;1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2H22 = [
       "$G\\left(\\dfrac{1}{3}; -1; 0\\right)$"
     ],
     "answer": 2,
-    "explain": "Tọa độ trọng tâm $G$ của $\\triangle ABC$ là $\\left(\\dfrac{1+1+1}{3};\\dfrac{-4+0+1}{3};\\dfrac{1+2+3}{3}\\right)=(1; -1; 2)$."
+    "explain": "Tọa độ trọng tâm $G$ của $\\triangle ABC$ là $\\left(\\dfrac{1+1+1}{3};\\dfrac{-4+0+1}{3};\\dfrac{1+2+3}{3}\\right)=(1; -1; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2H22 = [
       "$7$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\left|\\vec{a}\\right|=\\sqrt{2^2+3^2+6^2}=7$."
+    "explain": "Ta có $\\left|\\vec{a}\\right|=\\sqrt{2^2+3^2+6^2}=7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2H22 = [
       "$\\vec{c} = (0;-7;-7)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{c} = \\vec{a} - 2\\vec{b}=(0;-7;7)$."
+    "explain": "Ta có $\\vec{c} = \\vec{a} - 2\\vec{b}=(0;-7;7)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2H22 = [
       "$(2;-5;4)$"
     ],
     "answer": 3,
-    "explain": "Tọa độ của $\\overrightarrow{a}-\\overrightarrow{b}=(2;-5;4)$."
+    "explain": "Tọa độ của $\\overrightarrow{a}-\\overrightarrow{b}=(2;-5;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2H22 = [
       "$(0;1;-1)$"
     ],
     "answer": 3,
-    "explain": "Gọi $I(x_I;y_I;z_I)$ là trung điểm của $AB$, ta có $x_I=\\dfrac{1+(-1)}{2}=0 \\text{ và } y_I=\\dfrac{0+2}{2}=1 \\text{ và } z_I=\\dfrac{-3+1}{2}=-1.$<br>  Suy ra $I(0;1;-1)$."
+    "explain": "Gọi $I(x_I;y_I;z_I)$ là trung điểm của $AB$, ta có $x_I=\\dfrac{1+(-1)}{2}=0 \\text{ và } y_I=\\dfrac{0+2}{2}=1 \\text{ và } z_I=\\dfrac{-3+1}{2}=-1.$<br>  Suy ra $I(0;1;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN11",
@@ -135,7 +145,8 @@ window.tracNghiem2H22 = [
       "$(1;0;-3)$"
     ],
     "answer": 3,
-    "explain": "Tọa độ của $\\overrightarrow{u}=(1;0;-3)$."
+    "explain": "Tọa độ của $\\overrightarrow{u}=(1;0;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN12",
@@ -147,7 +158,8 @@ window.tracNghiem2H22 = [
       "$(1;-1;1)$"
     ],
     "answer": 3,
-    "explain": "Tọa độ $\\overrightarrow{AB}=(1;-1;1)$."
+    "explain": "Tọa độ $\\overrightarrow{AB}=(1;-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN13",
@@ -159,7 +171,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{u}_4=(2;2;0)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{u}_4=2\\overrightarrow{n}$, suy ra $\\overrightarrow{u}_4$ và $\\overrightarrow{n}$ cùng phương."
+    "explain": "Ta có $\\overrightarrow{u}_4=2\\overrightarrow{n}$, suy ra $\\overrightarrow{u}_4$ và $\\overrightarrow{n}$ cùng phương.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN14",
@@ -171,7 +184,8 @@ window.tracNghiem2H22 = [
       "$\\left(\\dfrac{3}{2}; 1; -1\\right)$"
     ],
     "answer": 0,
-    "explain": "Điểm $B$ có tọa độ là $B\\left(x_B;y_B;z_B\\right)$, khi đó $\\overrightarrow{AB}=\\left(x_B-1;y_B-3;z_B+5\\right)$.<br>  Từ giả thiết, ta có $x_B-1=2 \\text{ và } y_B-3=-1 \\text{ và } z_B+5=3\\Leftrightarrow x_B=3 \\text{ và } y_B=2 \\text{ và } z_B=-2.$<br>  Vậy điểm $B$ có tọa độ là $B\\left(3;2;-2\\right)$."
+    "explain": "Điểm $B$ có tọa độ là $B\\left(x_B;y_B;z_B\\right)$, khi đó $\\overrightarrow{AB}=\\left(x_B-1;y_B-3;z_B+5\\right)$.<br>  Từ giả thiết, ta có $x_B-1=2 \\text{ và } y_B-3=-1 \\text{ và } z_B+5=3\\Leftrightarrow x_B=3 \\text{ và } y_B=2 \\text{ và } z_B=-2.$<br>  Vậy điểm $B$ có tọa độ là $B\\left(3;2;-2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN1",
@@ -183,7 +197,8 @@ window.tracNghiem2H22 = [
       "$(1;-2)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{a}+\\overrightarrow{b}=(-3\\overrightarrow{i}+2\\overrightarrow{j})+4\\overrightarrow{i}=\\overrightarrow{i}+2\\overrightarrow{j}=(1;2)$."
+    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{a}+\\overrightarrow{b}=(-3\\overrightarrow{i}+2\\overrightarrow{j})+4\\overrightarrow{i}=\\overrightarrow{i}+2\\overrightarrow{j}=(1;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN15",
@@ -195,7 +210,8 @@ window.tracNghiem2H22 = [
       "$Q(-4;-3;0)$"
     ],
     "answer": 0,
-    "explain": "Trong hình bình hành $MNPQ$, ta có $\\overrightarrow{MN} = \\overrightarrow{QP}$. <br>  Có $\\overrightarrow{MN} = (2-1; 3-1; 4-1) = (1; 2; 3)$. <br>  Gọi $Q(x; y; z)$. Khi đó $\\overrightarrow{QP} = (7-x; 7-y; 5-z)$. <br>  Vì $\\overrightarrow{MN} = \\overrightarrow{QP}$ nên ta có hệ phương trình <br>  $7-x = 1 \\text{ và } 7-y = 2 \\text{ và } 5-z = 3\\Leftrightarrow  x = 6 \\text{ và } y = 5 \\text{ và } z = 2.$  Vậy $Q(6; 5; 2)$."
+    "explain": "Trong hình bình hành $MNPQ$, ta có $\\overrightarrow{MN} = \\overrightarrow{QP}$. <br>  Có $\\overrightarrow{MN} = (2-1; 3-1; 4-1) = (1; 2; 3)$. <br>  Gọi $Q(x; y; z)$. Khi đó $\\overrightarrow{QP} = (7-x; 7-y; 5-z)$. <br>  Vì $\\overrightarrow{MN} = \\overrightarrow{QP}$ nên ta có hệ phương trình <br>  $7-x = 1 \\text{ và } 7-y = 2 \\text{ và } 5-z = 3\\Leftrightarrow  x = 6 \\text{ và } y = 5 \\text{ và } z = 2.$  Vậy $Q(6; 5; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN14",
@@ -207,7 +223,8 @@ window.tracNghiem2H22 = [
       "$I(1;2;5)$"
     ],
     "answer": 2,
-    "explain": "Vì $I$ là trung điểm của đoạn thẳng $AB$ nên $x_I=\\dfrac{x_A+x_B}{2}=\\dfrac{1+3}{2}=2 \\text{ và } y_I=\\dfrac{y_A+y_B}{2}=\\dfrac{-3+1}{2}=-1 \\text{ và } z_I=\\dfrac{z_A+z_B}{2}=\\dfrac{2+8}{2}=5$."
+    "explain": "Vì $I$ là trung điểm của đoạn thẳng $AB$ nên $x_I=\\dfrac{x_A+x_B}{2}=\\dfrac{1+3}{2}=2 \\text{ và } y_I=\\dfrac{y_A+y_B}{2}=\\dfrac{-3+1}{2}=-1 \\text{ và } z_I=\\dfrac{z_A+z_B}{2}=\\dfrac{2+8}{2}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H221TN5",
@@ -219,7 +236,8 @@ window.tracNghiem2H22 = [
       "$\\cos \\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=\\dfrac{a_1b_1+a_2b_2-a_3b_3}{\\sqrt{{a_1}^2+{a_2}^2-{a_3}^2}\\cdot \\sqrt{{b_1}^2+{b_2}^2+{b_3}^2}}$"
     ],
     "answer": 0,
-    "explain": "$\\cos \\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=\\dfrac{a_1b_1+a_2b_2+(-a_3)b_3}{\\sqrt{{a_1}^2+{a_2}^2+\\left(-a_3\\right)^2}\\cdot \\sqrt{{b_1}^2+{b_2}^2+{b_3}^2}}=\\dfrac{a_1b_1+a_2b_2-a_3b_3}{\\sqrt{{a_1}^2+{a_2}^2+{a_3}^2}\\cdot \\sqrt{{b_1}^2+{b_2}^2+{b_3}^2}}$."
+    "explain": "$\\cos \\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=\\dfrac{a_1b_1+a_2b_2+(-a_3)b_3}{\\sqrt{{a_1}^2+{a_2}^2+\\left(-a_3\\right)^2}\\cdot \\sqrt{{b_1}^2+{b_2}^2+{b_3}^2}}=\\dfrac{a_1b_1+a_2b_2-a_3b_3}{\\sqrt{{a_1}^2+{a_2}^2+{a_3}^2}\\cdot \\sqrt{{b_1}^2+{b_2}^2+{b_3}^2}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN6",
@@ -231,7 +249,8 @@ window.tracNghiem2H22 = [
       "$-6$"
     ],
     "answer": 3,
-    "explain": "$\\overrightarrow{a}$, $\\overrightarrow{b}$ cùng phương $\\Rightarrow \\dfrac{x}{-1}=\\dfrac{3}{1}=\\dfrac{1}{y} \\Rightarrow x=-3$, $y=\\dfrac{1}{3}$.<br>   $x-9y=-3-9\\cdot \\dfrac{1}{3}=-6$."
+    "explain": "$\\overrightarrow{a}$, $\\overrightarrow{b}$ cùng phương $\\Rightarrow \\dfrac{x}{-1}=\\dfrac{3}{1}=\\dfrac{1}{y} \\Rightarrow x=-3$, $y=\\dfrac{1}{3}$.<br>   $x-9y=-3-9\\cdot \\dfrac{1}{3}=-6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN15",
@@ -243,7 +262,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{AB}=(6{,}1 ; 0 ; 0)$"
     ],
     "answer": 3,
-    "explain": "Vì chiều dài của sân cầu là $13{,}4$ m và chiều cao $1{,55}$ m nên $A(0;6{,}7;1{,}55)$.<br>  Vì chiều rộng của sân cầu là $6{,}1$m và chiều cao $1{,55}$ m nên $B(6{,}1;6{,}7;1{,}55)$.<br>  Vậy $\\overrightarrow{AB}=(6{,}1 ; 0 ; 0)$."
+    "explain": "Vì chiều dài của sân cầu là $13{,}4$ m và chiều cao $1{,55}$ m nên $A(0;6{,}7;1{,}55)$.<br>  Vì chiều rộng của sân cầu là $6{,}1$m và chiều cao $1{,55}$ m nên $B(6{,}1;6{,}7;1{,}55)$.<br>  Vậy $\\overrightarrow{AB}=(6{,}1 ; 0 ; 0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN8",
@@ -255,7 +275,8 @@ window.tracNghiem2H22 = [
       "$(1 ; a ; b)$"
     ],
     "answer": 3,
-    "explain": "Do $\\overrightarrow{OM}=\\overrightarrow{i}+a \\cdot \\overrightarrow{j}+b \\cdot \\overrightarrow{k}$ nên tọa độ của điểm $M(1 ; a ; b)$."
+    "explain": "Do $\\overrightarrow{OM}=\\overrightarrow{i}+a \\cdot \\overrightarrow{j}+b \\cdot \\overrightarrow{k}$ nên tọa độ của điểm $M(1 ; a ; b)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN9",
@@ -267,7 +288,8 @@ window.tracNghiem2H22 = [
       "$M_4(0; 0;-1)$"
     ],
     "answer": 1,
-    "explain": "Hình chiếu vuông góc của điểm $M(3; 1;-1)$ trên trục $Oy$ có tọa độ là $M_2(0; 1; 0)$."
+    "explain": "Hình chiếu vuông góc của điểm $M(3; 1;-1)$ trên trục $Oy$ có tọa độ là $M_2(0; 1; 0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN16",
@@ -279,7 +301,8 @@ window.tracNghiem2H22 = [
       "$G(0;0;1)$"
     ],
     "answer": 1,
-    "explain": "Ta có $x_G=\\dfrac{1+(-1)+0}{3}=0 \\text{ và } y_G=\\dfrac{-2+2+0}{3}=0 \\text{ và } z_G= \\dfrac{3+5+1}{3}=3 \\Rightarrow G(0;0;3)$."
+    "explain": "Ta có $x_G=\\dfrac{1+(-1)+0}{3}=0 \\text{ và } y_G=\\dfrac{-2+2+0}{3}=0 \\text{ và } z_G= \\dfrac{3+5+1}{3}=3 \\Rightarrow G(0;0;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN17",
@@ -291,7 +314,8 @@ window.tracNghiem2H22 = [
       "$\\sqrt{61}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{a} = (-2;2;0)$; $2\\overrightarrow{b} =(4;4;0)$; $3 \\overrightarrow{c}=(6;6;6)$.<br>  Khi đó $\\overrightarrow{a}+2 \\overrightarrow{b}+3 \\overrightarrow{c}= (8;12;6)$.<br>  Do đó $\\left| \\overrightarrow{a}+2 \\overrightarrow{b}+3 \\overrightarrow{c}\\right| =\\sqrt{8^2+12^2+6^2}=2\\sqrt{61}$."
+    "explain": "Ta có $\\overrightarrow{a} = (-2;2;0)$; $2\\overrightarrow{b} =(4;4;0)$; $3 \\overrightarrow{c}=(6;6;6)$.<br>  Khi đó $\\overrightarrow{a}+2 \\overrightarrow{b}+3 \\overrightarrow{c}= (8;12;6)$.<br>  Do đó $\\left| \\overrightarrow{a}+2 \\overrightarrow{b}+3 \\overrightarrow{c}\\right| =\\sqrt{8^2+12^2+6^2}=2\\sqrt{61}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN18",
@@ -303,7 +327,8 @@ window.tracNghiem2H22 = [
       "$(-4; 2; 4)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{AB}=(-4;2;4)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(-4;2;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN19",
@@ -315,7 +340,8 @@ window.tracNghiem2H22 = [
       "$\\vec{u}\\cdot\\vec{v}=2$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\vec{u}=\\left(1;3;-2\\right)$, khi đó $\\vec{u}\\cdot\\vec{v}=1\\cdot2+3\\cdot(-1)+(-2)\\cdot1=-3$."
+    "explain": "Ta có $\\vec{u}=\\left(1;3;-2\\right)$, khi đó $\\vec{u}\\cdot\\vec{v}=1\\cdot2+3\\cdot(-1)+(-2)\\cdot1=-3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN20",
@@ -327,7 +353,8 @@ window.tracNghiem2H22 = [
       "$26$"
     ],
     "answer": 1,
-    "explain": "Độ dài đoạn thẳng $AB=\\sqrt{(3-1)^2+(0+3)^2+(-2-1)^2}=\\sqrt{22}$."
+    "explain": "Độ dài đoạn thẳng $AB=\\sqrt{(3-1)^2+(0+3)^2+(-2-1)^2}=\\sqrt{22}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN21",
@@ -339,7 +366,8 @@ window.tracNghiem2H22 = [
       "$\\sqrt{6} + \\sqrt{13}$"
     ],
     "answer": 0,
-    "explain": "$\\overrightarrow{u} + \\overrightarrow{v} = (2;1;0) \\Rightarrow |\\overrightarrow{u} + \\overrightarrow{v}| = \\sqrt{2^2 + 1^2 + 0^2} = \\sqrt{4 + 1} = \\sqrt{5}$."
+    "explain": "$\\overrightarrow{u} + \\overrightarrow{v} = (2;1;0) \\Rightarrow |\\overrightarrow{u} + \\overrightarrow{v}| = \\sqrt{2^2 + 1^2 + 0^2} = \\sqrt{4 + 1} = \\sqrt{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN22",
@@ -351,7 +379,8 @@ window.tracNghiem2H22 = [
       "$-1$"
     ],
     "answer": 2,
-    "explain": "Ta có: $\\overrightarrow{u}\\cdot\\overrightarrow{v}=(-1)\\cdot 1+ 1\\cdot(-1)+3\\cdot 0 = -2$."
+    "explain": "Ta có: $\\overrightarrow{u}\\cdot\\overrightarrow{v}=(-1)\\cdot 1+ 1\\cdot(-1)+3\\cdot 0 = -2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN23",
@@ -363,7 +392,8 @@ window.tracNghiem2H22 = [
       "$(-8;10;10)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{b} = - 8\\overrightarrow{i} - 10\\overrightarrow{j} - 10\\overrightarrow{k} = \\left( { - 8; - 10; - 10} \\right)$."
+    "explain": "Ta có $\\overrightarrow{b} = - 8\\overrightarrow{i} - 10\\overrightarrow{j} - 10\\overrightarrow{k} = \\left( { - 8; - 10; - 10} \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN24",
@@ -375,7 +405,8 @@ window.tracNghiem2H22 = [
       "$(-7;-4;7)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{a} = (-2;1;-1)$, $\\overrightarrow{b} = (1;2;-3)$.<br>  Tính $2\\overrightarrow{a}$  $2\\overrightarrow{a} = (-4; 2; -2).$  Tính $3\\overrightarrow{b}$  $3\\overrightarrow{b} = (3; 6; -9).$  Tính $2\\overrightarrow{a}-3\\overrightarrow{b}$  $2\\overrightarrow{a}-3\\overrightarrow{b}   = (-4-3;\\; 2-6;\\; -2-(-9))$<br>$= (-7;\\; -4;\\; 7).$"
+    "explain": "Ta có $\\overrightarrow{a} = (-2;1;-1)$, $\\overrightarrow{b} = (1;2;-3)$.<br>  Tính $2\\overrightarrow{a}$  $2\\overrightarrow{a} = (-4; 2; -2).$  Tính $3\\overrightarrow{b}$  $3\\overrightarrow{b} = (3; 6; -9).$  Tính $2\\overrightarrow{a}-3\\overrightarrow{b}$  $2\\overrightarrow{a}-3\\overrightarrow{b}   = (-4-3;\\; 2-6;\\; -2-(-9))$<br>$= (-7;\\; -4;\\; 7).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN23",
@@ -387,7 +418,8 @@ window.tracNghiem2H22 = [
       "$D(-3;-6;-1)$"
     ],
     "answer": 2,
-    "explain": "Để tứ giác $ABCD$ là hình bình hành thì ta phải có $\\overrightarrow{AD} = \\overrightarrow{BC}$.<br>  Gọi tọa độ điểm $D$ là $D(x;y;z)$.  <br>- $\\overrightarrow{AD} = (x-1; y+1; z-2)$.<br>- $\\overrightarrow{BC} = (-4; -5; -1)$.  Từ $\\overrightarrow{AD} = \\overrightarrow{BC}$, ta có hệ phương trình:  $x-1 = -4 \\text{ và } y+1 = -5 \\text{ và } z-2 = -1\\Leftrightarrow x = -4+1 = -3 \\text{ và } y = -5-1 = -6 \\text{ và } z = -1+2 = 1.$  Vậy tọa độ điểm $D$ là $D(-3;-6;1)$."
+    "explain": "Để tứ giác $ABCD$ là hình bình hành thì ta phải có $\\overrightarrow{AD} = \\overrightarrow{BC}$.<br>  Gọi tọa độ điểm $D$ là $D(x;y;z)$.  <br>- $\\overrightarrow{AD} = (x-1; y+1; z-2)$.<br>- $\\overrightarrow{BC} = (-4; -5; -1)$.  Từ $\\overrightarrow{AD} = \\overrightarrow{BC}$, ta có hệ phương trình:  $x-1 = -4 \\text{ và } y+1 = -5 \\text{ và } z-2 = -1\\Leftrightarrow x = -4+1 = -3 \\text{ và } y = -5-1 = -6 \\text{ và } z = -1+2 = 1.$  Vậy tọa độ điểm $D$ là $D(-3;-6;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN25",
@@ -399,7 +431,8 @@ window.tracNghiem2H22 = [
       "$(1;1;0)$"
     ],
     "answer": 3,
-    "explain": "Ta có $A'(0;0;1)$ và $C'(1;1;1)$ suy ra $\\overrightarrow{A'C'}=(1;1;0)$."
+    "explain": "Ta có $A'(0;0;1)$ và $C'(1;1;1)$ suy ra $\\overrightarrow{A'C'}=(1;1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN25",
@@ -411,7 +444,8 @@ window.tracNghiem2H22 = [
       "$(-2;0;1)$"
     ],
     "answer": 3,
-    "explain": "Hình chiếu vuông góc của điểm $M(-2;5;1)$ lên $(Ozx)$ là điểm có tọa độ $(-2;0;1)$."
+    "explain": "Hình chiếu vuông góc của điểm $M(-2;5;1)$ lên $(Ozx)$ là điểm có tọa độ $(-2;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN26",
@@ -423,7 +457,8 @@ window.tracNghiem2H22 = [
       "$(0;0;-6)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{x}=\\overrightarrow{a}-\\overrightarrow{b}=\\left(2-2;3-3;-1-(-7)\\right)=(0;0;6)$."
+    "explain": "Ta có $\\overrightarrow{x}=\\overrightarrow{a}-\\overrightarrow{b}=\\left(2-2;3-3;-1-(-7)\\right)=(0;0;6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN27",
@@ -435,7 +470,8 @@ window.tracNghiem2H22 = [
       "$\\dfrac{\\sqrt3}{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\left|\\overrightarrow{a}\\right|\\cdot\\left|\\overrightarrow{b}\\right|\\cdot\\cos \\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=2\\cdot2\\cdot\\cos60^\\circ=4\\cdot\\dfrac{1}{2}=2$."
+    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=\\left|\\overrightarrow{a}\\right|\\cdot\\left|\\overrightarrow{b}\\right|\\cdot\\cos \\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=2\\cdot2\\cdot\\cos60^\\circ=4\\cdot\\dfrac{1}{2}=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN28",
@@ -447,7 +483,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{u}_3=(1;0;0)$"
     ],
     "answer": 0,
-    "explain": "Hình chiếu vuông góc của $M$ lên trục $Ox$ là $M_1(1;0;0)$.<br>  Hình chiếu vuông góc của $M$ lên trục $Oy$ là $M_2(0;2;0)$.<br>  Véc-tơ chỉ phương của đường thẳng $M_1M_2$ là $\\overrightarrow{M_1M_2}=(-1;2;0)$."
+    "explain": "Hình chiếu vuông góc của $M$ lên trục $Ox$ là $M_1(1;0;0)$.<br>  Hình chiếu vuông góc của $M$ lên trục $Oy$ là $M_2(0;2;0)$.<br>  Véc-tơ chỉ phương của đường thẳng $M_1M_2$ là $\\overrightarrow{M_1M_2}=(-1;2;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN29",
@@ -459,7 +496,8 @@ window.tracNghiem2H22 = [
       "$4a$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D2/im2H2/2H22_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}=2\\overrightarrow{OO'}+2\\overrightarrow{OO'}=4\\overrightarrow{OO'}$.<br>  Khi đó $\\left|\\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}\\right|=\\left| 4\\overrightarrow{OO'}\\right|=4OO'=4AA'=4a$."
+    "explain": "<br><img src=\"data/12/2D2/im2H2/2H22_tikz_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta có $\\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}=2\\overrightarrow{OO'}+2\\overrightarrow{OO'}=4\\overrightarrow{OO'}$.<br>  Khi đó $\\left|\\overrightarrow{OA'} + \\overrightarrow{OB'} + \\overrightarrow{OC'} + \\overrightarrow{OD'}\\right|=\\left| 4\\overrightarrow{OO'}\\right|=4OO'=4AA'=4a$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN30",
@@ -471,7 +509,8 @@ window.tracNghiem2H22 = [
       "$-10$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{AB}=(5;1;-4)$ và $\\overrightarrow{BC}=(1;-3;3)$.<br>  Khi đó $\\overrightarrow{AB}\\cdot \\overrightarrow{BC}=5\\cdot1+1\\cdot(-3)+(-4)\\cdot3=-10$."
+    "explain": "Ta có $\\overrightarrow{AB}=(5;1;-4)$ và $\\overrightarrow{BC}=(1;-3;3)$.<br>  Khi đó $\\overrightarrow{AB}\\cdot \\overrightarrow{BC}=5\\cdot1+1\\cdot(-3)+(-4)\\cdot3=-10$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN31",
@@ -483,7 +522,8 @@ window.tracNghiem2H22 = [
       "$B(4;6;3)$"
     ],
     "answer": 0,
-    "explain": "Ta có $B\\in (Oxy)\\Rightarrow B(OA;OC;0)\\Rightarrow B(4;6;0)$."
+    "explain": "Ta có $B\\in (Oxy)\\Rightarrow B(OA;OC;0)\\Rightarrow B(4;6;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN32",
@@ -495,7 +535,8 @@ window.tracNghiem2H22 = [
       "$(0; 2;-3)$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{i}-3\\overrightarrow{k}\\Rightarrow \\overrightarrow{u}=(1;0;-3)$."
+    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{i}-3\\overrightarrow{k}\\Rightarrow \\overrightarrow{u}=(1;0;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN33",
@@ -507,7 +548,8 @@ window.tracNghiem2H22 = [
       "$5$"
     ],
     "answer": 2,
-    "explain": "Tính $\\overrightarrow{u} + \\overrightarrow{v} = (4; 1; -1)$. Độ dài của vectơ này là $\\sqrt{4^2 + 1^2 + (-1)^2} = \\sqrt{18} = 3\\sqrt{2}$."
+    "explain": "Tính $\\overrightarrow{u} + \\overrightarrow{v} = (4; 1; -1)$. Độ dài của vectơ này là $\\sqrt{4^2 + 1^2 + (-1)^2} = \\sqrt{18} = 3\\sqrt{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN34",
@@ -519,7 +561,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{c} = (5; -9; -6)$"
     ],
     "answer": 1,
-    "explain": "Tính $\\overrightarrow{c} = \\overrightarrow{a} - 2\\overrightarrow{b} = (3 - 2 \\times 1; -1 - 2 \\times 4; 2 - 2 \\times (-2)) = (1; -9; 6)$."
+    "explain": "Tính $\\overrightarrow{c} = \\overrightarrow{a} - 2\\overrightarrow{b} = (3 - 2 \\times 1; -1 - 2 \\times 4; 2 - 2 \\times (-2)) = (1; -9; 6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN35",
@@ -531,7 +574,8 @@ window.tracNghiem2H22 = [
       "$(2; -1; -1)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{AB}=(-1;0;-1)$, $\\overrightarrow{AC}=(x-3;y-1;-1)$.<br>  Để tam giác $ABC$ vuông cân tại $A$, ta cần tìm $C$ sao cho $\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = 0$ và $|\\overrightarrow{AB}| = |\\overrightarrow{AC}|$.<br>  Ta có hệ $-1(x-3)+0(y-1)+(-1)(-1)=0 \\text{ và } \\sqrt{2}=\\sqrt{(x-3)^2+(y-1)^2+(-1)^2}.$<br>  Giải hệ phương trình, ta được $C(4; 1 \\pm \\sqrt{2}; -1)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(-1;0;-1)$, $\\overrightarrow{AC}=(x-3;y-1;-1)$.<br>  Để tam giác $ABC$ vuông cân tại $A$, ta cần tìm $C$ sao cho $\\overrightarrow{AB} \\cdot \\overrightarrow{AC} = 0$ và $|\\overrightarrow{AB}| = |\\overrightarrow{AC}|$.<br>  Ta có hệ $-1(x-3)+0(y-1)+(-1)(-1)=0 \\text{ và } \\sqrt{2}=\\sqrt{(x-3)^2+(y-1)^2+(-1)^2}.$<br>  Giải hệ phương trình, ta được $C(4; 1 \\pm \\sqrt{2}; -1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN36",
@@ -543,7 +587,8 @@ window.tracNghiem2H22 = [
       "$-23$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{u}\\cdot \\overrightarrow{v} = (-2)\\cdot(-3)+1\\cdot2+3\\cdot5=23$."
+    "explain": "Ta có $\\overrightarrow{u}\\cdot \\overrightarrow{v} = (-2)\\cdot(-3)+1\\cdot2+3\\cdot5=23$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN37",
@@ -555,7 +600,8 @@ window.tracNghiem2H22 = [
       "$(2;0;-1)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{a}=2\\overrightarrow{i}+\\overrightarrow{k}$ nên $\\overrightarrow{a}=(2;0;1)$."
+    "explain": "Ta có $\\overrightarrow{a}=2\\overrightarrow{i}+\\overrightarrow{k}$ nên $\\overrightarrow{a}=(2;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN38",
@@ -567,7 +613,8 @@ window.tracNghiem2H22 = [
       "$\\left(0 ; 0 ;-\\dfrac{1}{2}\\right)$"
     ],
     "answer": 0,
-    "explain": "Điểm $C$ nằm trên trục $Oz$ nên $C(0;0;z)$.<br>  Ta có $\\overrightarrow{AB}=(0;-1;2)$ và $\\overrightarrow{BC}=(-1;1;c)$.<br>  Vì $\\overrightarrow{AB} \\perp \\overrightarrow{BC}$ nên   \\[\\overrightarrow{AB} \\cdot \\overrightarrow{BC}=2c-1=0 \\Leftrightarrow c=\\dfrac{1}{2}.\\]  Suy ra tọa độ của điểm $C$ là $\\left(0;0;\\dfrac{1}{2}\\right)$."
+    "explain": "Điểm $C$ nằm trên trục $Oz$ nên $C(0;0;z)$.<br>  Ta có $\\overrightarrow{AB}=(0;-1;2)$ và $\\overrightarrow{BC}=(-1;1;c)$.<br>  Vì $\\overrightarrow{AB} \\perp \\overrightarrow{BC}$ nên   \\[\\overrightarrow{AB} \\cdot \\overrightarrow{BC}=2c-1=0 \\Leftrightarrow c=\\dfrac{1}{2}.\\]  Suy ra tọa độ của điểm $C$ là $\\left(0;0;\\dfrac{1}{2}\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN39",
@@ -579,7 +626,8 @@ window.tracNghiem2H22 = [
       "$(3 ; 3 ;-1)$"
     ],
     "answer": 1,
-    "explain": "Vectơ $\\overrightarrow{A B}$ có tọa độ là $(1;1;3)$."
+    "explain": "Vectơ $\\overrightarrow{A B}$ có tọa độ là $(1;1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN40",
@@ -591,7 +639,8 @@ window.tracNghiem2H22 = [
       "$(3;2;0)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=(3-1;1-2;4-0)=(2;-1;4)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(3-1;1-2;4-0)=(2;-1;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN41",
@@ -603,7 +652,8 @@ window.tracNghiem2H22 = [
       "$(2;3;4)$"
     ],
     "answer": 3,
-    "explain": "Tọa độ điểm $M$ là $(2;3;4)$."
+    "explain": "Tọa độ điểm $M$ là $(2;3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN42",
@@ -615,7 +665,8 @@ window.tracNghiem2H22 = [
       "$1$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{BC}=\\overrightarrow{AC}-\\overrightarrow{AB}=(4;3;0) \\Rightarrow BC=\\left|\\overrightarrow{BC}\\right|=\\sqrt{4^2+3^2+0^2}=5$."
+    "explain": "Ta có $\\overrightarrow{BC}=\\overrightarrow{AC}-\\overrightarrow{AB}=(4;3;0) \\Rightarrow BC=\\left|\\overrightarrow{BC}\\right|=\\sqrt{4^2+3^2+0^2}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN43",
@@ -627,7 +678,8 @@ window.tracNghiem2H22 = [
       "$-16$"
     ],
     "answer": 1,
-    "explain": "Nhìn vào hình ta thấy điểm $C$ có tọa độ là $C(4;4;0)$.<br>  Suy ra $a-b+4c=4-4+4\\cdot 0=0$."
+    "explain": "Nhìn vào hình ta thấy điểm $C$ có tọa độ là $C(4;4;0)$.<br>  Suy ra $a-b+4c=4-4+4\\cdot 0=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN44",
@@ -639,7 +691,8 @@ window.tracNghiem2H22 = [
       "$M(1 ; 0 ; 3)$"
     ],
     "answer": 3,
-    "explain": "Hình chiếu vuông góc của điểm $A(1 ; 2 ; 3)$ trên mặt phẳng $(O x z)$ là $M(1 ; 0 ; 3)$"
+    "explain": "Hình chiếu vuông góc của điểm $A(1 ; 2 ; 3)$ trên mặt phẳng $(O x z)$ là $M(1 ; 0 ; 3)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN45",
@@ -651,7 +704,8 @@ window.tracNghiem2H22 = [
       "$(-2;-2;4)$"
     ],
     "answer": 0,
-    "explain": "Vì $\\overrightarrow{OA}=2\\overrightarrow{i}-3\\overrightarrow{j}+4\\overrightarrow{k}$ nên $A(2;-3;4)$.<br>  Vậy $\\overrightarrow{BA}=(0;-4;0)$."
+    "explain": "Vì $\\overrightarrow{OA}=2\\overrightarrow{i}-3\\overrightarrow{j}+4\\overrightarrow{k}$ nên $A(2;-3;4)$.<br>  Vậy $\\overrightarrow{BA}=(0;-4;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN46",
@@ -663,7 +717,8 @@ window.tracNghiem2H22 = [
       "$(1 ; 1 ; 3)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{AB}=(2-1;2-1;1+2)=(1;1;3)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(2-1;2-1;1+2)=(1;1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN47",
@@ -675,7 +730,8 @@ window.tracNghiem2H22 = [
       "$(0 ;-3 ; 4)$"
     ],
     "answer": 3,
-    "explain": "Tọa độ hình chiếu của điểm $A$ lên mặt phẳng $(Oyz)$ là $(0 ;-3 ; 4)$"
+    "explain": "Tọa độ hình chiếu của điểm $A$ lên mặt phẳng $(Oyz)$ là $(0 ;-3 ; 4)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN48",
@@ -687,7 +743,8 @@ window.tracNghiem2H22 = [
       "$(-2;1;0)$"
     ],
     "answer": 1,
-    "explain": "$\\overrightarrow{u}=-2\\overrightarrow{i}+\\overrightarrow{k}=(-2;0;1)$."
+    "explain": "$\\overrightarrow{u}=-2\\overrightarrow{i}+\\overrightarrow{k}=(-2;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN49",
@@ -699,7 +756,8 @@ window.tracNghiem2H22 = [
       "$(1;-5;0)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\vec{OA}=\\vec{i}-5\\vec{j}+0\\vec{k}$ nên tọa độ của điểm $A$ là $(1;-5;0)$."
+    "explain": "Ta có $\\vec{OA}=\\vec{i}-5\\vec{j}+0\\vec{k}$ nên tọa độ của điểm $A$ là $(1;-5;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN50",
@@ -711,7 +769,8 @@ window.tracNghiem2H22 = [
       "$(2;-7;4)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{AB}=\\left(x_B-x_A;y_B-y_A;z_B-z_A\\right)=-2;7;-4$."
+    "explain": "Ta có $\\vec{AB}=\\left(x_B-x_A;y_B-y_A;z_B-z_A\\right)=-2;7;-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H221TN51",
@@ -723,7 +782,8 @@ window.tracNghiem2H22 = [
       "$2\\vec{a}+\\vec{b}=(0;-6;10)$"
     ],
     "answer": 1,
-    "explain": "Ta có $3\\vec{a}=(3;-9;9)$ nên khẳng định sai là ``$3\\vec{a}=(3;-9;3)$''."
+    "explain": "Ta có $3\\vec{a}=(3;-9;9)$ nên khẳng định sai là ``$3\\vec{a}=(3;-9;3)$''.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN52",
@@ -735,7 +795,8 @@ window.tracNghiem2H22 = [
       "$(1; 0;-3)$"
     ],
     "answer": 0,
-    "explain": "Ta có $2\\overrightarrow{u}=(4;2;-2)$ nên $2\\overrightarrow{u}-\\overrightarrow{v}=(1;4;-3)$."
+    "explain": "Ta có $2\\overrightarrow{u}=(4;2;-2)$ nên $2\\overrightarrow{u}-\\overrightarrow{v}=(1;4;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN53",
@@ -747,7 +808,8 @@ window.tracNghiem2H22 = [
       "$(-1;-4;-2)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AB}=(1;4;2)$."
+    "explain": "Ta có $\\overrightarrow{AB}=(1;4;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN54",
@@ -759,7 +821,8 @@ window.tracNghiem2H22 = [
       "$M(1; 0; 2)$"
     ],
     "answer": 1,
-    "explain": "Ta có $M(1;0;-2)$."
+    "explain": "Ta có $M(1;0;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN55",
@@ -771,7 +834,8 @@ window.tracNghiem2H22 = [
       "$120^{\\circ}$"
     ],
     "answer": 0,
-    "explain": "Gọi $\\alpha$ là góc giữa hai vectơ $\\vec{a}$ và $\\vec{b}$. Ta có   $ \\cos\\alpha = \\dfrac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|}=\\dfrac{1}{\\sqrt{2}\\cdot\\sqrt{2}}=\\dfrac{1}{2}\\Rightarrow \\alpha =60^\\circ $"
+    "explain": "Gọi $\\alpha$ là góc giữa hai vectơ $\\vec{a}$ và $\\vec{b}$. Ta có   $ \\cos\\alpha = \\dfrac{\\vec{a} \\cdot \\vec{b}}{|\\vec{a}| \\cdot |\\vec{b}|}=\\dfrac{1}{\\sqrt{2}\\cdot\\sqrt{2}}=\\dfrac{1}{2}\\Rightarrow \\alpha =60^\\circ $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN56",
@@ -783,7 +847,8 @@ window.tracNghiem2H22 = [
       "$H\\left(4; -10; -6\\right)$"
     ],
     "answer": 1,
-    "explain": "Tọa độ trung điểm $H$ của đoạn thẳng $MN$ là $ H\\left(0; 2; 8\\right) $."
+    "explain": "Tọa độ trung điểm $H$ của đoạn thẳng $MN$ là $ H\\left(0; 2; 8\\right) $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN57",
@@ -795,7 +860,8 @@ window.tracNghiem2H22 = [
       "$(1;-2; 3)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{a}=-\\vec{i}+2\\vec{j}-3\\vec{k}$ nên $\\vec{a}=(-1;2;-3)$."
+    "explain": "Ta có $\\vec{a}=-\\vec{i}+2\\vec{j}-3\\vec{k}$ nên $\\vec{a}=(-1;2;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN58",
@@ -807,7 +873,8 @@ window.tracNghiem2H22 = [
       "$M'(4; 0; 0)$"
     ],
     "answer": 2,
-    "explain": "Hình chiếu của $M(4; 5; 6)$ xuống mặt phẳng $(Oyz)$ là $M'(0;5;6)$."
+    "explain": "Hình chiếu của $M(4; 5; 6)$ xuống mặt phẳng $(Oyz)$ là $M'(0;5;6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN59",
@@ -819,7 +886,8 @@ window.tracNghiem2H22 = [
       "$(0;-1;0)$"
     ],
     "answer": 2,
-    "explain": "Hình chiếu vuông góc của điểm $M(3;-1;1)$ lên trục $Oz$ có tọa độ $(0;0;1)$."
+    "explain": "Hình chiếu vuông góc của điểm $M(3;-1;1)$ lên trục $Oz$ có tọa độ $(0;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN60",
@@ -831,7 +899,8 @@ window.tracNghiem2H22 = [
       "$16$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{a} + 2\\overrightarrow{b} = (-3;4;3)$.<br>  Do đó $\\overrightarrow{a}\\cdot \\left(\\overrightarrow{a} + 2\\overrightarrow{b}\\right) = 1\\cdot (-3) + 2\\cdot 4 + 3\\cdot 3 = 14$."
+    "explain": "Ta có $\\overrightarrow{a} + 2\\overrightarrow{b} = (-3;4;3)$.<br>  Do đó $\\overrightarrow{a}\\cdot \\left(\\overrightarrow{a} + 2\\overrightarrow{b}\\right) = 1\\cdot (-3) + 2\\cdot 4 + 3\\cdot 3 = 14$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN61",
@@ -843,7 +912,8 @@ window.tracNghiem2H22 = [
       "$(2;-3;-2)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{u} = 2\\overrightarrow{i} - 3\\overrightarrow{j} - 2\\overrightarrow{k} = (2;-3;-2)$."
+    "explain": "Ta có $\\overrightarrow{u} = 2\\overrightarrow{i} - 3\\overrightarrow{j} - 2\\overrightarrow{k} = (2;-3;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H225TN62",
@@ -855,7 +925,8 @@ window.tracNghiem2H22 = [
       "$\\left[\\overrightarrow{AB};\\overrightarrow{AC}\\right] = (-6;10;4)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{AB} = (-1;-1;-4)$, $\\overrightarrow{AC} = (-3;1;-2) \\Rightarrow \\left[\\overrightarrow{AB};\\overrightarrow{AC}\\right] = (6;10;-4)$."
+    "explain": "Ta có $\\overrightarrow{AB} = (-1;-1;-4)$, $\\overrightarrow{AC} = (-3;1;-2) \\Rightarrow \\left[\\overrightarrow{AB};\\overrightarrow{AC}\\right] = (6;10;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN63",
@@ -867,7 +938,8 @@ window.tracNghiem2H22 = [
       "$(-2;5)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{OA}=-2\\overrightarrow{i}+5\\overrightarrow{k}$ nên $A$ có tọa độ là $(-2;0;5)$."
+    "explain": "Ta có $\\overrightarrow{OA}=-2\\overrightarrow{i}+5\\overrightarrow{k}$ nên $A$ có tọa độ là $(-2;0;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN64",
@@ -879,7 +951,8 @@ window.tracNghiem2H22 = [
       "$(1;2;1)$"
     ],
     "answer": 0,
-    "explain": "Gọi $C(x;y;z)$.<br>  Ta có $\\overrightarrow{OB}=\\overrightarrow{DC}\\Leftrightarrow2=x-1 \\text{ và } 1=y+1 \\text{ và } 2=z-1\\Leftrightarrow x=3 \\text{ và } y=0 \\text{ và } z=3.$<br>  Suy ra $C(3;0;3)$."
+    "explain": "Gọi $C(x;y;z)$.<br>  Ta có $\\overrightarrow{OB}=\\overrightarrow{DC}\\Leftrightarrow2=x-1 \\text{ và } 1=y+1 \\text{ và } 2=z-1\\Leftrightarrow x=3 \\text{ và } y=0 \\text{ và } z=3.$<br>  Suy ra $C(3;0;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN65",
@@ -891,7 +964,8 @@ window.tracNghiem2H22 = [
       "$(-2; 3; 5)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{OA}=(-2; 3; 5)$."
+    "explain": "Ta có $\\overrightarrow{OA}=(-2; 3; 5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN66",
@@ -903,7 +977,8 @@ window.tracNghiem2H22 = [
       "$26$"
     ],
     "answer": 1,
-    "explain": "$AB=\\sqrt{(3-1)^2+(0+3)^2+(-2-1)^2}=\\sqrt{22}$."
+    "explain": "$AB=\\sqrt{(3-1)^2+(0+3)^2+(-2-1)^2}=\\sqrt{22}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN67",
@@ -915,7 +990,8 @@ window.tracNghiem2H22 = [
       "$(3; 1; 3)$"
     ],
     "answer": 0,
-    "explain": "Gọi $M=(x;y;z)$.<br>  $\\overrightarrow{AM}=(x-1;y-2;z-3)$.<br>  $\\overrightarrow{MB}=(-10-x;5-y;3-z)$.<br>  $2\\overrightarrow{MB}=(-20-2x;10-2y;6-2z)$.<br>  $\\overrightarrow{AM}=2\\overrightarrow{MB}\\Leftrightarrow x-1=-20-2x \\text{ và } y-2=10-2y \\text{ và } z-3=6-2z\\Leftrightarrow x=-\\dfrac{19}{3} \\text{ và } y=4 \\text{ và } z=3.$<br>  Vậy $M=\\left(-\\dfrac{19}{3}; 4; 3\\right)$."
+    "explain": "Gọi $M=(x;y;z)$.<br>  $\\overrightarrow{AM}=(x-1;y-2;z-3)$.<br>  $\\overrightarrow{MB}=(-10-x;5-y;3-z)$.<br>  $2\\overrightarrow{MB}=(-20-2x;10-2y;6-2z)$.<br>  $\\overrightarrow{AM}=2\\overrightarrow{MB}\\Leftrightarrow x-1=-20-2x \\text{ và } y-2=10-2y \\text{ và } z-3=6-2z\\Leftrightarrow x=-\\dfrac{19}{3} \\text{ và } y=4 \\text{ và } z=3.$<br>  Vậy $M=\\left(-\\dfrac{19}{3}; 4; 3\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN68",
@@ -927,7 +1003,8 @@ window.tracNghiem2H22 = [
       "$-1$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\vec{a} \\cdot \\vec{b}=0\\cdot 5+(-1)\\cdot 3+3\\cdot (-1)=-6$."
+    "explain": "Ta có $\\vec{a} \\cdot \\vec{b}=0\\cdot 5+(-1)\\cdot 3+3\\cdot (-1)=-6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN69",
@@ -939,7 +1016,8 @@ window.tracNghiem2H22 = [
       "$C(7;-2;1)$"
     ],
     "answer": 0,
-    "explain": "Vì $G$ là trọng tâm tam giác $ABC$ nên   $3x_G=x_A+x_B+x_C \\text{ và } 3y_G=y_A+y_B+y_C \\text{ và } 3z_G=z_A+z_B+z_C \\Rightarrow 3\\cdot(-2)=0+1+x_C \\text{ và } 3\\cdot0=-1+(-1)+y_C \\text{ và } 3\\cdot1=4+0+z_C \\Leftrightarrow x_C=-7 \\text{ và } y_C=2 \\text{ và } z_C=-1.$  Vậy $C(-7;2;-1)$."
+    "explain": "Vì $G$ là trọng tâm tam giác $ABC$ nên   $3x_G=x_A+x_B+x_C \\text{ và } 3y_G=y_A+y_B+y_C \\text{ và } 3z_G=z_A+z_B+z_C \\Rightarrow 3\\cdot(-2)=0+1+x_C \\text{ và } 3\\cdot0=-1+(-1)+y_C \\text{ và } 3\\cdot1=4+0+z_C \\Leftrightarrow x_C=-7 \\text{ và } y_C=2 \\text{ và } z_C=-1.$  Vậy $C(-7;2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN70",
@@ -951,7 +1029,8 @@ window.tracNghiem2H22 = [
       "$(1 ; 0 ; 1)$"
     ],
     "answer": 1,
-    "explain": "Từ hình vẽ, ta thấy tọa độ điểm $A(0;0;0)$, $B(1;0;0)$, $D(0;1;0)$ và $A'(0;0;1)$ nên  $  \\vec{AC'}  = \\vec{AB}+\\vec{AD}+\\vec{AA'}  = (1;0;0) + (0;1;0) + (0;0;1)  = (1;1;1).  $"
+    "explain": "Từ hình vẽ, ta thấy tọa độ điểm $A(0;0;0)$, $B(1;0;0)$, $D(0;1;0)$ và $A'(0;0;1)$ nên  $  \\vec{AC'}  = \\vec{AB}+\\vec{AD}+\\vec{AA'}  = (1;0;0) + (0;1;0) + (0;0;1)  = (1;1;1).  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN71",
@@ -963,7 +1042,8 @@ window.tracNghiem2H22 = [
       "$(1;2;3)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{OA}=(1;2;3)$."
+    "explain": "Ta có $\\overrightarrow{OA}=(1;2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN72",
@@ -975,7 +1055,8 @@ window.tracNghiem2H22 = [
       "$(0;-1;1)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{a}+\\overrightarrow{b}=(1+1;2+1;3-2)=(2;3;1)$."
+    "explain": "Ta có $\\overrightarrow{u}=\\overrightarrow{a}+\\overrightarrow{b}=(1+1;2+1;3-2)=(2;3;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN73",
@@ -987,7 +1068,8 @@ window.tracNghiem2H22 = [
       "$M'(-1; 0; 0)$"
     ],
     "answer": 2,
-    "explain": "$MM'$ ngắn nhất khi $MM'\\perp Ox$ suy ra $M'$ là hình chiếu của $M$ lên $Ox$, do đó $M'(1;0;0)$."
+    "explain": "$MM'$ ngắn nhất khi $MM'\\perp Ox$ suy ra $M'$ là hình chiếu của $M$ lên $Ox$, do đó $M'(1;0;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN74",
@@ -999,7 +1081,8 @@ window.tracNghiem2H22 = [
       "$45^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\left(\\overrightarrow{BD};\\overrightarrow{B'C}\\right)=\\left(\\overrightarrow{B'D'};\\overrightarrow{B'C}\\right)=\\widehat{CB'D'}=60^\\circ$."
+    "explain": "Ta có $\\left(\\overrightarrow{BD};\\overrightarrow{B'C}\\right)=\\left(\\overrightarrow{B'D'};\\overrightarrow{B'C}\\right)=\\widehat{CB'D'}=60^\\circ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN75",
@@ -1011,7 +1094,8 @@ window.tracNghiem2H22 = [
       "$(2;-2; 6)$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{MO}=-\\vec{i}+2\\vec{j}-2\\vec{k}$ suy ra $\\overrightarrow{OM}=(1;-2;2)$ hay $M(1;-2;2)$.<br>  Do đó trung điểm của $MN$ có tọa độ là $(1;-1;3)$."
+    "explain": "Ta có $\\overrightarrow{MO}=-\\vec{i}+2\\vec{j}-2\\vec{k}$ suy ra $\\overrightarrow{OM}=(1;-2;2)$ hay $M(1;-2;2)$.<br>  Do đó trung điểm của $MN$ có tọa độ là $(1;-1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H221TN76",
@@ -1023,7 +1107,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{OM}=-3\\overrightarrow{i}+2\\overrightarrow{j}$"
     ],
     "answer": 2,
-    "explain": "Với $M(0;-3;2)$, ta có $\\overrightarrow{OM} = 0\\overrightarrow{i} - 3\\overrightarrow{j} + 2\\overrightarrow{k} = -3\\overrightarrow{j} + 2\\overrightarrow{k}$."
+    "explain": "Với $M(0;-3;2)$, ta có $\\overrightarrow{OM} = 0\\overrightarrow{i} - 3\\overrightarrow{j} + 2\\overrightarrow{k} = -3\\overrightarrow{j} + 2\\overrightarrow{k}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN77",
@@ -1035,7 +1120,8 @@ window.tracNghiem2H22 = [
       "$M'(4;5;0)$"
     ],
     "answer": 2,
-    "explain": "Hình chiếu của $M$ xuống mặt phẳng $(Oyz)$ là $M'(0;5;6)$."
+    "explain": "Hình chiếu của $M$ xuống mặt phẳng $(Oyz)$ là $M'(0;5;6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN78",
@@ -1047,7 +1133,8 @@ window.tracNghiem2H22 = [
       "$(1;0;-1)$"
     ],
     "answer": 2,
-    "explain": "Từ giả thiết cho ta suy ra hệ trục tọa độ $Oxyz$ như hình bên.<br>  Khi đó $A'(0;0;-1)$, $C(1;1;0)$.<br>  Vậy $\\overrightarrow{CA'}=(-1;-1;-1)$."
+    "explain": "Từ giả thiết cho ta suy ra hệ trục tọa độ $Oxyz$ như hình bên.<br>  Khi đó $A'(0;0;-1)$, $C(1;1;0)$.<br>  Vậy $\\overrightarrow{CA'}=(-1;-1;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN79",
@@ -1059,7 +1146,8 @@ window.tracNghiem2H22 = [
       "$(2;-1;3)$"
     ],
     "answer": 2,
-    "explain": "Gọi $G(x_G;y_G;z_G)$ là trọng tâm của tam giác $ABC$.<br>  Khi đó $x_G=\\dfrac{x_A+x_B+x_C}{3} \\text{ và } y_G=\\dfrac{y_A+y_B+y_C}{3} \\text{ và } z_G=\\dfrac{z_A+z_B+z_C}{3}.$<br>  Suy ra $G\\left(\\dfrac{1+2+6}{3};\\dfrac{2+3+1}{3};\\dfrac{1+1+4}{3}\\right)$ hay $G(3;2;2)$.<br>  Vậy $G(3; 2; 2)$."
+    "explain": "Gọi $G(x_G;y_G;z_G)$ là trọng tâm của tam giác $ABC$.<br>  Khi đó $x_G=\\dfrac{x_A+x_B+x_C}{3} \\text{ và } y_G=\\dfrac{y_A+y_B+y_C}{3} \\text{ và } z_G=\\dfrac{z_A+z_B+z_C}{3}.$<br>  Suy ra $G\\left(\\dfrac{1+2+6}{3};\\dfrac{2+3+1}{3};\\dfrac{1+1+4}{3}\\right)$ hay $G(3;2;2)$.<br>  Vậy $G(3; 2; 2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN80",
@@ -1071,7 +1159,8 @@ window.tracNghiem2H22 = [
       "$m = -5$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=2\\cdot 1+1\\cdot 3+(-1)\\cdot m=5-m$.<br>  Để $\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=90^\\circ$ thì $\\overrightarrow{a}\\cdot\\overrightarrow{b}=0$.<br>  Suy ra $5-m=0$ hay $m=5$."
+    "explain": "Ta có $\\overrightarrow{a}\\cdot\\overrightarrow{b}=2\\cdot 1+1\\cdot 3+(-1)\\cdot m=5-m$.<br>  Để $\\left(\\overrightarrow{a},\\overrightarrow{b}\\right)=90^\\circ$ thì $\\overrightarrow{a}\\cdot\\overrightarrow{b}=0$.<br>  Suy ra $5-m=0$ hay $m=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN81",
@@ -1083,7 +1172,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{AB} = (1;-1;1)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{AB}=\\left(2-(-1);-1-2;0-(-3)\\right)=(3;-3;3)$."
+    "explain": "Ta có $\\overrightarrow{AB}=\\left(2-(-1);-1-2;0-(-3)\\right)=(3;-3;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN82",
@@ -1095,7 +1185,8 @@ window.tracNghiem2H22 = [
       "$(3;4;2)$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\overrightarrow{OM}=2\\overrightarrow{i}+3\\overrightarrow{j}+4\\overrightarrow{k}\\Rightarrow M(2;3;4)$."
+    "explain": "Ta có $\\overrightarrow{OM}=2\\overrightarrow{i}+3\\overrightarrow{j}+4\\overrightarrow{k}\\Rightarrow M(2;3;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN83",
@@ -1107,7 +1198,8 @@ window.tracNghiem2H22 = [
       "$(0;0;-1)$"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{a}+\\overrightarrow{b}=(0;0;1)$."
+    "explain": "Ta có $\\overrightarrow{a}+\\overrightarrow{b}=(0;0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN84",
@@ -1119,7 +1211,8 @@ window.tracNghiem2H22 = [
       "$D(-2;8;-3)$"
     ],
     "answer": 2,
-    "explain": "Đặt $D(x;y;z)$.<br>  Tứ giác $ABCD$ là hình bình hành suy ra $\\overrightarrow{AB}=\\overrightarrow{DC}$, khi đó ta có  $1=-3-x \\text{ và } -3=5-y \\text{ và } 4=1-z\\Rightarrow x=-4 \\text{ và } y=8 \\text{ và } z=-3\\Rightarrow D(-4;8;-3).$"
+    "explain": "Đặt $D(x;y;z)$.<br>  Tứ giác $ABCD$ là hình bình hành suy ra $\\overrightarrow{AB}=\\overrightarrow{DC}$, khi đó ta có  $1=-3-x \\text{ và } -3=5-y \\text{ và } 4=1-z\\Rightarrow x=-4 \\text{ và } y=8 \\text{ và } z=-3\\Rightarrow D(-4;8;-3).$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN85",
@@ -1131,7 +1224,8 @@ window.tracNghiem2H22 = [
       "$T = 3$"
     ],
     "answer": 0,
-    "explain": "Tọa độ trọng tâm $G$ là $\\left(0; 1; -2\\right)$, do đó $T = a + b + c=0+1-2=-1$."
+    "explain": "Tọa độ trọng tâm $G$ là $\\left(0; 1; -2\\right)$, do đó $T = a + b + c=0+1-2=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN86",
@@ -1143,7 +1237,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{u}\\cdot\\overrightarrow{v} = 1$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=1\\cdot1-3\\cdot2+0\\cdot0=-5$."
+    "explain": "Ta có $\\overrightarrow{u}\\cdot\\overrightarrow{v}=1\\cdot1-3\\cdot2+0\\cdot0=-5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN87",
@@ -1155,7 +1250,8 @@ window.tracNghiem2H22 = [
       "$Q(-2;-3;-4)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\vec{MN}=(-2;-3;0)$ và $\\vec{QP}=\\left(-x_Q; -y_Q; 4-z_Q\\right)$. Để $MNPQ$ là hình bình hành thì  $\\vec{MN}=\\vec{QP} \\Rightarrow -2=-x_Q \\text{ và } -3=-y_Q \\text{ và } 0=4-z_Q \\Rightarrow x_Q=2 \\text{ và } y_Q=3 \\text{ và } z_Q=4.$"
+    "explain": "Ta có $\\vec{MN}=(-2;-3;0)$ và $\\vec{QP}=\\left(-x_Q; -y_Q; 4-z_Q\\right)$. Để $MNPQ$ là hình bình hành thì  $\\vec{MN}=\\vec{QP} \\Rightarrow -2=-x_Q \\text{ và } -3=-y_Q \\text{ và } 0=4-z_Q \\Rightarrow x_Q=2 \\text{ và } y_Q=3 \\text{ và } z_Q=4.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN91",
@@ -1167,7 +1263,8 @@ window.tracNghiem2H22 = [
       "$(1; 0; -1)$"
     ],
     "answer": 2,
-    "explain": "Hình chiếu vuông góc của điểm $A(x,y,z)$ lên mặt phẳng $(Oyz)$ có tọa độ $(0,y,z)$.  Vậy hình chiếu của $A(1;2;-1)$ là $(0;2;-1)$."
+    "explain": "Hình chiếu vuông góc của điểm $A(x,y,z)$ lên mặt phẳng $(Oyz)$ có tọa độ $(0,y,z)$.  Vậy hình chiếu của $A(1;2;-1)$ là $(0;2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN92",
@@ -1179,7 +1276,8 @@ window.tracNghiem2H22 = [
       "$(1 ;-2 ; 1)$"
     ],
     "answer": 2,
-    "explain": "$\\vec{u}-\\vec{v}=(1-2;3-1;-2-(-1))=(-1;2;-1)$."
+    "explain": "$\\vec{u}-\\vec{v}=(1-2;3-1;-2-(-1))=(-1;2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN93",
@@ -1191,7 +1289,8 @@ window.tracNghiem2H22 = [
       "$(2 ;-1 ; 5)$"
     ],
     "answer": 3,
-    "explain": "Gọi $I$ là trung điểm của đoạn thẳng $AB$ nên ta có<br>  $I\\left( \\dfrac{2+2}{2};\\dfrac{-4+2}{2};\\dfrac{3+7}{2}\\right) =(2;-1;5)$."
+    "explain": "Gọi $I$ là trung điểm của đoạn thẳng $AB$ nên ta có<br>  $I\\left( \\dfrac{2+2}{2};\\dfrac{-4+2}{2};\\dfrac{3+7}{2}\\right) =(2;-1;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN94",
@@ -1203,7 +1302,8 @@ window.tracNghiem2H22 = [
       "$5$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\overrightarrow{BC}=\\overrightarrow{AC}-\\overrightarrow{AB}=(4;3;0)$.<br>  Độ dài đoạn thẳng $BC$ là $BC=\\sqrt{4^2+3^2}=5$."
+    "explain": "Ta có $\\overrightarrow{BC}=\\overrightarrow{AC}-\\overrightarrow{AB}=(4;3;0)$.<br>  Độ dài đoạn thẳng $BC$ là $BC=\\sqrt{4^2+3^2}=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN95",
@@ -1215,7 +1315,8 @@ window.tracNghiem2H22 = [
       "$16$"
     ],
     "answer": 2,
-    "explain": "Gốc tọa độ được chọn tại $A$ nên $A(0;0;0)$.<br>  Vì $B \\in Ox$ và $AB=4$ nên $B(4;0;0)$.<br>  Vì $D \\in Oy$ và $AD=4$ nên $D(0;3;0)$.<br>  Vì $C \\in (Oxy)$ nên $C(a;b;0)$.<br>  Lại có $CD=4$, $CB=4$ nên $a=b=4$.   <br>  Vậy $a-b+4c=4-4+4 \\cdot 0=0$."
+    "explain": "Gốc tọa độ được chọn tại $A$ nên $A(0;0;0)$.<br>  Vì $B \\in Ox$ và $AB=4$ nên $B(4;0;0)$.<br>  Vì $D \\in Oy$ và $AD=4$ nên $D(0;3;0)$.<br>  Vì $C \\in (Oxy)$ nên $C(a;b;0)$.<br>  Lại có $CD=4$, $CB=4$ nên $a=b=4$.   <br>  Vậy $a-b+4c=4-4+4 \\cdot 0=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN96",
@@ -1227,7 +1328,8 @@ window.tracNghiem2H22 = [
       "$(-1 ;-2 ; 3)$"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{a}-\\overrightarrow{b}=(2-1;3-1;2+1)=(1;2;3)$"
+    "explain": "$\\overrightarrow{a}-\\overrightarrow{b}=(2-1;3-1;2+1)=(1;2;3)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN97",
@@ -1239,7 +1341,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{a} = (5;2;-1)$"
     ],
     "answer": 2,
-    "explain": "Tọa độ của véc-tơ $\\vec{a}$ là $(-1;2;5)$."
+    "explain": "Tọa độ của véc-tơ $\\vec{a}$ là $(-1;2;5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN98",
@@ -1251,7 +1354,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{NM} = (0;-1;0)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{NM}=(2+2;-3-5;-1-1)=(4;-8;-2)$."
+    "explain": "Ta có $\\overrightarrow{NM}=(2+2;-3-5;-1-1)=(4;-8;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN99",
@@ -1263,7 +1367,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{u} = (6;-6;6)$"
     ],
     "answer": 1,
-    "explain": "Véc-tơ $\\overrightarrow{u} = 2\\overrightarrow{a} - \\overrightarrow{b}  =\\left(2\\cdot2+2; 2\\cdot(-3)-0; 2\\cdot(-1)-4\\right)=(6; -6; -6)$."
+    "explain": "Véc-tơ $\\overrightarrow{u} = 2\\overrightarrow{a} - \\overrightarrow{b}  =\\left(2\\cdot2+2; 2\\cdot(-3)-0; 2\\cdot(-1)-4\\right)=(6; -6; -6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN100",
@@ -1275,7 +1380,8 @@ window.tracNghiem2H22 = [
       "$C(2;3;6)$"
     ],
     "answer": 0,
-    "explain": "Gọi $C(x;y;z)$. Vì $G$ là trọng tâm tam giác $ABC$ nên ta có:  $x_A+x_B+x_C=3x_G \\text{ và } y_A+y_B+y_C=3y_G \\text{ và } z_A+z_B+z_C=3z_G\\Leftrightarrow x_C=-6 \\text{ và } y_C=5 \\text{ và } z_C=-6$  Vậy tọa độ đỉnh $C$ là $(-6;5;-6)$."
+    "explain": "Gọi $C(x;y;z)$. Vì $G$ là trọng tâm tam giác $ABC$ nên ta có:  $x_A+x_B+x_C=3x_G \\text{ và } y_A+y_B+y_C=3y_G \\text{ và } z_A+z_B+z_C=3z_G\\Leftrightarrow x_C=-6 \\text{ và } y_C=5 \\text{ và } z_C=-6$  Vậy tọa độ đỉnh $C$ là $(-6;5;-6)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN101",
@@ -1287,7 +1393,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{d}=(-7;0;-4)$"
     ],
     "answer": 2,
-    "explain": "Ta có $2\\overrightarrow{c}=(8;0;-8)$. Suy ra $\\overrightarrow{d}=(7;0;-4)$."
+    "explain": "Ta có $2\\overrightarrow{c}=(8;0;-8)$. Suy ra $\\overrightarrow{d}=(7;0;-4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN102",
@@ -1299,7 +1406,8 @@ window.tracNghiem2H22 = [
       "$B'(8;4;10)$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D2/im2H22/dlts_12_DLTS19_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $ABCD$ là hình bình hành nên $\\overrightarrow{AD}=\\overrightarrow{BC} \\Rightarrow x_D-2=(-1)-4 \\text{ và } y_D-4=4-0 \\text{ và } z_D-0=(-7)-0 \\Rightarrow x_D=-3 \\text{ và } y_D=8 \\text{ và } z_D=-7.$<br>  Hay $D(-3;8;-7)$.<br>  Vì $BDD'B'$ nên $\\overrightarrow{BB'}=\\overrightarrow{DD'} \\Rightarrow x_B'-4=6-(-3) \\text{ và } y_B'-0=8-8 \\text{ và } z_B'-0=10-(-7) \\Rightarrow x_B'=13 \\text{ và } y_B'=0 \\text{ và } z_B'=17.$<br>  Vậy $B'(13;0;17)$."
+    "explain": "<br><img src=\"data/12/2D2/im2H22/dlts_12_DLTS19_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $ABCD$ là hình bình hành nên $\\overrightarrow{AD}=\\overrightarrow{BC} \\Rightarrow x_D-2=(-1)-4 \\text{ và } y_D-4=4-0 \\text{ và } z_D-0=(-7)-0 \\Rightarrow x_D=-3 \\text{ và } y_D=8 \\text{ và } z_D=-7.$<br>  Hay $D(-3;8;-7)$.<br>  Vì $BDD'B'$ nên $\\overrightarrow{BB'}=\\overrightarrow{DD'} \\Rightarrow x_B'-4=6-(-3) \\text{ và } y_B'-0=8-8 \\text{ và } z_B'-0=10-(-7) \\Rightarrow x_B'=13 \\text{ và } y_B'=0 \\text{ và } z_B'=17.$<br>  Vậy $B'(13;0;17)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN103",
@@ -1311,7 +1419,8 @@ window.tracNghiem2H22 = [
       "$\\left(-3;2;4\\right)$"
     ],
     "answer": 2,
-    "explain": "Tọa độ của véctơ $\\overrightarrow{u}$ là $\\left(2;-3;4\\right)$."
+    "explain": "Tọa độ của véctơ $\\overrightarrow{u}$ là $\\left(2;-3;4\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN104",
@@ -1323,7 +1432,8 @@ window.tracNghiem2H22 = [
       "$-\\dfrac{5\\sqrt {14}}{3}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\cos\\left(\\overrightarrow a,\\overrightarrow b\\right)=\\dfrac{\\overrightarrow a\\cdot\\overrightarrow b}{\\left|\\overrightarrow a\\right|\\cdot\\left|\\overrightarrow b\\right|}=\\dfrac{1\\cdot 2+2\\cdot\\left(-2\\right)+3\\cdot\\left(-1\\right)}{\\sqrt{1^2+2^2+3^2}\\cdot\\sqrt{2^2+\\left(-2\\right)^2+(-1)^2}}=-\\dfrac{5\\sqrt{14}}{42}$."
+    "explain": "Ta có $\\cos\\left(\\overrightarrow a,\\overrightarrow b\\right)=\\dfrac{\\overrightarrow a\\cdot\\overrightarrow b}{\\left|\\overrightarrow a\\right|\\cdot\\left|\\overrightarrow b\\right|}=\\dfrac{1\\cdot 2+2\\cdot\\left(-2\\right)+3\\cdot\\left(-1\\right)}{\\sqrt{1^2+2^2+3^2}\\cdot\\sqrt{2^2+\\left(-2\\right)^2+(-1)^2}}=-\\dfrac{5\\sqrt{14}}{42}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN105",
@@ -1335,7 +1445,8 @@ window.tracNghiem2H22 = [
       "$ \\overrightarrow{OM}= \\overrightarrow{j}- 2\\overrightarrow{i}+ 3\\overrightarrow{k}$"
     ],
     "answer": 0,
-    "explain": "Theo định nghĩa ta có $ \\overrightarrow{OM}= \\overrightarrow{i}- 2\\overrightarrow{j}+ 3\\overrightarrow{k}$."
+    "explain": "Theo định nghĩa ta có $ \\overrightarrow{OM}= \\overrightarrow{i}- 2\\overrightarrow{j}+ 3\\overrightarrow{k}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN106",
@@ -1347,7 +1458,8 @@ window.tracNghiem2H22 = [
       "$ \\left(0;1;1\\right) $"
     ],
     "answer": 0,
-    "explain": "Véc-tơ $ \\overrightarrow{i} $ là véc-tơ đơn vị của trục $ Ox $ nên $ \\overrightarrow{i} =\\left(1;0;0\\right)$."
+    "explain": "Véc-tơ $ \\overrightarrow{i} $ là véc-tơ đơn vị của trục $ Ox $ nên $ \\overrightarrow{i} =\\left(1;0;0\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN107",
@@ -1359,7 +1471,8 @@ window.tracNghiem2H22 = [
       "$(-1;2;-3)$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\vec{a}= -\\overrightarrow{i}+ 2\\overrightarrow{j}- 3\\overrightarrow{k} \\Rightarrow \\overrightarrow{a}= (-1;2;-3)$."
+    "explain": "Ta có $\\vec{a}= -\\overrightarrow{i}+ 2\\overrightarrow{j}- 3\\overrightarrow{k} \\Rightarrow \\overrightarrow{a}= (-1;2;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN108",
@@ -1371,7 +1484,8 @@ window.tracNghiem2H22 = [
       "$ (0;-1;3) $"
     ],
     "answer": 2,
-    "explain": "Ta có $\\overrightarrow{AB}=\\left(-1-1;0-(-1);1-2\\right)=(-2;1;-1)$."
+    "explain": "Ta có $\\overrightarrow{AB}=\\left(-1-1;0-(-1);1-2\\right)=(-2;1;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN109",
@@ -1383,7 +1497,8 @@ window.tracNghiem2H22 = [
       "$M(2;0;0)$"
     ],
     "answer": 1,
-    "explain": "Hình chiếu của điểm $A(2;-1;3)$ trên trục $Oz$ có tọa độ là $(0;0;3)$."
+    "explain": "Hình chiếu của điểm $A(2;-1;3)$ trên trục $Oz$ có tọa độ là $(0;0;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN110",
@@ -1395,7 +1510,8 @@ window.tracNghiem2H22 = [
       "$\\left(\\dfrac{-3}{2};\\dfrac{-1}{2};1\\right)$"
     ],
     "answer": 0,
-    "explain": "Theo định nghĩa tọa độ điểm $ A $ là $ \\left(3;1;-2\\right) $."
+    "explain": "Theo định nghĩa tọa độ điểm $ A $ là $ \\left(3;1;-2\\right) $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN111",
@@ -1407,7 +1523,8 @@ window.tracNghiem2H22 = [
       "$ Q\\left(-\\dfrac{1}{3};0;\\dfrac{1}{3}\\right) $"
     ],
     "answer": 0,
-    "explain": "Điểm thuộc trục $ Oy $ có tọa độ dạng $ (0;y;0) $ nên điểm $ M\\left(0;-\\dfrac{1}{3};0\\right) $ thuộc $ Oy $."
+    "explain": "Điểm thuộc trục $ Oy $ có tọa độ dạng $ (0;y;0) $ nên điểm $ M\\left(0;-\\dfrac{1}{3};0\\right) $ thuộc $ Oy $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN112",
@@ -1419,7 +1536,8 @@ window.tracNghiem2H22 = [
       "$Q\\left(0;0;1\\right)$"
     ],
     "answer": 1,
-    "explain": "Khi chiếu vuông góc một điểm trong không gian lên mặt phẳng $(Oyz)$, ta giữ lại các thành phần tung độ và cao độ nên hình chiếu của điểm $A(1;-3;1)$ lên $(Oyz)$ là điểm $N(0;-3;1)$."
+    "explain": "Khi chiếu vuông góc một điểm trong không gian lên mặt phẳng $(Oyz)$, ta giữ lại các thành phần tung độ và cao độ nên hình chiếu của điểm $A(1;-3;1)$ lên $(Oyz)$ là điểm $N(0;-3;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN113",
@@ -1431,7 +1549,8 @@ window.tracNghiem2H22 = [
       "$M(2;0;0)$"
     ],
     "answer": 2,
-    "explain": "Từ $N(3;1;0)$ và $\\overrightarrow{MN}=(-1;-1;0)$ ta có  $3-x_M=-1 \\text{ và } 1-y_M=-1 \\text{ và } 0-z_M=0\\Leftrightarrow x_M=4 \\text{ và } y_M=2 \\text{ và } z_M=0$.   Vậy $M(4;2;0)$."
+    "explain": "Từ $N(3;1;0)$ và $\\overrightarrow{MN}=(-1;-1;0)$ ta có  $3-x_M=-1 \\text{ và } 1-y_M=-1 \\text{ và } 0-z_M=0\\Leftrightarrow x_M=4 \\text{ và } y_M=2 \\text{ và } z_M=0$.   Vậy $M(4;2;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN114",
@@ -1443,7 +1562,8 @@ window.tracNghiem2H22 = [
       "$ (1;1;1) $"
     ],
     "answer": 0,
-    "explain": "Vì $ A $ thuộc tia $ Ox $ nên $ \\overrightarrow{OA}=3\\overrightarrow{i} $.<br>  Vậy $ A\\left(3;0;0\\right) $."
+    "explain": "Vì $ A $ thuộc tia $ Ox $ nên $ \\overrightarrow{OA}=3\\overrightarrow{i} $.<br>  Vậy $ A\\left(3;0;0\\right) $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN115",
@@ -1455,7 +1575,8 @@ window.tracNghiem2H22 = [
       "$B'(3;0;4)$"
     ],
     "answer": 3,
-    "explain": "Dễ thấy $ B' $ là hình chiếu của $ A' $ lên mặt phẳng tọa độ $ \\left(Oxz\\right) $ nên $B'(3;0;4)$."
+    "explain": "Dễ thấy $ B' $ là hình chiếu của $ A' $ lên mặt phẳng tọa độ $ \\left(Oxz\\right) $ nên $B'(3;0;4)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN116",
@@ -1467,7 +1588,8 @@ window.tracNghiem2H22 = [
       "$ (0,3,0) $"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{AA_1} =\\overrightarrow{LO}=\\left(0;0;-3\\right)$."
+    "explain": "Ta có $\\overrightarrow{AA_1} =\\overrightarrow{LO}=\\left(0;0;-3\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN117",
@@ -1479,7 +1601,8 @@ window.tracNghiem2H22 = [
       "$\\dfrac{\\sqrt{11}}{2}$"
     ],
     "answer": 2,
-    "explain": "Do $M$ là trung điểm của $BC$ nên $M\\left( 1;\\dfrac{3}{2};\\dfrac{1}{2} \\right)$. Khi đó, độ dài trung tuyến $AM$ là  $  AM  = \\sqrt{0^2+\\left(\\dfrac{3}{2}\\right)^2+\\left(\\dfrac{1}{2}\\right)^2}  = \\dfrac{\\sqrt{10}}{2}.  $"
+    "explain": "Do $M$ là trung điểm của $BC$ nên $M\\left( 1;\\dfrac{3}{2};\\dfrac{1}{2} \\right)$. Khi đó, độ dài trung tuyến $AM$ là  $  AM  = \\sqrt{0^2+\\left(\\dfrac{3}{2}\\right)^2+\\left(\\dfrac{1}{2}\\right)^2}  = \\dfrac{\\sqrt{10}}{2}.  $",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H222TN115",
@@ -1491,7 +1614,8 @@ window.tracNghiem2H22 = [
       "$G(6;3;3)$"
     ],
     "answer": 2,
-    "explain": "Tọa độ trọng tâm $G$ của tam giác $OAB$ là $G(1;2;1)$."
+    "explain": "Tọa độ trọng tâm $G$ của tam giác $OAB$ là $G(1;2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN2",
@@ -1503,7 +1627,8 @@ window.tracNghiem2H22 = [
       "$(3;-4;-1)$"
     ],
     "answer": 2,
-    "explain": "Toạ độ của véc-tơ $\\overrightarrow{AB}=(3;-2;-1)$."
+    "explain": "Toạ độ của véc-tơ $\\overrightarrow{AB}=(3;-2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN118",
@@ -1515,7 +1640,8 @@ window.tracNghiem2H22 = [
       "$D(-4;-2;9)$"
     ],
     "answer": 3,
-    "explain": "Điểm $D$ sao cho tứ giác $ABCD$ là hình bình hành suy ra $\\overrightarrow{AB}=\\overrightarrow{DC}\\Rightarrow D(-4;-2;9)$."
+    "explain": "Điểm $D$ sao cho tứ giác $ABCD$ là hình bình hành suy ra $\\overrightarrow{AB}=\\overrightarrow{DC}\\Rightarrow D(-4;-2;9)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H226TN2",
@@ -1527,7 +1653,8 @@ window.tracNghiem2H22 = [
       "$C(300;150;15)$"
     ],
     "answer": 3,
-    "explain": "Nếu máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì sau $10$ phút tiếp theo máy bay sẽ bay đến một vị trí mới $(x;y;z)$ sao cho $B (200;100;10)$ là trung điểm của đoạn nối $A(100;50;5)$ với vị trí đó.<br>  Nên ta có  $100+ x = 400 \\text{ và } 50+ y = 200 \\text{ và } 5 + z = 20 \\Leftrightarrow x = 300 \\text{ và } y = 150 \\text{ và } z = 15.$<br>  Vậy điểm cần tìm có tọa độ là $(300;150;15)$."
+    "explain": "Nếu máy bay tiếp tục giữ nguyên vận tốc và hướng bay thì sau $10$ phút tiếp theo máy bay sẽ bay đến một vị trí mới $(x;y;z)$ sao cho $B (200;100;10)$ là trung điểm của đoạn nối $A(100;50;5)$ với vị trí đó.<br>  Nên ta có  $100+ x = 400 \\text{ và } 50+ y = 200 \\text{ và } 5 + z = 20 \\Leftrightarrow x = 300 \\text{ và } y = 150 \\text{ và } z = 15.$<br>  Vậy điểm cần tìm có tọa độ là $(300;150;15)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN119",
@@ -1539,7 +1666,8 @@ window.tracNghiem2H22 = [
       "$(1;2;-3)$"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{a}=2\\overrightarrow{i}+\\overrightarrow{k}-3\\overrightarrow{j} \\Leftrightarrow \\overrightarrow{a} = (2;-3;1)$."
+    "explain": "$\\overrightarrow{a}=2\\overrightarrow{i}+\\overrightarrow{k}-3\\overrightarrow{j} \\Leftrightarrow \\overrightarrow{a} = (2;-3;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN120",
@@ -1551,7 +1679,8 @@ window.tracNghiem2H22 = [
       "$(6; 0; 5)$"
     ],
     "answer": 1,
-    "explain": "Gọi $D(x, y; z)$.<br>  Vì $ABCD$ là hình bình hành nên ta có $\\overrightarrow{BA}=\\overrightarrow{CD}$, tức là $x-4=2 \\text{ và } y+3=3 \\text{ và } z=-5$, suy ra $x=6 \\text{ và } y=0 \\text{ và } z=-5.$<br>  Vậy $D(6; 0;-5)$."
+    "explain": "Gọi $D(x, y; z)$.<br>  Vì $ABCD$ là hình bình hành nên ta có $\\overrightarrow{BA}=\\overrightarrow{CD}$, tức là $x-4=2 \\text{ và } y+3=3 \\text{ và } z=-5$, suy ra $x=6 \\text{ và } y=0 \\text{ và } z=-5.$<br>  Vậy $D(6; 0;-5)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN5",
@@ -1563,7 +1692,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{d}=(-1; 5; 1)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\overrightarrow{m} \\cdot \\overrightarrow{b}=1 \\cdot 1+1 \\cdot(-5)+4 \\cdot 1=0$ và $\\overrightarrow{n} \\cdot \\overrightarrow{b}=1 \\cdot 4+1 \\cdot(-5)+1 \\cdot 1=0$ nên $\\overrightarrow{b}$ vuông góc với cả hai vectơ $\\overrightarrow{m}$ và $\\overrightarrow{n}$."
+    "explain": "Ta có $\\overrightarrow{m} \\cdot \\overrightarrow{b}=1 \\cdot 1+1 \\cdot(-5)+4 \\cdot 1=0$ và $\\overrightarrow{n} \\cdot \\overrightarrow{b}=1 \\cdot 4+1 \\cdot(-5)+1 \\cdot 1=0$ nên $\\overrightarrow{b}$ vuông góc với cả hai vectơ $\\overrightarrow{m}$ và $\\overrightarrow{n}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H224TN6",
@@ -1575,7 +1705,8 @@ window.tracNghiem2H22 = [
       "$\\overrightarrow{a} \\cdot \\overrightarrow{b}=25$"
     ],
     "answer": 3,
-    "explain": "$\\overrightarrow{a} \\cdot \\overrightarrow{b}=8+8+9=25$."
+    "explain": "$\\overrightarrow{a} \\cdot \\overrightarrow{b}=8+8+9=25$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN121",
@@ -1587,7 +1718,8 @@ window.tracNghiem2H22 = [
       "$(-3;-3; 3)$"
     ],
     "answer": 2,
-    "explain": "$\\overrightarrow{OM}=2\\overrightarrow{i}-3\\overrightarrow{j}+\\overrightarrow{k}$ nên $M(2;-3; 1)$.<br>  $\\overrightarrow{ON}=5\\overrightarrow{j}-2\\overrightarrow{k}$ nên $N(0; 5;-2)$.<br>  Vậy $\\overrightarrow{MN}=(-2; 8;-3)$."
+    "explain": "$\\overrightarrow{OM}=2\\overrightarrow{i}-3\\overrightarrow{j}+\\overrightarrow{k}$ nên $M(2;-3; 1)$.<br>  $\\overrightarrow{ON}=5\\overrightarrow{j}-2\\overrightarrow{k}$ nên $N(0; 5;-2)$.<br>  Vậy $\\overrightarrow{MN}=(-2; 8;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN122",
@@ -1599,7 +1731,8 @@ window.tracNghiem2H22 = [
       "$(-2; 4;-1)$"
     ],
     "answer": 0,
-    "explain": "Gọi $B\\left(a;b;c\\right)$.<br>  Ta có $\\overrightarrow{AB}=(a-1; b-2; c+3); \\overrightarrow{DC}=(7;-2; 0)$.<br>  $ABCD$ là hình bình hành $\\Leftrightarrow \\overrightarrow{AB}=\\overrightarrow{DC} \\Leftrightarrow a-1=7 \\text{ và } b-2=-2 \\text{ và } c+3=0 \\Leftrightarrow a=8 \\text{ và } b=0 \\text{ và } c=-3 \\Rightarrow D(8; 0;-3)$."
+    "explain": "Gọi $B\\left(a;b;c\\right)$.<br>  Ta có $\\overrightarrow{AB}=(a-1; b-2; c+3); \\overrightarrow{DC}=(7;-2; 0)$.<br>  $ABCD$ là hình bình hành $\\Leftrightarrow \\overrightarrow{AB}=\\overrightarrow{DC} \\Leftrightarrow a-1=7 \\text{ và } b-2=-2 \\text{ và } c+3=0 \\Leftrightarrow a=8 \\text{ và } b=0 \\text{ và } c=-3 \\Rightarrow D(8; 0;-3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H223TN123",
@@ -1611,6 +1744,7 @@ window.tracNghiem2H22 = [
       "$(1;0;-1)$"
     ],
     "answer": 0,
-    "explain": "Tọa độ trung điểm $M(x_M; y_M; z_M)$ của đoạn thẳng $AB$ là  \\[ x_M = \\dfrac{1+3}{2} = 2 \\text{ và } y_M = \\dfrac{1+1}{2} = 1 \\text{ và } z_M = \\dfrac{2+0}{2} = 1. \\]  Vậy trung điểm của đoạn thẳng $AB$ có tọa độ là $(2;1;1)$."
+    "explain": "Tọa độ trung điểm $M(x_M; y_M; z_M)$ của đoạn thẳng $AB$ là  \\[ x_M = \\dfrac{1+3}{2} = 2 \\text{ và } y_M = \\dfrac{1+1}{2} = 1 \\text{ và } z_M = \\dfrac{2+0}{2} = 1. \\]  Vậy trung điểm của đoạn thẳng $AB$ có tọa độ là $(2;1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

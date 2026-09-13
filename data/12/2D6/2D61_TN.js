@@ -13,7 +13,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{3}{4}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\mathrm{P}(B|A)=\\dfrac{\\mathrm{P}(AB)}{\\mathrm{P}(A)}=\\dfrac{0{,}4}{0{,}6}=\\dfrac{2}{3}$."
+    "explain": "Ta có $\\mathrm{P}(B|A)=\\dfrac{\\mathrm{P}(AB)}{\\mathrm{P}(A)}=\\dfrac{0{,}4}{0{,}6}=\\dfrac{2}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN2",
@@ -25,7 +26,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{11}{4}$"
     ],
     "answer": 0,
-    "explain": "Gọi biến cố $A$“ Học sinh được chọn là nam”.<br>  $B$ “ Học sinh thuận tay phải”.  Cần tính $\\mathrm{P}(A|B)=\\dfrac{32}{32+11}=43$."
+    "explain": "Gọi biến cố $A$“ Học sinh được chọn là nam”.<br>  $B$ “ Học sinh thuận tay phải”.  Cần tính $\\mathrm{P}(A|B)=\\dfrac{32}{32+11}=43$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D611TN3",
@@ -37,7 +39,8 @@ window.tracNghiem2D61 = [
       "$\\mathrm{P}(A|B) = \\dfrac{\\mathrm{P}(A) + \\mathrm{P}(B)}{\\mathrm{P}(B)}$"
     ],
     "answer": 2,
-    "explain": "Công thức xác suất có điều kiện là $\\mathrm{P}(A|B) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(B)}$."
+    "explain": "Công thức xác suất có điều kiện là $\\mathrm{P}(A|B) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(B)}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN4",
@@ -49,7 +52,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{8}{29}$"
     ],
     "answer": 1,
-    "explain": "Ta có sơ đồ cây minh họa các dữ kiện bài toán  <br><img src=\"data/12/2D6/im2D61/dlts_12_DLTS30_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $A$ là biến cố “ người sử dụng smartphone”, $B$ là biến cố “ người dùng mạng xã hội”.<br>  Suy ra, $A|B$ là biến cố “ người đó là người sử dụng smartphone, biết rằng người đó đã sử dụng mạng xã hội”.<br>  Khi đó $\\mathrm{P}(A) = \\dfrac{120}{200}=0{,}6$; $\\mathrm{P}\\left(B|A\\right) = 70\\%=0{,}7$; $\\mathrm{P}\\left(B|\\overline{A}\\right) = 40\\%=0{,}4$.<br>  Ta có $\\mathrm{P}\\left(\\overline{A}\\right) = 1-0{,}6=0{,}4$.<br>  Ta có $\\mathrm{P}(B) = \\mathrm{P}(A)\\cdot\\mathrm{P}\\left(B|A\\right) + \\mathrm{P}\\left(\\overline{A}\\right) \\cdot\\mathrm{P}\\left(B|\\overline{A}\\right)=0{,}6 \\cdot 0{,}7 + 0{,}4 \\cdot 0{,}4 = 0{,}42 + 0{,}16 = 0{,}58$.<br>  Vậy $\\mathrm{P}\\left(A|B\\right) = \\dfrac{\\mathrm{P}(AB)}{\\mathrm{P}(B)} = \\dfrac{0{,}6 \\cdot 0{,}7}{0{,}58} = \\dfrac{0{,}42}{0{,}58} = \\dfrac{21}{29}$.<br>"
+    "explain": "Ta có sơ đồ cây minh họa các dữ kiện bài toán  <br><img src=\"data/12/2D6/im2D61/dlts_12_DLTS30_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Gọi $A$ là biến cố “ người sử dụng smartphone”, $B$ là biến cố “ người dùng mạng xã hội”.<br>  Suy ra, $A|B$ là biến cố “ người đó là người sử dụng smartphone, biết rằng người đó đã sử dụng mạng xã hội”.<br>  Khi đó $\\mathrm{P}(A) = \\dfrac{120}{200}=0{,}6$; $\\mathrm{P}\\left(B|A\\right) = 70\\%=0{,}7$; $\\mathrm{P}\\left(B|\\overline{A}\\right) = 40\\%=0{,}4$.<br>  Ta có $\\mathrm{P}\\left(\\overline{A}\\right) = 1-0{,}6=0{,}4$.<br>  Ta có $\\mathrm{P}(B) = \\mathrm{P}(A)\\cdot\\mathrm{P}\\left(B|A\\right) + \\mathrm{P}\\left(\\overline{A}\\right) \\cdot\\mathrm{P}\\left(B|\\overline{A}\\right)=0{,}6 \\cdot 0{,}7 + 0{,}4 \\cdot 0{,}4 = 0{,}42 + 0{,}16 = 0{,}58$.<br>  Vậy $\\mathrm{P}\\left(A|B\\right) = \\dfrac{\\mathrm{P}(AB)}{\\mathrm{P}(B)} = \\dfrac{0{,}6 \\cdot 0{,}7}{0{,}58} = \\dfrac{0{,}42}{0{,}58} = \\dfrac{21}{29}$.<br>",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN5",
@@ -61,7 +65,8 @@ window.tracNghiem2D61 = [
       "$0{,}4$"
     ],
     "answer": 3,
-    "explain": "Gọi các biến cố  <br>- $A\\colon $ “ Học sinh được chọn đạt điểm giỏi môn Toán”.<br>- $B\\colon$ “ Học sinh được chọn là học sinh nam”.  Theo đề bài, ta có  <br>- Số học sinh nam $25$.<br>- Số học sinh nam giỏi Toán $10$.  Xác suất để học sinh được chọn đạt điểm giỏi môn Toán, <strong>biết</strong> học sinh đó là nam, là xác suất có điều kiện  $  \\mathrm{P}(A|B) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(B)} = \\dfrac{\\frac{10}{40}}{\\frac{25}{40}} = \\dfrac{10}{25} = \\dfrac{2}{5} = 0{,}4.  $  Vậy đáp án đúng là $0{,}4$."
+    "explain": "Gọi các biến cố  <br>- $A\\colon $ “ Học sinh được chọn đạt điểm giỏi môn Toán”.<br>- $B\\colon$ “ Học sinh được chọn là học sinh nam”.  Theo đề bài, ta có  <br>- Số học sinh nam $25$.<br>- Số học sinh nam giỏi Toán $10$.  Xác suất để học sinh được chọn đạt điểm giỏi môn Toán, <strong>biết</strong> học sinh đó là nam, là xác suất có điều kiện  $  \\mathrm{P}(A|B) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(B)} = \\dfrac{\\frac{10}{40}}{\\frac{25}{40}} = \\dfrac{10}{25} = \\dfrac{2}{5} = 0{,}4.  $  Vậy đáp án đúng là $0{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN6",
@@ -73,7 +78,8 @@ window.tracNghiem2D61 = [
       "$0{,}5$"
     ],
     "answer": 3,
-    "explain": "Ta có công thức  \\[  \\mathrm{P}(A \\cup B) = \\mathrm{P}(A) + \\mathrm{P}(B) - \\mathrm{P}(A \\cap B) \\Rightarrow 0{,}7 = 0{,}5 + 0{,}6 - \\mathrm{P}(A \\cap B).  \\]  Suy ra $\\mathrm{P}(A \\cap B) = 0{,}4$. Do đó  \\[\\mathrm{P}(B|A) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(A)} = \\dfrac{0{,}4}{0{,}5} = \\dfrac{4}{5}=0{,}8.\\]"
+    "explain": "Ta có công thức  \\[  \\mathrm{P}(A \\cup B) = \\mathrm{P}(A) + \\mathrm{P}(B) - \\mathrm{P}(A \\cap B) \\Rightarrow 0{,}7 = 0{,}5 + 0{,}6 - \\mathrm{P}(A \\cap B).  \\]  Suy ra $\\mathrm{P}(A \\cap B) = 0{,}4$. Do đó  \\[\\mathrm{P}(B|A) = \\dfrac{\\mathrm{P}(A \\cap B)}{\\mathrm{P}(A)} = \\dfrac{0{,}4}{0{,}5} = \\dfrac{4}{5}=0{,}8.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN7",
@@ -85,7 +91,8 @@ window.tracNghiem2D61 = [
       "$0{,}11$"
     ],
     "answer": 1,
-    "explain": "$\\mathrm{P}(AB) = \\mathrm{P}(A\\,|\\,B)\\cdot \\mathrm{P}(B) = 0{,}5\\cdot 0{,}28 = 0{,}14$.<br>  Vậy $\\mathrm{P}(A\\overline{B}) = \\mathrm{P}(A) - \\mathrm{P}(AB) = 0{,}76 - 0{,}14 = \\boxed{0{,}62}$"
+    "explain": "$\\mathrm{P}(AB) = \\mathrm{P}(A\\,|\\,B)\\cdot \\mathrm{P}(B) = 0{,}5\\cdot 0{,}28 = 0{,}14$.<br>  Vậy $\\mathrm{P}(A\\overline{B}) = \\mathrm{P}(A) - \\mathrm{P}(AB) = 0{,}76 - 0{,}14 = \\boxed{0{,}62}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN8",
@@ -97,7 +104,8 @@ window.tracNghiem2D61 = [
       "$0{,}35$"
     ],
     "answer": 2,
-    "explain": "Ta gọi các biến cố sau  <br>- Biến cố $K$ “ học sinh được chọn thích kem”, suy ra $\\mathrm{P}(K) = 0{,}68$.<br>- Biến cố $T$ “ học sinh được chọn thích trà sữa”, suy ra $\\mathrm{P}(T) = 0{,}56$.<br>- Do đó $\\mathrm{P}(KT) = 0{,}24$.  Vậy $\\mathrm{P}(K\\,|\\,T) = \\dfrac{\\mathrm{P}(KT)}{\\mathrm{P}(T)} = \\dfrac{0{,}24}{0{,}56} \\approx 0{,}4286 \\approx \\boxed{0{,}43}$."
+    "explain": "Ta gọi các biến cố sau  <br>- Biến cố $K$ “ học sinh được chọn thích kem”, suy ra $\\mathrm{P}(K) = 0{,}68$.<br>- Biến cố $T$ “ học sinh được chọn thích trà sữa”, suy ra $\\mathrm{P}(T) = 0{,}56$.<br>- Do đó $\\mathrm{P}(KT) = 0{,}24$.  Vậy $\\mathrm{P}(K\\,|\\,T) = \\dfrac{\\mathrm{P}(KT)}{\\mathrm{P}(T)} = \\dfrac{0{,}24}{0{,}56} \\approx 0{,}4286 \\approx \\boxed{0{,}43}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN9",
@@ -109,7 +117,8 @@ window.tracNghiem2D61 = [
       "$0{,}02$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\mathrm{P}(A\\mid B)= \\dfrac{\\mathrm{P}(AB)}{P(B)}=\\dfrac{0{,}18}{0{,}6}=0{,}3$."
+    "explain": "Ta có $\\mathrm{P}(A\\mid B)= \\dfrac{\\mathrm{P}(AB)}{P(B)}=\\dfrac{0{,}18}{0{,}6}=0{,}3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN10",
@@ -121,7 +130,8 @@ window.tracNghiem2D61 = [
       "$0{,}7975$"
     ],
     "answer": 1,
-    "explain": "Vì hai biến cố $A$ và $B$ là hai biến cố độc lập nên ${P}\\left(A\\mid B\\right)={P}(A)=0{,}2024$."
+    "explain": "Vì hai biến cố $A$ và $B$ là hai biến cố độc lập nên ${P}\\left(A\\mid B\\right)={P}(A)=0{,}2024$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN11",
@@ -133,7 +143,8 @@ window.tracNghiem2D61 = [
       "$0{,}2$"
     ],
     "answer": 1,
-    "explain": "Ta có ${P}\\left(B\\mid A\\right)=\\dfrac{{P}\\left(A\\cap B\\right)}{{P}(A)}=\\dfrac{{P}\\left(A\\mid B\\right)\\cdot{P}(B)}{{P}(A)}=\\dfrac{0{,}4\\cdot0{,}6}{0{,}3}=0{,}8$."
+    "explain": "Ta có ${P}\\left(B\\mid A\\right)=\\dfrac{{P}\\left(A\\cap B\\right)}{{P}(A)}=\\dfrac{{P}\\left(A\\mid B\\right)\\cdot{P}(B)}{{P}(A)}=\\dfrac{0{,}4\\cdot0{,}6}{0{,}3}=0{,}8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN12",
@@ -145,7 +156,8 @@ window.tracNghiem2D61 = [
       "${P}\\left(B\\mid A\\right)=\\dfrac{{P}\\left(A\\cap B\\right)}{{P}(B)}$"
     ],
     "answer": 1,
-    "explain": "Với ${P}(B)&gt;0$, ta có ${P}\\left(A\\mid B\\right)=\\dfrac{{P}\\left(A\\cap B\\right)}{{P}(B)}$."
+    "explain": "Với ${P}(B)&gt;0$, ta có ${P}\\left(A\\mid B\\right)=\\dfrac{{P}\\left(A\\cap B\\right)}{{P}(B)}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D611TN13",
@@ -157,7 +169,8 @@ window.tracNghiem2D61 = [
       "$P(A|B)=\\dfrac{P(A B)}{P(A) \\cdot P(B)}$"
     ],
     "answer": 2,
-    "explain": "Dựa theo công thức tính xác suất biến cố $A$ với điều kiện $B$ thì $P(A| B)=\\dfrac{P(A B)}{P(B)}$ là đáp án đúng."
+    "explain": "Dựa theo công thức tính xác suất biến cố $A$ với điều kiện $B$ thì $P(A| B)=\\dfrac{P(A B)}{P(B)}$ là đáp án đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D614TN14",
@@ -169,7 +182,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{83}{242}$"
     ],
     "answer": 0,
-    "explain": "Gọi $A$ là biến cố “Chọn được sản phẩm tốt”, theo đề ra, kho có $22$ sản phẩm, trong đó có $15$ sản phẩm tốt nên:<br>  $n(A)=15$, $n(\\Omega)=22$. Vậy $P(A)=\\dfrac{n(A)}{n(\\Omega)}=\\dfrac{15}{22}$."
+    "explain": "Gọi $A$ là biến cố “Chọn được sản phẩm tốt”, theo đề ra, kho có $22$ sản phẩm, trong đó có $15$ sản phẩm tốt nên:<br>  $n(A)=15$, $n(\\Omega)=22$. Vậy $P(A)=\\dfrac{n(A)}{n(\\Omega)}=\\dfrac{15}{22}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN15",
@@ -181,7 +195,8 @@ window.tracNghiem2D61 = [
       "0,4"
     ],
     "answer": 1,
-    "explain": "Ta có $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}$ nên $P(A\\cap B)=P(A\\mid B)\\cdot P(B)=0{,}25\\cdot 0{,}8=0{,}2$."
+    "explain": "Ta có $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}$ nên $P(A\\cap B)=P(A\\mid B)\\cdot P(B)=0{,}25\\cdot 0{,}8=0{,}2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN16",
@@ -193,7 +208,8 @@ window.tracNghiem2D61 = [
       "0,75"
     ],
     "answer": 2,
-    "explain": "Từ câu trên, $P(A\\cap B)=0{,}2$. Do đó $P(B\\mid A)=\\dfrac{P(A\\cap B)}{P(A)}=\\dfrac{0{,}2}{0{,}4}=0{,}5$."
+    "explain": "Từ câu trên, $P(A\\cap B)=0{,}2$. Do đó $P(B\\mid A)=\\dfrac{P(A\\cap B)}{P(A)}=\\dfrac{0{,}2}{0{,}4}=0{,}5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN17",
@@ -205,7 +221,8 @@ window.tracNghiem2D61 = [
       "1"
     ],
     "answer": 0,
-    "explain": "Ta có $P(A\\cap B)=0{,}2$ nên $P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=0{,}4+0{,}8-0{,}2=1$.<br>Vì $A\\subset A\\cup B$ nên $A\\cap(A\\cup B)=A$, do đó $P(A\\mid A\\cup B)=\\dfrac{P(A)}{P(A\\cup B)}=\\dfrac{0{,}4}{1}=0{,}4$."
+    "explain": "Ta có $P(A\\cap B)=0{,}2$ nên $P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=0{,}4+0{,}8-0{,}2=1$.<br>Vì $A\\subset A\\cup B$ nên $A\\cap(A\\cup B)=A$, do đó $P(A\\mid A\\cup B)=\\dfrac{P(A)}{P(A\\cup B)}=\\dfrac{0{,}4}{1}=0{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN18",
@@ -217,7 +234,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{7}{16}$"
     ],
     "answer": 0,
-    "explain": "Từ bảng số liệu: số nhân viên nam là $45+12=57$, số nhân viên ủng hộ là $45+35=80$ (trên tổng số $100$ nhân viên).<br>$A$: \"nhân viên là nam\", $B$: \"nhân viên ủng hộ\". Ta có $P(A\\cap B)=\\dfrac{45}{100}$, $P(B)=\\dfrac{80}{100}$.<br>$P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{45}{80}=\\dfrac{9}{16}$."
+    "explain": "Từ bảng số liệu: số nhân viên nam là $45+12=57$, số nhân viên ủng hộ là $45+35=80$ (trên tổng số $100$ nhân viên).<br>$A$: \"nhân viên là nam\", $B$: \"nhân viên ủng hộ\". Ta có $P(A\\cap B)=\\dfrac{45}{100}$, $P(B)=\\dfrac{80}{100}$.<br>$P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{45}{80}=\\dfrac{9}{16}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN19",
@@ -229,7 +247,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{7}{16}$"
     ],
     "answer": 1,
-    "explain": "Từ bảng số liệu: số nhân viên nam là $45+12=57$ (trên tổng số $100$ nhân viên), số nhân viên nam ủng hộ là $45$.<br>$P(A)=\\dfrac{57}{100}$, $P(A\\cap B)=\\dfrac{45}{100}$.<br>$P(B\\mid A)=\\dfrac{P(A\\cap B)}{P(A)}=\\dfrac{45}{57}=\\dfrac{15}{19}$."
+    "explain": "Từ bảng số liệu: số nhân viên nam là $45+12=57$ (trên tổng số $100$ nhân viên), số nhân viên nam ủng hộ là $45$.<br>$P(A)=\\dfrac{57}{100}$, $P(A\\cap B)=\\dfrac{45}{100}$.<br>$P(B\\mid A)=\\dfrac{P(A\\cap B)}{P(A)}=\\dfrac{45}{57}=\\dfrac{15}{19}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN20",
@@ -241,7 +260,8 @@ window.tracNghiem2D61 = [
       "0,92"
     ],
     "answer": 3,
-    "explain": "Từ bảng số liệu (trên tổng số $100$ nhân viên): $P(A)=\\dfrac{57}{100}$ (nam), $P(B)=\\dfrac{80}{100}$ (ủng hộ), $P(A\\cap B)=\\dfrac{45}{100}$ (nam và ủng hộ).<br>$P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=\\dfrac{57+80-45}{100}=\\dfrac{92}{100}=0{,}92$."
+    "explain": "Từ bảng số liệu (trên tổng số $100$ nhân viên): $P(A)=\\dfrac{57}{100}$ (nam), $P(B)=\\dfrac{80}{100}$ (ủng hộ), $P(A\\cap B)=\\dfrac{45}{100}$ (nam và ủng hộ).<br>$P(A\\cup B)=P(A)+P(B)-P(A\\cap B)=\\dfrac{57+80-45}{100}=\\dfrac{92}{100}=0{,}92$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN21",
@@ -253,7 +273,8 @@ window.tracNghiem2D61 = [
       "$\\dfrac{1}{6}$"
     ],
     "answer": 2,
-    "explain": "Không gian mẫu gồm $36$ kết quả đồng khả năng $(x,đ)$ với $x,đ\\in\\{1,\\ldots,6\\}$.<br>Gọi $B$: \"tổng số chấm bằng $5$\": các cặp thuận lợi là $(1,4),(2,3),(3,2),(4,1)$, nên $P(B)=\\dfrac{4}{36}$.<br>Gọi $A$: \"xúc xắc xanh ra mặt $1$ chấm\". Kết hợp với tổng bằng $5$ thì đỏ phải ra mặt $4$, chỉ có $1$ cặp $(1,4)$ thỏa cả hai, nên $P(A\\cap B)=\\dfrac{1}{36}$.<br>Vậy $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{1}{4}$."
+    "explain": "Không gian mẫu gồm $36$ kết quả đồng khả năng $(x,đ)$ với $x,đ\\in\\{1,\\ldots,6\\}$.<br>Gọi $B$: \"tổng số chấm bằng $5$\": các cặp thuận lợi là $(1,4),(2,3),(3,2),(4,1)$, nên $P(B)=\\dfrac{4}{36}$.<br>Gọi $A$: \"xúc xắc xanh ra mặt $1$ chấm\". Kết hợp với tổng bằng $5$ thì đỏ phải ra mặt $4$, chỉ có $1$ cặp $(1,4)$ thỏa cả hai, nên $P(A\\cap B)=\\dfrac{1}{36}$.<br>Vậy $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{1}{4}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D612TN22",
@@ -265,6 +286,7 @@ window.tracNghiem2D61 = [
       "$\\dfrac{6}{11}$"
     ],
     "answer": 3,
-    "explain": "Không gian mẫu gồm $36$ kết quả đồng khả năng.<br>Gọi $B$: \"có ít nhất một con xúc xắc ra mặt $6$ chấm\". Số kết quả không có mặt $6$ nào là $5\\times 5=25$, nên số kết quả thuận lợi cho $B$ là $36-25=11$, $P(B)=\\dfrac{11}{36}$.<br>Gọi $A$: \"xúc xắc đỏ ra mặt $6$ chấm\": có $6$ kết quả $(x,6)$ với $x=1,\\ldots,6$, và tất cả các kết quả này đều đã thỏa mãn có ít nhất một mặt $6$ (chính là con đỏ), nên $A\\cap B=A$ và $P(A\\cap B)=\\dfrac{6}{36}$.<br>Vậy $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{6}{11}$."
+    "explain": "Không gian mẫu gồm $36$ kết quả đồng khả năng.<br>Gọi $B$: \"có ít nhất một con xúc xắc ra mặt $6$ chấm\". Số kết quả không có mặt $6$ nào là $5\\times 5=25$, nên số kết quả thuận lợi cho $B$ là $36-25=11$, $P(B)=\\dfrac{11}{36}$.<br>Gọi $A$: \"xúc xắc đỏ ra mặt $6$ chấm\": có $6$ kết quả $(x,6)$ với $x=1,\\ldots,6$, và tất cả các kết quả này đều đã thỏa mãn có ít nhất một mặt $6$ (chính là con đỏ), nên $A\\cap B=A$ và $P(A\\cap B)=\\dfrac{6}{36}$.<br>Vậy $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{6}{11}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

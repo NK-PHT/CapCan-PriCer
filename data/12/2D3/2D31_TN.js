@@ -15,7 +15,8 @@ window.tracNghiem2D31 = [
       "$12$"
     ],
     "answer": 2,
-    "explain": "Xác định $ u_1=0 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=100 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=100-0=100$."
+    "explain": "Xác định $ u_1=0 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=100 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=100-0=100$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2D31 = [
       "$23$"
     ],
     "answer": 1,
-    "explain": "Xác định $ u_1=5 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=30 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=30-5=25$."
+    "explain": "Xác định $ u_1=5 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=30 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=30-5=25$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2D31 = [
       "$12$"
     ],
     "answer": 1,
-    "explain": "Xác định $ u_1=160 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=175,5 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=175,5-160=15,5$."
+    "explain": "Xác định $ u_1=160 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=175,5 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=175,5-160=15,5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2D31 = [
       "$12$"
     ],
     "answer": 3,
-    "explain": "Xác định $ u_1=12,5 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=24,5 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=24,5-12,5=12$."
+    "explain": "Xác định $ u_1=12,5 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=24,5 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=24,5-12,5=12$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2D31 = [
       "$17.5$"
     ],
     "answer": 1,
-    "explain": "Ta có $n=40\\Rightarrow\\dfrac{n}{4}=10$. <br>  Gọi $x_1, \\ldots, x_{40}$ là mẫu số liệu gốc về cân nặng của 40 học sinh lớp 11D3 và giả sử rằng dãy số liệu gốc này đã được sắp xếp theo thứ tự tăng dần.<br>  Tứ phân vị thứ nhất của mẫu số liệu gốc là $\\dfrac{1}{2}\\left( x_{10}+x_{11}\\right) $ nên nhóm chứa tứ phân vị thứ nhất là nhóm $\\left[40\\,;\\,50\\right)$. Do đó tứ phân vị thứ nhất của mẫu số liệu trên là  $Q_1=40+\\dfrac{10-2}{10}\\cdot10=48.$  Ta có $\\dfrac{3 n}{4}=30$.<br>  Tứ phân vị thứ ba của mẫu số liệu gốc là $\\dfrac{1}{2}\\left( x_{30}+x_{31}\\right) $ nên nhóm chứa tứ phân vị thứ ba là nhóm $[60 ; 70)$. Do đó tứ phân vị thứ ba của mẫu số liệu trên là  $Q_3=60+\\dfrac{30-28}{8} \\cdot 10=62{,}5.$  Khoảng tứ phân vị $\\Delta _Q=Q_3-Q_1=62{,}5-48=14,5$."
+    "explain": "Ta có $n=40\\Rightarrow\\dfrac{n}{4}=10$. <br>  Gọi $x_1, \\ldots, x_{40}$ là mẫu số liệu gốc về cân nặng của 40 học sinh lớp 11D3 và giả sử rằng dãy số liệu gốc này đã được sắp xếp theo thứ tự tăng dần.<br>  Tứ phân vị thứ nhất của mẫu số liệu gốc là $\\dfrac{1}{2}\\left( x_{10}+x_{11}\\right) $ nên nhóm chứa tứ phân vị thứ nhất là nhóm $\\left[40\\,;\\,50\\right)$. Do đó tứ phân vị thứ nhất của mẫu số liệu trên là  $Q_1=40+\\dfrac{10-2}{10}\\cdot10=48.$  Ta có $\\dfrac{3 n}{4}=30$.<br>  Tứ phân vị thứ ba của mẫu số liệu gốc là $\\dfrac{1}{2}\\left( x_{30}+x_{31}\\right) $ nên nhóm chứa tứ phân vị thứ ba là nhóm $[60 ; 70)$. Do đó tứ phân vị thứ ba của mẫu số liệu trên là  $Q_3=60+\\dfrac{30-28}{8} \\cdot 10=62{,}5.$  Khoảng tứ phân vị $\\Delta _Q=Q_3-Q_1=62{,}5-48=14,5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2D31 = [
       "$3,92$"
     ],
     "answer": 0,
-    "explain": "Ta có $n=146$. Gọi $x_{1}, x_{2}, ..., x_{146}$ là số liệu được sắp xếp theo thứ tự không giảm. <br>  Tứ phân vị thứ nhất của của dãy số liệu gốc là $x_{37}\\in [2;4)$. Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên là   $Q_{1}=2+\\dfrac{\\dfrac{1.146}{4}-10}{30}.(4-2)=\\dfrac{113}{30}.$  Tứ phân vị thứ ba của của dãy số liệu gốc là $x_{110}\\in [6;8)$. Do đó, tứ phân vị thứ ba của mẫu số liệu ghép nhóm trên là <br>  $Q_{3}=6+\\dfrac{\\dfrac{3.146}{4}-(10+30+55)}{42}.(8-6)=\\dfrac{281}{42}$  Khoảng tứ phân vị $Q_3-Q_1=\\dfrac{307}{105}\\approx 2{,}92$."
+    "explain": "Ta có $n=146$. Gọi $x_{1}, x_{2}, ..., x_{146}$ là số liệu được sắp xếp theo thứ tự không giảm. <br>  Tứ phân vị thứ nhất của của dãy số liệu gốc là $x_{37}\\in [2;4)$. Do đó, tứ phân vị thứ nhất của mẫu số liệu ghép nhóm trên là   $Q_{1}=2+\\dfrac{\\dfrac{1.146}{4}-10}{30}.(4-2)=\\dfrac{113}{30}.$  Tứ phân vị thứ ba của của dãy số liệu gốc là $x_{110}\\in [6;8)$. Do đó, tứ phân vị thứ ba của mẫu số liệu ghép nhóm trên là <br>  $Q_{3}=6+\\dfrac{\\dfrac{3.146}{4}-(10+30+55)}{42}.(8-6)=\\dfrac{281}{42}$  Khoảng tứ phân vị $Q_3-Q_1=\\dfrac{307}{105}\\approx 2{,}92$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D314TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2D31 = [
       "$72{,}53$"
     ],
     "answer": 2,
-    "explain": "Kích thước mẫu $n=30$. Ta có $\\dfrac{n}{4}=\\dfrac{15}{2}=7{,}5 ;\\, \\dfrac{3 n}{4}=\\dfrac{45}{2}=22{,}5$. <br>- [$\\bullet$] Nhóm chứa $Q_1$ là $[240 ; 300)$. Suy ra  $Q_1=240+\\dfrac{7{,}5 -2}{9} \\cdot 60 =\\dfrac{830}{3}.$<br>- [$\\bullet$] Nhóm chứa $Q_3$ là $[300 ; 360)$.Suy ra  $Q_3=300+\\dfrac{22{,}5 -11}{12} \\cdot 60=357{,}5$  Vậy $\\Delta_Q=357{,}5-\\dfrac{830}{3}\\approx 80{,}83$."
+    "explain": "Kích thước mẫu $n=30$. Ta có $\\dfrac{n}{4}=\\dfrac{15}{2}=7{,}5 ;\\, \\dfrac{3 n}{4}=\\dfrac{45}{2}=22{,}5$. <br>- [$\\bullet$] Nhóm chứa $Q_1$ là $[240 ; 300)$. Suy ra  $Q_1=240+\\dfrac{7{,}5 -2}{9} \\cdot 60 =\\dfrac{830}{3}.$<br>- [$\\bullet$] Nhóm chứa $Q_3$ là $[300 ; 360)$.Suy ra  $Q_3=300+\\dfrac{22{,}5 -11}{12} \\cdot 60=357{,}5$  Vậy $\\Delta_Q=357{,}5-\\dfrac{830}{3}\\approx 80{,}83$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2D31 = [
       "$20$"
     ],
     "answer": 3,
-    "explain": "Xác định $ u_1=25 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=45 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=45-25=20$."
+    "explain": "Xác định $ u_1=25 $ là giá trị đầu mút trái của nhóm đầu tiên và $ u_{k+1}=45 $ là giá trị đầu mút phải của nhóm cuối cùng có chứa dữ liệu. Suy ra $R=u_{k+1}-u_{1}=45-25=20$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2D31 = [
       "$20$"
     ],
     "answer": 0,
-    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm $177-147=30$."
+    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm $177-147=30$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D311TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2D31 = [
       "Độ lệch chuẩn của mẫu số liệu ghép nhóm luôn bằng độ lệch chuẩn của mẫu số liệu gốc và được dùng để đo mức độ phân tán của mẫu số liệu ghép nhóm đó"
     ],
     "answer": 3,
-    "explain": "Độ lệch chuẩn của mẫu số liệu ghép nhóm là một ước lượng xấp xỉ độ lệch chuẩn của mẫu số liệu gốc và được dùng để đo mức độ phân tán của mẫu số liệu ghép nhóm đó."
+    "explain": "Độ lệch chuẩn của mẫu số liệu ghép nhóm là một ước lượng xấp xỉ độ lệch chuẩn của mẫu số liệu gốc và được dùng để đo mức độ phân tán của mẫu số liệu ghép nhóm đó.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN11",
@@ -135,7 +145,8 @@ window.tracNghiem2D31 = [
       "$30$"
     ],
     "answer": 0,
-    "explain": "Khoảng biến thiên của mẫu số liệu là $R=170-150=20$."
+    "explain": "Khoảng biến thiên của mẫu số liệu là $R=170-150=20$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN12",
@@ -147,7 +158,8 @@ window.tracNghiem2D31 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm là $\\Delta Q = Q_3 - Q_1=3$."
+    "explain": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm là $\\Delta Q = Q_3 - Q_1=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN13",
@@ -159,7 +171,8 @@ window.tracNghiem2D31 = [
       "$[60; 80)$"
     ],
     "answer": 0,
-    "explain": "Ta có cỡ mẫu $n=5+9+12+10+6=42$.<br>  Xét $\\dfrac{n}{4}=\\dfrac{42}{4}=10{,}5$. Vậy nhóm chứa tứ phân vị thứ nhất là $[20;40)$."
+    "explain": "Ta có cỡ mẫu $n=5+9+12+10+6=42$.<br>  Xét $\\dfrac{n}{4}=\\dfrac{42}{4}=10{,}5$. Vậy nhóm chứa tứ phân vị thứ nhất là $[20;40)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN14",
@@ -171,7 +184,8 @@ window.tracNghiem2D31 = [
       "$16$"
     ],
     "answer": 0,
-    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm là $R=70{,}5-40{,}5=30$."
+    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm là $R=70{,}5-40{,}5=30$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN15",
@@ -183,7 +197,8 @@ window.tracNghiem2D31 = [
       "$25$"
     ],
     "answer": 3,
-    "explain": "Khoảng biến thiên bằng $30-5=25$."
+    "explain": "Khoảng biến thiên bằng $30-5=25$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN16",
@@ -195,7 +210,8 @@ window.tracNghiem2D31 = [
       "Là hiệu số giữa tứ phân vị thứ ba $Q_3$ và tứ phân vị thứ nhất $Q_1$ của mẫu số liệu ghép nhóm đó"
     ],
     "answer": 2,
-    "explain": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm luôn nhận giá trị dương."
+    "explain": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm luôn nhận giá trị dương.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D314TN17",
@@ -207,7 +223,8 @@ window.tracNghiem2D31 = [
       "Khoảng biến thiên"
     ],
     "answer": 1,
-    "explain": "Khoảng tứ phân vị được xác định bằng hiệu giữa tứ phân vị thứ ba ($Q_3$) và tứ phân vị thứ nhất ($Q_1$), tức là dựa trên $50\\%$ dữ liệu ở giữa. Do đó, khoảng tứ phân vị không sử dụng thông tin của nhóm số liệu đầu tiên và nhóm số liệu cuối cùng."
+    "explain": "Khoảng tứ phân vị được xác định bằng hiệu giữa tứ phân vị thứ ba ($Q_3$) và tứ phân vị thứ nhất ($Q_1$), tức là dựa trên $50\\%$ dữ liệu ở giữa. Do đó, khoảng tứ phân vị không sử dụng thông tin của nhóm số liệu đầu tiên và nhóm số liệu cuối cùng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN18",
@@ -219,7 +236,8 @@ window.tracNghiem2D31 = [
       "$Q_2 + Q_3 - Q_1$"
     ],
     "answer": 1,
-    "explain": "Khoảng tứ phân vị của mẫu số liệu đã cho là $\\Delta Q=Q_3 - Q_1$."
+    "explain": "Khoảng tứ phân vị của mẫu số liệu đã cho là $\\Delta Q=Q_3 - Q_1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN19",
@@ -231,7 +249,8 @@ window.tracNghiem2D31 = [
       "$a_{k+1} + a_1 - \\overline{x}$"
     ],
     "answer": 2,
-    "explain": "Khoảng biến thiên của mẫu số liệu đã cho là $R=a_{k+1} - a_1$."
+    "explain": "Khoảng biến thiên của mẫu số liệu đã cho là $R=a_{k+1} - a_1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN20",
@@ -243,7 +262,8 @@ window.tracNghiem2D31 = [
       "$R = 150$"
     ],
     "answer": 0,
-    "explain": "Khoảng biến thiên $R = 250 - 0 = 250$."
+    "explain": "Khoảng biến thiên $R = 250 - 0 = 250$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D314TN21",
@@ -255,7 +275,8 @@ window.tracNghiem2D31 = [
       "$[36; 41)$"
     ],
     "answer": 0,
-    "explain": "Nhóm có tần số lớn nhất là $[26; 31)$."
+    "explain": "Nhóm có tần số lớn nhất là $[26; 31)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN21",
@@ -267,7 +288,8 @@ window.tracNghiem2D31 = [
       "$4$"
     ],
     "answer": 1,
-    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên bảng số liệu đã cho là $R=19-14=5$."
+    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm trên bảng số liệu đã cho là $R=19-14=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D313TN2",
@@ -279,7 +301,8 @@ window.tracNghiem2D31 = [
       "$[60;80)$"
     ],
     "answer": 1,
-    "explain": "Nhóm chứa tứ phân vị thứ nhất là $[20;40)$."
+    "explain": "Nhóm chứa tứ phân vị thứ nhất là $[20;40)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN22",
@@ -291,7 +314,8 @@ window.tracNghiem2D31 = [
       "$700$"
     ],
     "answer": 0,
-    "explain": "Khoảng biến thiên của mẫu số liệu trên là $450-250=200$."
+    "explain": "Khoảng biến thiên của mẫu số liệu trên là $450-250=200$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D312TN23",
@@ -303,6 +327,7 @@ window.tracNghiem2D31 = [
       "$1{,}5$"
     ],
     "answer": 3,
-    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm là $R = 4{,}2 - 2{,}7 = 1{,}5$."
+    "explain": "Khoảng biến thiên của mẫu số liệu ghép nhóm là $R = 4{,}2 - 2{,}7 = 1{,}5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

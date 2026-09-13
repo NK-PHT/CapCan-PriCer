@@ -15,7 +15,8 @@ window.tracNghiem2D15 = [
       "Hình $4$"
     ],
     "answer": 1,
-    "explain": "Hàm số $y = x^3 - 3x + 2$ có $y(0)=2$, suy ra nhận Hình $2$."
+    "explain": "Hàm số $y = x^3 - 3x + 2$ có $y(0)=2$, suy ra nhận Hình $2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D156TN2",
@@ -27,7 +28,8 @@ window.tracNghiem2D15 = [
       "$y=-x-5$"
     ],
     "answer": 0,
-    "explain": "$x_0=2 \\Rightarrow y_0=\\dfrac{2\\cdot 2-1}{2-1}=3$.<br>  $y'=\\dfrac{-1}{(x-1)^2}$.<br>  $y'(2)=\\dfrac{-1}{(2-1)^2}=-1$.<br>  Phương trình tiếp tuyến $y=-1(x-2)+3=-x+5$."
+    "explain": "$x_0=2 \\Rightarrow y_0=\\dfrac{2\\cdot 2-1}{2-1}=3$.<br>  $y'=\\dfrac{-1}{(x-1)^2}$.<br>  $y'(2)=\\dfrac{-1}{(2-1)^2}=-1$.<br>  Phương trình tiếp tuyến $y=-1(x-2)+3=-x+5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN3",
@@ -39,7 +41,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3-3x^2-x+2$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số đi qua điểm $(-2,0)$ và $(0,2)$. Thay lần lượt các điểm vào các đáp án thì chỉ mỗi đáp án C thoả mãn."
+    "explain": "Đồ thị hàm số đi qua điểm $(-2,0)$ và $(0,2)$. Thay lần lượt các điểm vào các đáp án thì chỉ mỗi đáp án C thoả mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN4",
@@ -51,7 +54,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị ta có   <br>- Đây là đồ thị của hàm số $ y=ax^3+bx^2+cx+d~(a\\ne 0) $.<br>- $ \\lim \\limits_{x \\to-\\infty } y=-\\infty\\Rightarrow a&gt;0$.<br>- Đồ thị hàm số đi qua điểm $ O(0;0) $.  Suy ra đây là đồ thị của hàm số $y=x^3-3x$."
+    "explain": "Dựa vào đồ thị ta có   <br>- Đây là đồ thị của hàm số $ y=ax^3+bx^2+cx+d~(a\\ne 0) $.<br>- $ \\lim \\limits_{x \\to-\\infty } y=-\\infty\\Rightarrow a&gt;0$.<br>- Đồ thị hàm số đi qua điểm $ O(0;0) $.  Suy ra đây là đồ thị của hàm số $y=x^3-3x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN5",
@@ -63,7 +67,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{2x+1}{x+4}$"
     ],
     "answer": 2,
-    "explain": "Đồ thị hàm số đã cho là đồ thị của hàm số bậc ba $f(x)=ax^3+bx^2+cx+d$ với hệ số $a&lt;0$. Trong các hàm số đã cho chỉ có hàm số $y=-x^3+3x+1$ thỏa mãn."
+    "explain": "Đồ thị hàm số đã cho là đồ thị của hàm số bậc ba $f(x)=ax^3+bx^2+cx+d$ với hệ số $a&lt;0$. Trong các hàm số đã cho chỉ có hàm số $y=-x^3+3x+1$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN6",
@@ -75,7 +80,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x}{x+1}$"
     ],
     "answer": 2,
-    "explain": "Ta có đồ thị hàm số có tiệm cận đứng $x=1$, nên loại $y=\\dfrac{x-2}{x+1}$ và $y=\\dfrac{x}{x+1}$.<br>  Đồ thị hàm số đi qua gốc tọa độ $O(0;0)$ nên loại $y=\\dfrac{x+1}{x-1}$ và chọn $y=\\dfrac{x}{x-1}$."
+    "explain": "Ta có đồ thị hàm số có tiệm cận đứng $x=1$, nên loại $y=\\dfrac{x-2}{x+1}$ và $y=\\dfrac{x}{x+1}$.<br>  Đồ thị hàm số đi qua gốc tọa độ $O(0;0)$ nên loại $y=\\dfrac{x+1}{x-1}$ và chọn $y=\\dfrac{x}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN7",
@@ -87,7 +93,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3x^2+2$"
     ],
     "answer": 3,
-    "explain": "Quan sát đồ thị, thấy đồ thị của hàm số bậc $3$ hệ số $a&gt;0$, đi qua điểm $(2;-2)$ nên đồ thị trên là của hàm số $y=x^3-3x^2+2$."
+    "explain": "Quan sát đồ thị, thấy đồ thị của hàm số bậc $3$ hệ số $a&gt;0$, đi qua điểm $(2;-2)$ nên đồ thị trên là của hàm số $y=x^3-3x^2+2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN8",
@@ -99,7 +106,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2-x+1}{x-1}$"
     ],
     "answer": 3,
-    "explain": "Dựa vào đồ thị ta có  <br>- Tiệm cận đứng $x=1$ nên loại $y=\\dfrac{x^2-4x-1}{x+1}$.<br>- Đồ thị đi qua điểm $(0;-1)$ nên loại $y=\\dfrac{x^2+x-1}{x-1}$ và $y=\\dfrac{x^2-4x+4}{x-1}$.  Vậy đáp đúng là $y=\\dfrac{x^2-x+1}{x-1}$."
+    "explain": "Dựa vào đồ thị ta có  <br>- Tiệm cận đứng $x=1$ nên loại $y=\\dfrac{x^2-4x-1}{x+1}$.<br>- Đồ thị đi qua điểm $(0;-1)$ nên loại $y=\\dfrac{x^2+x-1}{x-1}$ và $y=\\dfrac{x^2-4x+4}{x-1}$.  Vậy đáp đúng là $y=\\dfrac{x^2-x+1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN9",
@@ -111,7 +119,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x^2-1$"
     ],
     "answer": 3,
-    "explain": "Ta có đồ thị hàm số đi qua các điểm $(0;-1)$ và $(2;3)$ nên chọn $y=-x^3+3x^2-1$."
+    "explain": "Ta có đồ thị hàm số đi qua các điểm $(0;-1)$ và $(2;3)$ nên chọn $y=-x^3+3x^2-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN10",
@@ -123,7 +132,8 @@ window.tracNghiem2D15 = [
       "$ad&lt;bc&lt;0$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số có tiệm cận đứng $x=1 \\Rightarrow -\\dfrac{d}{c}=1 \\Rightarrow d=-c$. <br>  Đồ thị hàm số có tiệm cận ngang $y=2 \\Rightarrow \\dfrac{a}{c}=2 \\Rightarrow a=2c$. <br>  Đồ thị hàm số đi qua điểm $(0;1) \\Rightarrow \\dfrac{b}{d}=1 \\Rightarrow b=d=-c$.<br>  Do đó $ad=-2c^2 &lt; bc =-c^2 &lt; 0$."
+    "explain": "Đồ thị hàm số có tiệm cận đứng $x=1 \\Rightarrow -\\dfrac{d}{c}=1 \\Rightarrow d=-c$. <br>  Đồ thị hàm số có tiệm cận ngang $y=2 \\Rightarrow \\dfrac{a}{c}=2 \\Rightarrow a=2c$. <br>  Đồ thị hàm số đi qua điểm $(0;1) \\Rightarrow \\dfrac{b}{d}=1 \\Rightarrow b=d=-c$.<br>  Do đó $ad=-2c^2 &lt; bc =-c^2 &lt; 0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN11",
@@ -135,7 +145,8 @@ window.tracNghiem2D15 = [
       "$(-2;-1)$"
     ],
     "answer": 0,
-    "explain": "Đồ thị hàm số có tiệm cận đứng là đường thẳng $x=-1$ và tiệm cận ngang là đường thẳng $y=-2$, nên đồ thị hàm số đã cho có tâm đối xứng là điểm $(-1;-2)$."
+    "explain": "Đồ thị hàm số có tiệm cận đứng là đường thẳng $x=-1$ và tiệm cận ngang là đường thẳng $y=-2$, nên đồ thị hàm số đã cho có tâm đối xứng là điểm $(-1;-2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN12",
@@ -147,7 +158,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x$"
     ],
     "answer": 3,
-    "explain": "Vì điểm $\\left(-1;-2\\right)$ thuộc đồ thị hàm số nên hàm số có công thức là $y=-x^3+3x$."
+    "explain": "Vì điểm $\\left(-1;-2\\right)$ thuộc đồ thị hàm số nên hàm số có công thức là $y=-x^3+3x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D158TN13",
@@ -159,7 +171,8 @@ window.tracNghiem2D15 = [
       "$0{,}1$ m/s"
     ],
     "answer": 1,
-    "explain": "Vận tốc $v(t) = h'(t) = 20 - 9{,}8t.$  Vận tốc sau $2\\,\\text{s}$ là  $v(2) = 20 - 9{,}8\\cdot 2 = 20 - 19{,}6 = 0{,}4\\,\\text{m/s}.$"
+    "explain": "Vận tốc $v(t) = h'(t) = 20 - 9{,}8t.$  Vận tốc sau $2\\,\\text{s}$ là  $v(2) = 20 - 9{,}8\\cdot 2 = 20 - 19{,}6 = 0{,}4\\,\\text{m/s}.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D158TN14",
@@ -171,7 +184,8 @@ window.tracNghiem2D15 = [
       "$11$ m"
     ],
     "answer": 1,
-    "explain": "Quãng đường vật đi được trong $4$ giây đầu là $s(4) = {4^3} - {3\\cdot 4^2} + 9\\cdot 4 + 36 = 88$ m."
+    "explain": "Quãng đường vật đi được trong $4$ giây đầu là $s(4) = {4^3} - {3\\cdot 4^2} + 9\\cdot 4 + 36 = 88$ m.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN15",
@@ -183,7 +197,8 @@ window.tracNghiem2D15 = [
       "$y = x^3-3x-2$"
     ],
     "answer": 3,
-    "explain": "<br>- Đồ thị là hàm bậc ba nên loại $y = \\dfrac{x^2-1}{3x+5}$ và $y = \\log x$.<br>- Đồ thị đi qua điểm $(0;-2)$ nên loại $y = x^3+3x+1$."
+    "explain": "<br>- Đồ thị là hàm bậc ba nên loại $y = \\dfrac{x^2-1}{3x+5}$ và $y = \\log x$.<br>- Đồ thị đi qua điểm $(0;-2)$ nên loại $y = x^3+3x+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN16",
@@ -195,7 +210,8 @@ window.tracNghiem2D15 = [
       "$2$"
     ],
     "answer": 1,
-    "explain": "Đồ thị hàm số $y=\\dfrac{x^2-x-1}{x+1}$ cắt trục tung điểm $M(0;y_0)$ có tung độ $y_0=\\dfrac{0-0-1}{0+1}=-1$."
+    "explain": "Đồ thị hàm số $y=\\dfrac{x^2-x-1}{x+1}$ cắt trục tung điểm $M(0;y_0)$ có tung độ $y_0=\\dfrac{0-0-1}{0+1}=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN17",
@@ -207,7 +223,8 @@ window.tracNghiem2D15 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Số nghiệm của phương trình $f(x)=m$ bằng số giao điểm của đồ thị hàm số và đường thẳng $y=m$.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_025.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào hình vẽ, ta thấy phương trình $f(x)=m$ có ba nghiệm thực phân biệt khi đường thẳng $d:y=m$ cắt đồ thị hàm số $y=f(x)$ tại ba điểm phân biệt, tức là $-3&lt;m&lt;1$. <br>  Mà $m\\in\\mathbb{Z}$ nên $m\\in\\{-2;-1;0\\}$."
+    "explain": "Số nghiệm của phương trình $f(x)=m$ bằng số giao điểm của đồ thị hàm số và đường thẳng $y=m$.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_025.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Dựa vào hình vẽ, ta thấy phương trình $f(x)=m$ có ba nghiệm thực phân biệt khi đường thẳng $d:y=m$ cắt đồ thị hàm số $y=f(x)$ tại ba điểm phân biệt, tức là $-3&lt;m&lt;1$. <br>  Mà $m\\in\\mathbb{Z}$ nên $m\\in\\{-2;-1;0\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN18",
@@ -219,7 +236,8 @@ window.tracNghiem2D15 = [
       "$y_0=10$"
     ],
     "answer": 0,
-    "explain": "Phương trình hoành độ giao điểm: $x^3+2x+1=4x+5\\Leftrightarrow x^3-2x-4=0\\Leftrightarrow x=2.$  Với $x=2\\Rightarrow y=13$."
+    "explain": "Phương trình hoành độ giao điểm: $x^3+2x+1=4x+5\\Leftrightarrow x^3-2x-4=0\\Leftrightarrow x=2.$  Với $x=2\\Rightarrow y=13$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN19",
@@ -231,7 +249,8 @@ window.tracNghiem2D15 = [
       "$I(-1;1)$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số có tiệm cận ngang $y=1$, tiệm cận đứng $x=-1$ và nhận giao điểm hai đường tiệm cận làm tâm đối xứng.<br>  Từ đó ta có tâm đối xứng của đồ thị là $I(-1;1)$."
+    "explain": "Đồ thị hàm số có tiệm cận ngang $y=1$, tiệm cận đứng $x=-1$ và nhận giao điểm hai đường tiệm cận làm tâm đối xứng.<br>  Từ đó ta có tâm đối xứng của đồ thị là $I(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN20",
@@ -243,7 +262,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3-\\dfrac{1}{2} x+1$"
     ],
     "answer": 3,
-    "explain": "Từ hình vẽ ta thấy đồ thị hàm số bậc $3$ có $a&lt;0$ và cắt trục tung tại điểm $(0;1)$."
+    "explain": "Từ hình vẽ ta thấy đồ thị hàm số bậc $3$ có $a&lt;0$ và cắt trục tung tại điểm $(0;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN21",
@@ -255,7 +275,8 @@ window.tracNghiem2D15 = [
       "$a&gt;0$, $b&gt;0$, $c&gt;0$, $d&gt;0$"
     ],
     "answer": 1,
-    "explain": "Gọi $x_1$ và $x_2$ là hai điểm cực trị của hàm số.<br>  Dựa vào đồ thị hàm số ta thấy  <br>- $\\lim\\limits_{x\\to+\\infty}y=+\\infty$ nên $a&gt;0$.<br>- Giao điểm của đồ thị hàm số với trục tung tại điểm có tung độ dương nên $d&gt;0$.<br>- $x_1\\cdot x_2&lt;0$ nên $ac&lt;0$ suy ra $c&lt;0$.<br>- $x_1+x_2&gt;0$ nên $ab&lt;0$ suy ra $b&lt;0$.  Vậy $a&gt;0$, $b&lt;0$, $c&lt;0$, $d&gt;0$."
+    "explain": "Gọi $x_1$ và $x_2$ là hai điểm cực trị của hàm số.<br>  Dựa vào đồ thị hàm số ta thấy  <br>- $\\lim\\limits_{x\\to+\\infty}y=+\\infty$ nên $a&gt;0$.<br>- Giao điểm của đồ thị hàm số với trục tung tại điểm có tung độ dương nên $d&gt;0$.<br>- $x_1\\cdot x_2&lt;0$ nên $ac&lt;0$ suy ra $c&lt;0$.<br>- $x_1+x_2&gt;0$ nên $ab&lt;0$ suy ra $b&lt;0$.  Vậy $a&gt;0$, $b&lt;0$, $c&lt;0$, $d&gt;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN22",
@@ -267,7 +288,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x^2+2$"
     ],
     "answer": 1,
-    "explain": "Giả sử hàm số cần tìm có dạng là $y=ax^3+bx^2+cx+d \\ (a\\ne 0)$.<br>  Đồ thị hàm số đi qua các điểm $(0;-2)$, $(1;0)$, $(2;2)$ và có điểm cực trị $(0;-2)$ nên ta có   \\[d=-2 \\text{ và } a+b+c+d=1 \\text{ và } 8a+4b+2c+d=2 \\text{ và } c=0 \\Leftrightarrow a=-1 \\text{ và } b=3 \\text{ và } c=0 \\text{ và } d=-2.\\]  Suy ra hàm số cần tìm là $y=-x^3+3x^2-2$."
+    "explain": "Giả sử hàm số cần tìm có dạng là $y=ax^3+bx^2+cx+d \\ (a\\ne 0)$.<br>  Đồ thị hàm số đi qua các điểm $(0;-2)$, $(1;0)$, $(2;2)$ và có điểm cực trị $(0;-2)$ nên ta có   \\[d=-2 \\text{ và } a+b+c+d=1 \\text{ và } 8a+4b+2c+d=2 \\text{ và } c=0 \\Leftrightarrow a=-1 \\text{ và } b=3 \\text{ và } c=0 \\text{ và } d=-2.\\]  Suy ra hàm số cần tìm là $y=-x^3+3x^2-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D153TN23",
@@ -279,7 +301,8 @@ window.tracNghiem2D15 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Vẽ đường thẳng $y=-1$.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_037.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Đường thẳng $y=-1$ cắt đồ thị hàm số tại $3$ điểm nên phương trình $f(x)=-1$ có $3$ nghiệm."
+    "explain": "Vẽ đường thẳng $y=-1$.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_037.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Đường thẳng $y=-1$ cắt đồ thị hàm số tại $3$ điểm nên phương trình $f(x)=-1$ có $3$ nghiệm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN24",
@@ -291,7 +314,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2-2x+2}{x-1}$"
     ],
     "answer": 2,
-    "explain": "Đồ thị hàm số đã cho có dạng đồ thị hàm số bậc nhất trên bậc nhất.<br>  Dựa vào các đáp án thì ta suy ra đây là đồ thị của hàm số $y=\\dfrac{x+1}{x-1}$."
+    "explain": "Đồ thị hàm số đã cho có dạng đồ thị hàm số bậc nhất trên bậc nhất.<br>  Dựa vào các đáp án thì ta suy ra đây là đồ thị của hàm số $y=\\dfrac{x+1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN25",
@@ -303,7 +327,8 @@ window.tracNghiem2D15 = [
       "$-1$"
     ],
     "answer": 1,
-    "explain": "Đồ thị đi qua điểm $(-3;0)$ nên $0=\\dfrac{-3\\cdot a+3}{-3\\cdot b+c} \\Rightarrow -3\\cdot a+3=0 \\Leftrightarrow a=1$.<br>  Đồ thị hàm số có tiệm cận ngang $y=1$ nên $\\dfrac{a}{b}=1 \\Leftrightarrow b=a=1$.<br>  Đồ thị hàm số có tiệm cận đứng $x=-2$ nên $-\\dfrac{c}{b}=-2 \\Leftrightarrow c=2b=2$.<br>  Vậy $M=a+b+c=1+1+2=4$."
+    "explain": "Đồ thị đi qua điểm $(-3;0)$ nên $0=\\dfrac{-3\\cdot a+3}{-3\\cdot b+c} \\Rightarrow -3\\cdot a+3=0 \\Leftrightarrow a=1$.<br>  Đồ thị hàm số có tiệm cận ngang $y=1$ nên $\\dfrac{a}{b}=1 \\Leftrightarrow b=a=1$.<br>  Đồ thị hàm số có tiệm cận đứng $x=-2$ nên $-\\dfrac{c}{b}=-2 \\Leftrightarrow c=2b=2$.<br>  Vậy $M=a+b+c=1+1+2=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN26",
@@ -315,7 +340,8 @@ window.tracNghiem2D15 = [
       "$m \\in\\{3 ;-1\\}$"
     ],
     "answer": 1,
-    "explain": "Ta có $f(x)-m=0 \\Leftrightarrow f(x)=m\\quad (1)$.<br>  $(1)$ có nghiệm duy nhất khi đồ thị hàm số $y=f(x)$ cắt đường thẳng $y=m$ tại duy nhất một điểm.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_042.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Dựa vào đồ thị hàm số $y=f(x)$ ta có kết quả $m&lt;-1$ hoặc $m&gt;3$."
+    "explain": "Ta có $f(x)-m=0 \\Leftrightarrow f(x)=m\\quad (1)$.<br>  $(1)$ có nghiệm duy nhất khi đồ thị hàm số $y=f(x)$ cắt đường thẳng $y=m$ tại duy nhất một điểm.  <br><img src=\"data/12/2D1/im2D1/2D15_tikz_042.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Dựa vào đồ thị hàm số $y=f(x)$ ta có kết quả $m&lt;-1$ hoặc $m&gt;3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN27",
@@ -327,7 +353,8 @@ window.tracNghiem2D15 = [
       "Hàm số đồng biến trên khoảng $(-\\infty ;+\\infty)$"
     ],
     "answer": 2,
-    "explain": "Gọi $(C)$ là đồ thị hàm số $y=\\dfrac{a x+b}{c x+d}$. Từ đồ thị đã cho, ta thấy:  <br>- Hàm số đã cho không có cực trị và đồng biến trên mỗi khoảng $(-\\infty;1)$, $(1;+\\infty)$.<br>- $(C)$ có tiệm cận đứng là đường thẳng $x=1$ và $\\lim\\limits_{x\\rightarrow 1^-}f(x)=+\\infty$ và $\\lim\\limits_{x\\rightarrow 1^+}f(x)=-\\infty$.<br>- $(C)$ có tiệm cận ngang là đường thẳng $y=1$ nên $\\lim\\limits_{x\\rightarrow-\\infty}f(x)=1$, $\\lim\\limits_{x\\rightarrow+\\infty}f(x)=1$."
+    "explain": "Gọi $(C)$ là đồ thị hàm số $y=\\dfrac{a x+b}{c x+d}$. Từ đồ thị đã cho, ta thấy:  <br>- Hàm số đã cho không có cực trị và đồng biến trên mỗi khoảng $(-\\infty;1)$, $(1;+\\infty)$.<br>- $(C)$ có tiệm cận đứng là đường thẳng $x=1$ và $\\lim\\limits_{x\\rightarrow 1^-}f(x)=+\\infty$ và $\\lim\\limits_{x\\rightarrow 1^+}f(x)=-\\infty$.<br>- $(C)$ có tiệm cận ngang là đường thẳng $y=1$ nên $\\lim\\limits_{x\\rightarrow-\\infty}f(x)=1$, $\\lim\\limits_{x\\rightarrow+\\infty}f(x)=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D153TN28",
@@ -339,7 +366,8 @@ window.tracNghiem2D15 = [
       "$1$"
     ],
     "answer": 2,
-    "explain": "Phương trình hoành độ giao điểm của đồ thị hàm số $y=x^3-3x^2+2x$ với trục $Ox$ là $x^3-3x^2+2x=0.\\qquad (1)$  Ta thấy phương trình $(1)$ có $3$ nghiệm phân biệt là $0$, $1$, $2$ nên đồ thị hàm số $y=x^3-3x^2+2x$ cắt trục $Ox$ tại $3$ điểm phân biệt."
+    "explain": "Phương trình hoành độ giao điểm của đồ thị hàm số $y=x^3-3x^2+2x$ với trục $Ox$ là $x^3-3x^2+2x=0.\\qquad (1)$  Ta thấy phương trình $(1)$ có $3$ nghiệm phân biệt là $0$, $1$, $2$ nên đồ thị hàm số $y=x^3-3x^2+2x$ cắt trục $Ox$ tại $3$ điểm phân biệt.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN29",
@@ -351,7 +379,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3 x-1$"
     ],
     "answer": 2,
-    "explain": "Đồ thị hàm số có tiệm cận ngang $y=1$ và tiệm cận đứng $x=1$ nên hàm số cần tìm là $y=\\dfrac{x+1}{x-1}$."
+    "explain": "Đồ thị hàm số có tiệm cận ngang $y=1$ và tiệm cận đứng $x=1$ nên hàm số cần tìm là $y=\\dfrac{x+1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN30",
@@ -363,7 +392,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+2x-1$"
     ],
     "answer": 2,
-    "explain": "Đồ thị ở hình bên là đồ thị hàm số bậc ba $y=ax^3+bx^2+cx+d$ ($a \\ne 0$).<br>  Dựa vào đồ thị $\\lim\\lim\\limits_{x \\to +\\infty} y=-\\infty$ nên $a&lt;0$. Ta loại phương án $y=x^3-2x^2-2x-1$.<br>  Xét phương án $y=-x^3+4x^2-1$ có $y'=-3x^2+8x=0 \\Leftrightarrow x=0$ hoặc $x=\\dfrac{8}{3}$.<br>  Ta loại phương án này vì $x=0$ không phải là điểm cực trị của hàm số.<br>  Xét phương án $y=-x^3+2x-1$ có $y'=-3x^2+2 \\Leftrightarrow x=\\pm \\dfrac{\\sqrt{6}}{3}$.<br>  Dựa vào đồ thị ta thấy hai điểm cực trị không đối xứng qua $0$ nên ta loại phương án này.<br>  Vậy $y=-x^3+2x^2+2x-1$ là hàm cần tìm."
+    "explain": "Đồ thị ở hình bên là đồ thị hàm số bậc ba $y=ax^3+bx^2+cx+d$ ($a \\ne 0$).<br>  Dựa vào đồ thị $\\lim\\lim\\limits_{x \\to +\\infty} y=-\\infty$ nên $a&lt;0$. Ta loại phương án $y=x^3-2x^2-2x-1$.<br>  Xét phương án $y=-x^3+4x^2-1$ có $y'=-3x^2+8x=0 \\Leftrightarrow x=0$ hoặc $x=\\dfrac{8}{3}$.<br>  Ta loại phương án này vì $x=0$ không phải là điểm cực trị của hàm số.<br>  Xét phương án $y=-x^3+2x-1$ có $y'=-3x^2+2 \\Leftrightarrow x=\\pm \\dfrac{\\sqrt{6}}{3}$.<br>  Dựa vào đồ thị ta thấy hai điểm cực trị không đối xứng qua $0$ nên ta loại phương án này.<br>  Vậy $y=-x^3+2x^2+2x-1$ là hàm cần tìm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D155TN31",
@@ -375,7 +405,8 @@ window.tracNghiem2D15 = [
       "Hàm số đã cho đồng biến trên $(-1;1)$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số $y=f'(x)$ cắt trục $Ox$ tại $3$ điểm nên phương trình $f'(x)=0$ có $3$ nghiệm phân biệt $x=-1$, $x=1$ và $x=2$.<br>  Dựa vào hình vẽ, đồ thị hàm số $y=f'(x)$ nằm phía trên trục $Ox$ trên khoảng $(-1;1)$, khi đó $f'(x)&gt;0$, $\\forall x \\in (-1;1)$ nên hàm số $y=f(x)$ đồng biến trên $(-1;1)$."
+    "explain": "Đồ thị hàm số $y=f'(x)$ cắt trục $Ox$ tại $3$ điểm nên phương trình $f'(x)=0$ có $3$ nghiệm phân biệt $x=-1$, $x=1$ và $x=2$.<br>  Dựa vào hình vẽ, đồ thị hàm số $y=f'(x)$ nằm phía trên trục $Ox$ trên khoảng $(-1;1)$, khi đó $f'(x)&gt;0$, $\\forall x \\in (-1;1)$ nên hàm số $y=f(x)$ đồng biến trên $(-1;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN32",
@@ -387,7 +418,8 @@ window.tracNghiem2D15 = [
       "$(-2;2)$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\lim\\limits_{x \\to -\\infty} f(x)=\\lim\\limits_{x \\to +\\infty} f(x)=-2$ nên đường thẳng $y=-2$ là tiệm cận ngang của đồ thị hàm số.<br>  Mặt khác $\\lim\\limits_{x\\to 2^+} f(x)=-\\infty$ và $\\lim\\limits_{x \\to 2^-} f(x)=+\\infty$ nên $x=2$ là tiệm cận đứng của đồ thị hàm số.<br>  Tâm đối xứng $I(2;-2)$ là giao điểm của hai đường tiệm cận."
+    "explain": "Ta có $\\lim\\limits_{x \\to -\\infty} f(x)=\\lim\\limits_{x \\to +\\infty} f(x)=-2$ nên đường thẳng $y=-2$ là tiệm cận ngang của đồ thị hàm số.<br>  Mặt khác $\\lim\\limits_{x\\to 2^+} f(x)=-\\infty$ và $\\lim\\limits_{x \\to 2^-} f(x)=+\\infty$ nên $x=2$ là tiệm cận đứng của đồ thị hàm số.<br>  Tâm đối xứng $I(2;-2)$ là giao điểm của hai đường tiệm cận.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN33",
@@ -399,7 +431,8 @@ window.tracNghiem2D15 = [
       "$(-1; 1)$"
     ],
     "answer": 2,
-    "explain": "Từ đồ thị hàm số ta thấy đồ thị hàm số đồng biến $(-\\infty;0)$ nên đồng biến $(-1;0)$."
+    "explain": "Từ đồ thị hàm số ta thấy đồ thị hàm số đồng biến $(-\\infty;0)$ nên đồng biến $(-1;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN34",
@@ -411,7 +444,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3 x+2$"
     ],
     "answer": 1,
-    "explain": "Đường cong trong hình vẽ là đồ thị hàm số bậc ba với hệ số $a&lt;0$. Suy ra đường cong là đồ thị hàm số $y=-x^3+3 x+2$."
+    "explain": "Đường cong trong hình vẽ là đồ thị hàm số bậc ba với hệ số $a&lt;0$. Suy ra đường cong là đồ thị hàm số $y=-x^3+3 x+2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D158TN35",
@@ -423,7 +457,8 @@ window.tracNghiem2D15 = [
       "$664$ (nghìn đồng)"
     ],
     "answer": 1,
-    "explain": "Ta có $C(x)=8x^2+40x+1400$.<br>  Chi phí để sản xuất đơn vị hàng hoá thứ $60$ là   $C(60)-C(59) = 8\\cdot 60^2+40\\cdot 60+1400-(8\\cdot 59^2+40\\cdot 59+1400)$<br>$= 32600-31608$<br>$= 992.$"
+    "explain": "Ta có $C(x)=8x^2+40x+1400$.<br>  Chi phí để sản xuất đơn vị hàng hoá thứ $60$ là   $C(60)-C(59) = 8\\cdot 60^2+40\\cdot 60+1400-(8\\cdot 59^2+40\\cdot 59+1400)$<br>$= 32600-31608$<br>$= 992.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN36",
@@ -435,7 +470,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x+1}{1-x}$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị ta nhận thấy đồ thị có hai đường tiệm cận là $x=1$ và $y=1$, đồng thời đồ thị hàm số không đi qua $O(0;0)$.<br>  Vậy hàm số có đồ thị như hình vẽ là $y=\\dfrac{x+1}{x-1}$."
+    "explain": "Dựa vào đồ thị ta nhận thấy đồ thị có hai đường tiệm cận là $x=1$ và $y=1$, đồng thời đồ thị hàm số không đi qua $O(0;0)$.<br>  Vậy hàm số có đồ thị như hình vẽ là $y=\\dfrac{x+1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN37",
@@ -447,7 +483,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{2x-1}{x-1}$"
     ],
     "answer": 3,
-    "explain": "<br>- Đồ thị hàm số có tiệm cận ngang là $y=2$.<br>- Đồ thị hàm số có tiệm cận đứng là $x=1$.<br>- Đồ thị hàm số cắt trục tung tại điểm $(0;1)$.  Suy ra đường cong đã cho là đồ thị của hàm số $y=\\dfrac{2x-1}{x-1}$."
+    "explain": "<br>- Đồ thị hàm số có tiệm cận ngang là $y=2$.<br>- Đồ thị hàm số có tiệm cận đứng là $x=1$.<br>- Đồ thị hàm số cắt trục tung tại điểm $(0;1)$.  Suy ra đường cong đã cho là đồ thị của hàm số $y=\\dfrac{2x-1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN38",
@@ -459,7 +496,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+x-2}{x-1}$"
     ],
     "answer": 2,
-    "explain": "Theo đồ thị hàm số, hàm số nhận $x=1$ làm tiệm cận đứng, $y=x+3$ làm tiệm cận xiên.<br>  Xét $y=\\dfrac{x^2+2x-2}{x-1}=x+3+\\dfrac{1}{x-1}$ có<br>  $\\lim_{x\\to+\\infty}[f(x)-(x+3)]=\\lim_{x\\to+\\infty}\\dfrac{1}{x-1}=0$ nên nhận $y=x+3$ làm tiệm cận xiên<br>  và $\\lim_{x\\to 1^+}f(x)=+\\infty$; $\\lim_{x\\to 1^-}f(x)=-\\infty$ nên nhận $x=1$ làm tiệm cận đứng."
+    "explain": "Theo đồ thị hàm số, hàm số nhận $x=1$ làm tiệm cận đứng, $y=x+3$ làm tiệm cận xiên.<br>  Xét $y=\\dfrac{x^2+2x-2}{x-1}=x+3+\\dfrac{1}{x-1}$ có<br>  $\\lim_{x\\to+\\infty}[f(x)-(x+3)]=\\lim_{x\\to+\\infty}\\dfrac{1}{x-1}=0$ nên nhận $y=x+3$ làm tiệm cận xiên<br>  và $\\lim_{x\\to 1^+}f(x)=+\\infty$; $\\lim_{x\\to 1^-}f(x)=-\\infty$ nên nhận $x=1$ làm tiệm cận đứng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN39",
@@ -471,7 +509,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{2x+1}{x-1}$"
     ],
     "answer": 0,
-    "explain": "Từ bảng biến thiên: hàm số có tiệm cận đứng $x=1$, tiệm cận ngang $y=2$ và $y'&gt;0$ trên từng khoảng xác định.  <br>- Với $y=\\dfrac{2x-3}{x-1}$ có $y'=\\dfrac{1}{(x-1)^2}&gt;0$ (phù hợp).<br>- Với $y=\\dfrac{2x-1}{x-1}$ có $y'=\\dfrac{-1}{(x-1)^2}&lt;0$ (nghịch biến, loại).<br>- Với $y=\\dfrac{2x+1}{x-1}$ có $y'=\\dfrac{-3}{(x-1)^2}&lt;0$ (nghịch biến, loại).  Vậy chọn $y=\\dfrac{2x-3}{x-1}$."
+    "explain": "Từ bảng biến thiên: hàm số có tiệm cận đứng $x=1$, tiệm cận ngang $y=2$ và $y'&gt;0$ trên từng khoảng xác định.  <br>- Với $y=\\dfrac{2x-3}{x-1}$ có $y'=\\dfrac{1}{(x-1)^2}&gt;0$ (phù hợp).<br>- Với $y=\\dfrac{2x-1}{x-1}$ có $y'=\\dfrac{-1}{(x-1)^2}&lt;0$ (nghịch biến, loại).<br>- Với $y=\\dfrac{2x+1}{x-1}$ có $y'=\\dfrac{-3}{(x-1)^2}&lt;0$ (nghịch biến, loại).  Vậy chọn $y=\\dfrac{2x-3}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN40",
@@ -483,7 +522,8 @@ window.tracNghiem2D15 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Phương trình hoành độ giao điểm  $ \\dfrac{x^2+3x+3}{x+2}=0 \\Rightarrow x^2+3x+3=0$ (vô nghiệm).<br>  Suy ra đồ thị không cắt trục hoành."
+    "explain": "Phương trình hoành độ giao điểm  $ \\dfrac{x^2+3x+3}{x+2}=0 \\Rightarrow x^2+3x+3=0$ (vô nghiệm).<br>  Suy ra đồ thị không cắt trục hoành.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN41",
@@ -495,7 +535,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x+1$"
     ],
     "answer": 3,
-    "explain": "<br>- Đồ thị trên là đồ thị của hàm số bậc 3.<br>- Đồ thị đi xuống từ nhánh ngoài cùng bên trái nên $a&lt;0$.<br>- Đồ thị có $2$ cực trị.  Suy ra đường cong hình bên là đồ thị của hàm số $y=-x^3+3x+1$."
+    "explain": "<br>- Đồ thị trên là đồ thị của hàm số bậc 3.<br>- Đồ thị đi xuống từ nhánh ngoài cùng bên trái nên $a&lt;0$.<br>- Đồ thị có $2$ cực trị.  Suy ra đường cong hình bên là đồ thị của hàm số $y=-x^3+3x+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN42",
@@ -507,7 +548,8 @@ window.tracNghiem2D15 = [
       "$-2$"
     ],
     "answer": 2,
-    "explain": "Với $x=0$ suy ra $y=2$. Đồ thị hàm số cắt $Oy$ tại điểm $(0;2)$."
+    "explain": "Với $x=0$ suy ra $y=2$. Đồ thị hàm số cắt $Oy$ tại điểm $(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN43",
@@ -519,7 +561,8 @@ window.tracNghiem2D15 = [
       "$y=x^2-3x^2$"
     ],
     "answer": 0,
-    "explain": "Từ hình vẽ ta thấy,  đồ thị có đường tiệm cận đứng và tiệm cận ngang lần lượt là $x=-1$ và $y=1$ nên đó là đồ thị của hàm số $y=\\dfrac{x-1}{x+1}$."
+    "explain": "Từ hình vẽ ta thấy,  đồ thị có đường tiệm cận đứng và tiệm cận ngang lần lượt là $x=-1$ và $y=1$ nên đó là đồ thị của hàm số $y=\\dfrac{x-1}{x+1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D155TN44",
@@ -531,7 +574,8 @@ window.tracNghiem2D15 = [
       "$(C_1)$; $(C_2)$; $(C_3)$"
     ],
     "answer": 3,
-    "explain": "Dựa vào các điểm cực trị của đồ thị hàm số và các giao điểm của đồ thị hàm số với trục hoành, ta thấy  <br>- Đường cong $(C_1)$ là đồ thị của hàm số $y=f(x)$.<br>- Đường cong $(C_2)$ là đồ thị của hàm số $y=f'(x)$.<br>- Đường cong $(C_3)$ là đồ thị của hàm số $y=f(x)$."
+    "explain": "Dựa vào các điểm cực trị của đồ thị hàm số và các giao điểm của đồ thị hàm số với trục hoành, ta thấy  <br>- Đường cong $(C_1)$ là đồ thị của hàm số $y=f(x)$.<br>- Đường cong $(C_2)$ là đồ thị của hàm số $y=f'(x)$.<br>- Đường cong $(C_3)$ là đồ thị của hàm số $y=f(x)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN45",
@@ -543,7 +587,8 @@ window.tracNghiem2D15 = [
       "$4$"
     ],
     "answer": 1,
-    "explain": "Vì $\\lim\\limits_{x\\to \\pm \\infty}\\left[y-(2x-1)\\right]=\\lim\\limits_{x\\to \\pm \\infty}\\dfrac{3}{x+3}=0$<br>  nên đồ thị hàm số nhận đường thẳng $\\Delta\\colon y=2x-1$ làm tiệm cận xiên.<br>  Khi đó \\[\\mathrm{d}\\left(M, \\Delta\\right)=\\dfrac{|2\\cdot 2-1\\cdot (-1)-1|}{\\sqrt{2^2+(-1)^2}}=\\dfrac{4}{\\sqrt{5}}.\\]"
+    "explain": "Vì $\\lim\\limits_{x\\to \\pm \\infty}\\left[y-(2x-1)\\right]=\\lim\\limits_{x\\to \\pm \\infty}\\dfrac{3}{x+3}=0$<br>  nên đồ thị hàm số nhận đường thẳng $\\Delta\\colon y=2x-1$ làm tiệm cận xiên.<br>  Khi đó \\[\\mathrm{d}\\left(M, \\Delta\\right)=\\dfrac{|2\\cdot 2-1\\cdot (-1)-1|}{\\sqrt{2^2+(-1)^2}}=\\dfrac{4}{\\sqrt{5}}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN46",
@@ -555,7 +600,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3x$"
     ],
     "answer": 3,
-    "explain": "Đồ thị trong hình bên là đồ thị hàm số bậc ba có hệ số $x^3$ dương.<br>  Dựa vào đáp án, phương án $y=x^3-3x$ là đúng."
+    "explain": "Đồ thị trong hình bên là đồ thị hàm số bậc ba có hệ số $x^3$ dương.<br>  Dựa vào đáp án, phương án $y=x^3-3x$ là đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN47",
@@ -567,7 +613,8 @@ window.tracNghiem2D15 = [
       "$y=-x^{3}+3x^{2}-4$"
     ],
     "answer": 3,
-    "explain": "Đây là đồ thị của hàm số bậc $3$ và cắt trục tung $Oy$ bằng $-4$ nên đồ thị $y=-x^{3}+3x^{2}-4$ thỏa mãn."
+    "explain": "Đây là đồ thị của hàm số bậc $3$ và cắt trục tung $Oy$ bằng $-4$ nên đồ thị $y=-x^{3}+3x^{2}-4$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN48",
@@ -579,7 +626,8 @@ window.tracNghiem2D15 = [
       "$y=-x^4-2x^2$"
     ],
     "answer": 0,
-    "explain": "Đồ thị hàm số có dạng $y=ax^4+bx^2+c$ với $a\\neq 0$.<br>  Vì $\\lim\\limits_{x\\to +\\infty}y=+\\infty $ nên $a&gt;0$.<br>  Đồ thị đi qua gốc tọa độ nên đồ thị là của hàm số $y=x^4-2x^2$."
+    "explain": "Đồ thị hàm số có dạng $y=ax^4+bx^2+c$ với $a\\neq 0$.<br>  Vì $\\lim\\limits_{x\\to +\\infty}y=+\\infty $ nên $a&gt;0$.<br>  Đồ thị đi qua gốc tọa độ nên đồ thị là của hàm số $y=x^4-2x^2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN49",
@@ -591,7 +639,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+3x^2-4$"
     ],
     "answer": 3,
-    "explain": "Đường cong trong hình vẽ là đồ thị của hàm số bậc ba $y=ax^3+bx^2+cx+d$ với $a&lt;0$.<br>  Đồng thời đồ thị đi qua điểm $(-1;0)$ và $(2;0)$ nên chỉ có hàm số $y=-x^3+3x^2-4$ thỏa mãn."
+    "explain": "Đường cong trong hình vẽ là đồ thị của hàm số bậc ba $y=ax^3+bx^2+cx+d$ với $a&lt;0$.<br>  Đồng thời đồ thị đi qua điểm $(-1;0)$ và $(2;0)$ nên chỉ có hàm số $y=-x^3+3x^2-4$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN50",
@@ -603,7 +652,8 @@ window.tracNghiem2D15 = [
       "$y = -x^3 + x + 1$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị ta thấy hàm số có dạng là hàm bậc ba $y = ax^3 + bx^2 + cx + d$.<br>  Vì $\\displaystyle \\lim\\limits_{x \\to +\\infty} y = -\\infty \\Rightarrow a &lt; 0$.<br>  Hơn nữa, hàm số đạt cực trị tại $x = -1$ và $x = 1$.<br>  Xét hàm số $y = -x^3 + 3x + 1$, ta có $y' = -3x^2 + 3$.<br>  Do đó $y' = 0 \\Leftrightarrow -3x^2 + 3 = 0 \\Leftrightarrow x = -1 \\text{ hoặc } x = 1.$<br>  Suy ra hàm số $y = -x^3 + 3x + 1$ có $a = -1 &lt; 0$ và đạt cực trị tại $x = -1$, $x = 1$.<br>  Vậy đồ thị của hàm số $y = -x^3 + 3x + 1$ có dạng như hình đã cho."
+    "explain": "Dựa vào đồ thị ta thấy hàm số có dạng là hàm bậc ba $y = ax^3 + bx^2 + cx + d$.<br>  Vì $\\displaystyle \\lim\\limits_{x \\to +\\infty} y = -\\infty \\Rightarrow a &lt; 0$.<br>  Hơn nữa, hàm số đạt cực trị tại $x = -1$ và $x = 1$.<br>  Xét hàm số $y = -x^3 + 3x + 1$, ta có $y' = -3x^2 + 3$.<br>  Do đó $y' = 0 \\Leftrightarrow -3x^2 + 3 = 0 \\Leftrightarrow x = -1 \\text{ hoặc } x = 1.$<br>  Suy ra hàm số $y = -x^3 + 3x + 1$ có $a = -1 &lt; 0$ và đạt cực trị tại $x = -1$, $x = 1$.<br>  Vậy đồ thị của hàm số $y = -x^3 + 3x + 1$ có dạng như hình đã cho.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN51",
@@ -615,7 +665,8 @@ window.tracNghiem2D15 = [
       "$y=x^4-3x^2+2$"
     ],
     "answer": 0,
-    "explain": "Đồ thị hàm số có tiệm cận đứng $x=2$ và tiệm cận ngang $y=1$. <br>  Đồ thị hàm số cắt trục $Oy$ tại điểm có hoành độ âm. <br>  Với hàm số $y = \\dfrac{x+2}{x-2}$, ta có $x=0$ suy ra $y =\\dfrac{0+2}{0-2} = -1 &lt; 0$. <br>  Vậy đường cong trong hình vẽ bên là của đồ thị hàm số $y=\\dfrac{x+2}{x-2}$."
+    "explain": "Đồ thị hàm số có tiệm cận đứng $x=2$ và tiệm cận ngang $y=1$. <br>  Đồ thị hàm số cắt trục $Oy$ tại điểm có hoành độ âm. <br>  Với hàm số $y = \\dfrac{x+2}{x-2}$, ta có $x=0$ suy ra $y =\\dfrac{0+2}{0-2} = -1 &lt; 0$. <br>  Vậy đường cong trong hình vẽ bên là của đồ thị hàm số $y=\\dfrac{x+2}{x-2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN52",
@@ -627,7 +678,8 @@ window.tracNghiem2D15 = [
       "$y=-x^4+2x^2-2$"
     ],
     "answer": 1,
-    "explain": "Dựa vào hình vẽ, ta nhận thấy đây là đồ thị của hàm số bậc ba $y=ax^3+bx^2+cx+d$ với hệ số $a&lt;0$.<br>  Vậy đây là đồ thị của hàm số $y=-x^3+3x^2-2$."
+    "explain": "Dựa vào hình vẽ, ta nhận thấy đây là đồ thị của hàm số bậc ba $y=ax^3+bx^2+cx+d$ với hệ số $a&lt;0$.<br>  Vậy đây là đồ thị của hàm số $y=-x^3+3x^2-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN53",
@@ -639,7 +691,8 @@ window.tracNghiem2D15 = [
       "$(-1; 1)$"
     ],
     "answer": 3,
-    "explain": "Tâm đối xứng của đồ thị hàm số có tọa độ là $(-1; 1)$."
+    "explain": "Tâm đối xứng của đồ thị hàm số có tọa độ là $(-1; 1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN54",
@@ -651,7 +704,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2-1}{x-1}$"
     ],
     "answer": 0,
-    "explain": "Đường cong trong hình vẽ là đồ thị của hàm số có dạng $y=\\dfrac{ax+b}{cx+d}$ với $ad-bc\\ne 0$ nên loại $y=\\dfrac{x^2-1}{x-1}$ và $y=\\dfrac{1-x}{-x+1}$.<br>  Đồ thị hàm số có tiệm cận ngang là $y=1$ nên loại $y=\\dfrac{2x-1}{x-1}$."
+    "explain": "Đường cong trong hình vẽ là đồ thị của hàm số có dạng $y=\\dfrac{ax+b}{cx+d}$ với $ad-bc\\ne 0$ nên loại $y=\\dfrac{x^2-1}{x-1}$ và $y=\\dfrac{1-x}{-x+1}$.<br>  Đồ thị hàm số có tiệm cận ngang là $y=1$ nên loại $y=\\dfrac{2x-1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN55",
@@ -663,7 +717,8 @@ window.tracNghiem2D15 = [
       "<br><img src=\"data/12/2D1/im2D1/2D15_tikz_100.png\" alt=\"hinh ve\" class=\"option-graph-img\">"
     ],
     "answer": 1,
-    "explain": "Đồ thị hàm số $y=\\dfrac{x^2+2x+2}{x+1}$ có tiệm cận đứng $x=-1$. <br>  Ta có $y=\\dfrac{x^2+2x+2}{x+1}=x+1+\\dfrac{1}{x+1}$. <br>  Vì $\\lim\\limits_{x\\to-\\infty} \\left(\\dfrac{x^2+2x+2}{x+1}-(x+1)\\right)=\\lim\\limits_{x\\to-\\infty} \\dfrac{1}{x+1}=0$ nên đồ thị hàm số có đường tiệm cận xiên là $y=x+1$."
+    "explain": "Đồ thị hàm số $y=\\dfrac{x^2+2x+2}{x+1}$ có tiệm cận đứng $x=-1$. <br>  Ta có $y=\\dfrac{x^2+2x+2}{x+1}=x+1+\\dfrac{1}{x+1}$. <br>  Vì $\\lim\\limits_{x\\to-\\infty} \\left(\\dfrac{x^2+2x+2}{x+1}-(x+1)\\right)=\\lim\\limits_{x\\to-\\infty} \\dfrac{1}{x+1}=0$ nên đồ thị hàm số có đường tiệm cận xiên là $y=x+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN56",
@@ -675,7 +730,8 @@ window.tracNghiem2D15 = [
       "$y=x^3+3 x^2-4$"
     ],
     "answer": 1,
-    "explain": "Hàm số cần tìm có dạng $y=ax^3+bx^2+cx+d$.  Ta thấy  <br>- $y(0)=-4 \\Rightarrow d=-4$.  <br>  Ta loại đáp án $y=-x^3-3 x^2+4$.<br>- $\\lim\\limits_{x \\to \\pm\\infty} y = \\pm\\infty \\Rightarrow a&gt;0$.  <br>  Ta loại đáp án $y=-\\dfrac{x^3}{3}+x^2-4$.<br>- Đạo hàm $y'=3x^2+2bx+c$.  <br>  Hàm số đạt cực trị tại $x=-2$ và $x=0$ nên phương trình $y'=0$ có $2$ nghiệm $x=-2$ và $x=0$.   <br>  Ta nhận đáp án $y=x^3-3 x^2-4$."
+    "explain": "Hàm số cần tìm có dạng $y=ax^3+bx^2+cx+d$.  Ta thấy  <br>- $y(0)=-4 \\Rightarrow d=-4$.  <br>  Ta loại đáp án $y=-x^3-3 x^2+4$.<br>- $\\lim\\limits_{x \\to \\pm\\infty} y = \\pm\\infty \\Rightarrow a&gt;0$.  <br>  Ta loại đáp án $y=-\\dfrac{x^3}{3}+x^2-4$.<br>- Đạo hàm $y'=3x^2+2bx+c$.  <br>  Hàm số đạt cực trị tại $x=-2$ và $x=0$ nên phương trình $y'=0$ có $2$ nghiệm $x=-2$ và $x=0$.   <br>  Ta nhận đáp án $y=x^3-3 x^2-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN57",
@@ -687,7 +743,8 @@ window.tracNghiem2D15 = [
       "$y=x^2-2x$"
     ],
     "answer": 1,
-    "explain": "Bảng biến thiên có dạng của hàm số $y=ax^3+bx^2+cx+d$ với $a&lt;0$, suy ra hàm số $y=-x^3+3x$ thỏa mãn."
+    "explain": "Bảng biến thiên có dạng của hàm số $y=ax^3+bx^2+cx+d$ với $a&lt;0$, suy ra hàm số $y=-x^3+3x$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN58",
@@ -699,7 +756,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+x+2}{x+1}$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số có tiệm cận xiên $y=x$ và tiệm cận đứng $x=-1$ do đó hàm số $y=\\dfrac{x^2+x+2}{x+1}$ thỏa mãn."
+    "explain": "Đồ thị hàm số có tiệm cận xiên $y=x$ và tiệm cận đứng $x=-1$ do đó hàm số $y=\\dfrac{x^2+x+2}{x+1}$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN59",
@@ -711,7 +769,8 @@ window.tracNghiem2D15 = [
       "$(-1;4)$"
     ],
     "answer": 1,
-    "explain": "Xét hàm số $y=x^3-3x+2$.<br>  Ta có $y'=3x^2-3$ và $y''=6x$.<br>  Cho $y''=0 \\Leftrightarrow 6x = 0 \\Leftrightarrow x = 0$.<br>  Suy ra $y(0)=2$.<br>  Vậy tâm đối xứng là điểm uốn $I(0;2)$."
+    "explain": "Xét hàm số $y=x^3-3x+2$.<br>  Ta có $y'=3x^2-3$ và $y''=6x$.<br>  Cho $y''=0 \\Leftrightarrow 6x = 0 \\Leftrightarrow x = 0$.<br>  Suy ra $y(0)=2$.<br>  Vậy tâm đối xứng là điểm uốn $I(0;2)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN60",
@@ -723,7 +782,8 @@ window.tracNghiem2D15 = [
       "$y = \\dfrac{x + 1}{x - 1}$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị, ta thấy đây là đồ thị của hàm số bậc ba có dạng $ y=ax^3+bx^2+cx+d$ với $a&lt;0$."
+    "explain": "Dựa vào đồ thị, ta thấy đây là đồ thị của hàm số bậc ba có dạng $ y=ax^3+bx^2+cx+d$ với $a&lt;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN61",
@@ -735,7 +795,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3x+2$"
     ],
     "answer": 3,
-    "explain": "Ta có $\\lim\\limits_{x\\to+\\infty}y=+\\infty$, đi qua các điểm $(1;0)$ và $(0;2)$.<br>  Từ các đáp án, ta có hàm số $y=x^3-3x+2$ thỏa mãn."
+    "explain": "Ta có $\\lim\\limits_{x\\to+\\infty}y=+\\infty$, đi qua các điểm $(1;0)$ và $(0;2)$.<br>  Từ các đáp án, ta có hàm số $y=x^3-3x+2$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN62",
@@ -747,7 +808,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+3}{x+2}$"
     ],
     "answer": 2,
-    "explain": "Đồ thị trong hình vẽ là đồ thị hàm số bậc ba $y=ax^3+bx^2+cx+d$ với $a \\ne 0$ nên loại các phương án $y=\\dfrac{x-1}{x+2}$ và $y=\\dfrac{x^2+3}{x+2}$.<br>  Dựa vào hình vẽ, nhánh cuối của đồ thị đi lên, tức là $\\lim\\limits_{x \\to +\\infty} y=+\\infty$ nên loại $y=-x^3+3x+1$.<br>  Vậy đường cong trong hình vẽ là đồ thị hàm số $y=x^3-3x+1$."
+    "explain": "Đồ thị trong hình vẽ là đồ thị hàm số bậc ba $y=ax^3+bx^2+cx+d$ với $a \\ne 0$ nên loại các phương án $y=\\dfrac{x-1}{x+2}$ và $y=\\dfrac{x^2+3}{x+2}$.<br>  Dựa vào hình vẽ, nhánh cuối của đồ thị đi lên, tức là $\\lim\\limits_{x \\to +\\infty} y=+\\infty$ nên loại $y=-x^3+3x+1$.<br>  Vậy đường cong trong hình vẽ là đồ thị hàm số $y=x^3-3x+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN63",
@@ -759,7 +821,8 @@ window.tracNghiem2D15 = [
       "$y = \\dfrac{1}{2}x^3 + \\dfrac{3}{2}x^2 - 2$"
     ],
     "answer": 0,
-    "explain": "Đường cong ở hình vẽ đi qua điểm $(2;2)$ nên là đồ thị của hàm số $y = x^3 + 3x^2 - 2$."
+    "explain": "Đường cong ở hình vẽ đi qua điểm $(2;2)$ nên là đồ thị của hàm số $y = x^3 + 3x^2 - 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN64",
@@ -771,7 +834,8 @@ window.tracNghiem2D15 = [
       "$T = 33$"
     ],
     "answer": 0,
-    "explain": "Ta có $f'(x)=3ax^2+2bx+c$.<br>  Vì $M$, $N$ thuộc đồ thị hàm số nên $d=4$ và $-8a+4b-2c+4=0$. Hơn nữa  $f'(-2)=0 \\text{ và } f'(0)=0 \\Rightarrow 12a-4b+c=0 \\text{ và } c=0.$  Do đó $d=4$, $c=0$ và $12a-4b=0 \\text{ và } -8a+4b=-4\\Rightarrow a=-1 \\text{ và } b=-3.$<br>  Vậy $T = 10a + 5b + 100c - 7d=-10-15+0-28=-53$."
+    "explain": "Ta có $f'(x)=3ax^2+2bx+c$.<br>  Vì $M$, $N$ thuộc đồ thị hàm số nên $d=4$ và $-8a+4b-2c+4=0$. Hơn nữa  $f'(-2)=0 \\text{ và } f'(0)=0 \\Rightarrow 12a-4b+c=0 \\text{ và } c=0.$  Do đó $d=4$, $c=0$ và $12a-4b=0 \\text{ và } -8a+4b=-4\\Rightarrow a=-1 \\text{ và } b=-3.$<br>  Vậy $T = 10a + 5b + 100c - 7d=-10-15+0-28=-53$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN65",
@@ -783,7 +847,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3x^2-4$"
     ],
     "answer": 0,
-    "explain": "Từ đồ thị hàm số, ta có hàm số cần tìm là hàm số bậc ba $y=ax^3+bx^2+cx+d$ ($a\\ne 0$).  <br>- Hệ số $a&lt;0$, loại phương án $y=x^3-3x^2-4$.<br>- Đồ thị hàm số cắt $Oy$ tại $y=-4$, suy ra $d=-4$, loại phương án $y=-x^3+3x^2-2$<br>- Hàm số có $2$ cực trị, loại phương án $y=-x^3-4$.  Vậy hàm số cần tìm là $y=-x^3+3x^2-4$."
+    "explain": "Từ đồ thị hàm số, ta có hàm số cần tìm là hàm số bậc ba $y=ax^3+bx^2+cx+d$ ($a\\ne 0$).  <br>- Hệ số $a&lt;0$, loại phương án $y=x^3-3x^2-4$.<br>- Đồ thị hàm số cắt $Oy$ tại $y=-4$, suy ra $d=-4$, loại phương án $y=-x^3+3x^2-2$<br>- Hàm số có $2$ cực trị, loại phương án $y=-x^3-4$.  Vậy hàm số cần tìm là $y=-x^3+3x^2-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN66",
@@ -795,7 +860,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+4 x-1}{x-1}$"
     ],
     "answer": 0,
-    "explain": "Dựa vào đồ thị hàm số ta thấy đây là hàm số bậc $3$, có hệ số $a&lt;0$ và có $2$ cực trị nên chọn đáp án $y=-x^3+3 x^2-4$."
+    "explain": "Dựa vào đồ thị hàm số ta thấy đây là hàm số bậc $3$, có hệ số $a&lt;0$ và có $2$ cực trị nên chọn đáp án $y=-x^3+3 x^2-4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN67",
@@ -807,7 +873,8 @@ window.tracNghiem2D15 = [
       "$m \\in \\left(-1;3\\right)$"
     ],
     "answer": 2,
-    "explain": "<br><img src=\"data/12/2D1/im2D1/2D15_tikz_122.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo giả thiết, phương trình $f(x)=m$ có duy nhất một nghiệm.<br>  Theo hình vẽ, đồ thị hàm số $y=f(x)$ cắt đường thẳng $y=m$ tại một điểm khi và chỉ khi $m \\in \\left(-\\infty;-1\\right) \\cup \\left(3;+\\infty\\right)$."
+    "explain": "<br><img src=\"data/12/2D1/im2D1/2D15_tikz_122.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Theo giả thiết, phương trình $f(x)=m$ có duy nhất một nghiệm.<br>  Theo hình vẽ, đồ thị hàm số $y=f(x)$ cắt đường thẳng $y=m$ tại một điểm khi và chỉ khi $m \\in \\left(-\\infty;-1\\right) \\cup \\left(3;+\\infty\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN68",
@@ -819,7 +886,8 @@ window.tracNghiem2D15 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": "Theo hình vẽ, đồ thị hàm số $y=\\dfrac{ax+3}{bx+c}$ đi qua điểm $A(-3;0)$ nên $0=\\dfrac{-3a+3}{-3b+c} \\Rightarrow -3a+3=0 \\Rightarrow a=1. \\quad (1)$  Đồ thị của hàm số $y=\\dfrac{ax+3}{bx+c}$ có đường tiệm cận   đứng là $x=-\\dfrac{c}{b}$ và đường tiệm cận ngang là $y=\\dfrac{a}{b}$.<br>  Mà theo hình vẽ, đồ thị của hàm số $y=\\dfrac{ax+3}{bx+c}$ có đường tiệm cận đứng là $x=-2$ và đường tiệm cận ngang là $y=1$  nên ta có $-\\dfrac{c}{b}=-2 \\quad (2) \\text{ và } \\dfrac{a}{b}=1 \\quad (3).$<br>  Từ (1), (2) và (3) ta có hệ  $a=1 \\text{ và } -\\dfrac{c}{b}=-2 \\text{ và } \\dfrac{a}{b}=1 \\Rightarrow a=1 \\text{ và } 2b-c=0 \\text{ và } a-b=0 \\Rightarrow a=1 \\text{ và } b=1 \\text{ và } c=2.$  Vậy $M=a+b+c=1+1+2=4$."
+    "explain": "Theo hình vẽ, đồ thị hàm số $y=\\dfrac{ax+3}{bx+c}$ đi qua điểm $A(-3;0)$ nên $0=\\dfrac{-3a+3}{-3b+c} \\Rightarrow -3a+3=0 \\Rightarrow a=1. \\quad (1)$  Đồ thị của hàm số $y=\\dfrac{ax+3}{bx+c}$ có đường tiệm cận   đứng là $x=-\\dfrac{c}{b}$ và đường tiệm cận ngang là $y=\\dfrac{a}{b}$.<br>  Mà theo hình vẽ, đồ thị của hàm số $y=\\dfrac{ax+3}{bx+c}$ có đường tiệm cận đứng là $x=-2$ và đường tiệm cận ngang là $y=1$  nên ta có $-\\dfrac{c}{b}=-2 \\quad (2) \\text{ và } \\dfrac{a}{b}=1 \\quad (3).$<br>  Từ (1), (2) và (3) ta có hệ  $a=1 \\text{ và } -\\dfrac{c}{b}=-2 \\text{ và } \\dfrac{a}{b}=1 \\Rightarrow a=1 \\text{ và } 2b-c=0 \\text{ và } a-b=0 \\Rightarrow a=1 \\text{ và } b=1 \\text{ và } c=2.$  Vậy $M=a+b+c=1+1+2=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN69",
@@ -831,7 +899,8 @@ window.tracNghiem2D15 = [
       "$ y' &lt; 0$, $\\forall x\\ne 3$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị hàm số ta thấy đồ thị là đường đi xuống từ trái qua phải trên các khoảng $\\left(-\\infty\\,;\\,2\\right)$ và $\\left(2\\,;\\,+\\infty\\right)$ nên hàm số nghịch biến, suy ra $ y' &lt; 0\\,,\\,\\,\\forall x\\ne 2$."
+    "explain": "Dựa vào đồ thị hàm số ta thấy đồ thị là đường đi xuống từ trái qua phải trên các khoảng $\\left(-\\infty\\,;\\,2\\right)$ và $\\left(2\\,;\\,+\\infty\\right)$ nên hàm số nghịch biến, suy ra $ y' &lt; 0\\,,\\,\\,\\forall x\\ne 2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN70",
@@ -843,7 +912,8 @@ window.tracNghiem2D15 = [
       "$ y=\\dfrac{x^2+2x+2}{x+1}$"
     ],
     "answer": 0,
-    "explain": "Dựa vào bảng biến thiên ta thấy đồ thị hàm số có tiệm cận đứng là đường thẳng $ x=1$. Do đó hàm số $ y=\\dfrac{x^2+2x-2}{x+1}$ và $ y=\\dfrac{x^2+2x+2}{x+1}$ không thỏa mãn.<br>  Ta thấy đồ thị hàm số đi qua điểm $\\left(0;2\\right)$ nên hàm số $ y=\\dfrac{x^2+2x+2}{x-1}$ không thỏa mãn.<br>  Vậy bảng biến thiên đề bài cho là của hàm số $ y=\\dfrac{x^2+2x-2}{x-1}$."
+    "explain": "Dựa vào bảng biến thiên ta thấy đồ thị hàm số có tiệm cận đứng là đường thẳng $ x=1$. Do đó hàm số $ y=\\dfrac{x^2+2x-2}{x+1}$ và $ y=\\dfrac{x^2+2x+2}{x+1}$ không thỏa mãn.<br>  Ta thấy đồ thị hàm số đi qua điểm $\\left(0;2\\right)$ nên hàm số $ y=\\dfrac{x^2+2x+2}{x-1}$ không thỏa mãn.<br>  Vậy bảng biến thiên đề bài cho là của hàm số $ y=\\dfrac{x^2+2x-2}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN71",
@@ -855,7 +925,8 @@ window.tracNghiem2D15 = [
       "$a&lt;0; d&gt;0$"
     ],
     "answer": 2,
-    "explain": "Đồ thị cắt trục tung tại điểm có hoành độ âm suy ra $d&lt;0$.<br>  Và $\\lim\\limits_{x\\to +\\infty} y=-\\infty$, suy ra $a&lt;0$."
+    "explain": "Đồ thị cắt trục tung tại điểm có hoành độ âm suy ra $d&lt;0$.<br>  Và $\\lim\\limits_{x\\to +\\infty} y=-\\infty$, suy ra $a&lt;0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN72",
@@ -867,7 +938,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+x+2}{x+1}$"
     ],
     "answer": 3,
-    "explain": "Đồ thị hàm số có tiệm cận xiên $y=x$ và tiệm cận đứng $x=-1$ do đó hàm số $y=\\dfrac{x^2+x+2}{x+1}$ thỏa mãn."
+    "explain": "Đồ thị hàm số có tiệm cận xiên $y=x$ và tiệm cận đứng $x=-1$ do đó hàm số $y=\\dfrac{x^2+x+2}{x+1}$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN73",
@@ -879,7 +951,8 @@ window.tracNghiem2D15 = [
       "$y=x^3-3x+1$"
     ],
     "answer": 2,
-    "explain": "Đồ thị trên là đồ thị hàm bậc $3$ có $a&lt;0$ nên chỉ có hàm số $y=-x^3+3x+1$ thỏa mãn."
+    "explain": "Đồ thị trên là đồ thị hàm bậc $3$ có $a&lt;0$ nên chỉ có hàm số $y=-x^3+3x+1$ thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN74",
@@ -891,7 +964,8 @@ window.tracNghiem2D15 = [
       "$ y=\\dfrac{-x-3}{x-1}$"
     ],
     "answer": 2,
-    "explain": "Nhìn vào bảng biến thiên ta thấy ngay tiệm cận đứng $x=1$ và tiệm cận ngang $ y=-1$, do đó hàm số $ y=\\dfrac{x+3}{x-1}$ không thỏa mãn.<br>   Nhìn vào bảng biến thiên, hàm số nghịch biến trên các khoảng $\\left(-\\infty ;1\\right)$ và $\\left(1;+\\infty\\right)$.<br>  Do đó hàm số $ y=\\dfrac{-x-2}{x-1}$ và   $ y=\\dfrac{-x-3}{x-1}$ không thỏa mãn do có $y'&gt;0, \\forall x \\ne 1$.<br>  Hàm số $ y=\\dfrac{-x+3}{x-1}$ có $ y'=\\dfrac{-2}{(x-1)^2} &lt; 0, \\forall x \\ne 1$ nên thỏa mãn."
+    "explain": "Nhìn vào bảng biến thiên ta thấy ngay tiệm cận đứng $x=1$ và tiệm cận ngang $ y=-1$, do đó hàm số $ y=\\dfrac{x+3}{x-1}$ không thỏa mãn.<br>   Nhìn vào bảng biến thiên, hàm số nghịch biến trên các khoảng $\\left(-\\infty ;1\\right)$ và $\\left(1;+\\infty\\right)$.<br>  Do đó hàm số $ y=\\dfrac{-x-2}{x-1}$ và   $ y=\\dfrac{-x-3}{x-1}$ không thỏa mãn do có $y'&gt;0, \\forall x \\ne 1$.<br>  Hàm số $ y=\\dfrac{-x+3}{x-1}$ có $ y'=\\dfrac{-2}{(x-1)^2} &lt; 0, \\forall x \\ne 1$ nên thỏa mãn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN75",
@@ -903,7 +977,8 @@ window.tracNghiem2D15 = [
       "$y=-x+1+\\dfrac{1}{x-1}$"
     ],
     "answer": 1,
-    "explain": "Từ đồ thị hàm số ta thấy, đồ thị ở trên là đồ thị hàm số dạng bậc hai trên bậc nhất và có đường tiệm cận xiên.<br>  Do đó hàm số thỏa mãn đồ thị là $y=\\dfrac{x^2-x+1}{x-1}$."
+    "explain": "Từ đồ thị hàm số ta thấy, đồ thị ở trên là đồ thị hàm số dạng bậc hai trên bậc nhất và có đường tiệm cận xiên.<br>  Do đó hàm số thỏa mãn đồ thị là $y=\\dfrac{x^2-x+1}{x-1}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN76",
@@ -915,7 +990,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+5x^2-6x$"
     ],
     "answer": 1,
-    "explain": "Từ đồ thị hàm số trên, ta có hàm số đã cho là hàm bậc ba và có hệ số $a&gt;0$.<br>  Lại có đồ thị đã cho cắt trục hoành tại ba điểm là $0$, $2$, $3$. Do đó hàm số có đường cong như hình vẽ bên là hàm số $y=x^3-5x^2+6x$."
+    "explain": "Từ đồ thị hàm số trên, ta có hàm số đã cho là hàm bậc ba và có hệ số $a&gt;0$.<br>  Lại có đồ thị đã cho cắt trục hoành tại ba điểm là $0$, $2$, $3$. Do đó hàm số có đường cong như hình vẽ bên là hàm số $y=x^3-5x^2+6x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D153TN77",
@@ -927,7 +1003,8 @@ window.tracNghiem2D15 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Vẽ đường thẳng $d\\colon y=1$ trên cùng hệ trục tọa độ với đồ thị $(C)\\colon y=f(x)$.<br> Dựa vào đồ thị, phương trình $f(x)=1$ có $3$ phân biệt."
+    "explain": "Vẽ đường thẳng $d\\colon y=1$ trên cùng hệ trục tọa độ với đồ thị $(C)\\colon y=f(x)$.<br> Dựa vào đồ thị, phương trình $f(x)=1$ có $3$ phân biệt.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D152TN2",
@@ -939,7 +1016,8 @@ window.tracNghiem2D15 = [
       "$\\left(-1;0\\right)$"
     ],
     "answer": 1,
-    "explain": "Dựa vào đồ thị ta có tiệm cận ngang là $ y=2 $ và tiệm cận đứng là $ x=-1 $.<br>  Suy ra tâm đối xứng của đồ thị có tọa độ $\\left(-1;2\\right)$."
+    "explain": "Dựa vào đồ thị ta có tiệm cận ngang là $ y=2 $ và tiệm cận đứng là $ x=-1 $.<br>  Suy ra tâm đối xứng của đồ thị có tọa độ $\\left(-1;2\\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D154TN1",
@@ -951,7 +1029,8 @@ window.tracNghiem2D15 = [
       "$2$"
     ],
     "answer": 0,
-    "explain": "Xét phương trình hoành độ giao điểm<br>  $x^3-1=x^2-3x-1\\Leftrightarrow x^3-x^2+3x=0\\Leftrightarrow x(x^2-x+3)=0$.<br>  Phương trình $x^2-x+3=0$ có $\\Delta=(-1)^2-4(1)(3)=1-12=-11&lt; 0$, nên vô nghiệm. <br>  Vậy phương trình ban đầu có nghiệm duy nhất $x=0$."
+    "explain": "Xét phương trình hoành độ giao điểm<br>  $x^3-1=x^2-3x-1\\Leftrightarrow x^3-x^2+3x=0\\Leftrightarrow x(x^2-x+3)=0$.<br>  Phương trình $x^2-x+3=0$ có $\\Delta=(-1)^2-4(1)(3)=1-12=-11&lt; 0$, nên vô nghiệm. <br>  Vậy phương trình ban đầu có nghiệm duy nhất $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN2",
@@ -963,7 +1042,8 @@ window.tracNghiem2D15 = [
       "$y=-x^3+2x^2-1$"
     ],
     "answer": 1,
-    "explain": "Đồ thị hàm số đã cho có dạng hàm số bậc ba <br>  $y=ax^3+bx^2+cx+d\\Rightarrow y'=3ax^2+2bx+c$.<br>  Dựa vào đồ thị ta có hệ phương trình<br>  $y(0)=1 \\text{ và } y(2)=5 \\text{ và } y'(0)=0 \\text{ và } y'(2)=0\\Rightarrow d=1 \\text{ và } 8a+4b+2c+d=5 \\text{ và } c=0 \\text{ và } 12a+4b+c=0\\Rightarrow a=-1 \\text{ và } b=3 \\text{ và } c=0 \\text{ và } d=1\\Rightarrow y=-x^3+3x^2+1$."
+    "explain": "Đồ thị hàm số đã cho có dạng hàm số bậc ba <br>  $y=ax^3+bx^2+cx+d\\Rightarrow y'=3ax^2+2bx+c$.<br>  Dựa vào đồ thị ta có hệ phương trình<br>  $y(0)=1 \\text{ và } y(2)=5 \\text{ và } y'(0)=0 \\text{ và } y'(2)=0\\Rightarrow d=1 \\text{ và } 8a+4b+2c+d=5 \\text{ và } c=0 \\text{ và } 12a+4b+c=0\\Rightarrow a=-1 \\text{ và } b=3 \\text{ và } c=0 \\text{ và } d=1\\Rightarrow y=-x^3+3x^2+1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN77",
@@ -975,7 +1055,8 @@ window.tracNghiem2D15 = [
       "$y=\\dfrac{x^2+4x+5}{x-2}$"
     ],
     "answer": 2,
-    "explain": "<br>- Ta có $x=-2$ là tiệm cận đứng của đồ thị hàm số nên loại $y=\\dfrac{x^2+4x+5}{x-2}$.<br>- Đồ thị đi qua điểm $(-1;2)$ nên chọn $y=\\dfrac{x^2+4x+5}{x+2}$ vì $2=\\dfrac{(-1)^2+4\\cdot(-1)+5}{-1+2}$ đúng."
+    "explain": "<br>- Ta có $x=-2$ là tiệm cận đứng của đồ thị hàm số nên loại $y=\\dfrac{x^2+4x+5}{x-2}$.<br>- Đồ thị đi qua điểm $(-1;2)$ nên chọn $y=\\dfrac{x^2+4x+5}{x+2}$ vì $2=\\dfrac{(-1)^2+4\\cdot(-1)+5}{-1+2}$ đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D151TN78",
@@ -987,6 +1068,7 @@ window.tracNghiem2D15 = [
       "$[1;5]$"
     ],
     "answer": 2,
-    "explain": "Dựa vào đồ thị hàm số trên đoạn $[-1;5]$, ta thấy tập giá trị của hàm số là $[-1;3]$."
+    "explain": "Dựa vào đồ thị hàm số trên đoạn $[-1;5]$, ta thấy tập giá trị của hàm số là $[-1;3]$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

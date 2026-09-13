@@ -9,7 +9,8 @@ window.tracNghiem2H53 = [
       "$I(1;-1;3)$ và $R=\\sqrt{5}$"
     ],
     "answer": 1,
-    "explain": "Dễ dàng thấy mặt cầu $(S)$ có tâm $I(0;-1;3)$ và bán kính $R=\\sqrt{5}$."
+    "explain": "Dễ dàng thấy mặt cầu $(S)$ có tâm $I(0;-1;3)$ và bán kính $R=\\sqrt{5}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN2",
@@ -21,7 +22,8 @@ window.tracNghiem2H53 = [
       "$I(1;-2;3)$ và $R=\\sqrt{15} $"
     ],
     "answer": 3,
-    "explain": "Ta có $x^2+y^2+z^2-2x+4y-6z-1=0 \\Leftrightarrow (x-1)^2+(y+2)^2+(z-3)^2=15$, do đó mặt cầu $(S)$ có tâm $I(1;-2;3)$ và bán kính $R=\\sqrt{15} $."
+    "explain": "Ta có $x^2+y^2+z^2-2x+4y-6z-1=0 \\Leftrightarrow (x-1)^2+(y+2)^2+(z-3)^2=15$, do đó mặt cầu $(S)$ có tâm $I(1;-2;3)$ và bán kính $R=\\sqrt{15} $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN3",
@@ -33,7 +35,8 @@ window.tracNghiem2H53 = [
       "$m \\neq 0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN4",
@@ -45,7 +48,8 @@ window.tracNghiem2H53 = [
       "$m\\geq 6$"
     ],
     "answer": 1,
-    "explain": "Phương trình đã cho là phương trình mặt cầu khi và chỉ khi: $ (2)^2+(-1)^2+(1)^2-m&gt;0 \\Leftrightarrow m&lt;6 $."
+    "explain": "Phương trình đã cho là phương trình mặt cầu khi và chỉ khi: $ (2)^2+(-1)^2+(1)^2-m&gt;0 \\Leftrightarrow m&lt;6 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN5",
@@ -57,7 +61,8 @@ window.tracNghiem2H53 = [
       "$-4$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN6",
@@ -69,7 +74,8 @@ window.tracNghiem2H53 = [
       "$6$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN7",
@@ -81,7 +87,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+(y+1)^2+(z-2)^2 =9$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN8",
@@ -93,7 +100,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2-2x+2y-2z-2=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN9",
@@ -105,7 +113,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^{2}+(y+2)^{2}+(z-3)^{2}=2^{2}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN10",
@@ -117,7 +126,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^{2}+(y-2)^{2}+(z+3)^{2}=16$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN11",
@@ -129,7 +139,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y-2)^{2}+z^{2}=9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN12",
@@ -141,7 +152,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y-1)^{2}+(z-1)^{2}=2$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN13",
@@ -153,7 +165,8 @@ window.tracNghiem2H53 = [
       "$ (x-2)^2+(y+3)^2+(z-4)^2=9 $"
     ],
     "answer": 3,
-    "explain": "Ta có $ IA=\\sqrt{4+1+4}=3 $. Phương trình mặt cầu là $ (x-2)^2+(y+3)^2+(z-4)^2=9 $."
+    "explain": "Ta có $ IA=\\sqrt{4+1+4}=3 $. Phương trình mặt cầu là $ (x-2)^2+(y+3)^2+(z-4)^2=9 $.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN14",
@@ -165,7 +178,8 @@ window.tracNghiem2H53 = [
       "$(S): x^{2} + y^{2} + z^{2} + 2 x - 6 z + 7 = 0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN15",
@@ -177,7 +191,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2+4x-4z-19=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN16",
@@ -189,7 +204,8 @@ window.tracNghiem2H53 = [
       "$\\big(x - 1\\big)^2 + \\big(y - 3\\big)^2 + z^2 = 6$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN17",
@@ -201,7 +217,8 @@ window.tracNghiem2H53 = [
       "$(S): x^{2}+(y-3)^{2}+(z-2)^{2}=12$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN18",
@@ -213,7 +230,8 @@ window.tracNghiem2H53 = [
       "$(S): x^{2}+y^{2}+z^{2}-8 x+4 z+12=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN19",
@@ -225,7 +243,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+(y-2)^2+(z-3)^2=28$"
     ],
     "answer": 2,
-    "explain": "Gọi phương trình mặt cầu có dạng $x^2+y^2+z^2-2ax-2by-2cz+d=0$ với điều kiện $a^2+b^2+c^2-d&gt;0$ Ta có   $\\left\\{\\begin{aligned}A&\\in (S)\\\\B&\\in (S)\\\\C&\\in (S) \\\\O& \\in (S)\\end{aligned}\\right. \\Leftrightarrow \\left\\{\\begin{array}{l} 2^2-4a=0\\\\ 4^2-8b=0\\\\ 6^2-12c=0\\\\ d=0 \\end{array}\\right. \\Leftrightarrow \\left\\{\\begin{array}{l} a=1\\\\ b=2\\\\ c=3\\\\ d=0 \\end{array}\\right.$"
+    "explain": "Gọi phương trình mặt cầu có dạng $x^2+y^2+z^2-2ax-2by-2cz+d=0$ với điều kiện $a^2+b^2+c^2-d&gt;0$ Ta có   $\\left\\{\\begin{aligned}A&\\in (S)\\\\B&\\in (S)\\\\C&\\in (S) \\\\O& \\in (S)\\end{aligned}\\right. \\Leftrightarrow \\left\\{\\begin{array}{l} 2^2-4a=0\\\\ 4^2-8b=0\\\\ 6^2-12c=0\\\\ d=0 \\end{array}\\right. \\Leftrightarrow \\left\\{\\begin{array}{l} a=1\\\\ b=2\\\\ c=3\\\\ d=0 \\end{array}\\right.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN20",
@@ -237,7 +256,8 @@ window.tracNghiem2H53 = [
       "$\\dfrac{\\sqrt{41}}{3}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN21",
@@ -249,7 +269,8 @@ window.tracNghiem2H53 = [
       "$\\dfrac{77}{20}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN22",
@@ -261,7 +282,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^{2}+(y-3)^{2}+(z+4)^{2}=4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN23",
@@ -273,7 +295,8 @@ window.tracNghiem2H53 = [
       "$2$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN24",
@@ -285,7 +308,8 @@ window.tracNghiem2H53 = [
       "$14\\pi$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN25",
@@ -297,7 +321,8 @@ window.tracNghiem2H53 = [
       "$(S):x^2+(y+3)^2+z^2=9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN26",
@@ -309,7 +334,8 @@ window.tracNghiem2H53 = [
       "$R = 5$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN27",
@@ -321,7 +347,8 @@ window.tracNghiem2H53 = [
       "$R=\\dfrac{4}{3}$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN28",
@@ -333,7 +360,8 @@ window.tracNghiem2H53 = [
       "$16\\pi$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN29",
@@ -345,7 +373,8 @@ window.tracNghiem2H53 = [
       "$\\sqrt{20}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN30",
@@ -357,7 +386,8 @@ window.tracNghiem2H53 = [
       "$D(1;1;1)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN31",
@@ -369,7 +399,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^2 +y^2 +z^2 =3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN32",
@@ -381,7 +412,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2-4x-2y+8z-4=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN33",
@@ -393,7 +425,8 @@ window.tracNghiem2H53 = [
       "$-6x-2y+3z+55=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN34",
@@ -405,7 +438,8 @@ window.tracNghiem2H53 = [
       "$(x-5)^2+y^2+(z-4)^2=\\dfrac{8}{223}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN35",
@@ -417,7 +451,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^{2}+(y-1)^{2}+(z+3)^{2}=9$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN36",
@@ -429,7 +464,8 @@ window.tracNghiem2H53 = [
       "$x^2+(y-2)^2+(z-3)^2=2$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN37",
@@ -441,7 +477,8 @@ window.tracNghiem2H53 = [
       "$(x-5)^{2}+(y-6)^{2}+(z-8)^{2}=10$"
     ],
     "answer": 0,
-    "explain": "Ta có: $H(5 ; 0 ; 0)$ là hình chiếu của $I$ lên $O x$. Do đó: $I H=H B=10 \\Rightarrow R=I B=10 \\sqrt{2}$.  Suy ra $(S):(x-5)^{2}+(y-6)^{2}+(z-8)^{2}=200$."
+    "explain": "Ta có: $H(5 ; 0 ; 0)$ là hình chiếu của $I$ lên $O x$. Do đó: $I H=H B=10 \\Rightarrow R=I B=10 \\sqrt{2}$.  Suy ra $(S):(x-5)^{2}+(y-6)^{2}+(z-8)^{2}=200$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN38",
@@ -453,7 +490,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y-4)^{2}+(z-3)^{2}=20$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN39",
@@ -465,7 +503,8 @@ window.tracNghiem2H53 = [
       "$(x-3)^{2}+(y-3)^{2}+(z-4)^{2}=25$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN40",
@@ -477,7 +516,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y-1)^{2}+(z-1)^{2}=25$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN41",
@@ -489,7 +529,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y-4)^{2}+(z-3)^{2}=19$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN42",
@@ -501,7 +542,8 @@ window.tracNghiem2H53 = [
       "$\\left(x-4\\right)^2+\\left(y-1\\right)^2+\\left(z-6\\right)^2=9$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN43",
@@ -513,7 +555,8 @@ window.tracNghiem2H53 = [
       "$4\\sqrt{5}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H531TN44",
@@ -525,7 +568,8 @@ window.tracNghiem2H53 = [
       "$\\Delta$ và $(S)$ có vô số điểm chung"
     ],
     "answer": 1,
-    "explain": "Mặt cầu $(S)$ có tâm $I(-1;2;0)$ và bán kính $r=3$.<br> Đường thẳng $\\Delta$ đia qua điểm $M(-3;1;2)$ và có một VTCP là $\\vec{u}=(2;1;5)$ và $\\vec{IM}=(-2;-1;2)$.<br> Ta có: $\\left[\\vec{IM},\\vec{u}\\right]=(-7;14;0)$.<br>  Do đó: $d\\left(I,\\Delta\\right)=\\dfrac{\\left|\\left[\\vec{IM},\\vec{u}\\right]\\right|}{\\left|\\vec{u}\\right|}=\\dfrac{\\sqrt{(-7)^2+14^2+0^2}}{\\sqrt{2^2+1^2+5^2}}=\\sqrt{\\dfrac{49}{6}}=\\dfrac{7}{\\sqrt{6}}&lt;r$.<br> Vậy Đường thẳng $\\Delta$ cắt mặt cầu $(S)$ tại hai điểm phân biệt"
+    "explain": "Mặt cầu $(S)$ có tâm $I(-1;2;0)$ và bán kính $r=3$.<br> Đường thẳng $\\Delta$ đia qua điểm $M(-3;1;2)$ và có một VTCP là $\\vec{u}=(2;1;5)$ và $\\vec{IM}=(-2;-1;2)$.<br> Ta có: $\\left[\\vec{IM},\\vec{u}\\right]=(-7;14;0)$.<br>  Do đó: $d\\left(I,\\Delta\\right)=\\dfrac{\\left|\\left[\\vec{IM},\\vec{u}\\right]\\right|}{\\left|\\vec{u}\\right|}=\\dfrac{\\sqrt{(-7)^2+14^2+0^2}}{\\sqrt{2^2+1^2+5^2}}=\\sqrt{\\dfrac{49}{6}}=\\dfrac{7}{\\sqrt{6}}&lt;r$.<br> Vậy Đường thẳng $\\Delta$ cắt mặt cầu $(S)$ tại hai điểm phân biệt",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN45",
@@ -537,7 +581,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2-y-5=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN46",
@@ -549,7 +594,8 @@ window.tracNghiem2H53 = [
       "$(x+7)^2 + y^2 + z^2 = 36$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN47",
@@ -561,7 +607,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^2+(y-1)^2+z^2=9$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN48",
@@ -573,7 +620,8 @@ window.tracNghiem2H53 = [
       "$x^2+(y+6)^2+(z-1)^2=36$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN49",
@@ -585,7 +633,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+y^2+(z-1)^2=4$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN50",
@@ -597,7 +646,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2-2x+2y-2z-2=0$"
     ],
     "answer": 1,
-    "explain": "$I(2;-1;3) \\in (\\alpha); IM = IN = IP = 4.$ Vậy mặt cầu có phương trình $x^2+y^2+z^2-4x+2y-6z-2=0$."
+    "explain": "$I(2;-1;3) \\in (\\alpha); IM = IN = IP = 4.$ Vậy mặt cầu có phương trình $x^2+y^2+z^2-4x+2y-6z-2=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN51",
@@ -609,7 +659,8 @@ window.tracNghiem2H53 = [
       "$(x+2)^2 + y^2 + (z+1)^2 =11$"
     ],
     "answer": 2,
-    "explain": "Đáp số: tâm $I(-2;0;1)$"
+    "explain": "Đáp số: tâm $I(-2;0;1)$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN52",
@@ -621,7 +672,8 @@ window.tracNghiem2H53 = [
       "$ x^2 + (y-1)^2 + z^2 = 11 $"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN53",
@@ -633,7 +685,8 @@ window.tracNghiem2H53 = [
       "$6x+2y+3z-55=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN54",
@@ -645,7 +698,8 @@ window.tracNghiem2H53 = [
       "$m = \\pm 2n$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN55",
@@ -657,7 +711,8 @@ window.tracNghiem2H53 = [
       "$30^\\circ$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN56",
@@ -669,7 +724,8 @@ window.tracNghiem2H53 = [
       "mặt phẳng $(P)$ không cắt mặt cầu $(S)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN57",
@@ -681,7 +737,8 @@ window.tracNghiem2H53 = [
       "$11\\pi a^2$"
     ],
     "answer": 3,
-    "explain": "<br><img src=\"data/12/2D5/im2H5/B5_tikz_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Chọn hệ trục tọa độ như hình vẽ, với  $A\\equiv O(0;0;0),B(a;0;0),D(0;2a;0),S(0;0;a),C(a;a;0),E(0;a;0).$  Phương trình mặt cầu cần tìm có dạng  $x^2+y^2+z^2-2mx-2ny-2pz+d=0.$  Ta có mặt cầu đi qua các điểm $S,C,E,D$ nên ta có hệ phương trình  $a^2-2ap+d=0 \\text{ và } 2a^2-2am-2an+d=0 \\text{ và } a^2-2an+d=0 \\text{ và } 4a^2-4an+d=0  \\Leftrightarrow m=\\dfrac{a}{2} \\text{ và } n=\\dfrac{3a}{2} \\text{ và } p=\\dfrac{3a}{2} \\text{ và } d=2a^2.$  Bán kính của mặt cầu  $R=\\sqrt{m^2+n^2+p^2-d}=\\dfrac{a\\sqrt{11}}{2}.$  Vậy diện tích mặt cầu ngoại tiếp hình chóp $S.CDE$  $S=4 \\pi R^2=11 \\pi a^2.$"
+    "explain": "<br><img src=\"data/12/2D5/im2H5/B5_tikz_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Chọn hệ trục tọa độ như hình vẽ, với  $A\\equiv O(0;0;0),B(a;0;0),D(0;2a;0),S(0;0;a),C(a;a;0),E(0;a;0).$  Phương trình mặt cầu cần tìm có dạng  $x^2+y^2+z^2-2mx-2ny-2pz+d=0.$  Ta có mặt cầu đi qua các điểm $S,C,E,D$ nên ta có hệ phương trình  $a^2-2ap+d=0 \\text{ và } 2a^2-2am-2an+d=0 \\text{ và } a^2-2an+d=0 \\text{ và } 4a^2-4an+d=0  \\Leftrightarrow m=\\dfrac{a}{2} \\text{ và } n=\\dfrac{3a}{2} \\text{ và } p=\\dfrac{3a}{2} \\text{ và } d=2a^2.$  Bán kính của mặt cầu  $R=\\sqrt{m^2+n^2+p^2-d}=\\dfrac{a\\sqrt{11}}{2}.$  Vậy diện tích mặt cầu ngoại tiếp hình chóp $S.CDE$  $S=4 \\pi R^2=11 \\pi a^2.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN58",
@@ -693,7 +750,8 @@ window.tracNghiem2H53 = [
       "$\\sqrt{66}$"
     ],
     "answer": 3,
-    "explain": "Đáp số: $\\dfrac{2\\sqrt{102}}{17}$<br>Đáp số: $\\sqrt{66}$"
+    "explain": "Đáp số: $\\dfrac{2\\sqrt{102}}{17}$<br>Đáp số: $\\sqrt{66}$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN59",
@@ -705,7 +763,8 @@ window.tracNghiem2H53 = [
       "$I(-1;0;3)$, $R=4$"
     ],
     "answer": 2,
-    "explain": "Ta có $(x+1)^2+y^2+(z-3)^2=4\\Leftrightarrow (x+1)^2+y^2+(z-3)^2=2^2$.<br>  Từ phương trình ta có $I(-1;0;3)$, $R=2$."
+    "explain": "Ta có $(x+1)^2+y^2+(z-3)^2=4\\Leftrightarrow (x+1)^2+y^2+(z-3)^2=2^2$.<br>  Từ phương trình ta có $I(-1;0;3)$, $R=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN60",
@@ -717,7 +776,8 @@ window.tracNghiem2H53 = [
       "$I(1;-2;-1)$, $R=9$"
     ],
     "answer": 0,
-    "explain": "Ta có  $x^2+y^2+z^2-2x+4y+2z-3=0$<br>$\\Leftrightarrow (x^2-2x+1)+(y^2+4y+4)+(z^2+2z+1)-9=0$<br>$\\Leftrightarrow (x^2-2x+1)+(y^2+4y+4)+(z^2+2z+1)=9$<br>$\\Leftrightarrow (x-1)^2+(y+2)^2+(z+1)^2=3^2$  Từ phương trình ta có $I(1;-2;-1)$, $R=3$."
+    "explain": "Ta có  $x^2+y^2+z^2-2x+4y+2z-3=0$<br>$\\Leftrightarrow (x^2-2x+1)+(y^2+4y+4)+(z^2+2z+1)-9=0$<br>$\\Leftrightarrow (x^2-2x+1)+(y^2+4y+4)+(z^2+2z+1)=9$<br>$\\Leftrightarrow (x-1)^2+(y+2)^2+(z+1)^2=3^2$  Từ phương trình ta có $I(1;-2;-1)$, $R=3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN61",
@@ -729,7 +789,8 @@ window.tracNghiem2H53 = [
       "$13$"
     ],
     "answer": 0,
-    "explain": "Mặt cầu $(S)$ có bán kính là $R=10$."
+    "explain": "Mặt cầu $(S)$ có bán kính là $R=10$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN62",
@@ -741,7 +802,8 @@ window.tracNghiem2H53 = [
       "$(-5;6;-7)$"
     ],
     "answer": 2,
-    "explain": "Tọa độ tâm của mặt cầu $(S)$ là $(5;-6;7)$."
+    "explain": "Tọa độ tâm của mặt cầu $(S)$ là $(5;-6;7)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN63",
@@ -753,7 +815,8 @@ window.tracNghiem2H53 = [
       "$R=6$"
     ],
     "answer": 0,
-    "explain": "Bán kính $R=\\sqrt{9}=3$"
+    "explain": "Bán kính $R=\\sqrt{9}=3$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H531TN64",
@@ -765,7 +828,8 @@ window.tracNghiem2H53 = [
       "Tâm $I\\big(- 2; 1;- 3\\big)$, bán kính $R = 9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN65",
@@ -777,7 +841,8 @@ window.tracNghiem2H53 = [
       "$I(-1;2;-3),R=16$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN66",
@@ -789,7 +854,8 @@ window.tracNghiem2H53 = [
       "$m\\in \\mathbb{R}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN67",
@@ -801,7 +867,8 @@ window.tracNghiem2H53 = [
       "$m\\ge 1$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN68",
@@ -813,7 +880,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+y^2+(z+2)^2=2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN69",
@@ -825,7 +893,8 @@ window.tracNghiem2H53 = [
       "$\\left(x-1\\right)^2+\\left(y-1\\right)^2+\\left(z-2\\right)^2=9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN70",
@@ -837,7 +906,8 @@ window.tracNghiem2H53 = [
       "$8\\sqrt{6}\\pi$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN71",
@@ -849,7 +919,8 @@ window.tracNghiem2H53 = [
       "$\\big(x - 1\\big)^2 + \\big(y - 3\\big)^2 + z^2 = 6$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN72",
@@ -861,7 +932,8 @@ window.tracNghiem2H53 = [
       "$(S):\\ (x+1)^2+y^2+(z-3)^2=3$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN73",
@@ -873,7 +945,8 @@ window.tracNghiem2H53 = [
       "\\((x+1)^2+(y-3)^2+(z+3)^2=18\\)"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN74",
@@ -885,7 +958,8 @@ window.tracNghiem2H53 = [
       "$\\left\\{\\begin{matrix} x=0\\\\ y=0\\\\ z=t\\\\ \\end{matrix}\\right.$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H531TN75",
@@ -897,7 +971,8 @@ window.tracNghiem2H53 = [
       "Mặt cầu $(S)$ và mặt phẳng $(P)$ không cắt nhau"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN76",
@@ -909,7 +984,8 @@ window.tracNghiem2H53 = [
       "mặt phẳng $(P)$ không cắt mặt cầu $(S)$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN77",
@@ -921,7 +997,8 @@ window.tracNghiem2H53 = [
       "$26$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN78",
@@ -933,7 +1010,8 @@ window.tracNghiem2H53 = [
       "$(S):(x-2)^2+(y+2)^2+(z-1)^2=9$ hoặc $(S):(x+1)^2+(y-2)^2+(z+2)^2=9$"
     ],
     "answer": 1,
-    "explain": "Dùng MTCT, thế tâm mặt cầu ở các phương án vào phương trình mặt phẳng."
+    "explain": "Dùng MTCT, thế tâm mặt cầu ở các phương án vào phương trình mặt phẳng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN79",
@@ -945,7 +1023,8 @@ window.tracNghiem2H53 = [
       "$29\\pi$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN80",
@@ -957,7 +1036,8 @@ window.tracNghiem2H53 = [
       "$4$"
     ],
     "answer": 3,
-    "explain": "Từ giả thiết suy ra $(S):(x-1)^2+(y-1)^2+(z-3)^2=10$. Dễ dàng tìm được các giao điểm của $(S)$ với các trục tọa độ là $(1;0;0),(0;1;0),(0;0;3-2\\sqrt{2})$ và $(0;0;3+2\\sqrt{2})$."
+    "explain": "Từ giả thiết suy ra $(S):(x-1)^2+(y-1)^2+(z-3)^2=10$. Dễ dàng tìm được các giao điểm của $(S)$ với các trục tọa độ là $(1;0;0),(0;1;0),(0;0;3-2\\sqrt{2})$ và $(0;0;3+2\\sqrt{2})$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN81",
@@ -969,7 +1049,8 @@ window.tracNghiem2H53 = [
       "$3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN82",
@@ -981,7 +1062,8 @@ window.tracNghiem2H53 = [
       "$H\\left(4;2;-2\\right)$"
     ],
     "answer": 2,
-    "explain": "Gọi $H(-2+3t;-2+2t;-t)$ là hình chiếu của điểm $I$ trên đường thẳng $d$. Từ điều kiện $\\overrightarrow{IH}\\cdot\\overrightarrow{u}_d=0$ ta tính được $t=1$. Kết luận $H(1;0;-1)$ chính là điểm tiếp xúc giữa mặt cầu tâm $I$ và đường thẳng $d$."
+    "explain": "Gọi $H(-2+3t;-2+2t;-t)$ là hình chiếu của điểm $I$ trên đường thẳng $d$. Từ điều kiện $\\overrightarrow{IH}\\cdot\\overrightarrow{u}_d=0$ ta tính được $t=1$. Kết luận $H(1;0;-1)$ chính là điểm tiếp xúc giữa mặt cầu tâm $I$ và đường thẳng $d$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN83",
@@ -993,7 +1075,8 @@ window.tracNghiem2H53 = [
       "$(x+2)^2+(y+4)^2+(z-5)^2=90$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN84",
@@ -1005,7 +1088,8 @@ window.tracNghiem2H53 = [
       "$-2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN85",
@@ -1017,7 +1101,8 @@ window.tracNghiem2H53 = [
       "$OA=5$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN86",
@@ -1029,7 +1114,8 @@ window.tracNghiem2H53 = [
       "$H\\left(-\\dfrac{23}{9};-\\dfrac{17}{9};-\\dfrac{49}{9}\\right),r=\\dfrac{\\sqrt{475}}{3}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN87",
@@ -1041,7 +1127,8 @@ window.tracNghiem2H53 = [
       "$\\big(x - 1\\big)^2 + \\big(y - 2\\big)^2 + \\big(z + 2\\big)^2 = 16$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN88",
@@ -1053,7 +1140,8 @@ window.tracNghiem2H53 = [
       "$y+z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN89",
@@ -1065,7 +1153,8 @@ window.tracNghiem2H53 = [
       "$a+b+c=1$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN90",
@@ -1077,7 +1166,8 @@ window.tracNghiem2H53 = [
       "$1$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN91",
@@ -1089,7 +1179,8 @@ window.tracNghiem2H53 = [
       "$m \\in \\{1;3\\}$"
     ],
     "answer": 0,
-    "explain": "Mặt cầu $(S)$ có tâm $I(-2;3;0)$ và bán kính $R=\\sqrt{13}$.<br> Ta tính được $d(I,(P))=\\sqrt{13-9}=2$. Suy ra $\\dfrac{\\left|2.(-2)-2.3-1.0+m\\right|}{\\sqrt{2^2+(-2)^2+(-1)^2}}=2$.<br> Do đó $\\left|m-10\\right|=6 \\Longleftrightarrow m=16 \\text{ hoặc } m=4$."
+    "explain": "Mặt cầu $(S)$ có tâm $I(-2;3;0)$ và bán kính $R=\\sqrt{13}$.<br> Ta tính được $d(I,(P))=\\sqrt{13-9}=2$. Suy ra $\\dfrac{\\left|2.(-2)-2.3-1.0+m\\right|}{\\sqrt{2^2+(-2)^2+(-1)^2}}=2$.<br> Do đó $\\left|m-10\\right|=6 \\Longleftrightarrow m=16 \\text{ hoặc } m=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN92",
@@ -1101,7 +1192,8 @@ window.tracNghiem2H53 = [
       "$(S):x^2+(y+3)^2+z^2=9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN93",
@@ -1113,7 +1205,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^2+(y+2)^2+(z-1)^2=3$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN94",
@@ -1125,7 +1218,8 @@ window.tracNghiem2H53 = [
       "$x-3z=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN95",
@@ -1137,7 +1231,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^2+y^2+(z+1)^2=3$"
     ],
     "answer": 0,
-    "explain": "Vì $A$ và $O$ đều thuộc mặt cầu $(S)$ nên $IA=IO=R$.<br>  Ta lại có $OA=\\sqrt{2}$.<br>  Theo đề, chu vi tam giác $OIA$ bằng $6+\\sqrt{2}$.<br>  Do vậy $2R+\\sqrt{2}=6+\\sqrt{2}$. Từ đó $R=3$.<br>  Trong bốn đáp án, chỉ có đáp án A thì bán kính bằng 3. Nên ta sẽ chọn đáp án A."
+    "explain": "Vì $A$ và $O$ đều thuộc mặt cầu $(S)$ nên $IA=IO=R$.<br>  Ta lại có $OA=\\sqrt{2}$.<br>  Theo đề, chu vi tam giác $OIA$ bằng $6+\\sqrt{2}$.<br>  Do vậy $2R+\\sqrt{2}=6+\\sqrt{2}$. Từ đó $R=3$.<br>  Trong bốn đáp án, chỉ có đáp án A thì bán kính bằng 3. Nên ta sẽ chọn đáp án A.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN96",
@@ -1149,7 +1244,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2 +y^2+z^2 =9$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN97",
@@ -1161,7 +1257,8 @@ window.tracNghiem2H53 = [
       "$4\\sqrt{5}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN98",
@@ -1173,7 +1270,8 @@ window.tracNghiem2H53 = [
       "$40\\pi$"
     ],
     "answer": 2,
-    "explain": "Gọi $I,R$ là tâm và bán kính của mặt cầu, ta có $IH \\perp (P)$ và $I$ là giao điểm của đường thẳng đi qua $I,H$ và mặt phẳng $(Q)$. Phương trình của đường thẳng $IH : \\left\\{\\begin{aligned} x&=-1+t \\\\ y&=1-2t\\\\ z&=1+2t  \\end{aligned}\\right.$. <br> Điểm $I$ thuộc $(Q)$ cho nên $ -1+t+1-2t+1+2t=0 \\Rightarrow t=-1$ ta có được $I(-2;3;-1)$, $R^2=IH^2 +r^2 =9+4=13$, diện tích của mặt cầu là $4 \\pi R^2 = 52\\pi$."
+    "explain": "Gọi $I,R$ là tâm và bán kính của mặt cầu, ta có $IH \\perp (P)$ và $I$ là giao điểm của đường thẳng đi qua $I,H$ và mặt phẳng $(Q)$. Phương trình của đường thẳng $IH : \\left\\{\\begin{aligned} x&=-1+t \\\\ y&=1-2t\\\\ z&=1+2t  \\end{aligned}\\right.$. <br> Điểm $I$ thuộc $(Q)$ cho nên $ -1+t+1-2t+1+2t=0 \\Rightarrow t=-1$ ta có được $I(-2;3;-1)$, $R^2=IH^2 +r^2 =9+4=13$, diện tích của mặt cầu là $4 \\pi R^2 = 52\\pi$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN99",
@@ -1185,7 +1283,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^2+(y-3)^2+(z-1)^2 =25$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN100",
@@ -1197,7 +1296,8 @@ window.tracNghiem2H53 = [
       "$6$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN101",
@@ -1209,7 +1309,8 @@ window.tracNghiem2H53 = [
       "$\\left(x+1\\right)^2+\\left(y-2\\right)^2+\\left(z+3\\right)^2=50$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN102",
@@ -1221,7 +1322,8 @@ window.tracNghiem2H53 = [
       "$3\\sqrt{3}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN103",
@@ -1233,7 +1335,8 @@ window.tracNghiem2H53 = [
       "$4x-11y+7z=0$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN104",
@@ -1245,7 +1348,8 @@ window.tracNghiem2H53 = [
       "$x^2+(y-z)^2-2x-4(y-z)-9=0$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN105",
@@ -1257,7 +1361,8 @@ window.tracNghiem2H53 = [
       "$I(-3;1;-8)$ và bán kính $R=4\\sqrt{3}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN106",
@@ -1269,7 +1374,8 @@ window.tracNghiem2H53 = [
       "$I(1;-2;3), R = 4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN107",
@@ -1281,7 +1387,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+(y-2)^2+z^2=4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN108",
@@ -1293,7 +1400,8 @@ window.tracNghiem2H53 = [
       "$(x+2)^2+y^2+(z-2)^2=38$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN109",
@@ -1305,7 +1413,8 @@ window.tracNghiem2H53 = [
       "$ m = 0 $"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN110",
@@ -1317,7 +1426,8 @@ window.tracNghiem2H53 = [
       "$m\\in \\mathbb{R}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN111",
@@ -1329,7 +1439,8 @@ window.tracNghiem2H53 = [
       "$m=-4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN112",
@@ -1341,7 +1452,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^{2}+(y+2)^{2}+(z-3)^{2}=9$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN113",
@@ -1353,7 +1465,8 @@ window.tracNghiem2H53 = [
       "$x^2 + y^2 + z^2 + 2y - 8 = 0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN114",
@@ -1365,7 +1478,8 @@ window.tracNghiem2H53 = [
       "$(x+5)^2+(y+1)^2+z^2=36$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN115",
@@ -1377,7 +1491,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+z^2-2x+4y-4z=0$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN116",
@@ -1389,7 +1504,8 @@ window.tracNghiem2H53 = [
       "$I(2;2;-2)$ và $R=2$"
     ],
     "answer": 3,
-    "explain": "Nhận xét: vì $\\overrightarrow{AB}\\ne k \\overrightarrow{AC}$ nên 3 điểm $A$, $B$, $C$ không thẳng hàng.<br>  Có $N(3,2,-1)$ là trung điểm $AB$, $G(1;2;-3)$ là trọng tâm tam giác $ABC$.<br>  Áp dụng $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}=3\\overrightarrow{MG}$ ta được:<br>  $\\left|\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+3\\overrightarrow{MN}\\right|=\\left|3\\overrightarrow{MG}+3\\overrightarrow{MN}\\right|=3\\left|\\overrightarrow{MG}+\\overrightarrow{MN}\\right|=6\\left|\\overrightarrow{MI}\\right|= 12\\Longrightarrow \\left|\\overrightarrow{MI}\\right|=2$<br>  Vậy tập hợp $M$ là đường tròn tâm $I$, bán kính bằng 2 với $I(2;2;-2)$ là trung điểm $GN$."
+    "explain": "Nhận xét: vì $\\overrightarrow{AB}\\ne k \\overrightarrow{AC}$ nên 3 điểm $A$, $B$, $C$ không thẳng hàng.<br>  Có $N(3,2,-1)$ là trung điểm $AB$, $G(1;2;-3)$ là trọng tâm tam giác $ABC$.<br>  Áp dụng $\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}=3\\overrightarrow{MG}$ ta được:<br>  $\\left|\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}+3\\overrightarrow{MN}\\right|=\\left|3\\overrightarrow{MG}+3\\overrightarrow{MN}\\right|=3\\left|\\overrightarrow{MG}+\\overrightarrow{MN}\\right|=6\\left|\\overrightarrow{MI}\\right|= 12\\Longrightarrow \\left|\\overrightarrow{MI}\\right|=2$<br>  Vậy tập hợp $M$ là đường tròn tâm $I$, bán kính bằng 2 với $I(2;2;-2)$ là trung điểm $GN$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN117",
@@ -1401,7 +1517,8 @@ window.tracNghiem2H53 = [
       "$ I(3; - 2; 1)$ và $R = 4$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN118",
@@ -1413,7 +1530,8 @@ window.tracNghiem2H53 = [
       "$I(-1;-2;1),\\; R=9$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN119",
@@ -1425,7 +1543,8 @@ window.tracNghiem2H53 = [
       "$-\\dfrac{9}{\\sqrt{35}}$"
     ],
     "answer": 1,
-    "explain": "Ta có $\\cos\\widehat{BAC}=\\cos \\left(\\overrightarrow{AB},\\overrightarrow{AC}\\right)=\\dfrac{\\overrightarrow{AB}\\cdot\\overrightarrow{AC}}{\\left| \\overrightarrow{AB}\\right|\\left| \\overrightarrow{AC}\\right|}$, với $\\overrightarrow{AB}=\\left(1;5;-2\\right)$, $\\overrightarrow{AC}=\\left(5;4;-1\\right)$.<br>  Do đó $\\cos \\left(\\widehat{BAC}\\right)=\\dfrac{1\\cdot5+5\\cdot4+\\left(-2\\right)\\cdot\\left(-1\\right)}{\\sqrt{1^2+5^2+{\\left(-2\\right)}^2}\\cdot\\sqrt{5^2+4^2+{\\left(-1\\right)}^2}}=\\dfrac{27}{\\sqrt{30}\\cdot\\sqrt{42}}=\\dfrac{9}{2\\sqrt{35}}$."
+    "explain": "Ta có $\\cos\\widehat{BAC}=\\cos \\left(\\overrightarrow{AB},\\overrightarrow{AC}\\right)=\\dfrac{\\overrightarrow{AB}\\cdot\\overrightarrow{AC}}{\\left| \\overrightarrow{AB}\\right|\\left| \\overrightarrow{AC}\\right|}$, với $\\overrightarrow{AB}=\\left(1;5;-2\\right)$, $\\overrightarrow{AC}=\\left(5;4;-1\\right)$.<br>  Do đó $\\cos \\left(\\widehat{BAC}\\right)=\\dfrac{1\\cdot5+5\\cdot4+\\left(-2\\right)\\cdot\\left(-1\\right)}{\\sqrt{1^2+5^2+{\\left(-2\\right)}^2}\\cdot\\sqrt{5^2+4^2+{\\left(-1\\right)}^2}}=\\dfrac{27}{\\sqrt{30}\\cdot\\sqrt{42}}=\\dfrac{9}{2\\sqrt{35}}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN120",
@@ -1437,7 +1556,8 @@ window.tracNghiem2H53 = [
       "Trung điểm $I$ của $AB$ là $I(6;4;2)$"
     ],
     "answer": 3,
-    "explain": "Trung điểm $I$ của $AB$ là $I(3;2;1)$."
+    "explain": "Trung điểm $I$ của $AB$ là $I(3;2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H531TN121",
@@ -1449,7 +1569,8 @@ window.tracNghiem2H53 = [
       "$\\left|\\vec{a}\\right|=\\sqrt{2}$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\vec{c}\\cdot \\vec{b}=1\\cdot 1+1\\cdot 1+1\\cdot 0=2\\ne 0$ nên mệnh đề $\\vec{c}\\perp \\vec{b}$ là sai."
+    "explain": "Ta có $\\vec{c}\\cdot \\vec{b}=1\\cdot 1+1\\cdot 1+1\\cdot 0=2\\ne 0$ nên mệnh đề $\\vec{c}\\perp \\vec{b}$ là sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN122",
@@ -1461,7 +1582,8 @@ window.tracNghiem2H53 = [
       "$\\left( 1;-2;3 \\right)$"
     ],
     "answer": 3,
-    "explain": "Từ phương trình của mặt cầu $\\left( S \\right)$, suy ra tâm của mặt cầu $\\left( S \\right)$ có tọa độ là $\\left( 1;-2;3 \\right)$."
+    "explain": "Từ phương trình của mặt cầu $\\left( S \\right)$, suy ra tâm của mặt cầu $\\left( S \\right)$ có tọa độ là $\\left( 1;-2;3 \\right)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN123",
@@ -1473,7 +1595,8 @@ window.tracNghiem2H53 = [
       "$I(1;-2;3), R = 4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN124",
@@ -1485,7 +1608,8 @@ window.tracNghiem2H53 = [
       "$m\\in \\mathbb{R}$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN125",
@@ -1497,7 +1621,8 @@ window.tracNghiem2H53 = [
       "$m&lt;-4$ hoặc $m&gt;2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN126",
@@ -1509,7 +1634,8 @@ window.tracNghiem2H53 = [
       "$m\\ge 1$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN127",
@@ -1521,7 +1647,8 @@ window.tracNghiem2H53 = [
       "$M\\left(-\\dfrac{3}{2};\\dfrac{7}{2};-1\\right)$"
     ],
     "answer": 1,
-    "explain": "Ta tìm điểm $I$ sao cho $\\overrightarrow{IA}+2\\overrightarrow{IB}=\\overrightarrow{0}$.<br> Ta có $\\overrightarrow{IA}+2\\overrightarrow{IB}=\\overrightarrow{0}\\Leftrightarrow 0-x_I+2\\left(-3-x_I\\right)=0 \\text{ và } 2-y_I+2\\left(5-y_I\\right)=0 \\text{ và } -4-z_I+2\\left(2-z_I\\right)=0\\Leftrightarrow x_I=-2 \\text{ và } y_I=4 \\text{ và } z_I=0$.<br> Như vậy $I(-2;4;0)$.<br> Từ đó:<br> $MA^2+2MB^2=\\overrightarrow{MA}^2+2\\overrightarrow{MB}^2$<br> $=\\left(\\overrightarrow{MI}+\\overrightarrow{IA}\\right)^2+2\\left(\\overrightarrow{MI}+\\overrightarrow{IB}\\right)^2$<br> $=3MI^2+IA^2+2IB^2+\\overrightarrow{MI}\\left(\\overrightarrow{IA}+2\\overrightarrow{IB}\\right)$<br> $=3MI^2+IA^2+2IB^2 \\ge IA^2+2IB^2=30$.<br> Do đó $MA^2+2MB^2$ đạt giá trị nhỏ nhất là bằng $30$ khi và chỉ khi $MI=0 \\Leftrightarrow M\\equiv I$. Hay $M=(-2;4;0)$."
+    "explain": "Ta tìm điểm $I$ sao cho $\\overrightarrow{IA}+2\\overrightarrow{IB}=\\overrightarrow{0}$.<br> Ta có $\\overrightarrow{IA}+2\\overrightarrow{IB}=\\overrightarrow{0}\\Leftrightarrow 0-x_I+2\\left(-3-x_I\\right)=0 \\text{ và } 2-y_I+2\\left(5-y_I\\right)=0 \\text{ và } -4-z_I+2\\left(2-z_I\\right)=0\\Leftrightarrow x_I=-2 \\text{ và } y_I=4 \\text{ và } z_I=0$.<br> Như vậy $I(-2;4;0)$.<br> Từ đó:<br> $MA^2+2MB^2=\\overrightarrow{MA}^2+2\\overrightarrow{MB}^2$<br> $=\\left(\\overrightarrow{MI}+\\overrightarrow{IA}\\right)^2+2\\left(\\overrightarrow{MI}+\\overrightarrow{IB}\\right)^2$<br> $=3MI^2+IA^2+2IB^2+\\overrightarrow{MI}\\left(\\overrightarrow{IA}+2\\overrightarrow{IB}\\right)$<br> $=3MI^2+IA^2+2IB^2 \\ge IA^2+2IB^2=30$.<br> Do đó $MA^2+2MB^2$ đạt giá trị nhỏ nhất là bằng $30$ khi và chỉ khi $MI=0 \\Leftrightarrow M\\equiv I$. Hay $M=(-2;4;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN128",
@@ -1533,7 +1660,8 @@ window.tracNghiem2H53 = [
       "$ \\sqrt{29}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN129",
@@ -1545,7 +1673,8 @@ window.tracNghiem2H53 = [
       "$(x-1)^2+(y-2)^2+(z-3)^2=3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN130",
@@ -1557,7 +1686,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^2+y^2+(z-1)^2=4$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN131",
@@ -1569,7 +1699,8 @@ window.tracNghiem2H53 = [
       "$m&lt;-4$ hoặc $m&gt;2$"
     ],
     "answer": 2,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN132",
@@ -1581,7 +1712,8 @@ window.tracNghiem2H53 = [
       "$r=3$"
     ],
     "answer": 2,
-    "explain": "Mặt cầu $(S)$ có tâm $I(0;2;-1)$ và bán kính $R=4$.<br> Khoảng cách từ tâm $I$ đến mặt phẳng $(P)$ là $d=\\dfrac{|0+4+2+3|}{\\sqrt{1+4+4}}=3$.<br> Bán kính đường tròn do mặt phẳng $(P)$ cắt mặt cầu là $r=\\sqrt{R^2-d^2}=\\sqrt{7}$."
+    "explain": "Mặt cầu $(S)$ có tâm $I(0;2;-1)$ và bán kính $R=4$.<br> Khoảng cách từ tâm $I$ đến mặt phẳng $(P)$ là $d=\\dfrac{|0+4+2+3|}{\\sqrt{1+4+4}}=3$.<br> Bán kính đường tròn do mặt phẳng $(P)$ cắt mặt cầu là $r=\\sqrt{R^2-d^2}=\\sqrt{7}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN133",
@@ -1593,7 +1725,8 @@ window.tracNghiem2H53 = [
       "$x^2+y^2+(z-1)^2=\\dfrac{3}{4}$"
     ],
     "answer": 2,
-    "explain": "Có $\\left[\\vec{BC}, \\vec{BD}\\right]=(1;-2;-2)$.<br> Mặt phẳng $(BCD)$ đi qua điểm $B$ và có vec-tơ pháp tuyến $\\vec{n}=\\left[\\vec{BC}, \\vec{BD}\\right]=(1;-2;-2)$ nên có phương trình là: $1(x-0)-2(y-1)-2(z-0)=0 \\Longleftrightarrow x-2y-2z+2=0$.<br> Ta có $R = d(A,(BCD))=\\dfrac{\\left|1.1 -2.0-2.0+2\\right|}{\\sqrt{1^2+(-2)^2+(-2)^2}}=1$.<br> Vậy phương trình mặt cầu cần tìm là $(x-1)^2+y^2+z^2=1$."
+    "explain": "Có $\\left[\\vec{BC}, \\vec{BD}\\right]=(1;-2;-2)$.<br> Mặt phẳng $(BCD)$ đi qua điểm $B$ và có vec-tơ pháp tuyến $\\vec{n}=\\left[\\vec{BC}, \\vec{BD}\\right]=(1;-2;-2)$ nên có phương trình là: $1(x-0)-2(y-1)-2(z-0)=0 \\Longleftrightarrow x-2y-2z+2=0$.<br> Ta có $R = d(A,(BCD))=\\dfrac{\\left|1.1 -2.0-2.0+2\\right|}{\\sqrt{1^2+(-2)^2+(-2)^2}}=1$.<br> Vậy phương trình mặt cầu cần tìm là $(x-1)^2+y^2+z^2=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H533TN134",
@@ -1605,7 +1738,8 @@ window.tracNghiem2H53 = [
       "$(x-5)^2+y^2+(z-4)^2=\\dfrac{8}{223}$"
     ],
     "answer": 3,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN135",
@@ -1617,7 +1751,8 @@ window.tracNghiem2H53 = [
       "$H\\left(-\\dfrac{23}{9};-\\dfrac{17}{9};-\\dfrac{49}{9}\\right),r=\\dfrac{\\sqrt{475}}{3}$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN136",
@@ -1629,7 +1764,8 @@ window.tracNghiem2H53 = [
       "$y+z=0$"
     ],
     "answer": 0,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN137",
@@ -1641,7 +1777,8 @@ window.tracNghiem2H53 = [
       "$r=3$"
     ],
     "answer": 1,
-    "explain": ""
+    "explain": "",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H531TN138",
@@ -1653,7 +1790,8 @@ window.tracNghiem2H53 = [
       "$\\Delta$ và $(S)$ có vô số điểm chung"
     ],
     "answer": 1,
-    "explain": "Mặt cầu $(S)$ có tâm $I(-1;2;0)$ và bán kính $r=3$.<br> Đường thẳng $\\Delta$ đia qua điểm $M(-3;1;2)$ và có một VTCP là $\\vec{u}=(2;1;5)$ và $\\vec{IM}=(-2;-1;2)$.<br> Ta có: $\\left[\\vec{IM},\\vec{u}\\right]=(-7;14;0)$.<br>  Do đó: $d\\left(I,\\Delta\\right)=\\dfrac{\\left|\\left[\\vec{IM},\\vec{u}\\right]\\right|}{\\left|\\vec{u}\\right|}=\\dfrac{\\sqrt{(-7)^2+14^2+0^2}}{\\sqrt{2^2+1^2+5^2}}=\\sqrt{\\dfrac{49}{6}}=\\dfrac{7}{\\sqrt{6}}&lt;r$.<br> Vậy Đường thẳng $\\Delta$ cắt mặt cầu $(S)$ tại hai điểm phân biệt"
+    "explain": "Mặt cầu $(S)$ có tâm $I(-1;2;0)$ và bán kính $r=3$.<br> Đường thẳng $\\Delta$ đia qua điểm $M(-3;1;2)$ và có một VTCP là $\\vec{u}=(2;1;5)$ và $\\vec{IM}=(-2;-1;2)$.<br> Ta có: $\\left[\\vec{IM},\\vec{u}\\right]=(-7;14;0)$.<br>  Do đó: $d\\left(I,\\Delta\\right)=\\dfrac{\\left|\\left[\\vec{IM},\\vec{u}\\right]\\right|}{\\left|\\vec{u}\\right|}=\\dfrac{\\sqrt{(-7)^2+14^2+0^2}}{\\sqrt{2^2+1^2+5^2}}=\\sqrt{\\dfrac{49}{6}}=\\dfrac{7}{\\sqrt{6}}&lt;r$.<br> Vậy Đường thẳng $\\Delta$ cắt mặt cầu $(S)$ tại hai điểm phân biệt",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN139",
@@ -1665,7 +1803,8 @@ window.tracNghiem2H53 = [
       "$4$"
     ],
     "answer": 0,
-    "explain": "Ta có $R=\\sqrt{1+4+9+2}=4$ suy ra đường kính của mặt cầu $(S)$ bằng $8$."
+    "explain": "Ta có $R=\\sqrt{1+4+9+2}=4$ suy ra đường kính của mặt cầu $(S)$ bằng $8$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN140",
@@ -1677,7 +1816,8 @@ window.tracNghiem2H53 = [
       "$I(2;1;-3)$"
     ],
     "answer": 3,
-    "explain": "Phương trình mặt cầu   $x^2+y^2+z^2-4x+2z-6y-2=0$<br>$\\Leftrightarrow x^2+y^2+z^2-2\\cdot2\\cdot x-2\\cdot 3\\cdot y-2\\cdot (-1)\\cdot z-2=0$  Vậy tâm mặt cầu là $I(2;3;-1)$."
+    "explain": "Phương trình mặt cầu   $x^2+y^2+z^2-4x+2z-6y-2=0$<br>$\\Leftrightarrow x^2+y^2+z^2-2\\cdot2\\cdot x-2\\cdot 3\\cdot y-2\\cdot (-1)\\cdot z-2=0$  Vậy tâm mặt cầu là $I(2;3;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN141",
@@ -1689,7 +1829,8 @@ window.tracNghiem2H53 = [
       "$(2;-4;-2)$"
     ],
     "answer": 0,
-    "explain": "Tọa độ tâm $I(-1;2;1)$."
+    "explain": "Tọa độ tâm $I(-1;2;1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN142",
@@ -1701,7 +1842,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^2+(y-1)^2+(z+1)^2=2$"
     ],
     "answer": 3,
-    "explain": "Phương trình mặt cầu tâm $I(-1;1;-1)$, bán kính $R=\\sqrt{2}$ có dạng  $(x+1)^2+(y-1)^2+(z+1)^2=2$."
+    "explain": "Phương trình mặt cầu tâm $I(-1;1;-1)$, bán kính $R=\\sqrt{2}$ có dạng  $(x+1)^2+(y-1)^2+(z+1)^2=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H534TN143",
@@ -1713,7 +1855,8 @@ window.tracNghiem2H53 = [
       "$B(0;12;5)$"
     ],
     "answer": 2,
-    "explain": "Phương trình đường thẳng $AB\\colon x=-12-12t \\text{ và } y=29+17t \\text{ và } z=10+5t.$<br>  Phương trình mặt cầu tâm $O(0;0;0)$, bán kính $R=\\dfrac{6\\ 370+6\\ 630}{1\\ 000}=13$ có dạng:  $x^2+y^2+z^2=13^2$ hay $x^2+y^2+z^2=169$.  Tọa độ giao điểm của đường thẳng $AB$ và mặt cầu thỏa mãn  $(-12-12t)^2+(29+17t)^2+(10+5t)^2=169\\Leftrightarrow 458t^2+1\\ 374t+916=0\\Leftrightarrow t=-1 \\text{ hoặc } t=-2.$  Suy ra tọa độ giao điểm của đường thẳng $AB$ và mặt cầu là $(0;12;5)$, $(12;-5;0)$.<br>  Do $x_B&gt;x_A$ (vị trí cuối cùng mà thiên thạch đi qua) nên $B(12;-5;0)$."
+    "explain": "Phương trình đường thẳng $AB\\colon x=-12-12t \\text{ và } y=29+17t \\text{ và } z=10+5t.$<br>  Phương trình mặt cầu tâm $O(0;0;0)$, bán kính $R=\\dfrac{6\\ 370+6\\ 630}{1\\ 000}=13$ có dạng:  $x^2+y^2+z^2=13^2$ hay $x^2+y^2+z^2=169$.  Tọa độ giao điểm của đường thẳng $AB$ và mặt cầu thỏa mãn  $(-12-12t)^2+(29+17t)^2+(10+5t)^2=169\\Leftrightarrow 458t^2+1\\ 374t+916=0\\Leftrightarrow t=-1 \\text{ hoặc } t=-2.$  Suy ra tọa độ giao điểm của đường thẳng $AB$ và mặt cầu là $(0;12;5)$, $(12;-5;0)$.<br>  Do $x_B&gt;x_A$ (vị trí cuối cùng mà thiên thạch đi qua) nên $B(12;-5;0)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN144",
@@ -1725,7 +1868,8 @@ window.tracNghiem2H53 = [
       "$3$"
     ],
     "answer": 3,
-    "explain": "Phương trình mặt cầu dạng $(x - 1)^2 + (y + 2)^2 + (z - 1)^2 = 9$. <br>  So sánh với $(x - a)^2 + (y - b)^2 + (z - c)^2 = R^2$, suy ra bán kính $R = \\sqrt{9} = 3$."
+    "explain": "Phương trình mặt cầu dạng $(x - 1)^2 + (y + 2)^2 + (z - 1)^2 = 9$. <br>  So sánh với $(x - a)^2 + (y - b)^2 + (z - c)^2 = R^2$, suy ra bán kính $R = \\sqrt{9} = 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN145",
@@ -1737,7 +1881,8 @@ window.tracNghiem2H53 = [
       "$(2;-1;3)$"
     ],
     "answer": 3,
-    "explain": "Tâm mặt cầu là $I(2;-1;3)$."
+    "explain": "Tâm mặt cầu là $I(2;-1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN146",
@@ -1749,7 +1894,8 @@ window.tracNghiem2H53 = [
       "$D(-2;-1;6)$"
     ],
     "answer": 2,
-    "explain": "Trạm được đặt tại $I(4;-3;6)$, bán kính phủ sóng là $4$ km. <br>  Ta có<br>  $IA = \\sqrt{(6-4)^2+(2+3)^2+(-1-6)^2} = \\sqrt{4+25+49} = \\sqrt{78} &gt; 4$ <br>  $IB = \\sqrt{(-4-4)^2+(1+3)^2+(3-6)^2} = \\sqrt{64+16+9} = \\sqrt{89} &gt; 4$ <br>  $IC = \\sqrt{(1-4)^2+(-2+3)^2+(5-6)^2} = \\sqrt{9+1+1} = \\sqrt{11} &lt; 4$ <br>  $ID = \\sqrt{(-2-4)^2+(-1+3)^2+(6-6)^2} = \\sqrt{36+4} = \\sqrt{40} &gt; 4$ <br>  Chỉ điểm $C$ nằm trong vùng phủ sóng."
+    "explain": "Trạm được đặt tại $I(4;-3;6)$, bán kính phủ sóng là $4$ km. <br>  Ta có<br>  $IA = \\sqrt{(6-4)^2+(2+3)^2+(-1-6)^2} = \\sqrt{4+25+49} = \\sqrt{78} &gt; 4$ <br>  $IB = \\sqrt{(-4-4)^2+(1+3)^2+(3-6)^2} = \\sqrt{64+16+9} = \\sqrt{89} &gt; 4$ <br>  $IC = \\sqrt{(1-4)^2+(-2+3)^2+(5-6)^2} = \\sqrt{9+1+1} = \\sqrt{11} &lt; 4$ <br>  $ID = \\sqrt{(-2-4)^2+(-1+3)^2+(6-6)^2} = \\sqrt{36+4} = \\sqrt{40} &gt; 4$ <br>  Chỉ điểm $C$ nằm trong vùng phủ sóng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN147",
@@ -1761,7 +1907,8 @@ window.tracNghiem2H53 = [
       "$I(1;0;3)$, $R=4$"
     ],
     "answer": 0,
-    "explain": "Tọa độ tâm $I$ và bán kính R của mặt cầu $({S})$ lần lượt là $I(-1;0;3)$, $R=2$."
+    "explain": "Tọa độ tâm $I$ và bán kính R của mặt cầu $({S})$ lần lượt là $I(-1;0;3)$, $R=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN148",
@@ -1773,7 +1920,8 @@ window.tracNghiem2H53 = [
       "$(x-2)^2+(y+1)^2+(z-3)^2=4$"
     ],
     "answer": 0,
-    "explain": "Phương trình của mặt cầu $(S)$ có tâm $I(2;-1; 3)$, bán kính $R=4$ là $(x-2)^2+(y+1)^2+(z-3)^2=16.$"
+    "explain": "Phương trình của mặt cầu $(S)$ có tâm $I(2;-1; 3)$, bán kính $R=4$ là $(x-2)^2+(y+1)^2+(z-3)^2=16.$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN149",
@@ -1785,7 +1933,8 @@ window.tracNghiem2H53 = [
       "$I(-2 ; 1 ; 0)$, $R=2$"
     ],
     "answer": 3,
-    "explain": "Mặt cầu có tâm $I(-2 ;1 ; 0)$ và bán kính $R=2$."
+    "explain": "Mặt cầu có tâm $I(-2 ;1 ; 0)$ và bán kính $R=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN150",
@@ -1797,7 +1946,8 @@ window.tracNghiem2H53 = [
       "$(x+1)^2+(y-2)^2+(z+3)^2=9$"
     ],
     "answer": 1,
-    "explain": "Phương trình mặt cầu tâm $I(1;-2;3)$ bán kính $R=3$ có dạng $(x-1)^2+(y+2)^2+(z-3)^2=9$."
+    "explain": "Phương trình mặt cầu tâm $I(1;-2;3)$ bán kính $R=3$ có dạng $(x-1)^2+(y+2)^2+(z-3)^2=9$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2H532TN151",
@@ -1809,6 +1959,7 @@ window.tracNghiem2H53 = [
       "$1$"
     ],
     "answer": 0,
-    "explain": "Để $(S)$ là phương trình mặt cầu có bán kính bằng $3$, ta phải có   $\\sqrt{1^2+(-2)^2+(-1)^2-(2m-1)}=3\\Leftrightarrow 7-2m=9\\Leftrightarrow m=-1.$  Vậy $(S)$ là phương trình mặt cầu có bán kính bằng $3$ khi $m=-1$."
+    "explain": "Để $(S)$ là phương trình mặt cầu có bán kính bằng $3$, ta phải có   $\\sqrt{1^2+(-2)^2+(-1)^2-(2m-1)}=3\\Leftrightarrow 7-2m=9\\Leftrightarrow m=-1.$  Vậy $(S)$ là phương trình mặt cầu có bán kính bằng $3$ khi $m=-1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
