@@ -1,6 +1,7 @@
 // =========================================================================
-// KHỐI DỮ LIỆU: 1D21 - Đúng/Sai (nguồn DeLuyenTap)
-// Nguồn: DeLuyenTap (chuyển từ LaTeX)
+// KHỐI DỮ LIỆU: 1D21 - Đúng sai
+// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS5.tex), giữ nguyên
+// nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
 // =========================================================================
 window.dungSai1D21 = [
   {
@@ -24,6 +25,6 @@ window.dungSai1D21 = [
         "answer": false
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>.<br>  Ta có $u_1=1$, $u_2=u_1+2\\cdot 2=5$, $u_3=u_2+2\\cdot 3=11$.<br>- <strong>Sai</strong>.<br>  Số hạng thứ tư của dãy là $u_4=u_3+2\\cdot 4=19$.<br>- <strong>Đúng</strong>.<br>  Ta có $u_4=19$ và $u_3=11$ nên $u_4&gt; u_3$.<br>- <strong>Sai</strong>.<br>  Ta có $u_n=u_{n-1}+2n\\Rightarrow u_n-u_{n-1}=2n&gt;0$ với mọi $n\\in \\mathbb{N}^*$ nên $(u_n)$ là một dãy số tăng."
+    "explain": "<br>- <strong>Đúng</strong>.<br>Ta có $u_1=1$, $u_2=u_1+2\\cdot 2=5$, $u_3=u_2+2\\cdot 3=11$.<br>- <strong>Sai</strong>.<br>Số hạng thứ tư của dãy là $u_4=u_3+2\\cdot 4=19$.<br>- <strong>Đúng</strong>.<br>Ta có $u_4=19$ và $u_3=11$ nên $u_4&gt; u_3$.<br>- <strong>Sai</strong>.<br>Ta có $u_n=u_{n-1}+2n\\Rightarrow u_n-u_{n-1}=2n&gt;0$ với mọi $n\\in \\mathbb{N}^*$ nên $(u_n)$ là một dãy số tăng."
   }
 ];

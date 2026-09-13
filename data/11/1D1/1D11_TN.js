@@ -879,5 +879,29 @@ window.tracNghiem1D11 = [
     ],
     "answer": 0,
     "explain": "Ta có \\[\\pi~\\text{rad}=180^\\circ \\Rightarrow 1~\\text{rad}=\\dfrac{180^\\circ}{\\pi}=\\left(\\dfrac{180}{\\pi}\\right)^\\circ.\\]"
+  },
+  {
+    "id": "1D112TN69",
+    "question": "Số đo theo đơn vị rađian của góc $108^\\circ$ là",
+    "options": [
+      "$\\dfrac{3\\pi}{5}$",
+      "$\\dfrac{\\pi}{4}$",
+      "$\\dfrac{3\\pi}{2}$",
+      "$\\dfrac{\\pi}{10}$"
+    ],
+    "answer": 0,
+    "explain": "Ta có $108^\\circ= \\dfrac{108 \\pi}{180}= \\dfrac{3\\pi}{5}$ (rad)."
+  },
+  {
+    "id": "1D115TN62",
+    "question": "Cho điểm $M$ trên đường tròn lượng giác như hình vẽ bên. Số đo của góc lượng giác $(OA, OM)$ bằng<br><img src=\"data/11/1D1/im1D11/1D11_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "options": [
+      "$-\\dfrac{\\pi}{3}+k \\pi$, $k \\in \\mathbb{Z}$",
+      "$-\\dfrac{\\pi}{3}+k 2 \\pi$, $k \\in \\mathbb{Z}$",
+      "$-\\dfrac{5 \\pi}{3}+k 2 \\pi$, $k \\in \\mathbb{Z}$",
+      "$\\dfrac{5 \\pi}{3}+k \\pi$, $k \\in \\mathbb{Z}$"
+    ],
+    "answer": 1,
+    "explain": "<img src=\"data/11/1D1/im1D11/1D11_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"> Từ hình vẽ ta thấy các góc lượng giác $(OA, OM)$ được tạo bởi tia đầu là tia $OA$, tia cuối là tia $OM$ và quay theo chiều âm một góc $\\dfrac{\\pi}{3}$ và chỉ có duy nhất một điểm $M$ trên đường tròn lượng giác nên có số đo của các góc lượng giác $(OA, OM) =-\\dfrac{\\pi}{3} + k2\\pi, k \\in \\mathbb{Z}$."
   }
 ];

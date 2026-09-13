@@ -208,5 +208,11 @@ window.traLoiNgan1D15 = [
     "question": "Biết tổng các nghiệm của phương trình $\\sin \\left(\\pi \\sin 2x\\right)=1$ trên đoạn $[0;2\\pi]$ bằng $a\\pi$. Tìm $a$.",
     "answer": "3",
     "explain": "Ta có  $\\sin \\left(\\pi \\sin 2x\\right)=1 \\Leftrightarrow \\pi \\sin 2x=\\dfrac{\\pi}{2}+k2\\pi$<br>$\\Leftrightarrow \\sin 2x=\\dfrac{1}{2}+2k\\; \\left(k\\in \\mathbb{Z}\\right).$  Do $\\sin 2x\\in \\left[-1;1\\right]$ nên $-1\\le \\dfrac{1}{2}+2k \\le 1\\Leftrightarrow-\\dfrac{3}{4} \\le k\\le \\dfrac{1}{4}$, vì $k\\in \\mathbb{Z}$ nên $k=0$.<br>  Với $k=0$ ta có phương trình $\\sin 2x=\\dfrac{1}{2} \\Leftrightarrow 2x=\\dfrac{\\pi}{6}+l2\\pi \\text{ hoặc } 2x=\\dfrac{5\\pi}{6}+l2\\pi \\left(l\\in \\mathbb{Z}\\right)\\Leftrightarrow x=\\dfrac{\\pi}{12}+l\\pi \\text{ hoặc } x=\\dfrac{5\\pi}{12}+l\\pi.$<br>  Do $x\\in \\left[0;2\\pi \\right]$ nên $x\\in\\left\\{\\dfrac{\\pi}{12};\\dfrac{13\\pi}{12};\\dfrac{5\\pi}{12};\\dfrac{17\\pi}{12} \\right\\}$.<br>  Suy ra tổng các nghiệm của phương trình $\\sin \\left(\\pi \\sin 2x\\right)=1$ trên đoạn $\\left[0;\\; 2\\pi \\right]$ bằng $\\dfrac{\\pi}{12}+\\dfrac{13\\pi}{12}+\\dfrac{5\\pi}{12}+\\dfrac{17\\pi}{12}=3\\pi.$  Vậy $a=3$."
+  },
+  {
+    "id": "1D156TL32",
+    "question": "Hằng ngày, mực nước của một con kênh lên xuống theo thủy triều. Độ sâu $h$ (m) của mực nước trong kênh đó tính theo thời gian $t$ giờ được cho bởi công thức ${h = 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12}$ với ($0 \\leq t \\leq 24$). Độ sâu của mực nước trong con kênh đó đạt $14$ m lần đầu tiên trong ngày vào lúc mấy giờ?",
+    "answer": "20",
+    "explain": "Khi độ sau của mực nước là $14$ m, ta có \\[\\begin{array}{rcl} h&=&14 \\\\ 2\\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) + 12&=&14 \\\\ \\cos\\left(\\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3}\\right) &=& 1 \\\\ \\dfrac{\\pi t}{12} + \\dfrac{\\pi}{3} &=& k2\\pi \\\\ t &=&-4+24k\\quad (k\\in\\mathbb{Z}). \\end{array}\\] Ta có $0\\leq t \\leq 24$ nên $0\\leq -4+24k \\leq 24$, suy ra $\\dfrac{1}{6}\\leq t \\leq \\dfrac{7}{6}$.<br>Do $t\\in\\mathbb{Z}$ nên $t=1$.<br>Vậy độ sâu của mực nước trong con kênh đó đạt $14m$ lần đầu tiên trong ngày vào lúc $t=-4+24\\cdot1=20$ giờ."
   }
 ];
