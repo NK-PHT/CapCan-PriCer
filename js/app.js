@@ -391,6 +391,107 @@ function xoaTienDoBaiLamDaLuu() {
 
 function tronMang(array) { return [...array].sort(() => 0.5 - Math.random()); }
 
+// =========================================================================
+// "XOAY VÒNG" CÂU HỎI CHƯA DÙNG (chống học sinh làm đi làm lại 1 bài rồi
+// thuộc lòng đáp án vì cứ gặp lại đúng những câu cũ). Lưu trên trình duyệt
+// của TỪNG học sinh (giống KHOA_LICH_SU_LAM_BAI) một "bộ bài còn lại" cho
+// từng lựa chọn ra đề (mỗi mục trong dropdown "Chuyên đề" + từng loại câu
+// TN/ĐS/TLN là 1 bộ bài riêng): mỗi lần ra đề sẽ RÚT DẦN từ bộ bài đó
+// (không hoàn lại), rút hết sạch một vòng rồi mới xáo bộ bài mới nguyên
+// vẹn - đảm bảo phải gặp HẾT toàn bộ câu trong kho rồi mới có khả năng gặp
+// lại câu cũ, thay vì có thể trùng ngay từ lần làm thứ 2 như trước đây.
+// =========================================================================
+const KHOA_CAU_CON_LAI = "irismath_cau_con_lai_theo_bai";
+
+function docKhoCauConLai() {
+    try {
+        const dl = JSON.parse(localStorage.getItem(KHOA_CAU_CON_LAI) || "{}");
+        return (dl && typeof dl === 'object') ? dl : {};
+    } catch (err) {
+        return {};
+    }
+}
+
+function luuKhoCauConLai(trangThai) {
+    try {
+        localStorage.setItem(KHOA_CAU_CON_LAI, JSON.stringify(trangThai));
+    } catch (err) {
+        console.warn("Khong luu duoc trang thai xoay vong cau hoi (trinh duyet chan localStorage?):", err);
+    }
+}
+
+/**
+ * Trả về "bộ bài còn lại chưa rút trong chu kỳ hiện tại" cho bucketKey, lọc
+ * bỏ những ID không còn tồn tại trong kho hiện tại (VD: dữ liệu đã thay đổi).
+ * Nếu bucketKey chưa từng được khởi tạo (lần đầu tiên) thì coi như một bộ
+ * bài ĐẦY ĐỦ, đã xáo trộn (tất cả đều "chưa dùng").
+ */
+function layHopBaiHienTai(trangThaiToanCuc, bucketKey, allIds) {
+    const hienCo = trangThaiToanCuc[bucketKey];
+    if (!Array.isArray(hienCo)) return tronMang(allIds);
+    return hienCo.filter(id => allIds.includes(id));
+}
+
+/**
+ * Rút đúng "soLuong" câu từ "dsCauHoi" cho bucketKey, ưu tiên không lặp lại
+ * câu đã ra gần đây (xem giải thích ở trên). Cập nhật thẳng vào
+ * trangThaiToanCuc[bucketKey] - bên gọi tự luuKhoCauConLai(trangThaiToanCuc)
+ * một lần sau khi rút xong (để không ghi localStorage lặp lại nhiều lần).
+ * Nếu kho hiện có ÍT hơn "soLuong" câu thì trả về đúng bấy nhiêu câu hiện
+ * có (không lặp câu trong CÙNG 1 đề), giống hành vi cũ khi kho thiếu câu.
+ */
+function rutCauHoiTuHopBai(trangThaiToanCuc, bucketKey, dsCauHoi, soLuong) {
+    if (soLuong <= 0 || dsCauHoi.length === 0) return [];
+    const banDo = new Map(dsCauHoi.map(q => [q.id, q]));
+    const allIds = dsCauHoi.map(q => q.id);
+    const soLuongThucTe = Math.min(soLuong, allIds.length);
+
+    let boBai = layHopBaiHienTai(trangThaiToanCuc, bucketKey, allIds);
+    const ketQuaIds = [];
+    while (ketQuaIds.length < soLuongThucTe && boBai.length > 0) {
+        ketQuaIds.push(boBai.pop());
+    }
+    if (ketQuaIds.length < soLuongThucTe) {
+        boBai = tronMang(allIds.filter(id => !ketQuaIds.includes(id)));
+        while (ketQuaIds.length < soLuongThucTe) {
+            ketQuaIds.push(boBai.pop());
+        }
+    }
+
+    trangThaiToanCuc[bucketKey] = boBai;
+    return tronMang(ketQuaIds.map(id => banDo.get(id)).filter(Boolean));
+}
+
+/**
+ * Phiên bản "dùng ngay 1 lần" của rutCauHoiTuHopBai (tự đọc/ghi localStorage
+ * luôn) - dùng cho đề đơn bài / đề nhóm chương (không phải đề tổng ôn
+ * round-robin, xem taoDeTongOnTheoChuong bên dưới).
+ */
+function chonCauHoiXoayVong(dsCauHoi, soLuong, bucketKey) {
+    const trangThai = docKhoCauConLai();
+    const ketQua = rutCauHoiTuHopBai(trangThai, bucketKey, dsCauHoi, soLuong);
+    luuKhoCauConLai(trangThai);
+    return ketQua;
+}
+
+/**
+ * Trả về TOÀN BỘ "dsCauHoi" (không cắt bớt), chỉ SẮP LẠI THỨ TỰ sao cho
+ * .pop() sẽ ưu tiên rút được câu CHƯA nằm trong bộ bài đã dùng gần đây
+ * trước; hết ưu tiên rồi mới lấy tiếp câu đã dùng trước đó (xáo riêng).
+ * Dùng cho round-robin của "Tổng ôn chương" (taoDeTongOnTheoChuong): vẫn
+ * giữ NGUYÊN số lượng câu khả dụng như cũ (không làm hụt đề khi chương có
+ * ít bài), chỉ đổi thứ tự ưu tiên bên trong để giảm trùng lặp qua các lần
+ * ra đề khác nhau.
+ */
+function xepThuTuUuTienChuaDung(dsCauHoi, bucketKey, trangThaiToanCuc) {
+    const banDo = new Map(dsCauHoi.map(q => [q.id, q]));
+    const allIds = dsCauHoi.map(q => q.id);
+    const boBai = layHopBaiHienTai(trangThaiToanCuc, bucketKey, allIds); // = "chưa dùng"
+    const idsDaDung = allIds.filter(id => !boBai.includes(id));
+    const thuTuUuTien = [...tronMang(idsDaDung), ...boBai]; // pop() lấy "chưa dùng" (cuối mảng) trước
+    return thuTuUuTien.map(id => banDo.get(id));
+}
+
 const selectLop = document.getElementById('select-lop');
 const selectChuong = document.getElementById('select-chuong');
 
@@ -505,17 +606,28 @@ const CHUONG_TONG_ON_DAC_BIET = {
  * dữ liệu, không ép đủ). Cách này đảm bảo chương có ít bài (ví dụ chỉ 2-3
  * bài) vẫn được lấy đủ 22 câu như đề chuẩn, miễn là các bài trong chương có
  * đủ tổng số câu hỏi cần thiết, thay vì luôn dừng lại ở 1 câu/bài như trước.
+ *
+ * "tienToBucket" (thường là đúng giá trị đang chọn ở dropdown Chuyên đề, VD
+ * "12_C1_TongOn") dùng để lưu "bộ bài còn lại" RIÊNG cho từng bài trong
+ * chương này (xem XOAY VÒNG CÂU HỎI CHƯA DÙNG ở trên) - vẫn LUÔN có đủ toàn
+ * bộ câu để round-robin rút (không làm hụt đề), chỉ ưu tiên thứ tự rút để
+ * giảm trùng lặp giữa các lần "Phát đề" liên tiếp của cùng lựa chọn này.
  */
-function taoDeTongOnTheoChuong(danhSachMaBai) {
+function taoDeTongOnTheoChuong(danhSachMaBai, tienToBucket) {
     const TARGET = { tracNghiem: 12, dungSai: 4, traLoiNgan: 6 };
     const ketQua = { tracNghiem: [], dungSai: [], traLoiNgan: [] };
+    const trangThaiToanCuc = docKhoCauConLai();
 
     ['tracNghiem', 'dungSai', 'traLoiNgan'].forEach(loai => {
-        // Kho câu hỏi riêng cho từng bài, xáo trộn sẵn để lấy dần từ cuối
-        // mảng (pop) không bị thiên vị theo thứ tự gốc trong file dữ liệu.
+        // Kho câu hỏi riêng cho từng bài, SẮP THEO THỨ TỰ ƯU TIÊN (câu chưa
+        // dùng nằm cuối mảng để .pop() rút trước) thay vì chỉ xáo thuần tuý
+        // như trước - vẫn giữ ĐỦ toàn bộ câu của bài, không bị hụt đề.
         const khoTheoBai = danhSachMaBai
-            .map(ma => tronMang(layKhoCauHoiTheoMaID(ma)[loai] || []))
-            .filter(kho => kho.length > 0);
+            .map(ma => ({
+                ma,
+                cau: xepThuTuUuTienChuaDung(layKhoCauHoiTheoMaID(ma)[loai] || [], `${tienToBucket}:${ma}:${loai}`, trangThaiToanCuc)
+            }))
+            .filter(x => x.cau.length > 0);
 
         const target = TARGET[loai];
         const cauHoiDaChon = [];
@@ -523,19 +635,31 @@ function taoDeTongOnTheoChuong(danhSachMaBai) {
         // Round-robin: mỗi vòng lặp, các bài còn câu hỏi (theo thứ tự xáo
         // ngẫu nhiên riêng của vòng đó) mỗi bài góp thêm đúng 1 câu; lặp lại
         // cho đến khi đủ target hoặc toàn bộ kho của chương đã lấy hết.
-        while (cauHoiDaChon.length < target && khoTheoBai.some(kho => kho.length > 0)) {
+        while (cauHoiDaChon.length < target && khoTheoBai.some(x => x.cau.length > 0)) {
             const thuTuBai = tronMang(khoTheoBai.map((_, i) => i));
             for (const i of thuTuBai) {
                 if (cauHoiDaChon.length >= target) break;
-                if (khoTheoBai[i].length > 0) {
-                    cauHoiDaChon.push(khoTheoBai[i].pop());
+                if (khoTheoBai[i].cau.length > 0) {
+                    cauHoiDaChon.push(khoTheoBai[i].cau.pop());
                 }
             }
         }
 
+        // Cập nhật lại "bộ bài còn lại" (ưu tiên chưa dùng) cho từng bài,
+        // theo đúng những câu ĐÃ được chọn ở vòng ra đề này.
+        danhSachMaBai.forEach(ma => {
+            const idsDaChonCuaBai = new Set(cauHoiDaChon.filter(q => q.id.substring(0, 4) === ma).map(q => q.id));
+            if (idsDaChonCuaBai.size === 0) return; // bai nay khong dong gop cau nao, giu nguyen trang thai cu
+            const bucketKey = `${tienToBucket}:${ma}:${loai}`;
+            const allIdsCuaBai = (layKhoCauHoiTheoMaID(ma)[loai] || []).map(q => q.id);
+            const boBaiCu = layHopBaiHienTai(trangThaiToanCuc, bucketKey, allIdsCuaBai);
+            trangThaiToanCuc[bucketKey] = boBaiCu.filter(id => !idsDaChonCuaBai.has(id));
+        });
+
         ketQua[loai] = tronMang(cauHoiDaChon); // xáo lại thứ tự hiển thị cuối cùng
     });
 
+    luuKhoCauConLai(trangThaiToanCuc);
     return ketQua;
 }
 
@@ -546,7 +670,7 @@ document.getElementById('btn-generate').addEventListener('click', () => {
     // đụng vào logic NHOM_MA_CHUONG_DAC_BIET / đơn bài phía dưới.
     const nhomTongOnChuong = CHUONG_TONG_ON_DAC_BIET[maChuongDuocChon];
     if (nhomTongOnChuong) {
-        deThiHienTai = taoDeTongOnTheoChuong(nhomTongOnChuong);
+        deThiHienTai = taoDeTongOnTheoChuong(nhomTongOnChuong, maChuongDuocChon);
         if (deThiHienTai.tracNghiem.length === 0 && deThiHienTai.dungSai.length === 0 && deThiHienTai.traLoiNgan.length === 0) {
             alert("⚠️ Không có dữ liệu câu hỏi!");
             return;
@@ -584,11 +708,13 @@ document.getElementById('btn-generate').addEventListener('click', () => {
         return;
     }
 
-    // 🌟 CỐ ĐỊNH SỐ CÂU TRƯỚC KHI RENDER
+    // 🌟 CỐ ĐỊNH SỐ CÂU TRƯỚC KHI RENDER - ưu tiên câu CHƯA từng ra cho lựa
+    // chọn này (xem XOAY VÒNG CÂU HỎI CHƯA DÙNG ở trên), chỉ lặp lại câu cũ
+    // khi đã dùng hết sạch cả kho của "maChuongDuocChon".
     const deThiTron = {
-        tracNghiem: tronMang(khoTracNghiem).slice(0, 12),
-        dungSai: tronMang(khoDungSai).slice(0, 4),
-        traLoiNgan: tronMang(khoTraLoiNgan).slice(0, 6)
+        tracNghiem: chonCauHoiXoayVong(khoTracNghiem, 12, `${maChuongDuocChon}:tracNghiem`),
+        dungSai: chonCauHoiXoayVong(khoDungSai, 4, `${maChuongDuocChon}:dungSai`),
+        traLoiNgan: chonCauHoiXoayVong(khoTraLoiNgan, 6, `${maChuongDuocChon}:traLoiNgan`)
     };
     if (deThiTron.tracNghiem.length < 12 || deThiTron.dungSai.length < 4 || deThiTron.traLoiNgan.length < 6) {
         alert("⚠️ Cảnh báo: Kho dữ liệu không đủ số câu hỏi yêu cầu (Cần 12 TN, 4 DS, 6 TLN).");
@@ -614,13 +740,19 @@ function renderQuiz(deThi) {
         container.innerHTML += `<div class="part-header">PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn</div>`;
         deThi.tracNghiem.forEach((q, idx) => {
             // Reset số thứ tự về 1 cho phần này bằng cách dùng (idx + 1)
+            // Đảo VỊ TRÍ HIỂN THỊ của 4 đáp án mỗi lần ra đề (chống học sinh
+            // thuộc lòng "đáp án luôn nằm ở ô thứ mấy" khi gặp lại câu cũ) -
+            // value/id vẫn dùng ĐÚNG chỉ số gốc (oIdx) trong mảng q.options,
+            // nên chấm điểm, tô màu đúng/sai, xem lại bài làm... đều không
+            // cần đổi gì cả, chỉ thứ tự hiển thị trên trang thay đổi thôi.
+            const thuTuHienThi = tronMang(q.options.map((_, oIdx) => oIdx));
             container.innerHTML += `
                 <div class="question-item">
                     <p class="question-text"><strong>Câu ${idx + 1}. [${q.id}]</strong> ${q.question}</p>
-                    ${q.options.map((opt, oIdx) => `
+                    ${thuTuHienThi.map(oIdx => `
                         <div class="custom-option-wrapper">
                             <input class="form-check-input" type="radio" name="tn_${idx}" value="${oIdx}" id="tn_${idx}_${oIdx}">
-                            <label class="form-check-label" for="tn_${idx}_${oIdx}">${opt}</label>
+                            <label class="form-check-label" for="tn_${idx}_${oIdx}">${q.options[oIdx]}</label>
                         </div>
                     `).join('')}
                     <div class="explain-box"><strong>Lời giải chi tiết:</strong><br>${q.explain}</div>
