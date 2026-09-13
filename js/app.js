@@ -753,6 +753,8 @@ function renderQuiz(deThi) {
                         <div class="custom-option-wrapper">
                             <input class="form-check-input" type="radio" name="tn_${idx}" value="${oIdx}" id="tn_${idx}_${oIdx}">
                             <label class="form-check-label" for="tn_${idx}_${oIdx}">${q.options[oIdx]}</label>
+                            <span class="result-tag tag-correct"><i class="fa-solid fa-circle-check"></i></span>
+                            <span class="result-tag tag-wrong"><i class="fa-solid fa-circle-xmark"></i></span>
                         </div>
                     `).join('')}
                     <div class="explain-box"><strong>Lời giải chi tiết:</strong><br>${q.explain}</div>
@@ -771,8 +773,8 @@ function renderQuiz(deThi) {
                         <div class="sub-question-row">
                             <div class="sub-question-text"><strong>${String.fromCharCode(97 + sIdx)})</strong> ${sub.text}</div>
                             <div class="sub-question-actions">
-                                <div class="form-check"><input class="form-check-input" type="radio" name="ds_${idx}_${sIdx}" value="true" id="ds_${idx}_${sIdx}_D"><label class="form-check-label text-success fw-bold" for="ds_${idx}_${sIdx}_D">Đúng</label></div>
-                                <div class="form-check"><input class="form-check-input" type="radio" name="ds_${idx}_${sIdx}" value="false" id="ds_${idx}_${sIdx}_S"><label class="form-check-label text-danger fw-bold" for="ds_${idx}_${sIdx}_S">Sai</label></div>
+                                <div class="form-check"><input class="form-check-input" type="radio" name="ds_${idx}_${sIdx}" value="true" id="ds_${idx}_${sIdx}_D"><label class="form-check-label text-success fw-bold" for="ds_${idx}_${sIdx}_D">Đúng</label><span class="result-tag tag-correct"><i class="fa-solid fa-circle-check"></i></span><span class="result-tag tag-wrong"><i class="fa-solid fa-circle-xmark"></i></span></div>
+                                <div class="form-check"><input class="form-check-input" type="radio" name="ds_${idx}_${sIdx}" value="false" id="ds_${idx}_${sIdx}_S"><label class="form-check-label text-danger fw-bold" for="ds_${idx}_${sIdx}_S">Sai</label><span class="result-tag tag-correct"><i class="fa-solid fa-circle-check"></i></span><span class="result-tag tag-wrong"><i class="fa-solid fa-circle-xmark"></i></span></div>
                             </div>
                         </div>`).join('')}</div>
                     <div class="explain-box"><strong>Lời giải chi tiết:</strong><br>${q.explain}</div>

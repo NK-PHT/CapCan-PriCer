@@ -28,8 +28,8 @@
     <link rel="stylesheet" href="https://tikzjax.com/v1/tikzjax.css">
     <script src="https://tikzjax.com/v1/tikzjax.js"></script>
     <style>
-        body { 
-            background: #f8fafc;
+        body {
+            background: #F3F6FC;
             font-family: 'Plus Jakarta Sans', sans-serif;
             color: #1e293b;
             min-height: 100vh;
@@ -49,9 +49,14 @@
             top: 0;
             z-index: 1030; /* luôn nổi trên nội dung, đồng hồ không bị cuộn mất */
         }
+        /* Dải màu mỏng dưới header, cùng tông gradient với tiêu đề, cho đồng bộ */
+        .app-header::after {
+            content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 3px;
+            background: linear-gradient(90deg, #2F6FED, #7C5CFC);
+        }
         .main-title {
             font-size: 1.4rem; font-weight: 800;
-            background: linear-gradient(45deg, #0284c7, #4f46e5);
+            background: linear-gradient(45deg, #2F6FED, #7C5CFC);
             -webkit-background-clip: text; background-clip: text;
             -webkit-text-fill-color: transparent; margin: 0;
         }
@@ -67,16 +72,27 @@
         .sidebar-panel {
             background: #ffffff;
             border: 1px solid #e2e8f0;
-            border-radius: 16px;
+            border-radius: 18px;
             padding: 20px;
             height: fit-content;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(27,37,89,0.06), 0 1px 2px rgba(27,37,89,0.04);
         }
 
         .exam-panel {
             background: #ffffff;
             border: 1px solid #e2e8f0;
-            border-radius: 16px;
+            border-radius: 18px;
             padding: 20px;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(27,37,89,0.06), 0 1px 2px rgba(27,37,89,0.04);
+        }
+        /* Dải màu mỏng trên đỉnh 2 khung, cùng tông gradient với tiêu đề */
+        .sidebar-panel::before, .exam-panel::before {
+            content: ""; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(90deg, #2F6FED, #7C5CFC);
         }
 
         /* LƯỚI TIẾN ĐỘ CÂU HỎI TRỰC QUAN */
@@ -101,13 +117,13 @@
             transition: all 0.2s ease;
         }
         .progress-box.answered {
-            background: #e0f2fe;
-            border-color: #0284c7;
-            color: #0284c7;
+            background: #EAF1FE;
+            border-color: #2F6FED;
+            color: #1D4ED8;
         }
         .progress-box.active {
-            box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.3);
-            border-color: #4f46e5;
+            box-shadow: 0 0 0 3px rgba(124, 92, 252, 0.30);
+            border-color: #7C5CFC;
         }
         .part-progress-wrapper {
             margin-bottom: 10px;
@@ -122,23 +138,23 @@
         /* ĐỒNG HỒ ĐẾM NGƯỢC VIP */
         /* Tìm đến đoạn này ở thẻ <style> trong file index.html */
         .timer-box {
-            background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+            background: linear-gradient(135deg, #F04438 0%, #D92D20 100%);
             color: white;
-            border-radius: 12px;
+            border-radius: 14px;
             padding: 12px;
             font-weight: 800;
             font-size: 1.4rem;
             text-align: center;     /* ◄ THẦY SỬA CHỮ 'text-center' THÀNH 'text-align: center;' Ở ĐÂY */
             display: none;
-            box-shadow: 0 4px 12px rgba(220, 38, 38, 0.2);
+            box-shadow: 0 8px 18px rgba(240, 68, 56, 0.28);
         }
 
         /* THIẾT KẾ CÂU HỎI GỌN GÀNG */
-        .part-header { 
-            background: #f1f5f9; padding: 10px 16px; 
-            border-left: 4px solid #0284c7; font-weight: 800; 
-            color: #0284c7; font-size: 0.95rem; margin: 25px 0 15px 0;
-            border-radius: 0 8px 8px 0;
+        .part-header {
+            background: #EAF1FE; padding: 10px 16px;
+            border-left: 4px solid #2F6FED; font-weight: 800;
+            color: #1D4ED8; font-size: 0.95rem; margin: 25px 0 15px 0;
+            border-radius: 0 10px 10px 0;
         }
         .question-item { 
             border-bottom: 1px solid #f1f5f9;
@@ -149,10 +165,11 @@
 
         /* ĐÁP ÁN GỌN GÀNG HƠN */
         .custom-option-wrapper {
-            background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;
+            background: #F3F6FC; border: 1px solid #e2e8f0; border-radius: 10px;
             padding: 10px 14px; margin-top: 8px; cursor: pointer; display: flex; align-items: center;
+            transition: background .12s ease, border-color .12s ease;
         }
-        .custom-option-wrapper:hover { background: #f1f5f9; border-color: #cbd5e1; }
+        .custom-option-wrapper:hover { background: #EAF1FE; border-color: #BBD3FB; }
         /* Cau ma moi dap an la 1 hinh ve rieng (vd: chon dung bang bien
            thien / do thi trong 4 hinh) - giam padding cua khung dap an de
            bot ton dong khi 4 hinh xep chong nhau. */
@@ -161,7 +178,7 @@
             max-width: min(240px, 60%); max-height: 130px;
             width: auto; height: auto; display: block; margin: 4px auto;
         }
-        .form-check-input { width: 1.1rem; height: 1.1rem; flex-shrink: 0; border: 2px solid #64748b; }
+        .form-check-input { width: 1.1rem; height: 1.1rem; flex-shrink: 0; border: 2px solid #A6B2CC; accent-color: #2F6FED; }
         .form-check-label {
             color: #334155; margin-left: 8px; font-size: 0.9rem; width: 100%; cursor: pointer;
             /* .custom-option-wrapper là flex row: nếu không có min-width:0,
@@ -172,22 +189,36 @@
                ngoài hoặc bị cắt mất chữ. */
             min-width: 0; overflow-x: auto;
         }
-        .form-check-input:checked ~ .form-check-label { color: #0284c7; font-weight: 700; }
+        .form-check-input:checked ~ .form-check-label { color: #1D4ED8; font-weight: 700; }
 
         /* Tô màu đáp án đúng/sai sau khi nộp bài (Phần I - trắc nghiệm) */
-        .custom-option-wrapper.option-correct { background: #dcfce7; border-color: #22c55e; }
-        .custom-option-wrapper.option-correct .form-check-label { color: #15803d; font-weight: 700; }
-        .custom-option-wrapper.option-wrong { background: #fee2e2; border-color: #ef4444; }
-        .custom-option-wrapper.option-wrong .form-check-label { color: #b91c1c; font-weight: 700; }
+        .custom-option-wrapper.option-correct { background: #E6F9EF; border-color: #92E6BC; }
+        .custom-option-wrapper.option-correct .form-check-label { color: #0B7A46; font-weight: 700; }
+        .custom-option-wrapper.option-wrong { background: #FDECEA; border-color: #F8B4AC; }
+        .custom-option-wrapper.option-wrong .form-check-label { color: #B42318; font-weight: 700; }
 
         /* Tô màu đúng/sai cho Phần II (Đúng-Sai) và Phần III (Trả lời ngắn) sau khi nộp bài */
-        .form-check.ds-correct-pick { background: #dcfce7; border-radius: 6px; padding: 2px 8px; }
-        .form-check.ds-wrong-pick { background: #fee2e2; border-radius: 6px; padding: 2px 8px; }
-        .short-box.tl-correct { background: #dcfce7 !important; border-color: #22c55e !important; color: #15803d; }
-        .short-box.tl-wrong { background: #fee2e2 !important; border-color: #ef4444 !important; color: #b91c1c; }
+        .form-check.ds-correct-pick { background: #E6F9EF; border-radius: 6px; padding: 2px 8px; }
+        .form-check.ds-wrong-pick { background: #FDECEA; border-radius: 6px; padding: 2px 8px; }
+        .short-box.tl-correct { background: #E6F9EF !important; border-color: #92E6BC !important; color: #0B7A46; }
+        .short-box.tl-wrong { background: #FDECEA !important; border-color: #F8B4AC !important; color: #B42318; }
         .tl-result-icon { font-size: 1.5rem; line-height: 1; display: inline-flex; align-items: center; margin-left: 4px; }
-        .tl-result-icon.correct { color: #22c55e; }
-        .tl-result-icon.wrong { color: #ef4444; }
+        .tl-result-icon.correct { color: #12B76A; }
+        .tl-result-icon.wrong { color: #F04438; }
+
+        /* MỚI: dấu tích tròn/X tròn cho Phần I (đáp án trắc nghiệm) và Phần II
+           (đúng/sai) sau khi nộp bài - giống hệt icon fa-circle-check /
+           fa-circle-xmark đã dùng sẵn ở Phần III, để đồng bộ 3 phần và giúp
+           người khó phân biệt đỏ/xanh vẫn nhận biết đúng/sai qua HÌNH DẤU,
+           không chỉ dựa vào màu nền. */
+        .result-tag { display: none; margin-left: auto; padding-left: 8px; flex-shrink: 0; font-size: 1.1rem; }
+        .form-check .result-tag { margin-left: 4px; padding-left: 0; }
+        .custom-option-wrapper.option-correct .result-tag.tag-correct,
+        .custom-option-wrapper.option-wrong .result-tag.tag-wrong { display: inline-flex; }
+        .form-check.ds-correct-pick .result-tag.tag-correct,
+        .form-check.ds-wrong-pick .result-tag.tag-wrong { display: inline-flex; }
+        .result-tag.tag-correct { color: #12B76A; }
+        .result-tag.tag-wrong { color: #F04438; }
 
         /* FORM ĐÚNG SAI CO GIÃN HÀNG */
         .sub-question-container { background: #f8fafc; border-radius: 10px; padding: 5px 14px; margin-top: 10px; }
@@ -201,13 +232,14 @@
         /* Ô VUÔNG PHẦN III ĐẸP MẮT */
         .short-box {
             width: 40px !important; height: 40px !important; text-align: center;
-            font-weight: 700; font-size: 1.1rem; border-radius: 6px; border: 2px solid #64748b;
+            font-weight: 700; font-size: 1.1rem; border-radius: 10px; border: 2px solid #A6B2CC;
         }
-        .short-box:focus { border-color: #0284c7; box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15); }
+        .short-box:focus { border-color: #2F6FED; box-shadow: 0 0 0 3px rgba(47, 111, 237, 0.15); }
 
         .explain-box {
-            display: none; background-color: #f0fdf4; padding: 12px; margin-top: 10px;
-            border-radius: 8px; font-size: 0.85rem; color: #14532d; border: 1px solid #bbf7d0;
+            display: none; background-color: #E6F9EF; padding: 12px; margin-top: 10px;
+            border-radius: 12px; font-size: 0.85rem; color: #0B4D30; border: 1px solid #92E6BC;
+            border-left: 4px solid #12B76A;
             max-width: 100%; overflow-x: auto; word-wrap: break-word; overflow-wrap: break-word;
             /* Đổi từ "hidden" sang "auto": trước đây nếu công thức bên trong
                vẫn còn quá dài, phần thừa bị ẨN MẤT (học sinh không đọc được
@@ -231,14 +263,24 @@
         .question-text, .sub-question-text, .explain-box, .form-check-label {
             word-wrap: break-word; overflow-wrap: break-word;
         }
-        .btn-custom-generate { background: #0284c7; color: white; border: none; width: 100%; padding: 12px; border-radius: 10px; font-weight: 700; }
-        .btn-custom-submit { background: #4f46e5; color: white; border: none; width: 100%; padding: 14px; border-radius: 12px; font-weight: 700; font-size: 1.05rem; }
-        .score-display-box { background: #f0f9ff; border: 1px solid #bae6fd; color: #0369a1; border-radius: 12px; padding: 15px; font-weight: 700; }
+        .btn-custom-generate {
+            background: linear-gradient(135deg, #2F6FED, #1D4ED8); color: white; border: none; width: 100%;
+            padding: 13px; border-radius: 12px; font-weight: 700;
+            box-shadow: 0 10px 22px rgba(47,111,237,0.30); transition: transform .15s ease;
+        }
+        .btn-custom-generate:hover { transform: translateY(-1px); }
+        .btn-custom-submit {
+            background: linear-gradient(135deg, #7C5CFC, #5B3FE0); color: white; border: none; width: 100%;
+            padding: 15px; border-radius: 14px; font-weight: 700; font-size: 1.05rem;
+            box-shadow: 0 10px 22px rgba(124,92,252,0.28); transition: transform .15s ease;
+        }
+        .btn-custom-submit:hover { transform: translateY(-1px); }
+        .score-display-box { background: #EAF1FE; border: 1px solid #BBD3FB; color: #1D4ED8; border-radius: 14px; padding: 15px; font-weight: 700; }
         .site-footer {
-            text-align: center; font-size: 0.75rem; color: #94a3b8;
+            text-align: center; font-size: 0.75rem; color: #6B7A99;
             padding: 18px 12px 26px; line-height: 1.6;
         }
-        .site-footer a { color: #64748b; text-decoration: underline; }
+        .site-footer a { color: #2F6FED; text-decoration: underline; }
 
         /* ========================================== */
         /* RESPONSIVE CHUYỂN ĐỔI BỐ CỤC LAPTOP MÁY TÍNH */
