@@ -1,11 +1,4 @@
 
-// =========================================================================
-// 0. TỰ ĐỘNG NẠP TOÀN BỘ FILE DỮ LIỆU CÂU HỎI (data/manifest.js)
-// Trước đây index.html chỉ nạp cứng 1 file data/12/2D1/2D1_1.js nên các
-// chuyên đề khác không có câu hỏi. Giờ danh sách file được liệt kê trong
-// data/manifest.js (nạp bằng <script>, KHÔNG dùng fetch()) nên vẫn mở được
-// bằng cách double-click index.html như trước, không cần máy chủ HTTP.
-// =========================================================================
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');

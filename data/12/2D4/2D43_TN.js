@@ -1,8 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 2D43 - Trắc nghiệm
-// Nguồn: Đề thi Giữa Kì/Cuối Kì thật từ các trường THPT (thư mục LocID/BANK-25-26,
-// đợt 3), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem2D43 = [
   {
     "id": "2D431TN1",

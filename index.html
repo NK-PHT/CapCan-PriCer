@@ -33,11 +33,7 @@
             font-family: 'Plus Jakarta Sans', sans-serif;
             color: #1e293b;
             min-height: 100vh;
-            overflow-x: hidden; /* Chặn tràn ngang toàn trang khi một công thức
-               toán inline (VD: tổng nhiều vectơ như T1+T2+T3+P=0) render ra
-               SVG rộng hơn vùng chứa - trước đây quy tắc này chỉ áp dụng cho
-               màn hình điện thoại (<=576px) nên máy tính/tablet vẫn bị "tràn"
-               ngang khi gặp công thức dài. */
+            overflow-x: hidden;
         }
         
         /* HEADER TỔNG */
@@ -178,16 +174,6 @@
             max-width: min(240px, 60%); max-height: 130px;
             width: auto; height: auto; display: block; margin: 4px auto;
         }
-        /* FIX: Bootstrap mặc định ".form-check" dùng float + margin-left âm
-           (-1.5em) trên input để chừa chỗ cho ô tròn, dựa vào padding-left:1.5em
-           của chính ".form-check". Khi câu Đúng/Sai được chấm đúng/sai, class
-           .ds-correct-pick/.ds-wrong-pick set "padding: 2px 8px" (shorthand)
-           đã VÔ TÌNH ghi đè mất padding-left:1.5em đó, khiến ô tròn bị margin
-           âm kéo lệch sang trái, đè lên/chen sát vào ô Đúng hoặc Sai bên cạnh
-           - đây là nguyên nhân gây hiện tượng giao diện "nhảy ra nhảy vào"
-           không đều giữa các câu. Chuyển ".form-check" sang flex (giống hệt
-           cách ".custom-option-wrapper" ở Phần I đã làm) để bỏ hẳn cơ chế
-           float/margin-âm này, không còn phụ thuộc padding-left nữa. */
         .form-check { display: flex; align-items: center; padding-left: 0; margin-bottom: 0; }
         .form-check .form-check-input { float: none; margin-left: 0; margin-top: 0; }
         .form-check-input { width: 1.1rem; height: 1.1rem; flex-shrink: 0; border: 2px solid #A6B2CC; accent-color: #2F6FED; }
@@ -218,11 +204,6 @@
         .tl-result-icon.correct { color: #12B76A; }
         .tl-result-icon.wrong { color: #F04438; }
 
-        /* MỚI: dấu tích tròn/X tròn cho Phần I (đáp án trắc nghiệm) và Phần II
-           (đúng/sai) sau khi nộp bài - giống hệt icon fa-circle-check /
-           fa-circle-xmark đã dùng sẵn ở Phần III, để đồng bộ 3 phần và giúp
-           người khó phân biệt đỏ/xanh vẫn nhận biết đúng/sai qua HÌNH DẤU,
-           không chỉ dựa vào màu nền. */
         .result-tag { display: none; margin-left: auto; padding-left: 8px; flex-shrink: 0; font-size: 1.1rem; }
         .form-check .result-tag { margin-left: 4px; padding-left: 0; }
         .custom-option-wrapper.option-correct .result-tag.tag-correct,
@@ -253,9 +234,6 @@
             border-radius: 12px; font-size: 0.85rem; color: #0B4D30; border: 1px solid #92E6BC;
             border-left: 4px solid #12B76A;
             max-width: 100%; overflow-x: auto; word-wrap: break-word; overflow-wrap: break-word;
-            /* Đổi từ "hidden" sang "auto": trước đây nếu công thức bên trong
-               vẫn còn quá dài, phần thừa bị ẨN MẤT (học sinh không đọc được
-               phần cuối lời giải) thay vì cho cuộn ngang để xem tiếp. */
         }
         .explain-box img, .question-text img, .sub-question-text img {
             max-width: 100%; height: auto; display: block; margin: 8px auto;
@@ -328,10 +306,7 @@
             }
             .sidebar-panel {
                 width: 320px;
-                flex-shrink: 0; /* Giữ nguyên 320px, KHÔNG cho flexbox bóp nhỏ
-                    lại để nhường chỗ cho .exam-panel khi đề bài có công thức
-                    quá dài (trước đây thiếu dòng này nên bảng điều khiển bên
-                    trái từng bị co dúm lại chỉ còn vài chục pixel). */
+                flex-shrink: 0;
                 position: sticky;
                 top: 82px; /* Ghìm chặt bảng điều khiển bên trái khi cuộn đề bên phải, chừa chỗ cho header (đồng hồ) đã cố định phía trên */
                 max-height: calc(100vh - 112px); /* trừ thêm chiều cao header để không tràn/đơ khi zoom hoặc màn hình thấp */
