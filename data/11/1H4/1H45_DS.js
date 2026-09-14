@@ -1,9 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1H45 - Đúng sai
-// Nguồn: SachBaiHoc_T11 (dự án LaTeX nội bộ, chương QUAN HỆ SONG SONG
-// TRONG KHÔNG GIAN, file QHSS-DS.tex), chuyển từ LaTeX, đã kiểm tra lại
-// toàn bộ lời giải bằng phương pháp tọa độ trước khi đưa vào ngân hàng.
-// =========================================================================
 window.dungSai1H45 = [
   {
     "id": "1H451DS1",

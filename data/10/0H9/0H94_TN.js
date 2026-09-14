@@ -1,13 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0H94 - Trắc nghiệm
-// Nguồn: Lý thuyết chuẩn "Đường tròn trong mặt phẳng tọa độ" (phương trình
-// chính tắc $(x-a)^2+(y-b)^2=R^2$; phương trình tổng quát
-// $x^2+y^2-2ax-2by+c=0$ với điều kiện $a^2+b^2-c>0$; đường tròn đường
-// kính AB; vị trí tương đối giữa đường thẳng và đường tròn qua khoảng
-// cách từ tâm đến đường thẳng; đường tròn ngoại tiếp tam giác vuông) -
-// chương trình Toán 10, GV tự soạn câu TN/TL dựa trên lý thuyết chuẩn, đã
-// tự kiểm tra lại toàn bộ kết quả bằng tính toán trực tiếp trước khi đưa vào.
-// =========================================================================
 window.tracNghiem0H94 = [
   {
     "id": "0H941TN1",

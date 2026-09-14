@@ -1,7 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D23 - Trắc nghiệm
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS3.tex), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem1D23 = [
   {
     "id": "1D232TN1",

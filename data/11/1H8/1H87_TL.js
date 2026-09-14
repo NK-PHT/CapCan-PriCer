@@ -1,9 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1H87 - Trả lời ngắn
-// Nguồn: Đề thi thử KSCL thật từ các trường/cụm trường THPT trên cả nước
-// (thư mục 3-KV-gui/26_TongHopDuAn/data/SP_dot_1_New, năm học 25-26), giữ
-// nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.traLoiNgan1H87 = [
   {
     "id": "1H874TL1",

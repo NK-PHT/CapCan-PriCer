@@ -1,7 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1H45 - Trắc nghiệm
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS13.tex - đề thi HK1 SGD Bắc Ninh), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem1H45 = [
   {
     "id": "1H451TN1",

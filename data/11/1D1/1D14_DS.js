@@ -1,7 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D14 - Đúng sai
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS3.tex), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.dungSai1D14 = [
   {
     "id": "1D142DS1",

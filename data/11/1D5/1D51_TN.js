@@ -1,7 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D51 - Trắc nghiệm
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS10.tex), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem1D51 = [
   {
     "id": "1D514TN1",

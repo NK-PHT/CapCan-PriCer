@@ -1,11 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D65 - Đúng/Sai
-// Nguồn: Các bài toán mũ/lôgarit nâng cao (bất phương trình cơ bản, phương pháp
-// mũ hoá - lôgarit hoá, đặt ẩn phụ, hàm số/đánh giá, tham số) - trích và biên
-// soạn lại từ thư mục "26-Toan11-HKII(Form-23-Oxyz)/Data-Logarit" (CD5.1-CD5.5),
-// đã tự giải lại và kiểm tra từng câu trước khi thêm; loại bỏ các câu có lời
-// giải nguồn sai/không nhất quán sau khi kiểm tra.
-// =========================================================================
 window.dungSai1D65 = [
   {
     "id": "1D651DS1",

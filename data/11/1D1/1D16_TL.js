@@ -1,12 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D16 - Trả lời ngắn
-// Nguồn: Lý thuyết & phương pháp giải "Phương trình lượng giác thường gặp"
-// (PT bậc nhất đối với sin và cos: a sinx + b cosx = c; PT bậc hai đối với
-// một hàm số lượng giác; PT thuần nhất bậc hai/đẳng cấp đối với sinx, cosx)
-// - chương trình Toán 11, GV tự soạn câu TN/DS/TL dựa trên lý thuyết chuẩn,
-// đã tự kiểm tra lại toàn bộ nghiệm bằng cách thay số trực tiếp và bằng
-// script kiểm tra số học (numpy) trước khi đưa vào ngân hàng.
-// =========================================================================
 window.traLoiNgan1D16 = [
   {
     "id": "1D161TL1",

@@ -1,8 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D22 - Trắc nghiệm
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS5.tex), giữ nguyên
-// nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem1D22 = [
   {
     "id": "1D224TN1",

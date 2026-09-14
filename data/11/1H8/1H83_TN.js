@@ -1,9 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1H83 - Trắc nghiệm
-// Nguồn: Lý thuyết & ví dụ minh hoạ "Phép chiếu vuông góc" (SGK Kết nối tri thức 11,
-// tập 2, HK2) - GV tự soạn câu hỏi TN/DS/TL dựa trên nội dung này, đã tự giải và
-// kiểm tra lại đáp án trước khi thêm.
-// =========================================================================
 window.tracNghiem1H83 = [
   {
     "id": "1H831TN1",

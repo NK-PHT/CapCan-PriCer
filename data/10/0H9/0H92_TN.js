@@ -1,12 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0H92 - Trắc nghiệm
-// Nguồn: Lý thuyết chuẩn "Biểu thức tọa độ của các phép toán vectơ" (tổng,
-// hiệu, tích với một số của hai vectơ theo tọa độ; tọa độ vectơ AB qua tọa
-// độ hai điểm; tọa độ trung điểm đoạn thẳng, trọng tâm tam giác; điều kiện
-// hai vectơ cùng phương theo tọa độ) - chương trình Toán 10, GV tự soạn
-// câu TN/TL dựa trên lý thuyết chuẩn, đã tự kiểm tra lại toàn bộ kết quả
-// bằng tính toán trực tiếp (đối chiếu bằng numpy/sympy) trước khi đưa vào.
-// =========================================================================
 window.tracNghiem0H92 = [
   {
     "id": "0H921TN1",

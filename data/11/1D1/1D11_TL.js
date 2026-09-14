@@ -1,8 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D11 - Trả lời ngắn
-// Nguồn: Đề thi Giữa Kì/Cuối Kì thật từ các trường THPT (thư mục LocID/BANK-25-26,
-// đợt 5), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.traLoiNgan1D11 = [
   {
     "id": "1D113TL1",

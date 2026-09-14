@@ -1,7 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 1D13 - Trắc nghiệm
-// Nguồn: Đề luyện tập tổng hợp (thư mục DeLuyenTap/11, DLTS3.tex), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem1D13 = [
   {
     "id": "1D133TN1",
