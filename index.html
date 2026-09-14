@@ -174,7 +174,13 @@
             max-width: min(240px, 60%); max-height: 130px;
             width: auto; height: auto; display: block; margin: 4px auto;
         }
-        .form-check { display: flex; align-items: center; padding-left: 0; margin-bottom: 0; }
+        .form-check {
+            display: flex; align-items: center; position: relative;
+            /* Padding cố định ngay từ đầu (kể cả khi chưa chấm), KHÔNG đổi
+               khi chấm đúng/sai, để hàng Đúng/Sai không bị "nhảy" kích thước.
+               Padding phải bên phải (28px) chừa sẵn chỗ cho icon tích/x. */
+            padding: 2px 28px 2px 8px; margin-bottom: 0; border-radius: 6px;
+        }
         .form-check .form-check-input { float: none; margin-left: 0; margin-top: 0; }
         .form-check-input { width: 1.1rem; height: 1.1rem; flex-shrink: 0; border: 2px solid #A6B2CC; accent-color: #2F6FED; }
         .form-check-label {
@@ -196,8 +202,8 @@
         .custom-option-wrapper.option-wrong .form-check-label { color: #B42318; font-weight: 700; }
 
         /* Tô màu đúng/sai cho Phần II (Đúng-Sai) và Phần III (Trả lời ngắn) sau khi nộp bài */
-        .form-check.ds-correct-pick { background: #E6F9EF; border-radius: 6px; padding: 2px 8px; }
-        .form-check.ds-wrong-pick { background: #FDECEA; border-radius: 6px; padding: 2px 8px; }
+        .form-check.ds-correct-pick { background: #E6F9EF; }
+        .form-check.ds-wrong-pick { background: #FDECEA; }
         .short-box.tl-correct { background: #E6F9EF !important; border-color: #92E6BC !important; color: #0B7A46; }
         .short-box.tl-wrong { background: #FDECEA !important; border-color: #F8B4AC !important; color: #B42318; }
         .tl-result-icon { font-size: 1.5rem; line-height: 1; display: inline-flex; align-items: center; margin-left: 4px; }
@@ -205,11 +211,19 @@
         .tl-result-icon.wrong { color: #F04438; }
 
         .result-tag { display: none; margin-left: auto; padding-left: 8px; flex-shrink: 0; font-size: 1.1rem; }
-        .form-check .result-tag { margin-left: 4px; padding-left: 0; }
+        /* Icon đúng/sai trong hàng Đúng/Sai: đặt position:absolute vào đúng
+           chỗ padding-phải đã chừa sẵn ở .form-check, dùng visibility thay vì
+           display để icon LUÔN chiếm chỗ đó (dù ẩn hay hiện) => hàng không
+           bao giờ đổi kích thước/nhảy vị trí khi chấm điểm. */
+        .form-check .result-tag {
+            display: inline-flex; visibility: hidden;
+            position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+            margin-left: 0; padding-left: 0;
+        }
         .custom-option-wrapper.option-correct .result-tag.tag-correct,
         .custom-option-wrapper.option-wrong .result-tag.tag-wrong { display: inline-flex; }
         .form-check.ds-correct-pick .result-tag.tag-correct,
-        .form-check.ds-wrong-pick .result-tag.tag-wrong { display: inline-flex; }
+        .form-check.ds-wrong-pick .result-tag.tag-wrong { visibility: visible; }
         .result-tag.tag-correct { color: #12B76A; }
         .result-tag.tag-wrong { color: #F04438; }
 
