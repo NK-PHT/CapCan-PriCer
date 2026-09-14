@@ -463,7 +463,7 @@ window.tracNghiem2D12 = [
       "$3\\sqrt{2}$",
       "$\\sqrt{85}$"
     ],
-    "answer": 2,
+    "answer": 0,
     "explain": "Ta có $y' = -3x^2 + 6x$.<br>  Cho $y'=0 \\Leftrightarrow -3x^2 + 6x = 0 \\Leftrightarrow -3x(x-2) = 0 \\Leftrightarrow x=0 \\text{ hoặc } x=2.$<br>  Bảng biến thiên:  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_053.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Dựa vào bảng biến thiên điểm cực tiểu là $A(0; 5)$.<br>   Độ dài đoạn thẳng $OA$ là $OA = 5$.<br>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
