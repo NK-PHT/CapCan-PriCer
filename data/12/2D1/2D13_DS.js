@@ -19,7 +19,7 @@ window.dungSai2D13 = [
       },
       {
         "text": "Trang sách được in chữ có diện tích lớn nhất khi $x=16$ (cm)",
-        "answer": false
+        "answer": true
       },
       {
         "text": "Phần diện tích để trống là $144$ cm$^2$",
