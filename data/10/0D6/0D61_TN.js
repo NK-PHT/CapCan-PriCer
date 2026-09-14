@@ -1,8 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D61 - Trắc nghiệm
-// Nguồn: SachBaiHoc_T10/Data-T10/DS10-CD3.3-HS-B2.tex và
-// TK10-CD1.5-Thong-ke.tex (bài tập giáo khoa gốc, giữ nguyên nội dung).
-// =========================================================================
 window.tracNghiem0D61 = [
   {
     "id": "0D613TN1",

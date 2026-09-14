@@ -1,8 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D63 - Trắc nghiệm
-// Nguồn: Đề thi Giữa Kì I thật từ các trường THPT (thư mục LocID/BANK-25-26),
-// giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu trúc dữ liệu.
-// =========================================================================
 window.tracNghiem0D63 = [
   {
     "id": "0D633TN1",

@@ -1,11 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D62 - Đúng/Sai
-// Nguồn: SachBaiHoc_T10/Data-T10/TK10-CD1.2-Bieu-Do.tex, mục "Bảng số liệu"
-// (kiểm tra tính hợp lý của số liệu thống kê qua các ví dụ thực tế: bảng
-// nhiệt độ, bảng số lớp/học sinh, bảng số sản phẩm bán ra, bảng số sản
-// phẩm của tổ sản xuất) - chuyển thể sang định dạng TN/ĐS của ngân hàng,
-// đã tự kiểm tra lại toàn bộ số liệu và phép tính trước khi đưa vào.
-// =========================================================================
 window.dungSai0D62 = [
   {
     "id": "0D621DS1",

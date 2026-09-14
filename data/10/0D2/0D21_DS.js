@@ -1,10 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D21 - Đúng sai
-// Nguồn: SachBaiHoc_T10/Data-T10/DS10-CD1.4-5-Bat-phuong-trinh-bac-nhat-hai-an.tex
-// (bài tập giáo khoa gốc, giữ nguyên nội dung; 6 câu toán thực tế có ghi tên
-// tác giả khác kèm đáp án/lời giải trống trong bản gốc đã được LOẠI BỎ khỏi
-// đợt này thay vì tự chế đáp án, theo đúng quy tắc ưu tiên độ chính xác).
-// =========================================================================
 window.dungSai0D21 = [
   {
     "id": "0D212DS1",

@@ -1,12 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D01 - Trả lời ngắn
-// Nguồn: Lý thuyết chuẩn "Không gian mẫu và biến cố" (phép thử ngẫu nhiên,
-// không gian mẫu $\Omega$, biến cố là tập con của không gian mẫu, biến cố
-// chắc chắn/không thể, biến cố đối) - chương trình Toán 10, GV tự soạn
-// câu ĐS/TL dựa trên lý thuyết chuẩn (theo đúng thành phần TN/ĐS/TL đã có
-// sẵn của các bài khác trong chương 0D0 - chỉ có ĐS+TL, không có TN), đã
-// tự kiểm tra lại toàn bộ kết quả trước khi đưa vào.
-// =========================================================================
 window.traLoiNgan0D01 = [
   {
     "id": "0D011TL1",

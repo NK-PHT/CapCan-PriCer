@@ -1,9 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D11 - Đúng sai
-// Nguồn: SachBaiHoc_T10/Data-T10/GiuaKiI-De-1.tex (đề luyện tập, một số câu
-// đã đổi số liệu/ngữ cảnh so với bản gốc theo yêu cầu tránh trùng nội dung
-// nguyên văn với đề nguồn).
-// =========================================================================
 window.dungSai0D11 = [
   {
     "id": "0D111DS1",

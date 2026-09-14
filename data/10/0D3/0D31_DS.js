@@ -1,10 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0D31 - Đúng sai
-// Nguồn: Bài tập giáo khoa (thư mục SachBaiHoc_T10/Data-T10, file
-// HH10-CD1.4-DS.tex / DS10-CD3.4-DS.tex, đã có tag định tuyến %[...] sẵn
-// trong nguồn), giữ nguyên nội dung gốc, chỉ định dạng lại cho khớp cấu
-// trúc dữ liệu.
-// =========================================================================
 window.dungSai0D31 = [
   {
     "id": "0D312DS1",

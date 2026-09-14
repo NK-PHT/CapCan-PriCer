@@ -1,13 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0C21 - Trắc nghiệm
-// Nguồn: Lý thuyết chuẩn "Phương pháp quy nạp toán học" (hai bước: kiểm
-// tra mệnh đề đúng tại giá trị bắt đầu; giả thiết quy nạp và chứng minh
-// mệnh đề đúng ở bước kế tiếp) minh họa qua các đẳng thức tổng quen thuộc
-// ($1+2+\cdots+n$, $1+3+\cdots+(2n-1)$, $1^2+2^2+\cdots+n^2$) và tính
-// chia hết ($n^3-n$ chia hết cho $3$) - chuyên đề Toán 10, GV tự soạn câu
-// TN/ĐS/TL dựa trên lý thuyết chuẩn, đã tự kiểm tra lại toàn bộ phép tính
-// trước khi đưa vào.
-// =========================================================================
 window.tracNghiem0C21 = [
   {
     "id": "0C211TN1",

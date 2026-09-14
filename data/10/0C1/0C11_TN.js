@@ -1,12 +1,3 @@
-// =========================================================================
-// KHỐI DỮ LIỆU: 0C11 - Trắc nghiệm
-// Nguồn: Lý thuyết chuẩn "Hệ ba phương trình bậc nhất ba ẩn" (phương pháp
-// Gauss - khử dần ẩn đưa hệ về dạng tam giác/bậc thang rồi giải ngược từ
-// dưới lên; biện luận số nghiệm: nghiệm duy nhất, vô nghiệm, vô số nghiệm;
-// ứng dụng giải bài toán thực tế) - chuyên đề Toán 10, GV tự soạn câu
-// TN/ĐS/TL dựa trên lý thuyết chuẩn, đã tự kiểm tra lại toàn bộ nghiệm
-// bằng tính toán trực tiếp (đối chiếu bằng sympy) trước khi đưa vào.
-// =========================================================================
 window.tracNghiem0C11 = [
   {
     "id": "0C111TN1",
