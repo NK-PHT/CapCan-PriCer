@@ -470,9 +470,9 @@ window.traLoiNgan2H22 = [
   },
   {
     "id": "2H223TL69",
-    "question": "Trong không gian $Oxyz$, cho tam giác $ABC$ có $A(0;2;2)$, $C(4;-1;2)$; $ AB= \\dfrac{15}{4}$, $ AC=5 $. Tìm cao độ của điểm $D$ là chân đường phân giác trong vẽ từ đỉnh $A$ của tam giác $ABC$.<br><img src=\"data/12/2D2/im2H22/dlts_12_DLTS6_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "question": "Trong không gian $Oxyz$, cho tam giác $ABC$ có $A(0;2;2)$, $B\\left(\\dfrac{9}{4};-1;2\\right)$, $C(4;-1;2)$. Tìm cao độ của điểm $D$ là chân đường phân giác trong vẽ từ đỉnh $A$ của tam giác $ABC$.<br><img src=\"data/12/2D2/im2H22/dlts_12_DLTS6_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
     "answer": "2",
-    "explain": "Theo tính chất chân đường phân giác ta có $\\dfrac{DB}{DC}=\\dfrac{AB}{AC}=\\dfrac{3}{4}$, suy ra $\\overrightarrow{DB}=-\\dfrac{3}{4}\\overrightarrow{DC}\\Leftrightarrow x_B-x_D=-\\dfrac{3}{4}\\left(x_C-x_D\\right) \\text{ và } y_B-y_D=-\\dfrac{3}{4}\\left(y_C-y_D\\right) \\text{ và } z_B-z_D=-\\dfrac{3}{4}\\left(z_C-z_D\\right)\\Leftrightarrow D(3;-1;2).$",
+    "explain": "Ta có $AB=\\sqrt{\\left(\\dfrac{9}{4}-0\\right)^2+(-1-2)^2+(2-2)^2}=\\dfrac{15}{4}$ và $AC=\\sqrt{(4-0)^2+(-1-2)^2+(2-2)^2}=5$.<br>  Theo tính chất chân đường phân giác ta có $\\dfrac{DB}{DC}=\\dfrac{AB}{AC}=\\dfrac{3}{4}$, suy ra $\\overrightarrow{DB}=-\\dfrac{3}{4}\\overrightarrow{DC}\\Leftrightarrow x_B-x_D=-\\dfrac{3}{4}\\left(x_C-x_D\\right) \\text{ và } y_B-y_D=-\\dfrac{3}{4}\\left(y_C-y_D\\right) \\text{ và } z_B-z_D=-\\dfrac{3}{4}\\left(z_C-z_D\\right)\\Leftrightarrow D(3;-1;2).$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
