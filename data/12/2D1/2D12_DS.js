@@ -464,12 +464,12 @@ window.dungSai2D12 = [
         "answer": false
       },
       {
-        "text": "Đồ thị hàm số có đường tiệm cận đứng là $x=1$",
+        "text": "Đồ thị hàm số có đường tiệm cận đứng là $x=-1$",
         "answer": true
       },
       {
         "text": "Hàm số có thể viết lại dưới dạng $f(x)=\\dfrac{1}{3}x+1+\\dfrac{d}{x+1}$ với $d$ là số thực thuộc $\\mathbb{R}$",
-        "answer": false
+        "answer": true
       },
       {
         "text": "Theo khảo sát, tổng doanh thu của doanh nghiệp này được mô tả bằng hàm số $R(x)=x^2+2x$ và lợi nhuận thu về khi bán $200$ sản phẩm là $5\\,250$ USD. Khi chi phí theo số sản phẩm đạt giá trị nhỏ nhất, số sản phẩm sản xuất được (làm tròn đến hàng đơn vị) là $25$ sản phẩm",
