@@ -89,5 +89,31 @@ window.tracNghiem1H42 = [
     "answer": 0,
     "explain": "Ta có $F$, $G$ lần lượt là trung điểm của $SB$ và $SC$ nên $FG$ là đương trung bình trong $\\triangle SBC$, suy ra $FG\\parallel BC$ mà $BC\\parallel AD$ nên $FG\\parallel AD$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H424TN1",
+    "question": "Trong không gian cho hai đường thẳng cắt nhau $a$ và $b$. Nếu $c$ là một đường thẳng song song với $a$ thì",
+    "options": [
+      "$c$ và $b$ song song với nhau",
+      "$c$ và $b$ cắt nhau",
+      "$c$ và $b$ chéo nhau",
+      "$c$ và $b$ không song song với nhau"
+    ],
+    "answer": 3,
+    "explain": "Vì $c\\parallel a$ mà $a$ cắt $b$ nên $c$ không thể song song với $b$ (nếu $c\\parallel b$ thì $a\\parallel b$, mâu thuẫn với giả thiết $a$ cắt $b$). Vậy $c$ và $b$ không song song với nhau (tuỳ từng trường hợp, $c$ và $b$ có thể cắt nhau hoặc chéo nhau).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H424TN2",
+    "question": "Cho tứ diện $ABCD$. Một mặt phẳng cắt các cạnh $AB$, $BC$, $CD$, $DA$ của tứ diện lần lượt tại các điểm $M$, $N$, $P$, $Q$. Khi đó",
+    "options": [
+      "$MN$, $AC$, $PQ$ đồng quy",
+      "$MN$, $AC$, $PQ$ đôi một song song",
+      "$MN$, $AC$, $PQ$ đôi một chéo nhau",
+      "$MN$, $AC$, $PQ$ đôi một song song hoặc đồng quy"
+    ],
+    "answer": 3,
+    "explain": "Xét ba mặt phẳng $(ABC)$, $(ACD)$, $(MNPQ)$. Ta có $(ABC)\\cap(ACD)=AC$; vì $M\\in AB\\subset(ABC)$, $N\\in BC\\subset(ABC)$ và $M, N\\in(MNPQ)$ nên $(ABC)\\cap(MNPQ)=MN$; tương tự $(ACD)\\cap(MNPQ)=PQ$. Theo định lí về giao tuyến của ba mặt phẳng, ba giao tuyến $AC$, $MN$, $PQ$ hoặc đồng quy hoặc đôi một song song với nhau.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

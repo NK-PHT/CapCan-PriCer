@@ -76,5 +76,44 @@ window.tracNghiem1H44 = [
     "answer": 1,
     "explain": "Theo lý thuyết ta có \" Nếu hai mặt phẳng phân biệt cùng song song với một mặt phẳng thứ ba thì hai mặt phẳng đó song song với nhau\".",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H448TN1",
+    "question": "Nếu mặt phẳng $(R)$ cắt hai mặt phẳng song song $(P)$ và $(Q)$ lần lượt theo hai giao tuyến $a$ và $b$ thì vị trí tương đối giữa hai đường thẳng $a$ và $b$ là",
+    "options": [
+      "song song",
+      "chéo nhau",
+      "trùng nhau",
+      "cắt nhau"
+    ],
+    "answer": 0,
+    "explain": "Theo tính chất của hai mặt phẳng song song: nếu một mặt phẳng cắt một trong hai mặt phẳng song song thì cũng cắt mặt phẳng còn lại, và hai giao tuyến nhận được song song với nhau. Vậy $a\\parallel b$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H448TN2",
+    "question": "Cho ba mặt phẳng $(P)$, $(Q)$, $(R)$ đôi một song song với nhau. Đường thẳng $d$ cắt các mặt phẳng $(P)$, $(Q)$, $(R)$ lần lượt tại $A$, $B$, $C$. Đường thẳng $d'$ cắt các mặt phẳng $(P)$, $(Q)$, $(R)$ lần lượt tại $A'$, $B'$, $C'$. Biết rằng $\\dfrac{AB}{AC}=\\dfrac{2}{3}$, tỉ số $\\dfrac{A'B'}{A'C'}$ bằng",
+    "options": [
+      "$\\dfrac{1}{3}$",
+      "$\\dfrac{2}{3}$",
+      "$\\dfrac{3}{2}$",
+      "$\\dfrac{1}{2}$"
+    ],
+    "answer": 1,
+    "explain": "Ba mặt phẳng song song $(P)$, $(Q)$, $(R)$ chắn trên hai cát tuyến $d$, $d'$ những đoạn thẳng tương ứng tỉ lệ (định lí Thalès trong không gian), tức là $\\dfrac{AB}{AC}=\\dfrac{A'B'}{A'C'}$. Vậy $\\dfrac{A'B'}{A'C'}=\\dfrac{2}{3}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H448TN3",
+    "question": "Cho mặt phẳng $(P)$ và điểm $A$ nằm ngoài mặt phẳng $(P)$. Khẳng định nào sau đây <strong>đúng</strong>?",
+    "options": [
+      "Qua $A$ có vô số mặt phẳng song song với $(P)$",
+      "Qua $A$ có đúng một mặt phẳng song song với $(P)$",
+      "Qua $A$ không có mặt phẳng nào song song với $(P)$",
+      "Qua $A$ có đúng hai mặt phẳng song song với $(P)$"
+    ],
+    "answer": 1,
+    "explain": "Theo tính chất: qua một điểm nằm ngoài một mặt phẳng cho trước, có một và chỉ một mặt phẳng song song với mặt phẳng đó.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

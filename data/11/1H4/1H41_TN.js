@@ -115,5 +115,18 @@ window.tracNghiem1H41 = [
     "answer": 1,
     "explain": "<img src=\"data/11/1H4/im1H41/1H41_tikz_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Gọi $G=AN\\cap DM$. <br>Khi đó $\\left\\{\\begin{array}{l}G\\in AN\\subset(ABN)\\\\G\\in \\mathscr{D}M\\subset(MBD)\\end{array}\\right.$, suy ra $(ABN)\\cap(MBD)=G$<br>Lại có $(ABN)\\cap(MBD)=B$.<br>Do đó giao tuyến của hai mặt phẳng $(MBD)$ và $(ABN)$ là đường thẳng $BG$.<br>Mà $AN$ và $DM$ là các đương trung tuyến của $\\triangle ACD$ nên $G$ là trọng tâm của tam giác $ACD$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H416TN1",
+    "question": "Cho hai mặt phẳng $(P)$ và $(Q)$ cắt nhau theo giao tuyến $d$. Khi đó",
+    "options": [
+      "$d$ là tập hợp tất cả các điểm nằm trong mặt phẳng $(P)$ và nằm ngoài mặt phẳng $(Q)$",
+      "$d$ là tập hợp tất cả các điểm nằm ngoài mặt phẳng $(P)$ và nằm trong mặt phẳng $(Q)$",
+      "$d$ là tập hợp tất cả các điểm nằm ngoài cả hai mặt phẳng $(P)$ và $(Q)$",
+      "$d$ là tập hợp tất cả các điểm nằm trong cả hai mặt phẳng $(P)$ và $(Q)$"
+    ],
+    "answer": 3,
+    "explain": "Theo định nghĩa, giao tuyến của hai mặt phẳng $(P)$ và $(Q)$ là tập hợp tất cả các điểm chung của $(P)$ và $(Q)$, tức là các điểm vừa nằm trong $(P)$ vừa nằm trong $(Q)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -141,5 +141,31 @@ window.tracNghiem1H43 = [
     "answer": 0,
     "explain": "Nếu $(Q)$ là mặt phẳng chứa $a$ và cắt $(P)$ theo giao tuyến $b$ thì $b$ song song với $a$. Do đó $a$ song song với mọi đường thẳng trong $(P)$ là khẳng định sai.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H436TN1",
+    "question": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thang ($AB\\parallel CD$). Gọi $d$ là giao tuyến của hai mặt phẳng $(SAB)$ và $(SCD)$. Khi đó $d$ đi qua $S$ và song song với",
+    "options": [
+      "$AC$",
+      "$CD$",
+      "$BD$",
+      "$BC$"
+    ],
+    "answer": 1,
+    "explain": "Ta có $AB\\subset(SAB)$, $CD\\subset(SCD)$ và $AB\\parallel CD$. Mặt khác $S$ là điểm chung của $(SAB)$ và $(SCD)$ nên theo hệ quả, giao tuyến $d$ của hai mặt phẳng này đi qua $S$ và song song với $AB$, $CD$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H436TN2",
+    "question": "Cho tứ diện $ABCD$ có $E$, $F$ lần lượt là trung điểm của các cạnh $BC$, $CD$. Mặt phẳng $(P)$ chứa đường thẳng $EF$ và cắt mặt phẳng $(ABD)$ theo giao tuyến $d$. Khi đó",
+    "options": [
+      "$d$ song song với $BC$",
+      "$d$ song song với $AB$",
+      "$d$ song song với $BD$",
+      "$d$ song song với $CD$"
+    ],
+    "answer": 2,
+    "explain": "Vì $E$, $F$ lần lượt là trung điểm của $BC$, $CD$ nên $EF$ là đường trung bình của tam giác $BCD$, suy ra $EF\\parallel BD$. Do $BD\\subset(ABD)$ và $EF\\not\\subset(ABD)$ nên $EF\\parallel(ABD)$. Mặt phẳng $(P)$ chứa $EF$ và cắt $(ABD)$ theo giao tuyến $d$ nên theo hệ quả, $d\\parallel EF$, suy ra $d\\parallel BD$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

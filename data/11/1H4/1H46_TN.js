@@ -50,5 +50,18 @@ window.tracNghiem1H46 = [
     "answer": 1,
     "explain": "Hình chiếu song song của hình chữ nhật không thể là hình thang vì \" Hình chiếu song song của hai đường thẳng song song là hai đường thẳng song song hoặc trùng nhau\".",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H464TN1",
+    "question": "Cho hình hộp $ABCD.A'B'C'D'$. Hình chiếu song song của điểm $A$ trên mặt phẳng $(CDD'C')$ theo phương $BC'$ là",
+    "options": [
+      "$D'$",
+      "$D$",
+      "$C$",
+      "$C'$"
+    ],
+    "answer": 0,
+    "explain": "Vì $ABCD.A'B'C'D'$ là hình hộp nên $\\overrightarrow{AD'}=\\overrightarrow{AA'}+\\overrightarrow{AD}$ và $\\overrightarrow{BC'}=\\overrightarrow{BB'}+\\overrightarrow{B'C'}=\\overrightarrow{AA'}+\\overrightarrow{AD}$ (do $BB'=AA'$, $B'C'=BC=AD$). Suy ra $\\overrightarrow{AD'}=\\overrightarrow{BC'}$, tức là $AD'\\parallel BC'$ và $AD'=BC'$. Vì $D'\\in(CDD'C')$ nên $D'$ chính là hình chiếu của $A$ qua phép chiếu song song theo phương $BC'$ lên mặt phẳng $(CDD'C')$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
