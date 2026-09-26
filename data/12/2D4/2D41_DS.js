@@ -190,5 +190,101 @@ window.dungSai2D41 = [
     ],
     "explain": "<br>- <strong>Đúng</strong>.<br>  Trên $(0;+\\infty)$, ta có  \\[  \\displaystyle\\int\\limits f(x) \\cdot g(x) \\mathrm{\\,d}x=\\displaystyle\\int\\limits \\sqrt{\\mathrm{e}^x} \\cdot \\sqrt{x} \\mathrm{\\,d}x=\\displaystyle\\int\\limits \\sqrt{x\\mathrm{e}^x} \\mathrm{\\,d}x.  \\]<br>- <strong>Đúng</strong>.<br>  Trên $(0;+\\infty)$, ta có  \\[  \\displaystyle\\int\\limits g(x) \\mathrm{\\,d}x  =\\displaystyle\\int\\limits \\sqrt{x} \\mathrm{\\,d}x  =\\displaystyle\\int\\limits x^{\\tfrac{1}{2}} \\mathrm{\\,d}x  =\\dfrac{x^{\\tfrac{3}{2}}}{\\dfrac{3}{2}}+C = \\dfrac{2\\sqrt{x^3}}{3}+C.  \\]  Do đó, $G(x)=\\dfrac{2\\sqrt{x^3}}{3}$ là một nguyên hàm của $g(x)$.<br>- <strong>Sai</strong>.<br>  Trên $(0;+\\infty)$, ta có  \\[  \\displaystyle\\int\\limits f(x) \\mathrm{\\,d}x  =\\displaystyle\\int\\limits \\sqrt{\\mathrm{e}^x} \\mathrm{\\,d}x  =\\displaystyle\\int\\limits \\mathrm{e}^{\\tfrac{x}{2}} \\mathrm{\\,d}x  =2\\mathrm{e}^{\\tfrac{x}{2}}+C=2\\sqrt{\\mathrm{e}^x}+C.  \\]  Do đó, $F(x)=\\sqrt{\\mathrm{e}^x}$ <strong>không</strong> là một nguyên hàm của $f(x)$.<br>- <strong>Đúng</strong>.<br>  Xét hàm số $y=F(x)-G(x)$ trên $(0;+\\infty)$ có $y'=f(x)-g(x)=\\sqrt{\\mathrm{e}^x}-\\sqrt{x}&gt;0$ (do $\\mathrm{e}^x&gt;x$ với mọi $x \\in (0;+\\infty)$).<br>  Vậy hàm số $y=F(x)-G(x)$ đồng biến trên $(0;+\\infty)$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D411DS1",
+    "question": "Cho hàm số $f(x)=3\\sin x-\\dfrac{2}{x}+4^x$ xác định trên khoảng $(0;+\\infty)$. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "$\\displaystyle\\int f(x)\\mathrm{\\,d}x=-3\\cos x-2\\ln x+\\dfrac{4^x}{\\ln 4}+C$",
+        "answer": true
+      },
+      {
+        "text": "Một nguyên hàm của $g(x)=\\cos x$ là $G(x)=-\\sin x$",
+        "answer": false
+      },
+      {
+        "text": "$\\displaystyle\\int \\dfrac{1}{x^2}\\mathrm{\\,d}x=-\\dfrac{1}{x}+C$",
+        "answer": true
+      },
+      {
+        "text": "Trên khoảng $(0;+\\infty)$, mọi nguyên hàm của $f(x)$ đều có dạng $-3\\cos x-2\\ln x+\\dfrac{4^x}{\\ln 4}+2025$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Áp dụng bảng nguyên hàm cơ bản: $\\displaystyle\\int 3\\sin x\\,\\mathrm{d}x=-3\\cos x$, $\\displaystyle\\int\\dfrac{-2}{x}\\mathrm{\\,d}x=-2\\ln x$ (vì $x>0$), $\\displaystyle\\int 4^x\\mathrm{\\,d}x=\\dfrac{4^x}{\\ln 4}$. Cộng lại được $\\displaystyle\\int f(x)\\mathrm{\\,d}x=-3\\cos x-2\\ln x+\\dfrac{4^x}{\\ln 4}+C$. Suy ra mệnh đề đúng.<br>- Vì $(\\sin x)'=\\cos x$ nên $\\displaystyle\\int \\cos x\\,\\mathrm{d}x=\\sin x+C$, không phải $-\\sin x$ (đó là nguyên hàm của $-\\cos x$). Suy ra mệnh đề sai.<br>- Đây là công thức cơ bản trong bảng nguyên hàm: $\\displaystyle\\int \\dfrac{1}{x^2}\\mathrm{\\,d}x=-\\dfrac{1}{x}+C$. Suy ra mệnh đề đúng.<br>- Họ nguyên hàm của $f(x)$ có dạng $-3\\cos x-2\\ln x+\\dfrac{4^x}{\\ln 4}+C$ với $C$ là <strong>một hằng số bất kì</strong> thuộc $\\mathbb{R}$, không phải chỉ riêng giá trị $C=2025$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D413DS3",
+    "question": "Cho hai hàm số $f(x)$, $g(x)$ liên tục trên $\\mathbb{R}$, biết $\\displaystyle\\int f(x)\\mathrm{\\,d}x=x^2-3x+C$ và $\\displaystyle\\int g(x)\\mathrm{\\,d}x=\\sin x+C$. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "$\\displaystyle\\int\\left[2f(x)-3g(x)\\right]\\mathrm{\\,d}x=2x^2-6x-3\\sin x+C$",
+        "answer": true
+      },
+      {
+        "text": "$f(0)+g(0)=-3$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $h(x)=f(x)\\cdot g(x)$ có một nguyên hàm là $H(x)=(x^2-3x)\\sin x$",
+        "answer": false
+      },
+      {
+        "text": "$\\displaystyle\\int \\left[f(x)+g(x)\\right]\\mathrm{\\,d}x = x^2-3x+\\sin x+C$",
+        "answer": true
+      }
+    ],
+    "explain": "Từ giả thiết suy ra $f(x)=\\left(x^2-3x\\right)'=2x-3$ và $g(x)=(\\sin x)'=\\cos x$.<br>- Áp dụng tính chất tuyến tính: $\\displaystyle\\int\\left[2f(x)-3g(x)\\right]\\mathrm{\\,d}x=2\\displaystyle\\int f(x)\\mathrm{\\,d}x-3\\displaystyle\\int g(x)\\mathrm{\\,d}x=2x^2-6x-3\\sin x+C$. Suy ra mệnh đề đúng.<br>- Ta có $f(0)=2\\cdot 0-3=-3$ và $g(0)=\\cos 0=1$ nên $f(0)+g(0)=-3+1=-2$, không phải $-3$. Suy ra mệnh đề sai.<br>- Nguyên hàm của một tích hai hàm số <strong>không</strong> bằng tích của nguyên hàm từng hàm cộng lại theo kiểu đơn giản như vậy. Thật vậy, $H'(x)=(2x-3)\\sin x+(x^2-3x)\\cos x$, trong khi $f(x)g(x)=(2x-3)\\cos x$; hai biểu thức này không bằng nhau nên $H(x)$ không phải là nguyên hàm của $h(x)$. Suy ra mệnh đề sai.<br>- Áp dụng tính chất nguyên hàm của một tổng: $\\displaystyle\\int \\left[f(x)+g(x)\\right]\\mathrm{\\,d}x=\\displaystyle\\int f(x)\\mathrm{\\,d}x+\\displaystyle\\int g(x)\\mathrm{\\,d}x=x^2-3x+\\sin x+C$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D417DS6",
+    "question": "Một vật chuyển động trên đường thẳng với vận tốc thay đổi theo thời gian $v(t)=6t^2-4t+3$ (m/s), trong đó $t$ (giây, $t\\ge 0$) là thời gian tính từ lúc vật bắt đầu chuyển động. Biết tại thời điểm $t=0$, vật ở vị trí có toạ độ $x=2$ (m). Gọi $x(t)$ là toạ độ của vật tại thời điểm $t$. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "$x(t)$ là một nguyên hàm của $v(t)$",
+        "answer": true
+      },
+      {
+        "text": "$x(t)=2t^3-2t^2+3t+2$",
+        "answer": true
+      },
+      {
+        "text": "Quãng đường vật đi được trong $2$ giây đầu tiên bằng $x(2)-x(0)$",
+        "answer": true
+      },
+      {
+        "text": "Vận tốc nhỏ nhất của vật bằng $3$ (m/s), đạt được tại thời điểm $t=0$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Theo định nghĩa, toạ độ $x(t)$ là một nguyên hàm của vận tốc $v(t)$. Suy ra mệnh đề đúng.<br>- Ta có $x(t)=\\displaystyle\\int v(t)\\mathrm{\\,d}t=\\displaystyle\\int\\left(6t^2-4t+3\\right)\\mathrm{\\,d}t=2t^3-2t^2+3t+C$. Vì $x(0)=2$ nên $C=2$, suy ra $x(t)=2t^3-2t^2+3t+2$. Suy ra mệnh đề đúng.<br>- Xét $v(t)=6t^2-4t+3$ có $\\Delta'=4-18=-14&lt;0$ và hệ số $a=6&gt;0$ nên $v(t)&gt;0$ với mọi $t$, tức vật luôn di chuyển theo một chiều. Do đó quãng đường đi được trong $2$ giây đầu bằng $\\displaystyle\\int_0^2 v(t)\\mathrm{\\,d}t=x(2)-x(0)$. Suy ra mệnh đề đúng.<br>- Vận tốc nhỏ nhất đạt tại đỉnh parabol $t=\\dfrac{4}{2\\cdot 6}=\\dfrac{1}{3}$, khi đó $v\\left(\\dfrac{1}{3}\\right)=6\\cdot\\dfrac{1}{9}-4\\cdot\\dfrac{1}{3}+3=\\dfrac{2}{3}-\\dfrac{4}{3}+3=\\dfrac{7}{3}$, nhỏ hơn $v(0)=3$. Vậy vận tốc nhỏ nhất bằng $\\dfrac{7}{3}$, không phải $3$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D416DS1",
+    "question": "Chi phí biên (chi phí tăng thêm khi sản xuất thêm một đơn vị sản phẩm) để sản xuất $x$ sản phẩm của một xưởng thủ công được cho bởi $C'(x)=0{,}3x^2-2x+15$ (nghìn đồng), với $x\\ge 0$. Biết chi phí cố định ban đầu (khi chưa sản xuất sản phẩm nào) là $200$ nghìn đồng. Gọi $C(x)$ là hàm chi phí để sản xuất $x$ sản phẩm. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "$C(x)=0{,}1x^3-x^2+15x+200$",
+        "answer": true
+      },
+      {
+        "text": "Chi phí để sản xuất $10$ sản phẩm là $250$ nghìn đồng",
+        "answer": false
+      },
+      {
+        "text": "Nếu tăng sản lượng từ $10$ lên $20$ sản phẩm thì chi phí tăng thêm $\\displaystyle\\int_{10}^{20}C'(x)\\mathrm{\\,d}x$ (nghìn đồng)",
+        "answer": true
+      },
+      {
+        "text": "Chi phí biên tại thời điểm sản xuất được $5$ sản phẩm là $12{,}5$ nghìn đồng",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Ta có $C(x)=\\displaystyle\\int C'(x)\\mathrm{\\,d}x=\\displaystyle\\int\\left(0{,}3x^2-2x+15\\right)\\mathrm{\\,d}x=0{,}1x^3-x^2+15x+C$. Vì chi phí cố định ban đầu $C(0)=200$ nên $C=200$, suy ra $C(x)=0{,}1x^3-x^2+15x+200$. Suy ra mệnh đề đúng.<br>- Ta có $C(10)=0{,}1\\cdot 10^3-10^2+15\\cdot 10+200=100-100+150+200=350$ (nghìn đồng), không phải $250$. Suy ra mệnh đề sai.<br>- Theo công thức Newton–Leibniz, $C(20)-C(10)=\\displaystyle\\int_{10}^{20}C'(x)\\mathrm{\\,d}x$, đúng là chi phí tăng thêm khi tăng sản lượng từ $10$ lên $20$ sản phẩm. Suy ra mệnh đề đúng.<br>- Ta có $C'(5)=0{,}3\\cdot 5^2-2\\cdot 5+15=7{,}5-10+15=12{,}5$ (nghìn đồng). Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

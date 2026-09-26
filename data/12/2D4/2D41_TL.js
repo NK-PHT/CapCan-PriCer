@@ -19,5 +19,12 @@ window.traLoiNgan2D41 = [
     "answer": "80",
     "explain": "Ta có $v(t)=\\displaystyle\\int a(t)\\mathrm{\\,d}t=\\displaystyle\\int(2 t+1) \\mathrm{\\,d}t=t^2+t+C$.<br>  Mặt khác vận tốc ban đầu là $180$ km/h hay $50$ m/s nên ta có  $v(0)=50 \\Leftrightarrow C=50$.<br>  Khi đó vận tốc của vật sau $5$ giây là  $v(5)=5^2+5+50=80$ m/s.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D417TL4",
+    "question": "Khi nghiên cứu dịch sốt xuất huyết ở một địa phương, các chuyên gia y tế ước tính rằng tại ngày thứ $m$ có $F(m)$ người mắc bệnh (sau khi đã làm tròn đến chữ số hàng đơn vị). Biết rằng tốc độ lan truyền bệnh là $F'(m)=\\dfrac{150}{2m+1}$ và ở ngày đầu tiên ($m=0$) người ta phát hiện ra $50$ bệnh nhân. Hỏi số người mắc bệnh ở ngày thứ $10$ là bao nhiêu?",
+    "answer": "278",
+    "explain": "Ta có $F(m)=\\displaystyle\\int \\dfrac{150}{2m+1}\\mathrm{\\,d}m=75\\ln(2m+1)+C$ (vì $m\\ge 0$ nên $2m+1&gt;0$).<br>  Vì $F(0)=50$ nên $75\\ln 1+C=50\\Rightarrow C=50$.<br>  Vậy $F(m)=75\\ln(2m+1)+50$.<br>  Số người mắc bệnh ở ngày thứ $10$ là $F(10)=75\\ln 21+50\\approx 278$ (người).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
