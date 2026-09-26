@@ -454,5 +454,101 @@ window.dungSai0D32 = [
     ],
     "explain": "<br>- Trục đối xứng của đồ thị hàm số là $x = \\dfrac{-4}{2 \\cdot (-1)} = 2$.<br>- Ta có hoành độ đỉnh $I$ của parabol là $x_I = 2$.<br>  Thay $x = 2$ vào hàm số ta được $y = -2^2 + 4 \\cdot 2 + 5 = 9$.<br>  Suy ra tung độ đỉnh $I$ của parabol là $y_I = 9$.<br>- Do hệ số $a = -1 &lt; 0$ nên đồ thị hàm số có bề lõm hướng xuống dưới.<br>- Bảng biên thiên của đồ thị hàm số  <br><img src=\"data/10/0D3/im0D32/loc3_0_TN_DS_THPT_chu_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên, suy ra trên đoạn $[0; 4]$, hàm số đạt giá trị lớn nhất là $9$ khi $x=2$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D325DS1",
+    "question": "Cho hàm số bậc hai $y=ax^2+bx+c$ có đồ thị là $(P)$. Biết $(P)$ đi qua điểm $A(-1;1)$ và có đỉnh $I(1;-3)$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$a+b+c=-3$",
+        "answer": true
+      },
+      {
+        "text": "$b=2a$",
+        "answer": false
+      },
+      {
+        "text": "$a-2b+3c=-1$",
+        "answer": true
+      },
+      {
+        "text": "$(P)$ đi qua điểm $B(4;6)$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Vì $(P)$ có đỉnh $I(1;-3)$ nên $\\left\\{\\begin{array}{l}a+b+c=-3\\\\-\\dfrac{b}{2a}=1\\end{array}\\right.\\Leftrightarrow\\left\\{\\begin{array}{l}a+b+c=-3\\\\b=-2a\\end{array}\\right.$. Suy ra mệnh đề đúng.<br>- Từ trên $b=-2a$ chứ không phải $2a$. Suy ra mệnh đề sai.<br>- $(P)$ qua $A(-1;1)$ nên $a-b+c=1$; kết hợp $a+b+c=-3$ và $b=-2a$ giải ra $a=1,b=-2,c=-2$. Khi đó $a-2b+3c=1+4-6=-1$. Suy ra mệnh đề đúng.<br>- Với $a=1,b=-2,c=-2$ thì $y(4)=16-8-2=6$ nên $(P)$ đi qua $B(4;6)$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D325DS2",
+    "question": "Cho hàm số bậc hai $y=f(x)=-(x-a)(x-b)$ có đồ thị là $(P)$ (với $a<b$). Biết $(P)$ có đỉnh $I(1;4)$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$a+2b=1$",
+        "answer": false
+      },
+      {
+        "text": "Đường thẳng $(d): y=x+1$ luôn cắt $(P)$ tại hai điểm phân biệt",
+        "answer": true
+      },
+      {
+        "text": "$f(x)>0,\\,\\forall x \\in(-1;2)$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị nhỏ nhất của hàm số trên $\\left[-\\dfrac{1}{2};2\\right]$ là $\\dfrac{7}{4}$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Khai triển $f(x)=-x^2+(a+b)x-ab$, đỉnh có hoành độ $\\dfrac{a+b}{2}=1\\Rightarrow a+b=2$ và tung độ $f(1)=1-ab=4\\Rightarrow ab=-3$. Giải hệ $a+b=2, ab=-3$ với $a<b$ được $a=-1,b=3$, suy ra $a+2b=5\\ne 1$. Suy ra mệnh đề sai.<br>- Với $a=-1,b=3$ thì $f(x)=-x^2+2x+3$. Phương trình hoành độ giao điểm $-x^2+2x+3=x+1 \\Leftrightarrow x^2-x-2=0$ có hai nghiệm phân biệt $x=-1,x=2$ nên $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt. Suy ra mệnh đề đúng.<br>- $f(x)=-(x+1)(x-3)>0 \\Leftrightarrow -1<x<3$, mà $(-1;2)\\subset(-1;3)$ nên $f(x)>0$ với mọi $x\\in(-1;2)$. Suy ra mệnh đề đúng.<br>- Đỉnh $x=1$ (giá trị lớn nhất) nằm trong $\\left[-\\dfrac12;2\\right]$ nên giá trị nhỏ nhất đạt tại một đầu mút: $f\\left(-\\dfrac12\\right)=\\dfrac74$, $f(2)=3$; giá trị nhỏ nhất là $\\dfrac74$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D325DS3",
+    "question": "Cho hàm số $y=f(x)=ax^2+bx+c$ có đồ thị như hình vẽ bên. Các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D3/im0D32/0D32_tikz_new1.png\" alt=\"hinh ve\" style=\"max-width:min(420px,90%);max-height:280px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Với $x \\in(-3;-1)$ thì $f(x)<0$",
+        "answer": true
+      },
+      {
+        "text": "Ta có $a>0$; $b>0$; $c>0$",
+        "answer": true
+      },
+      {
+        "text": "Phương trình $|f(x)|=m$ có $4$ nghiệm phân biệt với mọi $m>0$",
+        "answer": false
+      },
+      {
+        "text": "Phương trình $af(x)^2+bf(x)+c=0$ có $4$ nghiệm phân biệt",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Từ đồ thị, hàm số cắt trục hoành tại $x=-3$ và $x=-1$, đồ thị nằm dưới trục hoành khi $x \\in(-3;-1)$ nên $f(x)<0$. Suy ra mệnh đề đúng.<br>- Đồ thị có bề lõm hướng lên nên $a>0$; trục đối xứng $x=-\\dfrac{b}{2a}<0$ (nằm bên trái $Oy$) mà $a>0$ nên $b>0$; đồ thị cắt $Oy$ tại điểm có tung độ dương nên $c>0$. Suy ra mệnh đề đúng.<br>- Từ đồ thị, $f(x)$ đi qua $(-3;0),(-1;0),(0;3)$ nên $a=1,b=4,c=3$, tức $f(x)=x^2+4x+3=(x+1)(x+3)$, có giá trị nhỏ nhất là $-1$ tại $x=-2$. Với $m>1$, phương trình $f(x)=-m$ vô nghiệm (vì $-m<-1$) nên $|f(x)|=m$ chỉ còn $2$ nghiệm từ $f(x)=m$, không phải $4$ nghiệm. Suy ra mệnh đề sai.<br>- $af(x)^2+bf(x)+c=0 \\Leftrightarrow f(x)^2+4f(x)+3=0 \\Leftrightarrow (f(x)+1)(f(x)+3)=0 \\Leftrightarrow f(x)=-1$ hoặc $f(x)=-3$. Vì $f(x)\\ge -1$ với mọi $x$ nên $f(x)=-1$ chỉ có $1$ nghiệm (đỉnh $x=-2$) và $f(x)=-3$ vô nghiệm; tổng cộng chỉ có $1$ nghiệm, không phải $4$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D326DS1",
+    "question": "Cho hàm số bậc hai $y=ax^2+bx+c$ có đồ thị như hình vẽ sau. Các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D3/im0D32/0D32_tikz_new2.png\" alt=\"hinh ve\" style=\"max-width:min(360px,90%);max-height:260px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$a>0$",
+        "answer": true
+      },
+      {
+        "text": "$c>0$",
+        "answer": false
+      },
+      {
+        "text": "$a-2b+c=7$",
+        "answer": true
+      },
+      {
+        "text": "$a-b^2+c^3=10$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Từ đồ thị: $x=1$ thì $y=-2$ nên $a+b+c=-2$; $x=2$ thì $y=1$ nên $4a+2b+c=1$; đồ thị cắt trục tung tại điểm có tung độ $-1$ nên $c=-1$. Giải hệ $\\left\\{\\begin{array}{l}c=-1\\\\a+b+c=-2\\\\4a+2b+c=1\\end{array}\\right.$ được $a=2,b=-3,c=-1$.<br>- Bề lõm của parabol quay lên nên $a>0$ ($a=2>0$). Suy ra mệnh đề đúng.<br>- Ta có $c=-1<0$ nên mệnh đề đúng là $c<0$, mệnh đề ``$c>0$'' sai.<br>- Ta có $a-2b+c=2-2\\cdot(-3)+(-1)=7$. Suy ra mệnh đề đúng.<br>- Ta có $a-b^2+c^3=2-(-3)^2+(-1)^3=2-9-1=-8\\ne 10$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

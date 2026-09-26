@@ -166,5 +166,53 @@ window.dungSai0H41 = [
     ],
     "explain": "Vì $\\cos \\alpha &lt; 0$ nên $\\alpha$ là góc tù ($90^\\circ &lt; \\alpha &lt; 180^\\circ$).  <br>- Vì $\\cos \\alpha &lt; 0$ nên $90^\\circ &lt; \\alpha &lt; 180^\\circ$.<br>- Ta có $90^\\circ &lt; \\alpha &lt; 180^\\circ$ nên $\\cot \\alpha &lt; 0$.<br>- Ta có $\\sin^2\\alpha = 1 - \\cos^2\\alpha = 1 - \\left(-\\dfrac{2}{3}\\right)^2 = \\dfrac{5}{9}$.<br>  Vì $0^\\circ &lt; \\alpha &lt; 180^\\circ$ nên $\\sin\\alpha &gt; 0 \\Rightarrow \\sin\\alpha = \\dfrac{\\sqrt{5}}{3}$.<br>- $\\tan\\alpha=\\dfrac{\\sin\\alpha}{\\cos\\alpha}=\\dfrac{\\dfrac{\\sqrt{5}}{3}}{-\\dfrac{2}{3}}=-\\dfrac{\\sqrt{5}}{2}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H414DS1",
+    "question": "Cho góc $\\alpha = \\widehat{xOM}$ với điểm $M(x_0;y_0)$ trên nửa đường tròn đơn vị. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$\\sin \\alpha = x_0;\\cos\\alpha =y_0$",
+        "answer": false
+      },
+      {
+        "text": "Nếu $x_0<0$ thì $0^\\circ<\\alpha<90^\\circ$",
+        "answer": false
+      },
+      {
+        "text": "Nếu $x_0=\\dfrac{1}{3};y_0=\\dfrac{2\\sqrt{2}}{3}$ thì $\\cot \\alpha = \\dfrac{1}{2\\sqrt{2}}$",
+        "answer": true
+      },
+      {
+        "text": "Nếu $x_0=-\\dfrac{1}{3};y_0=\\dfrac{2\\sqrt{2}}{3}$ thì $\\dfrac{\\tan\\alpha-\\cot\\alpha}{\\tan\\alpha+\\cot\\alpha} = \\dfrac{7}{9}$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Với điểm $M(x_0;y_0)$ trên nửa đường tròn đơn vị thì $\\cos\\alpha=x_0$; $\\sin\\alpha=y_0$ (không phải ngược lại). Suy ra mệnh đề sai.<br>- Nếu $x_0=\\cos\\alpha<0$ thì $\\alpha$ là góc tù, tức $90^\\circ<\\alpha\\le 180^\\circ$. Suy ra mệnh đề sai.<br>- $\\cos\\alpha=\\dfrac13,\\sin\\alpha=\\dfrac{2\\sqrt2}{3}$ nên $\\cot\\alpha=\\dfrac{\\cos\\alpha}{\\sin\\alpha}=\\dfrac{1}{2\\sqrt2}$. Suy ra mệnh đề đúng.<br>- $\\cos\\alpha=-\\dfrac13,\\sin\\alpha=\\dfrac{2\\sqrt2}{3}$ nên $\\tan\\alpha=-2\\sqrt2$, $\\cot\\alpha=-\\dfrac{1}{2\\sqrt2}$, suy ra $\\dfrac{\\tan\\alpha-\\cot\\alpha}{\\tan\\alpha+\\cot\\alpha}=\\dfrac{-2\\sqrt2+\\frac{1}{2\\sqrt2}}{-2\\sqrt2-\\frac{1}{2\\sqrt2}}=\\dfrac{7}{9}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H414DS2",
+    "question": "Cho $\\sin\\alpha=\\dfrac{1}{3}$ với $\\dfrac{\\pi}{2}<\\alpha<\\pi$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Giá trị $\\cos\\left(90^\\circ-\\alpha\\right)<0$",
+        "answer": false
+      },
+      {
+        "text": "$\\cos\\alpha=-\\dfrac{2\\sqrt{2}}{3}$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị $\\cot^{2}\\alpha=8$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị $\\dfrac{5\\tan\\alpha+\\cot\\alpha}{\\tan\\alpha+\\cot\\alpha}=4$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- $\\cos(90^\\circ-\\alpha)=\\sin\\alpha=\\dfrac13>0$, không âm. Suy ra mệnh đề sai.<br>- Vì $\\dfrac{\\pi}{2}<\\alpha<\\pi$ nên $\\cos\\alpha<0$, do đó $\\cos\\alpha=-\\sqrt{1-\\sin^2\\alpha}=-\\dfrac{2\\sqrt2}{3}$. Suy ra mệnh đề đúng.<br>- $\\cot^2\\alpha=\\dfrac{\\cos^2\\alpha}{\\sin^2\\alpha}=\\dfrac{8/9}{1/9}=8$. Suy ra mệnh đề đúng.<br>- Với $\\cot\\alpha=-2\\sqrt2$ (do $\\cot^2\\alpha=8$ và $\\alpha$ ở góc phần tư II nên $\\cot\\alpha<0$), $\\tan\\alpha=-\\dfrac{1}{2\\sqrt2}$, tính được $\\dfrac{5\\tan\\alpha+\\cot\\alpha}{\\tan\\alpha+\\cot\\alpha}=\\dfrac{13}{9}\\ne 4$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

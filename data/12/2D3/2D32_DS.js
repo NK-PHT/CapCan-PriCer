@@ -214,5 +214,29 @@ window.dungSai2D32 = [
     ],
     "explain": "$\\begin{array}{|c|c|c|} \\hline \\text { Nhóm } & \\text { Tần số } & \\begin{array}{c} \\text { Tần số } \\\\ \\text { tích luỹ } \\end{array} \\\\ \\hline {[170; 172)} 3 3 \\\\ {[172; 174)} 10 13 \\\\ {[174; 176)} 6 19 \\\\ {[176; 178)} 1 20 \\\\ \\hline n=20 \\\\ \\hline \\end{array}$ <br>- <strong>Đúng</strong>.<br> Khoảng biến thiên của mẫu số liệu ghép nhóm này là $178-170=8$.<br>- <strong>Đúng</strong>.<br> Thành tích trung bình của môn nhảy cao là $\\bar{x}=\\dfrac{171\\cdot 3+173\\cdot 10+175\\cdot 6+177}{20}=173{,}5.$<br>- <strong>Sai</strong>.<br> Phương sai của mẫu số liệu ghép nhóm là $s^2=\\dfrac{(171-173{,}5)^2\\cdot 3+(173-173{,}5)^2\\cdot 10+(175-173{,}5)^2\\cdot 6+(177-173{,}5)^2}{20}\\approx 2{,}4.$<br>- <strong>Sai</strong>.<br> Độ lệch chuẩn của mẫu số liệu ghép nhóm là $\\sqrt{2{,}4}\\approx 1{,}5$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D324DS1",
+    "question": "Một công ty giống cây trồng đã thử nghiệm hai phương pháp chăm sóc khác nhau cho cây hướng dương. Sau hai tuần, người ta thấy cây được chăm sóc theo cả hai phương pháp đều thấp hơn $50$ cm. Bảng tần số ghép nhóm về chiều cao (cm) của các cây theo phương pháp $A$ và phương pháp $B$ như sau (cỡ mẫu mỗi phương pháp là $N=40$):<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center\" border=\"1\"><tr><th style=\"padding:4px 8px\">Chiều cao (cm)</th><td style=\"padding:4px 8px\">$[0;10)$</td><td style=\"padding:4px 8px\">$[10;20)$</td><td style=\"padding:4px 8px\">$[20;30)$</td><td style=\"padding:4px 8px\">$[30;40)$</td><td style=\"padding:4px 8px\">$[40;50)$</td></tr><tr><th style=\"padding:4px 8px\">Tần số (A)</th><td style=\"padding:4px 8px\">$6$</td><td style=\"padding:4px 8px\">$8$</td><td style=\"padding:4px 8px\">$12$</td><td style=\"padding:4px 8px\">$8$</td><td style=\"padding:4px 8px\">$6$</td></tr><tr><th style=\"padding:4px 8px\">Tần số (B)</th><td style=\"padding:4px 8px\">$13$</td><td style=\"padding:4px 8px\">$6$</td><td style=\"padding:4px 8px\">$2$</td><td style=\"padding:4px 8px\">$6$</td><td style=\"padding:4px 8px\">$13$</td></tr></table>Xét tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Khoảng biến thiên của chiều cao các cây được chăm sóc theo mỗi phương pháp $A$ và $B$ bằng nhau",
+        "answer": true
+      },
+      {
+        "text": "Trung bình chiều cao các cây được chăm sóc theo mỗi phương pháp $A$ và $B$ bằng nhau",
+        "answer": true
+      },
+      {
+        "text": "Độ lệch chuẩn của chiều cao các cây được chăm sóc theo phương án $A$ là $12{,}65$ (cm)",
+        "answer": true
+      },
+      {
+        "text": "Dựa vào độ lệch chuẩn thì chiều cao của các loại cây được chăm sóc theo phương án $B$ ít bị chênh lệch hơn so với phương án $A$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Cả hai bảng số liệu đều có chung nhóm đầu $[0;10)$ và nhóm cuối $[40;50)$ nên khoảng biến thiên của cả hai đều là $R=50-0=50$. Suy ra mệnh đề đúng.<br>- Chiều cao trung bình phương án $A$: $\\overline{x}_A=\\dfrac{5\\cdot 6+15\\cdot 8+25\\cdot 12+35\\cdot 8+45\\cdot 6}{40}=25$ (cm). Chiều cao trung bình phương án $B$: $\\overline{x}_B=\\dfrac{5\\cdot 13+15\\cdot 6+25\\cdot 2+35\\cdot 6+45\\cdot 13}{40}=25$ (cm). Vậy hai trung bình bằng nhau. Suy ra mệnh đề đúng.<br>- Độ lệch chuẩn phương án $A$: $s_A=\\sqrt{\\dfrac{5^2\\cdot 6+15^2\\cdot 8+25^2\\cdot 12+35^2\\cdot 8+45^2\\cdot 6}{40}-25^2}=\\sqrt{160}\\approx 12{,}65$ (cm). Suy ra mệnh đề đúng.<br>- Độ lệch chuẩn phương án $B$: $s_B=\\sqrt{\\dfrac{5^2\\cdot 13+15^2\\cdot 6+25^2\\cdot 2+35^2\\cdot 6+45^2\\cdot 13}{40}-25^2}=\\sqrt{290}\\approx 17{,}03$ (cm). Vì $s_A<s_B$ nên chiều cao cây theo phương án $A$ ít bị chênh lệch hơn (đồng đều hơn) phương án $B$, không phải ngược lại. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

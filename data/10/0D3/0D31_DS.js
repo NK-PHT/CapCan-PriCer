@@ -550,5 +550,77 @@ window.dungSai0D31 = [
     ],
     "explain": "<br>- Tập xác định của hàm số là $(-\\infty; 5]$.<br>- Với $x=0$ ta có $f(0)=\\sqrt{0+1}=1$ nên điểm $A(0;2)$ không thuộc đồ thị hàm số.<br>- Với $x=4\\Rightarrow f(4)=4^2-1=15$.<br>- Với $x=-1$ ta có $f(-1)=-1$.<br>  Vậy $f(0)+f(-1)=0$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D316DS1",
+    "question": "Cho hàm số $y=\\dfrac{m-2}{m+1}x+2m-1$ (với $m\\ne -1$). Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Với $m>2$, thì hàm số đồng biến trên $\\mathbb{R}$",
+        "answer": true
+      },
+      {
+        "text": "Với $m<1$, thì hàm số nghịch biến trên $\\mathbb{R}$",
+        "answer": false
+      },
+      {
+        "text": "Có $2$ giá trị nguyên của tham số $m$ để hàm số đã cho nghịch biến trên $\\mathbb{R}$",
+        "answer": true
+      },
+      {
+        "text": "Có $4$ giá trị của tham số $m$ để giá trị lớn nhất của hàm số trên $[-2;3]$ bằng $5$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Hàm số đồng biến $\\Leftrightarrow \\dfrac{m-2}{m+1}>0 \\Leftrightarrow \\left[\\begin{array}{l}m<-1\\\\m>2\\end{array}\\right.$, đúng khi $m>2$. Suy ra mệnh đề đúng.<br>- Hàm số nghịch biến $\\Leftrightarrow \\dfrac{m-2}{m+1}<0 \\Leftrightarrow -1<m<2$, không trùng với điều kiện $m<1$ (ví dụ $m<-1$ không cho nghịch biến). Suy ra mệnh đề sai.<br>- Với $-1<m<2$ và $m$ nguyên thì $m=0$ hoặc $m=1$, có đúng $2$ giá trị. Suy ra mệnh đề đúng.<br>- Xét hai trường hợp: nếu $m<-1$ hoặc $m>2$ (đồng biến) thì $\\max\\limits_{[-2;3]}y=y(3)=\\dfrac{3(m-2)}{m+1}+2m-1=5 \\Leftrightarrow 2m^2-m-12=0$, cho hai nghiệm đều thỏa điều kiện; nếu $-1<m<2$ (nghịch biến) thì $\\max\\limits_{[-2;3]}y=y(-2)=-\\dfrac{2(m-2)}{m+1}+2m-1=5 \\Leftrightarrow 2m^2-6m-2=0$, chỉ có $1$ nghiệm thỏa điều kiện $-1<m<2$. Tổng cộng có $3$ giá trị của $m$, không phải $4$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D317DS1",
+    "question": "Cho hàm số $f(x)=\\left\\{\\begin{array}{l}2x-7\\text{ khi }-2\\le x<5\\\\\\sqrt{3x+1}-1\\text{ khi }x\\ge 5\\end{array}\\right.$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$f(8)=4$",
+        "answer": true
+      },
+      {
+        "text": "$f(-3)=-13$",
+        "answer": false
+      },
+      {
+        "text": "Có một giá trị của $x$ để $f(x)=1$",
+        "answer": true
+      },
+      {
+        "text": "$3f(5)+f(0)=15$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Vì $8\\ge 5$ nên $f(8)=\\sqrt{3\\cdot 8+1}-1=\\sqrt{25}-1=5-1=4$. Suy ra mệnh đề đúng.<br>- Vì $-3$ không thuộc tập xác định của hàm số (tập xác định là $[-2;+\\infty)$) nên không tồn tại $f(-3)$, mệnh đề $f(-3)=-13$ sai.<br>- Với $-2\\le x<5$: $f(x)=1\\Leftrightarrow 2x-7=1\\Leftrightarrow x=4$ (thỏa mãn). Với $x\\ge 5$: $f(x)=1\\Leftrightarrow \\sqrt{3x+1}-1=1\\Leftrightarrow \\sqrt{3x+1}=2\\Leftrightarrow x=1$ (không thỏa $x\\ge 5$, loại). Vậy chỉ có một giá trị $x=4$ để $f(x)=1$. Suy ra mệnh đề đúng.<br>- $f(5)=\\sqrt{3\\cdot 5+1}-1=\\sqrt{16}-1=4-1=3$; $f(0)=2\\cdot 0-7=-7$. Suy ra $3f(5)+f(0)=3\\cdot 3+(-7)=2\\ne 15$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D317DS2",
+    "question": "Cho hàm số $y=\\sqrt{3-2x}$ có tập xác định là $\\mathscr{D}$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$\\mathscr{D}=\\left[\\dfrac{3}{2};+\\infty\\right)$",
+        "answer": false
+      },
+      {
+        "text": "$x_0=1\\in \\mathscr{D}$",
+        "answer": true
+      },
+      {
+        "text": "$(-3;0)\\subset \\mathscr{D}$",
+        "answer": true
+      },
+      {
+        "text": "$\\left(\\dfrac{3}{2};3\\right)\\cap \\mathscr{D}=\\left\\{\\dfrac{3}{2}\\right\\}$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Điều kiện xác định: $3-2x\\ge 0\\Leftrightarrow x\\le \\dfrac{3}{2}$. Suy ra $\\mathscr{D}=\\left(-\\infty;\\dfrac{3}{2}\\right]$, không phải $\\left[\\dfrac{3}{2};+\\infty\\right)$. Suy ra mệnh đề sai.<br>- Vì $1\\le \\dfrac{3}{2}$ nên $x_0=1\\in\\mathscr{D}$. Suy ra mệnh đề đúng.<br>- Vì $(-3;0)\\subset\\left(-\\infty;\\dfrac{3}{2}\\right]$ nên $(-3;0)\\subset\\mathscr{D}$. Suy ra mệnh đề đúng.<br>- Vì $\\left(\\dfrac{3}{2};3\\right)$ không chứa $\\dfrac{3}{2}$ và $\\mathscr{D}$ chỉ chứa các giá trị $\\le\\dfrac{3}{2}$ nên $\\left(\\dfrac{3}{2};3\\right)\\cap\\mathscr{D}=\\varnothing$, không phải $\\left\\{\\dfrac{3}{2}\\right\\}$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

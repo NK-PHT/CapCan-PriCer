@@ -622,5 +622,101 @@ window.dungSai0H42 = [
     ],
     "explain": "<br>- $\\widehat{C}=180^\\circ-\\left(45^\\circ+\\sin 60^\\circ\\right)=75^\\circ $.<br>- Ta có $\\widehat{B}&gt;\\widehat{A}$ nên suy ra $AC&gt;BC$.<br>- $R=\\dfrac{BC}{2\\sin A}=\\dfrac{2}{2\\sin 45^\\circ}=\\sqrt{2}$.<br>- $AC=\\dfrac{2\\sin 60^\\circ}{\\sin 45^\\circ}=\\sqrt{6}$.<br>  $S=\\dfrac{1}{2}.AC.BC.\\sin C=\\dfrac{1}{2}.\\sqrt{6}.2.\\sin 75^\\circ=\\dfrac{3+\\sqrt{3}}{2}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H425DS1",
+    "question": "Cho tam giác $ABC$ có $AB=3$, $AC=2$, $\\widehat{A}=60^\\circ$. Trên cạnh $BC$ lấy điểm $M$ nằm giữa $B$ và $C$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$BC^{2}=AB^{2}+AC^{2}+2 AB\\cdot AC\\cdot\\cos A$",
+        "answer": false
+      },
+      {
+        "text": "$BC=\\sqrt{7}$",
+        "answer": true
+      },
+      {
+        "text": "$\\cos B=\\dfrac{\\sqrt{7}}{7}$",
+        "answer": false
+      },
+      {
+        "text": "Độ dài $AM$ nhỏ nhất bằng $\\dfrac{189}{49}$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Định lí côsin đúng phải là $BC^{2}=AB^{2}+AC^{2}-2 AB\\cdot AC\\cdot\\cos A$ (dấu trừ). Suy ra mệnh đề sai.<br>- $BC^2=9+4-2\\cdot3\\cdot2\\cdot\\cos60^\\circ=7\\Rightarrow BC=\\sqrt7$. Suy ra mệnh đề đúng.<br>- $\\cos B=\\dfrac{AB^2+BC^2-AC^2}{2\\cdot AB\\cdot BC}=\\dfrac{9+7-4}{6\\sqrt7}=\\dfrac{2\\sqrt7}{7}$, không phải $\\dfrac{\\sqrt7}{7}$. Suy ra mệnh đề sai.<br>- Với $M\\in BC$, đặt $BM=t\\in(0;\\sqrt7)$ thì $AM^2=AB^2+BM^2-2\\cdot AB\\cdot BM\\cdot\\cos B=9+t^2-\\dfrac{12}{\\sqrt7}t$, đạt nhỏ nhất tại $t=\\dfrac{6}{\\sqrt7}$ với giá trị $AM^2_{\\min}=\\dfrac{27}{7}=\\dfrac{189}{49}$. Vậy $\\dfrac{189}{49}$ là giá trị nhỏ nhất của $AM^2$ chứ không phải của độ dài $AM$ (khi đó $AM_{\\min}=\\sqrt{\\dfrac{27}{7}}\\approx 1{,}96$). Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H425DS2",
+    "question": "Cho tam giác $ABC$ có $AC=b=7$; $AB=c=5$; $\\cos A=\\dfrac{3}{5}$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Góc $A$ là góc tù",
+        "answer": false
+      },
+      {
+        "text": "$a=4\\sqrt{2}$",
+        "answer": true
+      },
+      {
+        "text": "$\\sin A=-\\dfrac{4}{5}$",
+        "answer": false
+      },
+      {
+        "text": "Độ dài đường cao hạ từ đỉnh $A$ bằng $\\dfrac{7\\sqrt{2}}{2}$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- $\\cos A=\\dfrac35>0$ nên góc $A$ nhọn, không phải góc tù. Suy ra mệnh đề sai.<br>- $a=\\sqrt{b^2+c^2-2bc\\cos A}=\\sqrt{49+25-42}=\\sqrt{32}=4\\sqrt2$. Suy ra mệnh đề đúng.<br>- $\\sin^2A=1-\\cos^2A=\\dfrac{16}{25}$; vì $0^\\circ<A<180^\\circ$ nên $\\sin A>0$, do đó $\\sin A=\\dfrac45$, không phải $-\\dfrac45$. Suy ra mệnh đề sai.<br>- $S=\\dfrac12 bc\\sin A=\\dfrac12\\cdot7\\cdot5\\cdot\\dfrac45=14$; mà $S=\\dfrac12 a\\cdot h_a\\Rightarrow h_a=\\dfrac{2S}{a}=\\dfrac{28}{4\\sqrt2}=\\dfrac{7\\sqrt2}{2}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H425DS3",
+    "question": "Cho tam giác $ABC$ có $AB=15$, $AC=20$ và $\\widehat{BAC}=60^\\circ$. Gọi $R$, $r$ lần lượt là bán kính đường tròn ngoại tiếp, nội tiếp tam giác $ABC$. Các kết quả làm tròn đến hàng đơn vị. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$BC=18$",
+        "answer": true
+      },
+      {
+        "text": "$\\widehat{ABC}=75^\\circ$",
+        "answer": false
+      },
+      {
+        "text": "$S=129$",
+        "answer": false
+      },
+      {
+        "text": "$2R-5r<0$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- $BC^2=15^2+20^2-2\\cdot15\\cdot20\\cdot\\cos60^\\circ=325\\Rightarrow BC=\\sqrt{325}\\approx 18$. Suy ra mệnh đề đúng.<br>- $\\cos B=\\dfrac{AB^2+BC^2-AC^2}{2\\cdot AB\\cdot BC}=\\dfrac{225+325-400}{2\\cdot15\\cdot\\sqrt{325}}\\approx 0{,}277\\Rightarrow \\widehat{ABC}\\approx 74^\\circ$, không phải $75^\\circ$. Suy ra mệnh đề sai.<br>- $S=\\dfrac12\\cdot AB\\cdot AC\\cdot\\sin\\widehat{BAC}=\\dfrac12\\cdot15\\cdot20\\cdot\\sin60^\\circ=75\\sqrt3\\approx 130$, không phải $129$. Suy ra mệnh đề sai.<br>- $2R=\\dfrac{BC}{\\sin A}\\Rightarrow R\\approx 10{,}4$; $r=\\dfrac{S}{p}$ với $p=\\dfrac{15+20+\\sqrt{325}}{2}\\approx 26{,}5\\Rightarrow r\\approx4{,}9$. Khi đó $2R-5r\\approx 20{,}8-24{,}5<0$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0H425DS4",
+    "question": "Hai tàu đánh cá xuất phát từ cảng $A$ lúc $8$ giờ, tàu thứ nhất đi theo hướng $S70^\\circ E$ với vận tốc $50$ km/h. Tàu thứ hai đi theo hướng $N40^\\circ E$ với vận tốc $55$ km/h. Đi được $75$ phút thì động cơ của tàu thứ nhất bị hỏng nên tàu trôi tự do theo hướng nam với vận tốc $7$ km/h. Sau $1$ giờ $30$ phút kể từ khi động cơ bị hỏng, tàu đó neo đậu được vào một hòn đảo. Các mệnh đề sau đúng hay sai? (các kết quả làm tròn đến hàng phần chục).",
+    "subQuestions": [
+      {
+        "text": "Quãng đường mà tàu thứ nhất đi được sau $75$ phút kể từ khi xuất phát là $62,5$ km",
+        "answer": true
+      },
+      {
+        "text": "Khoảng cách giữa hai tàu tại thời điểm tàu thứ nhất bị hỏng là $107,6$ km",
+        "answer": false
+      },
+      {
+        "text": "Lúc $10$ giờ $45$ phút tàu thứ nhất cách vị trí xuất phát khoảng $59,7$ km",
+        "answer": false
+      },
+      {
+        "text": "Hướng từ cảng $A$ tới đảo nơi tàu thứ nhất neo đậu là $S61,5^\\circ E$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Đổi $75$ phút $=1{,}25$ giờ; quãng đường tàu $1$ đi được là $S_1=1{,}25\\cdot50=62{,}5$ km. Suy ra mệnh đề đúng.<br>- Gọi $B$ là vị trí tàu $1$ bị hỏng, $D$ là vị trí tàu $2$ cùng thời điểm đó. Quãng đường tàu $2$ đi được là $AD=1{,}25\\cdot55=68{,}75$ km. Góc giữa hai hướng đi $S70^\\circ E$ và $N40^\\circ E$ là $\\widehat{BAD}=180^\\circ-70^\\circ-40^\\circ=70^\\circ$. Theo định lí côsin, $BD^2=AB^2+AD^2-2\\cdot AB\\cdot AD\\cdot\\cos70^\\circ\\approx 5693{,}6\\Rightarrow BD\\approx 75{,}5$ km, không phải $107{,}6$ km. Suy ra mệnh đề sai.<br>- Sau $1$ giờ $30$ phút kể từ khi hỏng máy (tức lúc $10$ giờ $45$), tàu đã trôi tự do theo hướng nam đoạn $BC=1{,}5\\cdot7=10{,}5$ km. Trong tam giác $ABC$ vuông theo hướng nam tại $B$ so với hướng $S70^\\circ E$ ban đầu, tính được $AC\\approx 66{,}8$ km, không phải $59{,}7$ km. Suy ra mệnh đề sai.<br>- Áp dụng định lí sin trong tam giác $ABC$ để tính góc lệch $\\widehat{CAS}\\approx 61{,}5^\\circ$ so với hướng nam ban đầu, nên hướng từ cảng $A$ đến đảo là $S61,5^\\circ E$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -142,5 +142,29 @@ window.dungSai2D61 = [
     ],
     "explain": "Gọi $A$ là biến cố “ An câu được cá ” \\, và $B$ là biến cố “ Bình câu được cá”.<br>  Suy ra $\\overline{A}$ là biến cố “ An không câu được cá” \\, và $\\overline{B}$ là biến cố “ Bình không câu được cá”.<br>  Theo giả thiết $\\mathrm{\\mathrm{P}(}A)=0{,}6 \\Rightarrow \\mathrm{P}\\left(\\overline{A}\\right)=1-0{,}6=0{,}4$; $\\mathrm{P}(B)=0{,}3 \\Rightarrow \\mathrm{P}\\left(\\overline{B}\\right)=1-0{,}3=0{,}7$.  <br>- Xác suất An không câu được cá là $\\mathrm{P}\\left(\\overline{A}\\right)=0{,}4$.<br>- Biến cố “ Có đúng $1$ người câu được cá” \\, là $A\\overline{B} \\cup \\overline{A}B$.<br>  Do $A$, $B$ là hai biến cố độc lập nên  $\\mathrm{P}(A\\overline{B} \\cup \\overline{A}B) = \\mathrm{P}(A\\overline{B})+\\mathrm{P}\\left(\\overline{A}B\\right)$<br>$= \\mathrm{P}(A) \\cdot \\mathrm{P}\\left(\\overline{B}\\right)+\\mathrm{P}\\left(\\overline{A}\\right) \\cdot \\mathrm{P}(B)$<br>$= 0{,}6 \\cdot 0{,}7+0{,}4 \\cdot 0{,}3=0{,}54.$<br>- Biến cố “ Cả $2$ người đều không câu được cá” \\, là $\\overline{A}\\overline{B}$.<br>  Do $A$, $B$ là hai biến cố độc lập nên  $\\mathrm{P}\\left(\\overline{A}\\overline{B}\\right) = \\mathrm{P}\\left(\\overline{A}\\right) \\cdot \\mathrm{P}\\left(\\overline{B})\\right)$<br>$= 0{,}4 \\cdot 0{,}7=0{,}28.$<br>- Biến cố $C$ “ Có ít nhất $1$ người câu được cá”.<br>  Biến cố đối $\\overline{C}$ “ Không ai câu được cá”, ta có $\\overline{C}=\\overline{A}\\overline{B}$.<br>  $\\mathrm{P}(C) = 1-\\mathrm{P}\\left(\\overline{C}\\right)$<br>$= 1-0{,}28=0{,}72.$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D614DS1",
+    "question": "Cho sơ đồ hình cây biểu diễn xác suất của các biến cố $A$, $\\overline{A}$, $B$, $\\overline{B}$ như hình bên, trong đó $P(A)=0{,}1$; $P(\\overline{A})=0{,}9$; $P(B\\mid A)=0{,}3$; $P(\\overline{B}\\mid A)=0{,}7$; $P(B\\mid \\overline{A})=0{,}6$; $P(\\overline{B}\\mid \\overline{A})=0{,}4$. Xét tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Xác suất của biến cố $B$ với điều kiện $A$ không xảy ra là $0{,}6$",
+        "answer": true
+      },
+      {
+        "text": "Xác suất cả hai biến cố $A$ và $B$ đều xảy ra là $0{,}3$",
+        "answer": false
+      },
+      {
+        "text": "Xác suất của biến cố $B$ là $0{,}9$",
+        "answer": false
+      },
+      {
+        "text": "Xác suất của biến cố $A$ với điều kiện $B$ là $\\dfrac{1}{19}$",
+        "answer": true
+      }
+    ],
+    "explain": "<br><img src=\"data/12/2D6/im2D61/2D61_tikz_new1.png\" alt=\"hinh ve\" style=\"max-width:min(360px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- Theo sơ đồ hình cây, $P(B\\mid \\overline{A})=0{,}6$. Suy ra mệnh đề đúng.<br>- Ta có $P(A\\cap B)=P(A)\\cdot P(B\\mid A)=0{,}1\\cdot 0{,}3=0{,}03$, không phải $0{,}3$. Suy ra mệnh đề sai.<br>- Ta có $P(B)=P(A)P(B\\mid A)+P(\\overline{A})P(B\\mid \\overline{A})=0{,}1\\cdot 0{,}3+0{,}9\\cdot 0{,}6=0{,}03+0{,}54=0{,}57$, không phải $0{,}9$. Suy ra mệnh đề sai.<br>- Ta có $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{0{,}03}{0{,}57}=\\dfrac{1}{19}$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

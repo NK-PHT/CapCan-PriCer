@@ -334,5 +334,29 @@ window.dungSai2D43 = [
     ],
     "explain": "<br>- <strong>Đúng</strong>. Chiều rộng mái vòm là $20$ mét suy ra $2a=20\\Leftrightarrow a=10\\Rightarrow a^2=100$.<br>  Chiều cao tối đa của mái vòm là $8$ mét, suy ra $b=8\\Rightarrow b^2=64$.<br>  Vậy phương trình elip là $\\dfrac{x^2}{100}+\\dfrac{y^2}{64}=1$.<br>- <strong>Sai</strong>. Ta có $  \\dfrac{x^2}{100}+\\dfrac{y^2}{64}=1\\Leftrightarrow y=\\pm \\sqrt{64\\left(1-\\dfrac{x^2}{100}\\right)}=\\pm 8 \\sqrt{ 1-\\dfrac{x^2}{100}}=\\pm \\dfrac{4}{5}\\sqrt{100-x^2}$.<br>  Diện tích mặt cắt đứng mái vòm là   $ S=\\displaystyle \\int\\limits_{-10}^{10}\\dfrac{4}{5}\\sqrt{100-x^2}\\mathrm{\\,d }x=\\dfrac{4}{5}\\displaystyle \\int\\limits_{-10}^{10}\\sqrt{100-x^2}\\mathrm{\\,d }x=\\dfrac{4}{5}\\cdot 50\\pi=40\\pi.$  Hoặc dùng công thức diện tích diện tích nửa elip (giới thiệu thêm - không khuyến khích dùng)  $S=\\dfrac{1}{2}\\pi \\cdot a\\cdot b=\\dfrac{1}{2}\\cdot \\pi\\cdot 10\\cdot 8=40\\pi\\text{ m}^2.$<br>- <strong>Sai</strong>. Thể tích không gian bên trong mái vòm là  $V = \\dfrac{1}{2}\\pi\\displaystyle \\int\\limits_{-10}^{10}\\left(\\dfrac{4}{5}\\sqrt{100-x^2}\\right)^2\\mathrm{\\,d}x  = \\dfrac{1}{2}\\pi \\displaystyle \\int\\limits_{-10}^{10}\\dfrac{16}{25}\\left(100-x^2\\right)\\mathrm{\\,d}x$<br>$= \\dfrac{1}{2}\\cdot \\dfrac{16\\pi}{25}\\cdot \\dfrac{4000}{3}=   \\dfrac{1280\\pi}{3}\\text{ m}^3.$   Hoặc có thể sử dụng công thức (giới thiệu thêm - không khuyến khích dùng)  $V=\\dfrac{1}{2}\\cdot \\dfrac{4}{3}\\pi\\cdot a\\cdot b^2=\\dfrac{1}{2}\\cdot \\dfrac{4}{3}\\pi\\cdot 10\\cdot 8^2=\\dfrac{1280\\pi}{3}\\text{ m}^3$.<br>- <strong>Sai</strong>. Nếu tăng trục chiều cao thành $10$ m thì nửa elip trở thành nửa hình tròn.<br>  Do đó, diện tích mặt cắt lúc sau là $S'=\\dfrac{1}{2}\\pi R^2=50\\pi$. <br>  Tỉ lệ diện tích tăng lên là $\\dfrac{S'}{S}=\\dfrac{5}{4}$.<br>  Thể tích vòm lúc sau là nửa hình cầu và bằng $V'=\\dfrac{1}{2}\\cdot\\dfrac{4}{3}\\pi R^3=\\dfrac{2000\\pi}{3}$.<br>  Tỉ lệ thể tích tăng lên là $\\dfrac{V'}{V}=\\dfrac{25}{16}$.<br>  Do đó tỉ lệ diện tích mặt cắt đứng và thể tích tăng lên theo hai tỉ lệ khác nhau.<br>  Ghi chú: Nếu tăng chiều rộng lên (chẳng hạn từ $20$m thành $25$m) thì tỷ lệ diện tích mặt cắt đứng và thể tích vòm sẽ tăng lên theo cùng một tỉ lệ (Học sinh tự kiểm chứng, xem như bài tập).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D436DS1",
+    "question": "Một người điều khiển ô tô đang ở đường dẫn muốn nhập làn vào đường cao tốc. Khi ô tô cách điểm nhập làn $200$ m, tốc độ của ô tô là $36$ km/h. Hai giây sau đó, ô tô bắt đầu tăng tốc với vận tốc $v(t)=at+b$ $(a,b\\in\\mathbb{R}, a>0)$, trong đó $t$ là thời gian tính bằng giây kể từ khi bắt đầu tăng tốc. Biết rằng ô tô nhập làn cao tốc sau $12$ giây và duy trì sự tăng tốc trong $24$ giây kể từ khi bắt đầu tăng tốc. Xét tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Quãng đường ô tô đi được từ khi bắt đầu tăng tốc đến khi nhập làn là $180$ m",
+        "answer": true
+      },
+      {
+        "text": "Giá trị của $b$ là $10$",
+        "answer": true
+      },
+      {
+        "text": "Quãng đường $S(t)$ (đơn vị: mét) mà ô tô đi được trong thời gian $t$ giây $(0\\le t\\le 24)$ kể từ khi tăng tốc được tính theo công thức $S(t)=\\displaystyle\\int\\limits_0^{24}v(t)\\,\\mathrm{d}t$",
+        "answer": false
+      },
+      {
+        "text": "Sau $24$ giây kể từ khi tăng tốc, tốc độ của ô tô không vượt quá tốc độ tối đa cho phép là $100$ km/h",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Tốc độ $36$ km/h $=10$ m/s. Trong $2$ giây trước khi tăng tốc, ô tô đi được $10\\cdot 2=20$ m. Vậy quãng đường còn lại từ lúc bắt đầu tăng tốc đến khi nhập làn là $200-20=180$ m. Suy ra mệnh đề đúng.<br>- Tại thời điểm bắt đầu tăng tốc ($t=0$), vận tốc phải bằng vận tốc trước đó (tính liên tục) là $10$ m/s, tức $v(0)=b=10$. Suy ra mệnh đề đúng.<br>- Vì ô tô nhập làn sau $12$ giây kể từ khi tăng tốc nên $\\displaystyle\\int_0^{12}v(t)\\,\\mathrm{d}t=180\\Leftrightarrow \\int_0^{12}(at+10)\\,\\mathrm{d}t=180\\Leftrightarrow 72a+120=180\\Leftrightarrow a=\\dfrac{5}{6}$. Vậy $v(t)=\\dfrac{5}{6}t+10$.<br>- Quãng đường đi được tính từ lúc bắt đầu tăng tốc đến thời điểm $t$ bất kì phải là $S(t)=\\displaystyle\\int_0^{t}v(x)\\,\\mathrm{d}x$ (cận trên thay đổi theo $t$), không phải $\\displaystyle\\int_0^{24}v(t)\\,\\mathrm{d}t$ (một hằng số cố định, không phụ thuộc $t$). Suy ra mệnh đề sai.<br>- Sau $24$ giây, tốc độ ô tô là $v(24)=\\dfrac{5}{6}\\cdot 24+10=30$ m/s $=30\\cdot 3{,}6=108$ km/h, vượt quá tốc độ tối đa cho phép $100$ km/h. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

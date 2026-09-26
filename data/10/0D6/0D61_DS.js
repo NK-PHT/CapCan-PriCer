@@ -238,5 +238,29 @@ window.dungSai0D61 = [
     ],
     "explain": "<br>- Ta sử dụng công thức đánh giá sai số tuyệt đối là $\\Delta=|\\bar{a}-a|$. Suy ra mệnh đề đúng.<br>- Xét số gần đúng $0{,}429$ ta có: $\\Delta_1=\\left|\\dfrac{3}{7}-0{,}429\\right|&lt;0{,}0005$. Suy ra mệnh đề đúng.<br>- Xét số gần đúng $0{,}4$ ta có: $\\Delta_2=\\left|\\dfrac{3}{7}-0{,}4\\right|&lt;0{,}03$. Suy ra mệnh đề đúng.<br>- Xét số gần đúng $0{,}42$ ta có: $\\Delta_2=\\left|\\dfrac{3}{7}-0{,}42\\right|&lt;0{,}009$. Suy ra mệnh đề đúng.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D614DS1",
+    "question": "Cho ba giá trị gần đúng của $\\dfrac{3}{7}$ là $0{,}429$; $0{,}4$ và $0{,}42$. Xác định tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Công thức đánh giá sai số tuyệt đối là $\\Delta=|\\bar{a}-a|$",
+        "answer": true
+      },
+      {
+        "text": "Xét số gần đúng $0{,}429$ ta có $\\Delta_1=\\left|\\dfrac{3}{7}-0{,}429\\right|<0{,}0005$",
+        "answer": true
+      },
+      {
+        "text": "Xét số gần đúng $0{,}4$ ta có $\\Delta_2=\\left|\\dfrac{3}{7}-0{,}4\\right|<0{,}03$",
+        "answer": true
+      },
+      {
+        "text": "Xét số gần đúng $0{,}42$ ta có $\\Delta_3=\\left|\\dfrac{3}{7}-0{,}42\\right|<0{,}009$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Sai số tuyệt đối của số gần đúng $\\bar a$ so với số đúng $a$ được tính theo công thức $\\Delta=|\\bar a-a|$. Suy ra mệnh đề đúng.<br>- Ta có $\\dfrac{3}{7}\\approx 0{,}428571$ nên $\\Delta_1=\\left|\\dfrac{3}{7}-0{,}429\\right|\\approx 0{,}000429<0{,}0005$. Suy ra mệnh đề đúng.<br>- $\\Delta_2=\\left|\\dfrac{3}{7}-0{,}4\\right|\\approx 0{,}028571<0{,}03$. Suy ra mệnh đề đúng.<br>- $\\Delta_3=\\left|\\dfrac{3}{7}-0{,}42\\right|\\approx 0{,}008571<0{,}009$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

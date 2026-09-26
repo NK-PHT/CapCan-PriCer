@@ -382,5 +382,53 @@ window.dungSai0D11 = [
     ],
     "explain": "<br>- Đúng. Mệnh đề $P \\Rightarrow Q$ được phát biểu là \\text{“}Nếu số tự nhiên $n$ có chữ số tận cùng bằng 5 thì $n$ chia hết cho 5\\text{”}.<br>- Đúng. Trong mệnh đề $P \\Rightarrow Q$ thì $P$ là điều kiện đủ để có $Q$<br>- Sai. Số tự nhiên $n$ có chữ số tận cùng bằng $5$ thì số đó chia hết cho $5$.<br>- Sai. Trong mệnh đề $P \\Rightarrow Q$ thì $Q$ là điều kiện cần để có $P$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D117DS1",
+    "question": "Cho các mệnh đề: $P: \"\\exists x \\in \\mathbb{R}: x>x^2\"$ và $Q: \"\\forall x \\in \\mathbb{R}: x^2>0\"$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$P$ là mệnh đề đúng",
+        "answer": true
+      },
+      {
+        "text": "$\\overline{Q}$ là mệnh đề sai",
+        "answer": false
+      },
+      {
+        "text": "$P \\Rightarrow Q$",
+        "answer": false
+      },
+      {
+        "text": "$(\\overline{P}\\Rightarrow Q) \\Rightarrow (P \\Rightarrow \\overline{Q})$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Với $x=0{,}5$ thì $x>x^2$ nên $P$ là mệnh đề đúng.<br>- Phủ định của $Q$ là $\\overline{Q}: \\text{``}\\exists x \\in \\mathbb{R}: x^2\\le 0\\text{''}$, đúng với $x=0$, nên $\\overline{Q}$ là mệnh đề đúng chứ không sai.<br>- $P$ đúng, $Q$ sai nên $P \\Rightarrow Q$ là mệnh đề sai.<br>- $\\overline{P}$ sai (do $P$ đúng) nên $\\overline{P}\\Rightarrow Q$ là mệnh đề đúng (giả thiết sai thì phép kéo theo luôn đúng); mặt khác $P$ đúng và $\\overline{Q}$ đúng nên $P \\Rightarrow \\overline{Q}$ cũng đúng. Do đó $(\\overline{P}\\Rightarrow Q) \\Rightarrow (P \\Rightarrow \\overline{Q})$ là mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D117DS2",
+    "question": "Cho hai số nguyên $a$ và $b$. Xét tính đúng, sai của các mệnh đề sau:",
+    "subQuestions": [
+      {
+        "text": "$a^2>b^2 \\Leftrightarrow a>b$",
+        "answer": false
+      },
+      {
+        "text": "$a^3>b^3 \\Leftrightarrow a>b$",
+        "answer": true
+      },
+      {
+        "text": "$a+b$ chia hết cho $3$ khi và chỉ khi cả hai số $a$ và $b$ cùng chia hết cho $3$",
+        "answer": false
+      },
+      {
+        "text": "$a+b>2$ khi và chỉ khi có ít nhất một trong hai số $a, b$ lớn hơn $1$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Chẳng hạn $a=-3, b=-2$: $a^2=9>4=b^2$ nhưng $a<b$. Suy ra mệnh đề sai.<br>- Hàm số $f(t)=t^3$ đồng biến trên $\\mathbb{R}$ nên $a^3>b^3 \\Leftrightarrow a>b$. Suy ra mệnh đề đúng.<br>- Chẳng hạn $a=1, b=2$: $a+b=3$ chia hết cho $3$ nhưng cả $a$ và $b$ đều không chia hết cho $3$. Suy ra mệnh đề sai.<br>- Chiều thuận đúng, nhưng chiều ngược lại sai: chẳng hạn $a=2, b=-1$ có $a>1$ nhưng $a+b=1<2$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

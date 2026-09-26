@@ -478,5 +478,221 @@ window.dungSai0D22 = [
     ],
     "explain": "<br>- Các bất phương trình trong hệ đều là bậc nhất hai ẩn.<br>- Thay $(1;3)$ vào hệ: $-2(1)+3=1\\le2 \\quad (\\text{Đúng}) \\text{ và } -1+2(3)=5\\ge4 \\quad (\\text{Đúng}) \\text{ và } 1+3=4\\le5 \\quad (\\text{Đúng}).$<br>- Xác định giao điểm của các đường thẳng bờ:  <br>- $d_1 \\cap d_2$: $-2x+y=2 \\text{ và } -x+2y=4 \\Leftrightarrow x=0 \\text{ và } y=2 \\Rightarrow M(0;2)$.<br>- $d_2 \\cap d_3$: $-x+2y=4 \\text{ và } x+y=5 \\Leftrightarrow x=2 \\text{ và } y=3 \\Rightarrow N(2;3)$.<br>- $d_1 \\cap d_3$: $-2x+y=2 \\text{ và } x+y=5 \\Leftrightarrow x=1 \\text{ và } y=4 \\Rightarrow P(1;4)$.  <br><img src=\"data/10/0D2/im0D22/loc3_0_TN_DS_TL_THPT__000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Miền nghiệm là tam giác $MNP$.<br>- Tính $F(x;y)=-x+y$ tại các đỉnh:<br>- $F(0;2)=2$;<br>- $F(2;3)=-2+3=1$;<br>- $F(1;4)=-1+4=3$.  Vậy giá trị nhỏ nhất là $1$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D224DS1",
+    "question": "Bác An dự định trồng hai loại cây ăn trái là mít và xoài trong nông trại rộng $100$ hecta. Biết mỗi hecta trồng mít cần $20$ công chăm sóc và thu lại lợi nhuận $150$ triệu đồng, mỗi hecta trồng xoài cần $40$ công chăm sóc và thu lại lợi nhuận $180$ triệu đồng. Tổng số công cần dùng không được vượt quá $2800$ công. Gọi $x$, $y$ (hecta) lần lượt là diện tích đất dùng để trồng mít và xoài. Khi đó các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "$x+y<100$",
+        "answer": false
+      },
+      {
+        "text": "$x+2 y \\leq 140$",
+        "answer": true
+      },
+      {
+        "text": "Tổng lợi nhuận thu được là $F=150 x+180 y$ (triệu đồng)",
+        "answer": true
+      },
+      {
+        "text": "Lợi nhuận thu được lớn nhất là $15$ tỷ đồng",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Diện tích đất có hạn nên điều kiện đúng là $x+y \\leq 100$ (có thể bằng), không phải $x+y<100$. Suy ra mệnh đề sai.<br>- Số công cần dùng là $20x+40y\\le 2800$, chia hai vế cho $20$ được $x+2y\\le 140$. Suy ra mệnh đề đúng.<br>- Lợi nhuận thu được là $F=150x+180y$ (triệu đồng). Suy ra mệnh đề đúng.<br>- Miền nghiệm của hệ $\\left\\{\\begin{array}{l}x\\ge 0\\\\y\\ge 0\\\\x+y\\le 100\\\\x+2y\\le 140\\end{array}\\right.$ là một tứ giác với các đỉnh $(0;0),(100;0),(60;40),(0;70)$ (giao của $x+y=100$ và $x+2y=140$ là $(60;40)$). Tính $F$ tại các đỉnh: $F(100;0)=15000$, $F(60;40)=16200$, $F(0;70)=12600$ (triệu đồng). Lợi nhuận lớn nhất đạt tại $(60;40)$, bằng $16{,}2$ tỷ đồng, không phải $15$ tỷ đồng. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D225DS1",
+    "question": "Cho hệ bất phương trình $\\left\\{\\begin{array}{l}x+y-1\\le 0\\\\2x-y+4\\ge 0\\end{array}\\right.$. Khi đó các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D2/im0D22/0D22_tikz_new1.png\" alt=\"hinh ve\" style=\"max-width:min(460px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hệ đã cho là hệ phương trình bậc nhất hai ẩn",
+        "answer": false
+      },
+      {
+        "text": "Hệ đã cho có một nghiệm duy nhất là $(1;0)$",
+        "answer": false
+      },
+      {
+        "text": "Điểm $M(2;3)$ không thuộc miền nghiệm của hệ đã cho",
+        "answer": true
+      },
+      {
+        "text": "Phần không tô đậm (kể cả bờ) trong hình vẽ trên là miền nghiệm của hệ đã cho",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Hệ đã cho là hệ bất phương trình bậc nhất hai ẩn (không phải hệ phương trình). Suy ra mệnh đề sai.<br>- Hệ bất phương trình bậc nhất hai ẩn có vô số nghiệm (cả một miền trong mặt phẳng), không phải một nghiệm duy nhất. Suy ra mệnh đề sai.<br>- Thay tọa độ điểm $M(2;3)$ vào bất phương trình $x+y-1\\le 0$: $2+3-1=4>0$, không thỏa mãn. Vậy $M$ không thuộc miền nghiệm của hệ. Suy ra mệnh đề đúng.<br>- Điểm $O(0;0)$ thỏa mãn cả hai bất phương trình của hệ ($0+0-1\\le 0$ và $2\\cdot 0-0+4\\ge 0$) nên $O$ thuộc miền nghiệm; phần chứa $O$ chính là phần không bị gạch trên hình. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D225DS2",
+    "question": "Cho hệ bất phương trình $\\left\\{\\begin{array}{l}x+y-3>0\\\\x-2y+1\\le 0\\end{array}\\right.$. Xác định tính đúng sai của các mệnh đề sau<br><img src=\"data/10/0D2/im0D22/0D22_tikz_new2.png\" alt=\"hinh ve\" style=\"max-width:min(460px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hệ trên là hệ bất phương trình bậc nhất hai ẩn",
+        "answer": true
+      },
+      {
+        "text": "Điểm $A(2;4)$ thuộc miền nghiệm của hệ",
+        "answer": true
+      },
+      {
+        "text": "Hệ trên có nghiệm duy nhất",
+        "answer": false
+      },
+      {
+        "text": "Biểu diễn miền nghiệm của hệ đã cho là phần tô đậm trong hình vẽ trên",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Hệ trên gồm hai bất phương trình bậc nhất hai ẩn nên đó là hệ bất phương trình bậc nhất hai ẩn. Suy ra mệnh đề đúng.<br>- Thay tọa độ điểm $A(2;4)$ vào hệ: $2+4-3=3>0$ và $2-2\\cdot 4+1=-5\\le 0$, cả hai đều thỏa mãn. Suy ra mệnh đề đúng.<br>- Hệ bất phương trình bậc nhất hai ẩn có vô số nghiệm (miền nghiệm là một miền trong mặt phẳng), không phải nghiệm duy nhất. Suy ra mệnh đề sai.<br>- Miền nghiệm của hệ đã cho là phần không tô đậm trong hình vẽ (phần chứa các điểm thỏa mãn cả hai bất phương trình), không phải phần tô đậm. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D225DS3",
+    "question": "Cho hệ bất phương trình $\\left\\{\\begin{array}{l}x-2y\\le 0\\\\x+3y\\ge -2\\end{array}\\right.$. Khi đó các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D2/im0D22/0D22_tikz_new3.png\" alt=\"hinh ve\" style=\"max-width:min(460px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hệ đã cho là bất phương trình bậc nhất hai ẩn",
+        "answer": true
+      },
+      {
+        "text": "Hệ đã cho có một nghiệm duy nhất",
+        "answer": false
+      },
+      {
+        "text": "Điểm $A(-1;0)$ thuộc miền nghiệm đã cho",
+        "answer": true
+      },
+      {
+        "text": "Phần không bị gạch sọc trong hình vẽ trên biểu diễn miền nghiệm của hệ đã cho",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Hệ đã cho gồm hai bất phương trình bậc nhất hai ẩn. Suy ra mệnh đề đúng.<br>- Hệ bất phương trình bậc nhất hai ẩn có vô số nghiệm. Suy ra mệnh đề sai.<br>- Thay tọa độ điểm $A(-1;0)$ vào hệ: $-1-2\\cdot 0=-1\\le 0$ và $-1+3\\cdot 0=-1\\ge -2$, cả hai đều thỏa mãn. Suy ra mệnh đề đúng.<br>- Thay tọa độ điểm $(0;1)$ vào biểu thức $x-2y$ được $0-2=-2<0$; thay tọa độ điểm $O(0;0)$ vào biểu thức $x+3y+2$ được $0+0+2=2>0$. Vậy phần mặt phẳng không bị gạch sọc (kể cả bờ) chính là miền nghiệm của hệ. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D225DS4",
+    "question": "Cho hệ bất phương trình $\\left\\{\\begin{array}{l}x-y>0\\\\2x-y>1\\end{array}\\right.$. Khi đó các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D2/im0D22/0D22_tikz_new4.png\" alt=\"hinh ve\" style=\"max-width:min(460px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hệ bất phương trình đã cho là hệ bất phương trình bậc nhất hai ẩn",
+        "answer": true
+      },
+      {
+        "text": "Hệ bất phương trình đã cho có nghiệm duy nhất",
+        "answer": false
+      },
+      {
+        "text": "Hệ bất phương trình đã cho vô nghiệm",
+        "answer": false
+      },
+      {
+        "text": "Phần không tô đậm (kể cả bờ) biểu diễn miền nghiệm của hệ bất phương trình",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Hệ đã cho gồm hai bất phương trình bậc nhất hai ẩn nên đó là hệ bất phương trình bậc nhất hai ẩn. Suy ra mệnh đề đúng.<br>- Hệ bất phương trình bậc nhất hai ẩn (nếu có nghiệm) luôn có vô số nghiệm, không phải nghiệm duy nhất. Suy ra mệnh đề sai.<br>- Điểm $(3;0)$ thỏa mãn cả hai bất phương trình ($3-0=3>0$ và $2\\cdot 3-0=6>1$) nên hệ có nghiệm, không vô nghiệm. Suy ra mệnh đề sai.<br>- Vì cả hai bất phương trình của hệ đều là bất đẳng thức ngặt ($>$) nên miền nghiệm không nhận bờ (không kể các đường biên). Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D225DS5",
+    "question": "Cho hệ bất phương trình $\\left\\{\\begin{array}{l}2x+3y-6\\le 0\\\\x\\ge 0\\\\2x-3y-1\\le 0\\end{array}\\right.$. Khi đó các mệnh đề sau đúng hay sai?<br><img src=\"data/10/0D2/im0D22/0D22_tikz_new5.png\" alt=\"hinh ve\" style=\"max-width:min(460px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Không phải là hệ bất phương trình bậc nhất hai ẩn",
+        "answer": false
+      },
+      {
+        "text": "Hệ bất phương trình vô nghiệm",
+        "answer": false
+      },
+      {
+        "text": "Điểm $M\\left(0;-\\dfrac{1}{3}\\right)$ thuộc miền nghiệm của hệ bất phương trình",
+        "answer": true
+      },
+      {
+        "text": "Miền nghiệm của hệ bất phương trình là miền tam giác (kể cả các cạnh của tam giác)",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Hệ đã cho gồm ba bất phương trình bậc nhất hai ẩn nên đó chính là một hệ bất phương trình bậc nhất hai ẩn. Suy ra mệnh đề sai.<br>- Điểm $(0;0)$ thỏa mãn cả ba bất phương trình của hệ nên hệ có nghiệm, không vô nghiệm. Suy ra mệnh đề sai.<br>- Thay tọa độ điểm $M\\left(0;-\\dfrac{1}{3}\\right)$ vào hệ: $2\\cdot 0+3\\cdot\\left(-\\dfrac{1}{3}\\right)-6=-7\\le 0$; $0\\ge 0$; $2\\cdot 0-3\\cdot\\left(-\\dfrac{1}{3}\\right)-1=0\\le 0$. Cả ba đều thỏa mãn. Suy ra mệnh đề đúng.<br>- Gọi $(d_1)\\colon 2x+3y-6=0$, $(d_2)\\colon x=0$, $(d_3)\\colon 2x-3y-1=0$. Vì $(0;0)$ thuộc cả ba miền nghiệm nên sau khi loại bỏ các miền không thích hợp, miền nghiệm còn lại là miền tam giác $ABC$ với $A(0;2)$, $B\\left(\\dfrac{7}{4};\\dfrac{5}{6}\\right)$, $C\\left(0;-\\dfrac{1}{3}\\right)$ (kể cả các cạnh). Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D224DS2",
+    "question": "Một công ty TNHH cần thuê xe để chở ít nhất $140$ người và $9$ tấn hàng. Nơi cho thuê chỉ có hai loại xe $A$ và $B$. Trong đó xe loại $A$ có $10$ chiếc, xe loại $B$ có $9$ chiếc. Mỗi chiếc xe loại $A$ được cho thuê với giá $4$ triệu đồng, loại $B$ giá $3$ triệu đồng. Biết xe $A$ chở tối đa $20$ người và $0{,}6$ tấn hàng, xe $B$ chở tối đa $10$ người và $1{,}5$ tấn hàng. Gọi $x$ là số xe loại $A$ $(0\\le x\\le 10; x\\in\\mathbb{N})$, $y$ là số xe loại $B$ $(0\\le y\\le 9; y\\in\\mathbb{N})$ công ty cần thuê. Khi đó các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Tổng chi phí thuê xe là $T(x;y)=4x+3y$ (triệu đồng)",
+        "answer": true
+      },
+      {
+        "text": "Tổng lượng hàng hai loại xe chở được là $0{,}6x+1{,}5y$ (tấn)",
+        "answer": true
+      },
+      {
+        "text": "Chi phí vận chuyển thấp nhất là $23$ triệu đồng",
+        "answer": false
+      },
+      {
+        "text": "Công ty phải thuê $4$ xe loại $A$ và $5$ xe loại $B$ để chi phí vận chuyển thấp nhất",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Mỗi xe $A$ giá $4$ triệu, mỗi xe $B$ giá $3$ triệu nên tổng chi phí thuê xe là $T(x;y)=4x+3y$ (triệu đồng). Suy ra mệnh đề đúng.<br>- Mỗi xe $A$ chở được $0{,}6$ tấn hàng, mỗi xe $B$ chở được $1{,}5$ tấn hàng nên tổng lượng hàng chở được là $0{,}6x+1{,}5y$ (tấn). Suy ra mệnh đề đúng.<br>- Điều kiện bài toán cho hệ $\\left\\{\\begin{array}{l}0\\le x\\le 10\\\\0\\le y\\le 9\\\\20x+10y\\ge 140\\\\0{,}6x+1{,}5y\\ge 9\\end{array}\\right.$, tức $\\left\\{\\begin{array}{l}0\\le x\\le 10\\\\0\\le y\\le 9\\\\2x+y\\ge 14\\\\2x+5y\\ge 30\\end{array}\\right.$. Miền nghiệm là tứ giác $ABCD$ với $A(10;2)$, $B(10;9)$, $C\\left(\\dfrac{5}{2};9\\right)$, $D(5;4)$. Tính $T$ tại các đỉnh: $T(10;2)=46$, $T(10;9)=67$, $T\\left(\\dfrac{5}{2};9\\right)=37$, $T(5;4)=32$. Chi phí thấp nhất là $32$ triệu đồng, không phải $23$ triệu đồng. Suy ra mệnh đề sai.<br>- Chi phí thấp nhất đạt tại $x=5,y=4$, tức công ty cần thuê $5$ xe loại $A$ và $4$ xe loại $B$ (không phải $4$ xe loại $A$ và $5$ xe loại $B$). Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D224DS3",
+    "question": "Bác An đầu tư $1{,}2$ tỉ đồng vào ba loại trái phiếu: trái phiếu chính phủ với lãi suất $7\\%$ một năm, trái phiếu ngân hàng với lãi suất $8\\%$ một năm và trái phiếu doanh nghiệp rủi ro cao với lãi suất $12\\%$ một năm. Vì lí do giảm thuế, bác An muốn số tiền đầu tư trái phiếu chính phủ gấp ít nhất $3$ lần số tiền đầu tư trái phiếu ngân hàng. Hơn nữa, để giảm thiểu rủi ro, bác An đầu tư không quá $200$ triệu đồng cho trái phiếu doanh nghiệp. Gọi số tiền bác An đầu tư cho trái phiếu chính phủ, trái phiếu ngân hàng lần lượt là $x,y$ (triệu đồng). Khi đó các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Số tiền mà bác An đầu tư cho trái phiếu doanh nghiệp là $1200-x-y$ (triệu đồng)",
+        "answer": true
+      },
+      {
+        "text": "Lợi nhuận bác An thu được là $F(x;y)=0{,}07x+0{,}08y$ (triệu đồng)",
+        "answer": false
+      },
+      {
+        "text": "Lợi nhuận lớn nhất mà bác An thu được sau một năm là $96{,}5$ (triệu đồng)",
+        "answer": true
+      },
+      {
+        "text": "Để thu được lợi nhuận lớn nhất thì bác An cần đầu tư $200$ triệu đồng mua trái phiếu ngân hàng",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Tổng số tiền đầu tư vào ba loại trái phiếu là $1200$ triệu đồng nên số tiền đầu tư cho trái phiếu doanh nghiệp là $1200-(x+y)=1200-x-y$ (triệu đồng). Suy ra mệnh đề đúng.<br>- Lợi nhuận thu được từ cả ba loại trái phiếu là $F(x;y)=7\\%x+8\\%y+12\\%(1200-x-y)=144-0{,}05x-0{,}04y$ (triệu đồng), không phải $0{,}07x+0{,}08y$ (thiếu phần lãi từ trái phiếu doanh nghiệp). Suy ra mệnh đề sai.<br>- Theo điều kiện bài toán, ta có hệ $\\left\\{\\begin{array}{l}0\\le x\\le 1200\\\\0\\le y\\le 1200\\\\x-3y\\ge 0\\\\x+y\\le 1200\\\\x+y\\ge 1000\\end{array}\\right.$. Miền nghiệm là tứ giác $ABCD$ với $A(1000;0)$, $B(750;250)$, $C(900;300)$, $D(1200;0)$. Tính $F$ tại các đỉnh: $F(1000;0)=94$, $F(750;250)=96{,}5$, $F(900;300)=87$, $F(1200;0)=84$. Lợi nhuận lớn nhất là $96{,}5$ triệu đồng, đạt tại $x=750,y=250$. Suy ra mệnh đề đúng.<br>- Lợi nhuận lớn nhất đạt tại $y=250$ (đầu tư $250$ triệu đồng mua trái phiếu ngân hàng), không phải $200$ triệu đồng. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "0D224DS4",
+    "question": "Người ta dự định dùng hai loại nguyên liệu để chiết xuất ít nhất $140$ kg chất $A$ và $9$ kg chất $B$. Từ mỗi tấn nguyên liệu loại $I$ giá $4$ triệu đồng, có thể chiết xuất được $20$ kg chất $A$ và $0{,}6$ kg chất $B$. Từ mỗi tấn nguyên liệu loại $II$ giá $3{,}5$ triệu đồng, có thể chiết xuất được $10$ kg chất $A$ và $1{,}5$ kg chất $B$. Biết cơ sở cung cấp chỉ có thể cung cấp không quá $10$ tấn nguyên liệu loại $I$ và không quá $9$ tấn nguyên liệu loại $II$. Gọi $x$ (tấn) là lượng nguyên liệu loại $I$, $y$ (tấn) là lượng nguyên liệu loại $II$ được dùng. Khi đó các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Tổng số tiền mua nguyên vật liệu là $T(x;y)=4x+3{,}5y$ (triệu đồng)",
+        "answer": true
+      },
+      {
+        "text": "$20x+10y<140$",
+        "answer": false
+      },
+      {
+        "text": "$0{,}6x+1{,}5y\\ge 9$",
+        "answer": true
+      },
+      {
+        "text": "Chi phí mua nguyên vật liệu ít nhất là $34$ triệu đồng",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Mỗi tấn nguyên liệu loại $I$ giá $4$ triệu, loại $II$ giá $3{,}5$ triệu nên tổng số tiền mua nguyên vật liệu là $T(x;y)=4x+3{,}5y$ (triệu đồng). Suy ra mệnh đề đúng.<br>- Số kg chất $A$ chiết xuất được là $20x+10y$, cần ít nhất $140$ kg nên điều kiện đúng là $20x+10y\\ge 140$, không phải $<140$. Suy ra mệnh đề sai.<br>- Số kg chất $B$ chiết xuất được là $0{,}6x+1{,}5y$, cần ít nhất $9$ kg nên $0{,}6x+1{,}5y\\ge 9$. Suy ra mệnh đề đúng.<br>- Bài toán trở thành tìm $x,y$ thỏa $\\left\\{\\begin{array}{l}0\\le x\\le 10\\\\0\\le y\\le 9\\\\2x+y\\ge 14\\\\2x+5y\\ge 30\\end{array}\\right.$ sao cho $T(x;y)=4x+3{,}5y$ nhỏ nhất. Miền nghiệm là tứ giác $ABCD$ với $A(5;4)$, $B(10;2)$, $C(10;9)$, $D\\left(\\dfrac{5}{2};9\\right)$. Tính $T$ tại các đỉnh: $T(5;4)=34$, $T(10;2)=47$, $T(10;9)=71{,}5$, $T\\left(\\dfrac{5}{2};9\\right)=41{,}5$. Chi phí thấp nhất là $34$ triệu đồng, đạt tại $x=5,y=4$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

@@ -1054,5 +1054,53 @@ window.dungSai2H22 = [
     ],
     "explain": "<br>- Vì máy bay giữ nguyên hướng và tốc độ nên sau $10$ giây máy bay đến vị trí $C$, ta có $\\vec{AB}=2\\vec{BC}$.<br>  Gọi $C(a; b; c) \\Rightarrow \\vec{BC}=(a+8; b-6; c-10)$; $\\vec{AB}=(-8; 6; 0)$. Ta có  $\\vec{AB}=2 \\vec{BC} \\Rightarrow-8=2(a+8) \\text{ và } 6=2(b-6) \\text{ và } 0=2(c-10)\\Leftrightarrow a=-12 \\text{ và } b=9 \\text{ và } c=10\\Rightarrow C(-12; 9; 10).$  Tương tự, xe tăng giữ nguyên hướng và vận tốc nên sau $10$ giây đến vị trí $F$, ta có $\\vec{OE}=2 \\vec{EF}$.<br>  Gọi $F(a;b;c)\\Rightarrow \\vec{EF}=\\left(a-\\dfrac{3}{20}; b-\\dfrac{1}{5}; c\\right)$. Ta có   $\\vec{OE}=2 \\vec{EF} \\Rightarrow\\dfrac{3}{20}=2\\left(a-\\dfrac{3}{20}\\right) \\text{ và } \\dfrac{1}{5}=2\\left(b-\\dfrac{1}{5}\\right) \\text{ và } 0=2c\\Leftrightarrow a=\\dfrac{9}{40} \\text{ và } b=\\dfrac{3}{10} \\text{ và } c=10\\Rightarrow F\\left(\\dfrac{9}{40}; \\dfrac{3}{10}; 0\\right).$<br>- Khoảng cách giữa máy bay và xe tăng là<br> $BE=\\sqrt{\\left(\\dfrac{3}{20}+8\\right)^2+\\left(\\dfrac{1}{5}+6\\right)^2+(-10)^2} \\approx 14$ km.<br>- Quãng đường xe tăng đi được trong $20$ giây đầu tiên là  $OE=\\sqrt{\\left(\\dfrac{3}{20}\\right)^2+\\left(\\dfrac{1}{5}\\right)^2+0^2}=0{,}25 \\text{ km}=250 \\text{ m} \\Rightarrow v_{tb}=12{,}5 \\text{ m/s}.$<br>- Giả sử sau thời gian $t$ máy bay đang ở vị trí $D$ và xe tăng đang ở vị trí $K$.<br>  Vectơ vận tốc của máy bay là $\\vec{v}_1=1\\,800 \\cdot \\dfrac{\\vec{v}}{|\\vec{v}|}=(-1\\,440; 1\\,080; 0)$.<br>  Ta có $\\vec{AD}=t \\cdot \\vec{v}_1 \\Rightarrow D(-1\\,440t; 1\\,080t; 0)$.<br>  Vectơ vận tốc của xe tăng là $\\vec{u}_1=60 \\cdot \\dfrac{\\vec{u}}{|\\vec{u}|}=(36; 48; 0) \\Rightarrow \\vec{OK}=t \\cdot \\vec{u}_1 \\Rightarrow K(36t; 48t; 0)$.<br>  Khoảng cách giữa máy bay và xe tăng là  $DK=\\sqrt{1\\,476^2 t^2+1\\,032^2 t^2+100}=f(t)$  Thời gian máy bay di chuyển $27$ km là $\\dfrac{27}{1\\,800}=0{,}015$ giờ.<br>  Tốc độ thay đổi khoảng cách giữa máy bay và xe tăng lúc này là $f'(0{,}015)=1\\,689$ km/h.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H226DS4",
+    "question": "Đối với một vị trí $P$ trong không trung, gọi $M$ là giao điểm của tia $OP$ với bề mặt Trái Đất. Khi đó vĩ độ, kinh độ của $M$ cũng tương ứng được gọi là vĩ độ, kinh độ của $P$; độ dài $PM$ được gọi là cao độ (so với mặt đất) của $P$. Tại một thời điểm, $P$ là một vệ tinh ở vị trí có độ cao $19\\,113$ km so với mặt đất và có vĩ độ, kinh độ tương ứng là $30^\\circ$N, $60^\\circ$W. Trong không gian $Oxyz$ với gốc $O$ là tâm Trái Đất, đơn vị độ dài bằng bán kính Trái Đất $R=6371$ km. Xét tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Điểm $M$ có tọa độ là $\\left(\\dfrac{\\sqrt{3}}{4};\\dfrac{-3}{4};\\dfrac{1}{2}\\right)$",
+        "answer": true
+      },
+      {
+        "text": "Điểm $P$ có tọa độ là $(\\sqrt{3};-3;2)$",
+        "answer": true
+      },
+      {
+        "text": "Cho điểm $N$ trên mặt đất cách điểm $M$ trên mặt đất một khoảng $3\\,335{,}8478$ km. Khi đó $\\widehat{MON}\\approx 30^\\circ$",
+        "answer": true
+      },
+      {
+        "text": "Khoảng cách từ vệ tinh đến điểm $N$ xấp xỉ $26\\,268{,}3$ km (làm tròn đến hàng phần chục của km)",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Vĩ độ $30^\\circ$N, kinh độ $60^\\circ$W nên $M=\\left(\\cos30^\\circ\\cos60^\\circ;-\\cos30^\\circ\\sin60^\\circ;\\sin30^\\circ\\right)=\\left(\\dfrac{\\sqrt{3}}{4};\\dfrac{-3}{4};\\dfrac{1}{2}\\right)$ (dấu trừ ở tọa độ thứ hai do kinh độ là kinh Tây). Suy ra mệnh đề đúng.<br>- Vì $1$ đơn vị dài trong không gian $Oxyz$ ứng với $6\\,371$ km nên độ cao $19\\,113$ km ứng với $19\\,113:6\\,371=3$ đơn vị dài, tức $OP=3+1=4$ (đơn vị, do $OM=1$). Do $P$, $M$, $O$ thẳng hàng nên $\\overrightarrow{OP}=4\\overrightarrow{OM}=(\\sqrt{3};-3;2)$, suy ra $P(\\sqrt{3};-3;2)$. Suy ra mệnh đề đúng.<br>- Cung nhỏ $MN$ dài $3\\,335{,}8478$ km ứng với góc ở tâm $\\widehat{MON}=\\dfrac{3\\,335{,}8478\\times 180^\\circ}{6\\,371\\pi}\\approx 30^\\circ$. Suy ra mệnh đề đúng.<br>- Ta có $ON=OM=1$ (đơn vị) và $OP=4$ (đơn vị), $\\widehat{MON}=\\widehat{PON}\\approx 30^\\circ$. Áp dụng định lí côsin: $PN=\\sqrt{ON^2+OP^2-2\\cdot ON\\cdot OP\\cdot\\cos30^\\circ}=\\sqrt{1+16-8\\cos30^\\circ}\\approx 3{,}1736$ (đơn vị), tức $PN\\approx 3{,}1736\\times 6\\,371\\approx 20\\,219{,}0$ km, không phải $26\\,268{,}3$ km. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H226DS5",
+    "question": "Tại một thời điểm, một vệ tinh $P$ ở vị trí có độ cao $25\\,484$ km so với mặt đất và có vĩ độ, kinh độ tương ứng là $60^\\circ$S, $30^\\circ$W. Cùng thời điểm, vệ tinh thứ hai $Q$ ở vị trí có độ cao $12\\,742$ km so với mặt đất và có vĩ độ, kinh độ tương ứng là $60^\\circ$N, $30^\\circ$E. Trong không gian $Oxyz$ với gốc $O$ là tâm Trái Đất, đơn vị độ dài bằng bán kính Trái Đất $R=6371$ km. Gọi $M$, $N$ lần lượt là giao điểm của tia $OP$, $OQ$ với bề mặt Trái Đất. Xét tính đúng sai của các mệnh đề sau",
+    "subQuestions": [
+      {
+        "text": "Tia $OP$ cắt bề mặt Trái Đất tại điểm $M$ có tọa độ là $\\left(\\dfrac{\\sqrt{3}}{4};-\\dfrac{1}{4};\\dfrac{\\sqrt{3}}{2}\\right)$",
+        "answer": false
+      },
+      {
+        "text": "Điểm $P$ có tọa độ là $\\left(\\dfrac{5\\sqrt{3}}{4};-\\dfrac{5}{4};-\\dfrac{5\\sqrt{3}}{2}\\right)$",
+        "answer": true
+      },
+      {
+        "text": "Tia $OQ$ cắt bề mặt Trái Đất tại điểm $N$ có tọa độ là $\\left(\\dfrac{3}{4};\\dfrac{\\sqrt{3}}{4};\\dfrac{1}{2}\\right)$",
+        "answer": false
+      },
+      {
+        "text": "Khoảng cách giữa hai vệ tinh là $40\\,542{,}4$ km (làm tròn đến hàng phần chục của km)",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Vĩ độ $60^\\circ$S (nằm dưới xích đạo nên tọa độ thứ ba âm), kinh độ $30^\\circ$W (kinh Tây nên tọa độ thứ hai âm): $M=\\left(\\cos60^\\circ\\cos30^\\circ;-\\cos60^\\circ\\sin30^\\circ;-\\sin60^\\circ\\right)=\\left(\\dfrac{\\sqrt{3}}{4};-\\dfrac{1}{4};-\\dfrac{\\sqrt{3}}{2}\\right)$, không phải $\\left(\\dfrac{\\sqrt{3}}{4};-\\dfrac{1}{4};\\dfrac{\\sqrt{3}}{2}\\right)$ (sai dấu tọa độ thứ ba). Suy ra mệnh đề sai.<br>- Độ cao $25\\,484$ km ứng với $25\\,484:6\\,371=4$ đơn vị dài nên $OP=4+1=5$ (đơn vị). Do đó $\\overrightarrow{OP}=5\\overrightarrow{OM}=\\left(\\dfrac{5\\sqrt{3}}{4};-\\dfrac{5}{4};-\\dfrac{5\\sqrt{3}}{2}\\right)$, suy ra $P\\left(\\dfrac{5\\sqrt{3}}{4};-\\dfrac{5}{4};-\\dfrac{5\\sqrt{3}}{2}\\right)$. Suy ra mệnh đề đúng.<br>- Vĩ độ $60^\\circ$N, kinh độ $30^\\circ$E (đều dương): $N=\\left(\\cos60^\\circ\\cos30^\\circ;\\cos60^\\circ\\sin30^\\circ;\\sin60^\\circ\\right)=\\left(\\dfrac{\\sqrt{3}}{4};\\dfrac{1}{4};\\dfrac{\\sqrt{3}}{2}\\right)$, không phải $\\left(\\dfrac{3}{4};\\dfrac{\\sqrt{3}}{4};\\dfrac{1}{2}\\right)$. Suy ra mệnh đề sai.<br>- Độ cao $12\\,742$ km ứng với $12\\,742:6\\,371=2$ đơn vị dài nên $OQ=2+1=3$ (đơn vị), $\\overrightarrow{OQ}=3\\overrightarrow{ON}=\\left(\\dfrac{3\\sqrt{3}}{4};\\dfrac{3}{4};\\dfrac{3\\sqrt{3}}{2}\\right)$. Ta có $\\overrightarrow{PQ}=\\left(\\dfrac{3\\sqrt{3}}{4}-\\dfrac{5\\sqrt{3}}{4};\\dfrac{3}{4}+\\dfrac{5}{4};\\dfrac{3\\sqrt{3}}{2}+\\dfrac{5\\sqrt{3}}{2}\\right)=\\left(-\\dfrac{\\sqrt{3}}{2};2;4\\sqrt{3}\\right)$. Suy ra $PQ=\\sqrt{\\dfrac{3}{4}+4+48}=\\sqrt{\\dfrac{211}{4}}=\\dfrac{\\sqrt{211}}{2}$ (đơn vị) $\\approx\\dfrac{\\sqrt{211}}{2}\\times 6\\,371\\approx 46\\,262{,}1$ km, không phải $40\\,542{,}4$ km. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
