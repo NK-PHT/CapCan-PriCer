@@ -19,5 +19,12 @@ window.traLoiNgan2D31 = [
     "answer": "106",
     "explain": "Độ dài nhóm là $80-60=20$.<br>  Cỡ mẫu $n=3+9+10+6+2=30$. Ta có $\\dfrac{30}{2}=15$, do đó trung vị thuộc nhóm $\\left[100;120\\right)$.<br>  Trung vị $M_e=100+\\dfrac{15-12}{10}\\cdot 20= 106$.<br>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D313TL3",
+    "question": "Điều tra về chiều cao của một nhóm $50$ em học sinh nam lớp $12$ tại một trường trung học phổ thông được ghi lại trong bảng sau  <br><img src=\"data/12/2D3/im2D31/dlts_12_DLTS11_015.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Tính khoảng tứ phân vị của bảng số liệu trên.",
+    "answer": "11,5",
+    "explain": "Tứ phân vị thứ nhất $Q_1$ thuộc lớp $[160 ; 165):\\quad Q_1=160+\\dfrac{12,5-12}{10} \\cdot 5=160{,}25$. <br>  Tứ phân vị thứ ba $Q_3$ thuộc lớp $[170 ; 175): \\quad Q_3=170+\\dfrac{37,5-34}{10}\\cdot5=171{,}75$. <br>  Suy ra khoảng tứ phân vị $\\Delta Q=Q_3-Q_1=11{,}5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

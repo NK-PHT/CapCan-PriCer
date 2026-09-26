@@ -1,12 +1,5 @@
 window.traLoiNgan2D43 = [
   {
-    "id": "2D431TL1",
-    "question": "Điều tra về chiều cao của một nhóm $50$ em học sinh nam lớp $12$ tại một trường trung học phổ thông được ghi lại trong bảng sau  <br><img src=\"data/12/2D4/im2D43/dlts_12_DLTS11_015.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Tính khoảng tứ phân vị của bảng số liệu trên.",
-    "answer": "11,5",
-    "explain": "Tứ phân vị thứ nhất $Q_1$ thuộc lớp $[160 ; 165):\\quad Q_1=160+\\dfrac{12,5-12}{10} \\cdot 5=160{,}25$. <br>  Tứ phân vị thứ ba $Q_3$ thuộc lớp $[170 ; 175): \\quad Q_3=170+\\dfrac{37,5-34}{10}\\cdot5=171{,}75$. <br>  Suy ra khoảng tứ phân vị $\\Delta Q=Q_3-Q_1=11{,}5$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D431TL2",
     "question": "Cho hình phẳng (phần gạch chéo ở hình vẽ bên dưới) được giới hạn bởi parabol $(P)$ và đường thẳng $d$. Tính diện tích của hình phẳng đó.  <br><img src=\"data/12/2D4/im2D43/dlts_12_DLTS16_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
     "answer": "4,5",
