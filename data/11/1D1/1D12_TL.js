@@ -78,9 +78,9 @@ window.traLoiNgan1D12 = [
   },
   {
     "id": "1D124TL1",
-    "question": "Với mọi góc $\\alpha$, biểu thức $A=\\cos\\left( \\alpha - \\dfrac{\\pi}{2}\\right) + \\cos (\\alpha - \\pi)$ nhận giá trị bằng bao nhiêu?",
-    "answer": "0",
-    "explain": "Ta có $A=\\cos\\left( \\alpha- \\dfrac{\\pi}{2}\\right) + \\cos\\left( \\alpha - \\pi\\right) = \\cos\\left( \\dfrac{\\pi}{2}-\\alpha\\right) - \\cos(\\pi -\\alpha)=\\cos\\alpha - \\cos\\alpha = 0$.",
+    "question": "Với mọi góc $\\alpha$, biểu thức $A=\\cos\\left( \\alpha - \\dfrac{\\pi}{2}\\right) + \\cos\\left( \\alpha + \\dfrac{\\pi}{2}\\right) + 2\\,026$ nhận giá trị bằng bao nhiêu?",
+    "answer": "2026",
+    "explain": "Theo công thức cung liên kết: $\\cos\\left( \\alpha - \\dfrac{\\pi}{2}\\right)=\\sin\\alpha$ và $\\cos\\left( \\alpha + \\dfrac{\\pi}{2}\\right)=-\\sin\\alpha$.<br>  Suy ra $A=\\sin\\alpha-\\sin\\alpha+2\\,026=2\\,026$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

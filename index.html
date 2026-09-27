@@ -20,7 +20,13 @@
     
     <script>
         window.MathJax = {
-            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                macros: {
+                    wideparen: ["\\overset{\\frown}{#1}", 1],
+                    overparen: ["\\overset{\\frown}{#1}", 1]
+                }
+            },
             svg: { fontCache: 'global' }
         };
     </script>
