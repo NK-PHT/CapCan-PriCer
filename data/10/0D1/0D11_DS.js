@@ -44,7 +44,7 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Câu (1), (4) là mệnh đề. Suy ra mệnh đề đúng.<br>- Chỉ có hai mệnh đề đúng là (1) và (4). Suy ra mệnh đề sai.<br>- Câu (1) (2) là mệnh đề toán học. Suy ra mệnh đề sai.<br>- Câu (2) là mệnh đề và câu (3) không phải là mệnh đề. Suy ra mệnh đề sai.",
+    "explain": "<br>- Câu (1), (4) là mệnh đề. Suy ra mệnh đề đúng.<br>- Chỉ có hai mệnh đề đúng là (1) và (4). Suy ra mệnh đề sai.<br>- Câu (1) (2) là mệnh đề toán học. Suy ra mệnh đề đúng.<br>- Câu (2) là mệnh đề và câu (3) không phải là mệnh đề. Suy ra mệnh đề sai.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -85,14 +85,14 @@ window.dungSai0D11 = [
       },
       {
         "text": "Khi $x=-2$ thì (2) trở thành mệnh đề đúng",
-        "answer": true
+        "answer": false
       },
       {
         "text": "Không có số nguyên $x$ nào đế cả (1) và (2) trở thành các mệnh đề đúng",
-        "answer": false
+        "answer": true
       }
     ],
-    "explain": "<br>- (1) là $1$ mệnh đề chứa biến $x$. Suy ra mệnh đề đúng.<br>- Khi $x=1$ thì (1) trở thành $1&lt;3$ đúng. Suy ra mệnh đề đúng.<br>- Khi $x=-2$ thì (2) trở thành $(-2)^4-(-2)^2&gt;0$. Suy ra mệnh đề đúng.<br>- Kkhi $x=-2$ thì (1) và (2) đều đúng. Suy ra mệnh đề sai.",
+    "explain": "<br>- (1) là $1$ mệnh đề chứa biến $x$. Suy ra mệnh đề đúng.<br>- Khi $x=1$ thì (1) trở thành $1<3$ đúng. Suy ra mệnh đề đúng.<br>- Khi $x=-2$ thì (2) trở thành $(-2)^4-(-2)^2=12<0$, đây là khẳng định sai (vì $12<0$ là sai), nên (2) trở thành mệnh đề sai, không phải mệnh đề đúng. Suy ra mệnh đề đã cho là mệnh đề sai.<br>- Mệnh đề (2): $x^4-x^2<0 \\Leftrightarrow x^2(x^2-1)<0$. Với $x$ nguyên, $x^2\\ge 0$ nên tích $x^2(x^2-1)<0$ chỉ có thể âm khi $x^2<1$, tức $x=0$; nhưng khi đó $x^2(x^2-1)=0$, không âm. Vậy không có số nguyên $x$ nào làm (2) trở thành mệnh đề đúng, nên chắc chắn không có số nguyên $x$ nào làm cả (1) và (2) đồng thời đúng. Suy ra mệnh đề đã cho là mệnh đề đúng.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -260,7 +260,7 @@ window.dungSai0D11 = [
         "answer": false
       }
     ],
-    "explain": "<br>- Tứ giác $A B C D$ là hình bình hành thì nó có hai đường chéo bằng nhau có thể không bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác $A B C D$ là hình bình hành khi và chỉ khi nó có hai đường chéo cắt nhau tại trung điểm mỗi đường. Suy ra mệnh đề đúng.<br>- Tứ giác $A B C D$ là hình vuông khi và chỉ khi tứ giác là hình chữ nhật có hai cạnh kề bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác có hai đường chéo vuông góc với nhau chưa chắc là hình vuông. Suy ra mệnh đề sai.",
+    "explain": "<br>- Tứ giác $A B C D$ là hình bình hành thì nó có hai đường chéo bằng nhau có thể không bằng nhau. Suy ra mệnh đề sai.<br>- Tứ giác $A B C D$ là hình bình hành khi và chỉ khi nó có hai đường chéo cắt nhau tại trung điểm mỗi đường. Suy ra mệnh đề đúng.<br>- Tứ giác $A B C D$ là hình vuông khi và chỉ khi tứ giác là hình chữ nhật có hai cạnh kề bằng nhau. Suy ra mệnh đề đúng.<br>- Tứ giác có hai đường chéo vuông góc với nhau chưa chắc là hình vuông. Suy ra mệnh đề sai.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

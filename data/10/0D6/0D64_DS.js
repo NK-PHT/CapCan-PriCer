@@ -17,7 +17,7 @@ window.dungSai0D64 = [
       },
       {
         "text": "Khoảng tứ phân vị bảng điểm của bạn An bằng $2{,}2$",
-        "answer": false
+        "answer": true
       }
     ],
     "explain": "<br>- Điểm trung bình các môn học kì 1 của bạn An là  $\\bar{x}=\\dfrac{7{,}2+8{,}0+5{,}8+7{,}2+9{,}0+4{,}6}{6}\\approx 7{,}0$. Suy ra mệnh đề đúng.<br>- Điểm trung bình các môn học kì 1 của bạn An là $\\bar{x}=\\dfrac{7{,}2+8{,}0+5{,}8+7{,}2+9{,}0+4{,}6}{6}\\approx 7{,}0$. Suy ra mệnh đề sai.<br>- Điểm số cao nhất là $9{,}0 $. Điểm số thấp nhất là $4{,}6$. Khoảng biến thiên $R=9-4{,}6=4{,}4$. Suy ra mệnh đề sai.<br>- Sắp xếp các điểm theo thứ tự không giảm  <br><img src=\"data/10/0D6/im0D64/dlts_sbh_tk10cd16_010.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">   Trung vị $M_e=\\dfrac{7{,}2+7{,}2}{2}=7{,}2$.<br>  Nửa số liệu bên trải $Q_2$ là $4{,}6$, $5{,}8$, $7{,}2$. Suy ra $Q_1=5{,}8$.<br>   Nửa số liệu bên phải $Q_2$ là $7{,}2$, $8$, $9$. Suy ra $Q_3=8$.<br>  Khoảng tứ phân vị $\\Delta_0=Q_3-Q_1=8-5{,}8=2{,}2$. Suy ra mệnh đề đúng.",
