@@ -33,5 +33,19 @@ window.traLoiNgan1D91 = [
     "answer": "71",
     "explain": "Gọi số bi của hộp $1$ và hộp $2$ lần lượt là $m$, $n$. Theo giả thiết ta có $m+n=15$ và $m&gt;n$.<br>  Gọi số bi xanh của hộp $1$ và hộp $2$ lần lượt là $x$, $y$ với $x&gt;y$.<br>  Theo giả thiết xác suất lấy được $2$ bi xanh là $\\dfrac{5}{28}$ nên ta có  <br>- $\\dfrac{x}{m}\\cdot\\dfrac{y}{n}=\\dfrac{5}{28}=\\dfrac{10}{56}\\Rightarrow mn=56=7\\cdot 8\\Rightarrow m=8 \\text{ và } n=7$;<br>- $xy=10=2\\cdot 5\\Rightarrow x=5 \\text{ và } y=2. $  Vậy số bi xanh của hộp $1$ và hộp $2$ lần lượt là $5$ và $2$.<br>  Xác suất để lấy được $2$ bi đỏ là  \\[\\dfrac{8-5}{8}\\cdot\\dfrac{7-2}{7}=\\dfrac{3}{8}\\cdot\\dfrac{5}{7}=\\dfrac{15}{56}.\\]  Từ đó suy ra $a=15$, $b=56$.<br>  Vậy $D=a+b=71$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D913TL6",
+    "question": "Một chiếc máy có hai động cơ I và II hoạt động độc lập với nhau. Xác suất để động cơ I chạy tốt là $0{,}8$ và xác suất để động cơ II chạy tốt là $0{,}7$. Tính xác suất để cả hai động cơ đều chạy tốt.",
+    "answer": "0,56",
+    "explain": "- Gọi $A_1$: “Động cơ I chạy tốt”, $A_2$: “Động cơ II chạy tốt”. Khi đó $A_1A_2$ là biến cố “cả hai động cơ đều chạy tốt”.<br>- Theo giả thiết $\\mathrm{P}(A_1)=0{,}8$, $\\mathrm{P}(A_2)=0{,}7$.<br>- Vì $A_1,\\ A_2$ độc lập nên $\\mathrm{P}(A_1A_2)=\\mathrm{P}(A_1)\\cdot \\mathrm{P}(A_2)=0{,}8\\cdot 0{,}7=0{,}56$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D913TL7",
+    "question": "Hai bạn An và Bình không quen biết nhau và đều học xa nhà. Xác suất để bạn An về thăm nhà vào ngày Chủ nhật là $0{,}2$ và xác suất để bạn Bình về thăm nhà vào ngày Chủ nhật là $0{,}25$. Tính xác suất để vào ngày Chủ nhật có ít nhất một bạn về thăm nhà.",
+    "answer": "0,4",
+    "explain": "- Gọi $A$: “An về thăm nhà vào ngày Chủ nhật”, $B$: “Bình về thăm nhà vào ngày Chủ nhật”, $C$: “Có ít nhất một trong hai bạn về thăm nhà vào ngày Chủ nhật”. Khi đó $\\overline{C}$: “Không bạn nào về thăm nhà vào ngày Chủ nhật”.<br>- Ta có $\\mathrm{P}(\\overline{A})=1-0{,}2=0{,}8$, $\\mathrm{P}(\\overline{B})=1-0{,}25=0{,}75$.<br>- Vì $A,\\ B$ độc lập nên $\\mathrm{P}(\\overline{C})=\\mathrm{P}(\\overline{A})\\cdot \\mathrm{P}(\\overline{B})=0{,}8\\cdot 0{,}75=0{,}6$.<br>- Suy ra $\\mathrm{P}(C)=1-0{,}6=0{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

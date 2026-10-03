@@ -70,5 +70,29 @@ window.dungSai1D15 = [
     ],
     "explain": "<br>- Phương trình tương đương với $\\cos x=\\dfrac{\\sqrt{3}}{2}=\\cos \\dfrac{\\pi}{6}\\Leftrightarrow x=\\pm \\dfrac{\\pi}{6}+k2\\pi, k\\in \\mathbb{Z}$.<br>- Xét <br>• $0\\le \\dfrac{\\pi}{6}+k2\\pi\\le \\dfrac{5\\pi}{2}\\Leftrightarrow -\\dfrac{1}{12}\\le k\\le \\dfrac{7}{6}$ mà $k\\in \\mathbb{Z}$ nên $k\\in \\{0;1\\}$.<br>Suy ra $x=\\dfrac{\\pi}{6}$ và $x=\\dfrac{13\\pi}{6}$.<br>• $0\\le -\\dfrac{\\pi}{6}+k2\\pi\\le \\dfrac{5\\pi}{2}\\Leftrightarrow \\dfrac{1}{12}\\le k\\le \\dfrac{4}{3}$ mà $k\\in \\mathbb{Z}$ nên $k\\in \\{1\\}$.<br>Suy ra $x=\\dfrac{11\\pi}{6}$. Vậy trong đoạn $\\left[0 ; \\dfrac{5 \\pi}{2}\\right]$ phương trình có $3$ nghiệm.<br>- Tổng các nghiệm trên đoạn $\\left[0 ; \\dfrac{5 \\pi}{2}\\right]$ bằng $\\dfrac{\\pi}{6}+\\dfrac{13\\pi}{6}+\\dfrac{11\\pi}{6}=\\dfrac{25\\pi}{6}$.<br>- Trong đoạn $\\left[0 ; \\dfrac{5 \\pi}{2}\\right]$ phương trình có nghiệm nhỏ nhất bằng $\\dfrac{\\pi}{6}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D153DS4",
+    "question": "Cho phương trình lượng giác $\\cot 3x = -\\dfrac{1}{\\sqrt{3}}$ (*). Khi đó:",
+    "subQuestions": [
+      {
+        "text": "Phương trình (*) có nghiệm $x = \\dfrac{\\pi}{9} + k\\dfrac{\\pi}{3},\\ k \\in \\mathbb{Z}$",
+        "answer": false
+      },
+      {
+        "text": "Tổng các nghiệm của phương trình trong khoảng $\\left(-\\dfrac{\\pi}{2};\\ 0\\right)$ bằng $\\dfrac{-5\\pi}{9}$",
+        "answer": true
+      },
+      {
+        "text": "Phương trình (*) tương đương $\\cot 3x = \\cot\\left(-\\dfrac{\\pi}{3}\\right)$",
+        "answer": true
+      },
+      {
+        "text": "Phương trình có nghiệm dương nhỏ nhất bằng $\\dfrac{2\\pi}{9}$",
+        "answer": true
+      }
+    ],
+    "explain": "- Ta có $\\cot 3x = -\\dfrac{1}{\\sqrt{3}} \\Leftrightarrow \\cot 3x = \\cot\\left(-\\dfrac{\\pi}{3}\\right) \\Leftrightarrow 3x = -\\dfrac{\\pi}{3} + k\\pi \\Rightarrow x = -\\dfrac{\\pi}{9} + k\\dfrac{\\pi}{3}$ với $k \\in \\mathbb{Z}$.<br>- <strong>Sai</strong>. Nghiệm tổng quát là $x=-\\dfrac{\\pi}{9}+k\\dfrac{\\pi}{3}$, không phải $x=\\dfrac{\\pi}{9}+k\\dfrac{\\pi}{3}$.<br>- <strong>Đúng</strong>. Xét khoảng $\\left(-\\dfrac{\\pi}{2};\\ 0\\right)$: giải $-\\dfrac{\\pi}{2} < -\\dfrac{\\pi}{9} + k\\dfrac{\\pi}{3} < 0 \\Rightarrow -\\dfrac{7}{6} < k < \\dfrac{1}{3} \\Rightarrow k=-1,\\ 0$, cho hai nghiệm $x=-\\dfrac{4\\pi}{9}$ và $x=-\\dfrac{\\pi}{9}$, có tổng là $-\\dfrac{5\\pi}{9}$.<br>- <strong>Đúng</strong>. Theo biến đổi ở trên.<br>- <strong>Đúng</strong>. Nghiệm dương nhỏ nhất ứng với $k=1$: $x=-\\dfrac{\\pi}{9}+\\dfrac{\\pi}{3}=\\dfrac{2\\pi}{9}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

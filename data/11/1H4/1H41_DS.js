@@ -118,5 +118,29 @@ window.dungSai1H41 = [
     ],
     "explain": "<br>- Ta có $(SAC)\\cap(ABC)=AC$.<br>- Ta có $(SAC)\\cap(SBD)=SO$.<br>- Tìm giao điểm của $SO$ và $(ABM)$.<br>Trong mặt phẳng $(SAC)$, gọi $K = AM \\cap SO$.<br>Ta có $\\left\\{\\begin{array}{l}K \\in AM, AM \\subset (ABM)\\\\K \\in SO\\end{array}\\right.\\Rightarrow K = SO \\cap (ABM)$.<br>- Tìm giao điểm của $SD$ và $(ABM)$.<br>Xét mặt phẳng phụ $(SBD)$ chứa $SD$.<br>Dễ thấy $B$ là điểm chung của hai mặt phẳng $(SBD)$ và $(ABM)$.<br>Ta có $\\left\\{\\begin{array}{l}K \\in AM, AM \\subset (ABM)\\\\K \\in SO, SO \\subset (SBD)\\end{array}\\right.\\Rightarrow K \\in (SBD) \\cap (ABM)$. <br>Do đó $BK = (SBD) \\cap (ABM)$. Trong mặt phẳng $(SBD)$, gọi $N = BK \\cap SD$.<br>Do $\\left\\{\\begin{array}{l}N \\in SD\\\\N \\in BK, BK \\subset (ABM)\\end{array}\\right.\\Rightarrow N = SD \\cap (ABM)$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H411DS3",
+    "question": "Cho tứ diện $ABCD$. Gọi $I,\\ J$ lần lượt là trung điểm của $AD,\\ BC$; $M$ là một điểm trên cạnh $AB$, $N$ là một điểm trên cạnh $AC$ ($M,\\ N$ không trùng với các đỉnh). Khi đó:",
+    "subQuestions": [
+      {
+        "text": "$ND$ là giao tuyến của hai mặt phẳng $(MND)$ và $(ADC)$",
+        "answer": true
+      },
+      {
+        "text": "$BI$ là giao tuyến của hai mặt phẳng $(BCI)$ và $(ABD)$",
+        "answer": true
+      },
+      {
+        "text": "$IJ$ là giao tuyến của hai mặt phẳng $(IBC)$ và $(JAD)$",
+        "answer": true
+      },
+      {
+        "text": "Giao tuyến của hai mặt phẳng $(IBC)$ và $(DMN)$ song song với đường thẳng $IJ$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>. $N\\in AC\\subset (ADC)$ và $D\\in (ADC)$; mặt khác $N,\\ D\\in (MND)$, nên $ND$ nằm trong cả hai mặt phẳng, do đó là giao tuyến của chúng.<br>- <strong>Đúng</strong>. $I\\in AD\\subset (ABD)$, $B\\in (ABD)$; mặt khác $B,\\ I\\in (BCI)$, nên $BI$ là giao tuyến của $(BCI)$ và $(ABD)$.<br>- <strong>Đúng</strong>. $I\\in AD\\subset (JAD)$, $J\\in BC\\subset (IBC)$; vì $I,\\ J$ đều thuộc cả $(IBC)$ và $(JAD)$ nên $IJ$ là giao tuyến của hai mặt phẳng này.<br>- <strong>Sai</strong>. Giao tuyến của $(IBC)$ và $(DMN)$ là một đường thẳng $EF$ (với $E=DN\\cap CI$, $F=DM\\cap BI$); vì $M,\\ N$ là các điểm tuỳ ý trên $AB,\\ AC$ (không có điều kiện đặc biệt), đường thẳng $EF$ nói chung cắt $IJ$ chứ không song song với $IJ$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

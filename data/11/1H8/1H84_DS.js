@@ -46,5 +46,29 @@ window.dungSai1H84 = [
     ],
     "explain": "<br>- <strong>Đúng</strong>.<br>  Ta có $ABCD.A'B'C'D'$ là hình lập phương $\\Rightarrow$ $\\overrightarrow{ AC'}=\\overrightarrow{A B}+\\overrightarrow{A D}+\\overrightarrow{AA'} $ (quy tắc hình hộp).<br>- <strong>Đúng</strong>.<br>  Vì $ABCD.A'B'C'D'$ nên $BD\\perp (ACC'A')$ hay $BI\\perp (ACC'A')\\Rightarrow BI\\perp AC'$. Vậy $\\overrightarrow{AC'}\\cdot \\overrightarrow{BI}=0$.<br>- <strong>Sai</strong>.<br>  Gọi $O$ là tâm hình lập phương $ABCD.A'B'C'D'$\\Rightarrow$ $O$ là trung điểm của $BD'$ và $AC'$.<br>  Mà $G$ là trọng tâm tam giác $AB'C$ nên $\\overrightarrow{BD'}=3 \\overrightarrow{BG}$.<br>- <strong>Sai</strong>.<br>  Do $MN \\parallel BD'$ nên các điểm $M,N,B,D'$ cùng thuộc mặt phẳng $(BD',MN)$ .<br>  Ta có ba mặt phẳng $(BD',MN)$, $(ABCD)$ và $(CDD'C')$ đôi một cắt nhau theo 3 giao tuyến $BM$, $CD$ và $D'N$.<br>  Mà $BM$ không cắt $CD$ nên ba giao tuyến $BM$, $CD$ và $D'N$ đồng quy.<br>  Gọi $E$ là giao điểm của $CD$ và $BM$ thì $E$ thuộc $D'N$.<br>  Ta có $MN \\parallel BD'$, $CD \\parallel AB$ và $CD \\parallel C'D'$ nên $\\dfrac{CE}{AB}=\\dfrac{EM}{MB}=\\dfrac{EN}{ND'}=\\dfrac{ED}{C'D'}=\\dfrac{MN}{BD'}=\\dfrac{m}{n}$<br>  $\\Rightarrow CE=ED$ $\\Rightarrow M$ là trọng tâm tam giác $BCD$. Từ đó suy ra $\\dfrac{m}{n}=\\dfrac{EM}{MB}=\\dfrac{1}{2}$ hay $m=1$, $n=2$. Vậy $2m+3n=11$ .",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H843DS3",
+    "question": "Cho tứ diện đều $ABCD$ có độ dài các cạnh bằng $2a$. Gọi $M,\\ N$ lần lượt là trung điểm các cạnh $AC,\\ BC$; $P$ là trọng tâm tam giác $BCD$. Các khẳng định sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Ba điểm $N,\\ P,\\ D$ thẳng hàng",
+        "answer": true
+      },
+      {
+        "text": "Mặt phẳng $(MNP)$ cắt tứ diện theo một thiết diện là tam giác $MNP$",
+        "answer": false
+      },
+      {
+        "text": "Giao tuyến của mặt phẳng $(ABC)$ và $(BCD)$ là $BC$",
+        "answer": true
+      },
+      {
+        "text": "Mặt phẳng $(MNP)$ cắt tứ diện theo một thiết diện có diện tích là $\\dfrac{a^2\\sqrt{11}}{2}$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>. Trong tam giác $BCD$, $P$ là trọng tâm, $N$ là trung điểm $BC$ nên $N,\\ P,\\ D$ cùng thuộc trung tuyến từ $D$, do đó thẳng hàng.<br>- <strong>Sai</strong>. Vì $N,\\ P,\\ D$ thẳng hàng nên mặt phẳng $(MNP)$ chính là mặt phẳng $(MND)$; thiết diện của nó với tứ diện là tam giác $MND$, không phải tam giác $MNP$.<br>- <strong>Đúng</strong>. $B,\\ C$ thuộc cả hai mặt phẳng $(ABC)$ và $(BCD)$ nên giao tuyến của chúng là $BC$.<br>- <strong>Sai</strong>. Xét tam giác $MND$: $MN=a$ (đường trung bình của $\\triangle ABC$), $DM=DN=a\\sqrt{3}$ (trung tuyến của mặt bên đều cạnh $2a$), là tam giác cân tại $D$. Gọi $H$ là trung điểm $MN$: $DH=\\sqrt{(a\\sqrt{3})^2-\\left(\\dfrac{a}{2}\\right)^2}=\\dfrac{a\\sqrt{11}}{2}$. Diện tích tam giác $MND$ là $S=\\dfrac{1}{2}\\cdot a\\cdot \\dfrac{a\\sqrt{11}}{2}=\\dfrac{a^2\\sqrt{11}}{4}\\neq \\dfrac{a^2\\sqrt{11}}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

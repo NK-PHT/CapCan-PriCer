@@ -61,5 +61,19 @@ window.traLoiNgan1H87 = [
     "answer": "720",
     "explain": "Thể tích khối pho mát là   \\[V = \\dfrac{1}{3} S_{ABC} \\cdot AA' = \\dfrac{1}{3} \\cdot \\dfrac{1}{2} AB \\cdot AC \\cdot AA' = \\dfrac{1}{6} \\cdot 12 \\cdot 12 \\cdot 10 = 240\\ (\\text{cm}^3).\\]  Suy ra khối lượng của miếng pho mát là $m = \\rho V = 3 \\cdot 240 = 720\\ \\text{gam}.$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H875TL8",
+    "question": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Gọi $M,\\ N$ lần lượt là trung điểm của $SC,\\ OB$. Mặt phẳng $(AMN)$ cắt đường thẳng $SD$ tại điểm $I$. Biết $\\dfrac{SI}{DI}=\\dfrac{a}{b}$ với $\\dfrac{a}{b}$ là phân số tối giản, $a,\\ b$ là các số nguyên dương. Tính giá trị của $a+b$.",
+    "answer": "5",
+    "explain": "- Gọi $G=SO\\cap AM$, $I=NG\\cap SD$.<br>- Trong $(SCD)$, kẻ $CP\\parallel MI$ ($P\\in SD$): $MI$ là đường trung bình của $\\triangle SCP$ nên $SI=IP$.<br>- Trong $(SBD)$, kẻ $PE\\parallel NI$ ($E\\in BD$): $PE\\parallel (AMN)$. Chứng minh được $E$ là trung điểm $OD$, suy ra $DN=3DE$, do đó $\\dfrac{DP}{DI}=\\dfrac{DE}{DN}=\\dfrac{1}{3}\\Rightarrow IP=\\dfrac{2}{3}DI\\Rightarrow SI=IP=\\dfrac{2}{3}DI$.<br>- Vậy $\\dfrac{SI}{DI}=\\dfrac{2}{3}$, nên $a=2,\\ b=3$, suy ra $a+b=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1H875TL9",
+    "question": "Cho hình chóp $S.ABC$. Bên trong tam giác $ABC$ lấy điểm $O$ bất kỳ. Từ $O$ dựng các đường thẳng song song với $SA,\\ SB,\\ SC$ cắt các mặt phẳng $(SBC),\\ (SCA),\\ (SAB)$ lần lượt tại $A',\\ B',\\ C'$. Tính giá trị của tổng $T=\\dfrac{OA'}{SA}+\\dfrac{OB'}{SB}+\\dfrac{OC'}{SC}$.",
+    "answer": "1",
+    "explain": "- Vì $OA'\\parallel SA$ nên $\\dfrac{OA'}{SA}=\\dfrac{d(O,(SBC))}{d(S,(SBC))}=\\dfrac{S_{OBC}}{S_{ABC}}$.<br>- Tương tự, $\\dfrac{OB'}{SB}=\\dfrac{S_{OCA}}{S_{ABC}}$ và $\\dfrac{OC'}{SC}=\\dfrac{S_{OAB}}{S_{ABC}}$.<br>- Vì $O$ nằm trong tam giác $ABC$ nên $S_{OBC}+S_{OCA}+S_{OAB}=S_{ABC}$.<br>- Suy ra $T=\\dfrac{S_{OBC}+S_{OCA}+S_{OAB}}{S_{ABC}}=\\dfrac{S_{ABC}}{S_{ABC}}=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

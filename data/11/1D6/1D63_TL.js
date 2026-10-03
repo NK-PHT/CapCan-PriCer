@@ -40,5 +40,26 @@ window.traLoiNgan1D63 = [
     "answer": "1,47",
     "explain": "Dân số của thành phố Đà Nẵng vào năm 2030 là   $A=P\\cdot\\mathrm{e}^{rt}=1{,}27\\cdot\\mathrm{e}^{6\\cdot 2{,}47\\%} \\approx 1{,}47~(\\text{triệu người}).$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D635TL7",
+    "question": "Ông Hùng gửi tiết kiệm $200$ triệu đồng kỳ hạn $1$ tháng với lãi suất $6\\%$ một năm theo hình thức lãi kép. Hỏi sau $1$ năm (không rút lãi giữa kỳ), ông Hùng nhận được số tiền cả gốc và lãi là bao nhiêu triệu đồng? (làm tròn đến hàng đơn vị)",
+    "answer": "212",
+    "explain": "- Lãi suất mỗi kỳ hạn (1 tháng) là $\\dfrac{6\\%}{12}=0{,}5\\%$ một tháng.<br>- Sau $12$ tháng (đúng $1$ năm), theo công thức lãi kép: $T=200\\left(1+\\dfrac{0{,}06}{12}\\right)^{12}\\approx 212$ (triệu đồng).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D635TL8",
+    "question": "Một sinh viên được gia đình gửi vào sổ tiết kiệm $200$ triệu đồng với lãi suất $0{,}5\\%$/tháng theo hình thức lãi kép. Nếu mỗi tháng (vào đúng ngày ngân hàng trả lãi) sinh viên đó rút ra một số tiền như nhau thì cần rút bao nhiêu nghìn đồng mỗi tháng để sau đúng $48$ tháng (4 năm) thì vừa hết cả gốc và lãi? (làm tròn đến hàng đơn vị)",
+    "answer": "4697",
+    "explain": "- Gọi số tiền rút mỗi tháng là $a$ (nghìn đồng), số tiền gửi ban đầu $A=200\\,000$ (nghìn đồng), lãi suất mỗi tháng $r=0{,}005$, số tháng $n=48$.<br>- Để sau $48$ tháng vừa rút hết gốc và lãi: $A(1+r)^n=a\\cdot\\dfrac{(1+r)^n-1}{r}$, suy ra $a=\\dfrac{Ar(1+r)^n}{(1+r)^n-1}$.<br>- Thay số: $a=\\dfrac{200\\,000\\cdot 0{,}005\\cdot (1{,}005)^{48}}{(1{,}005)^{48}-1}\\approx 4\\,697$ (nghìn đồng).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D635TL9",
+    "question": "Anh Việt có $200$ triệu đồng gửi ngân hàng kỳ hạn $1$ năm với lãi suất $6{,}5\\%$ một năm theo hình thức lãi kép (lãi của kỳ này được nhập vào vốn để tính lãi cho kỳ sau). Số tiền cả gốc lẫn lãi anh Việt nhận được sau $n$ năm là $A_n=200(1+6{,}5\\%)^n$ (triệu đồng). Hỏi anh Việt phải gửi ít nhất bao nhiêu năm để số tiền cả gốc lẫn lãi nhận được vượt quá $300$ triệu đồng (biết anh Việt không rút trước và lãi suất không đổi)?",
+    "answer": "7",
+    "explain": "- Cần $200(1+6{,}5\\%)^n>300 \\Leftrightarrow 1{,}065^n>\\dfrac{3}{2} \\Leftrightarrow n>\\log_{1{,}065}\\dfrac{3}{2}\\approx 6{,}44$.<br>- Vì $n$ là số nguyên dương nên $n=7$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

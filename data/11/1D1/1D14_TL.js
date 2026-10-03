@@ -243,5 +243,12 @@ window.traLoiNgan1D14 = [
     "answer": "-1,7",
     "explain": "Hàm số đã cho có miền xác định $\\mathscr{D}=\\mathbb{R}$.<br>Với mọi $x \\in \\mathbb{R}$, ta luôn có \\begin{align*} \\cos (2024 x+2025) &\\le 1 <br>-\\sqrt{3}\\cos (2024 x+2025) &\\ge -\\sqrt{3}. \\end{align*} Do đó $$ m = \\min\\limits_{x \\in \\mathbb{R}} y = -\\sqrt{3} \\approx -1{,}7. $$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D145TL36",
+    "question": "Một con lắc lò xo dao động điều hòa quanh vị trí cân bằng theo phương trình $y=25\\sin 4\\pi t$, trong đó $y$ tính bằng cm, $t$ tính bằng giây. Tần số dao động của con lắc (số lần dao động trong một giây) bằng bao nhiêu?",
+    "answer": "2",
+    "explain": "- Phương trình có dạng $y=A\\sin(\\omega t)$ với $\\omega=4\\pi$.<br>- Chu kỳ dao động: $T=\\dfrac{2\\pi}{\\omega}=\\dfrac{2\\pi}{4\\pi}=\\dfrac{1}{2}$ (giây).<br>- Tần số: $f=\\dfrac{1}{T}=2$ (Hz), nghĩa là con lắc dao động $2$ lần trong một giây.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

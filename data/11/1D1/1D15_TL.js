@@ -205,8 +205,8 @@ window.traLoiNgan1D15 = [
   {
     "id": "1D156TL31",
     "question": "Giả sử một vật dao động điều hòa xung quanh vị trí cân bằng theo phương trình $x=2 \\cos \\left(5 t-\\dfrac{\\pi}{6}\\right)$. Ở đây, thời gian $t$ tính bằng giây và quãng đường $x$ tính bằng centimét. Hãy cho biết trong khoảng thời gian từ $0$ đến $6$ giây, vật đi qua vị trí cân bằng bao nhiêu lần?",
-    "answer": "6",
-    "explain": "Phương trình dao động điều hòa có dạng $x = A \\cos (\\omega t + \\varphi)$.<br>  Vật đi qua vị trí cân bằng khi $x = 0$, tức là  \\[  2 \\cos \\left( 5t - \\dfrac{\\pi}{6} \\right) = 0 \\Rightarrow \\cos \\left( 5t - \\dfrac{\\pi}{6} \\right) = 0\\Leftrightarrow t = \\dfrac{4\\pi}{30} + \\dfrac{k\\pi}{5} = \\dfrac{2\\pi}{15} + \\dfrac{k\\pi}{5}.  \\]  Xét khoảng $0 \\leq t \\leq 6$, ta tìm các giá trị $k$ thỏa mãn  \\[  0 \\leq \\dfrac{2\\pi}{15} + \\dfrac{k\\pi}{5} \\leq 6\\Leftrightarrow -2 \\leq 3k \\leq 16 \\Leftrightarrow -\\dfrac{2}{3} \\leq k \\leq \\dfrac{16}{3}.  \\]  Với $k$ nguyên, ta có $k\\in \\{0, 1, 2, 3, 4, 5\\}$ ứng với $6$ lần đi qua vị trí cân bằng.",
+    "answer": "9",
+    "explain": "Phương trình dao động điều hòa có dạng $x = A \\cos (\\omega t + \\varphi)$.<br>- Vật đi qua vị trí cân bằng khi $x=0$, tức là $2\\cos\\left(5t-\\dfrac{\\pi}{6}\\right)=0 \\Leftrightarrow \\cos\\left(5t-\\dfrac{\\pi}{6}\\right)=0 \\Leftrightarrow 5t-\\dfrac{\\pi}{6}=\\dfrac{\\pi}{2}+k\\pi \\Leftrightarrow t=\\dfrac{2\\pi}{15}+\\dfrac{k\\pi}{5}$ ($k\\in\\mathbb{Z}$).<br>- Xét $0\\le t\\le 6$: $0\\le \\dfrac{2\\pi}{15}+\\dfrac{k\\pi}{5}\\le 6 \\Leftrightarrow -\\dfrac{2}{3}\\le k\\le \\dfrac{30}{\\pi}-\\dfrac{2}{3}\\approx 8{,}88$.<br>- Vì $k\\in\\mathbb{Z}$ nên $k=0,1,2,3,4,5,6,7,8$, tức là có $9$ giá trị $t$ thỏa mãn. Vậy vật đi qua vị trí cân bằng $9$ lần.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

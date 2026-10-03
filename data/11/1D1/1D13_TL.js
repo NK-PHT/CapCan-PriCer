@@ -201,5 +201,12 @@ window.traLoiNgan1D13 = [
     "answer": "1",
     "explain": "Đặt $P=\\sin^6x+\\cos^6x$.<br>  Ta có $\\sin^6 x + \\cos^6 x = \\left( \\sin^2 x + \\cos^2 x\\right) \\left( \\sin^4 x - \\sin^2 x \\cos^2 x + \\cos^4 x\\right) =1 - 3\\sin^2 x \\cos^2 x$.<br>  Lại có $\\sin^2 x \\cos^2 x = \\dfrac{1}{4} \\sin^2 2x$.<br>  Vậy   $P= 1 - \\dfrac{3}{4} \\sin^2 2x = 1 - \\dfrac{3}{4} \\cdot \\left( \\dfrac{1 - \\cos 4x}{2} \\right)= \\dfrac{5}{8} + \\dfrac{3}{8} \\cos 4x$.<br>  Suy ra $a = \\dfrac{5}{8}$ và $b = \\dfrac{3}{8}$.<br>  Vậy $a + b = \\dfrac{5}{8} + \\dfrac{3}{8} = 1$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D135TL30",
+    "question": "Trên một bức tranh hình chữ nhật $ABCD$ có chiều dài gấp đôi chiều rộng, lấy hai điểm $E,\\ F$ trên đoạn $AD,\\ CD$ sao cho $3AE = 2AD$ và $CF = FD$. Nối $BE,\\ BF$. Giá trị của $\\cot \\angle EBF$ là bao nhiêu? (làm tròn đến hàng phần mười)",
+    "answer": "2,4",
+    "explain": "- Đặt $AB = x \\Rightarrow AD = 2x$. Khi đó $AE = \\dfrac{2}{3}AD=\\dfrac{4}{3}x$ và $CF = \\dfrac{1}{2}CD=\\dfrac{x}{2}$.<br>- $\\tan \\angle ABE = \\dfrac{AE}{AB} = \\dfrac{4}{3}$, $\\tan \\angle FBC = \\dfrac{CF}{BC} = \\dfrac{1}{4}$.<br>- $\\cot \\angle EBF = \\tan\\left(\\angle ABE + \\angle FBC\\right) = \\dfrac{\\dfrac{4}{3} + \\dfrac{1}{4}}{1 - \\dfrac{4}{3} \\cdot \\dfrac{1}{4}} = \\dfrac{19}{8} \\approx 2{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
