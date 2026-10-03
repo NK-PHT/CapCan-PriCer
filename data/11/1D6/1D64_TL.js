@@ -54,5 +54,12 @@ window.traLoiNgan1D64 = [
     "answer": "2,18",
     "explain": "Ta có $S(0)=150 \\Rightarrow A=150$ nên $S(t)=150\\mathrm{e}^{rt}$.<br>  Vì $S(3)=450$ nên  \\[150\\mathrm{e}^{3r}=450  \\Rightarrow \\mathrm{e}^{3r}=3  \\Rightarrow r=\\dfrac{\\ln 3}{3}.  \\]   Suy ra  \\[S(t)=150\\mathrm{e}^{\\tfrac{\\ln 3}{3}t}=150\\left(\\sqrt[3]{3}\\right)^t.  \\]   Số vi khuẩn $Y$ tăng $5\\%$ mỗi giờ nên $R(t)=300(1{,}05)^t$.<br>   Khi $S(t)=R(t)$, tức là  \\[  \\begin{array}{rcl}  150\\left(\\sqrt[3]{3}\\right)^t = 300(1{,}05)^t &\\Leftrightarrow&\\left(\\sqrt[3]{3}\\right)^t = 2(1{,}05)^t \\\\  &\\Leftrightarrow&\\left(\\dfrac{\\sqrt[3]{3}}{1{,}05}\\right)^t = 2\\\\  &\\Leftrightarrow& t\\ln\\!\\left(\\dfrac{\\sqrt[3]{3}}{1{,}05}\\right)=\\ln 2\\\\  &\\Leftrightarrow&t=\\dfrac{\\ln 2}{\\ln\\!\\left(\\dfrac{\\sqrt[3]{3}}{1{,}05}\\right)}\\approx 2{,}18.  \\end{array}  \\]  Vậy sau khoảng $2{,}18$ giờ thì số lượng vi khuẩn $X$ bằng số lượng vi khuẩn $Y$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D646TL3",
+    "question": "Dân số tỉnh Đồng Nai năm 2024 ước tính khoảng $3\\text{,}4$ triệu người. Giả sử tỉ lệ tăng dân số hằng năm của tỉnh Đồng Nai không đổi và bằng $1\\text{,}5\\%$ một năm. Biết rằng số dân của tỉnh sau $t$ năm (tính từ năm chọn làm mốc) được tính theo công thức $S=A\\cdot \\mathrm{e}^{rt}$, trong đó $A$ là dân số của năm chọn làm mốc, $r$ là tỉ lệ tăng dân số hằng năm. Hỏi sau ít nhất bao nhiêu năm, tính từ năm 2024, dân số của tỉnh Đồng Nai lớn hơn $5$ triệu người?",
+    "answer": "26",
+    "explain": "Tính từ năm 2024, để dân số tỉnh Đồng Nai lớn hơn $5$ triệu người thì<br>  $3\\text{,}4\\cdot \\mathrm{e}^{\\frac{1,5}{100}t}>5 \\Leftrightarrow \\mathrm{e}^{\\frac{1,5}{100}t}>\\dfrac{5}{3,4} \\Leftrightarrow \\dfrac{1,5}{100}t>\\ln\\dfrac{5}{3,4} \\Leftrightarrow t>\\dfrac{\\ln\\frac{5}{3,4}}{\\frac{1,5}{100}}\\approx 25{,}7.$<br>  Vậy sau ít nhất $26$ năm thì dân số tỉnh Đồng Nai lớn hơn $5$ triệu người.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

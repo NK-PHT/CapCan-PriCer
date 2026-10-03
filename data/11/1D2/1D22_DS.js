@@ -46,5 +46,53 @@ window.dungSai1D22 = [
     ],
     "explain": "<br>- Do mỗi hàng ngay phía dưới lần lượt được xếp nhiều hơn $2$ hộp so với hàng trên nó nên số hộp sữa ở các hàng lập thành một cấp số cộng với số hạng đầu $u_1=1$ và công sai $d=2$.<br>- Số hộp sữa ở hàng thứ $10$ là $u_{10}=u_1+9d=1+9\\cdot2=19$ (hộp).<br>- Số hộp sữa ở hàng thứ $12$ là $u_{12}=u_1+11d=1+11\\cdot2=23$ (hộp).<br>- Gọi $n$ là số hàng để đặt $900$ hộp sữa của gian hàng, ta có \\[\\begin{array}{rcl} S_n=900&\\Leftrightarrow&\\dfrac{n}{2}\\left(2u_1+(n-1)d\\right)=900\\\\ &\\Leftrightarrow&\\dfrac{n}{2}\\left(2\\cdot1+(n-1)\\cdot2\\right)=900\\\\ &\\Leftrightarrow&n^2=900\\Leftrightarrow n=30. \\end{array}\\] Vậy cần $30$ hàng để xếp hết tất cả số hộp sữa lên gian hàng.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D222DS1",
+    "question": "Cho cấp số cộng $(u_n)$ với $u_1=-2$, $u_4=4$. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "Công sai của cấp số cộng $(u_n)$ là $d=2$",
+        "answer": true
+      },
+      {
+        "text": "Số hạng thứ $10$ của cấp số cộng $(u_n)$ là $16$",
+        "answer": true
+      },
+      {
+        "text": "Số hạng tổng quát của cấp số cộng $(u_n)$ là $u_n=2n-3$, $\\forall n \\in \\mathbb{N}^{*}$",
+        "answer": false
+      },
+      {
+        "text": "Viết thêm $2$ số xen giữa $u_1$ và $u_{10}$ để được một cấp số nhân có $4$ số hạng, thì nếu viết tiếp, số hạng thứ $10$ của cấp số nhân đó là $1\\,024$",
+        "answer": true
+      }
+    ],
+    "explain": "<br>- Ta có $u_4=u_1+3d \\Leftrightarrow 4=-2+3d \\Leftrightarrow d=2$. Suy ra mệnh đề đúng.<br>- Số hạng thứ $10$: $u_{10}=u_1+9d=-2+9\\cdot 2=16$. Suy ra mệnh đề đúng.<br>- Số hạng tổng quát: $u_n=u_1+(n-1)d=-2+(n-1)\\cdot 2=2n-4$, không phải $2n-3$. Suy ra mệnh đề sai.<br>- Cấp số nhân $4$ số hạng có $a_1=u_1=-2$, $a_4=u_{10}=16$, suy ra $q^3=\\dfrac{a_4}{a_1}=\\dfrac{16}{-2}=-8 \\Leftrightarrow q=-2$. Nếu viết tiếp đến số hạng thứ $10$ của cấp số nhân này: $a_{10}=a_1\\cdot q^9=-2\\cdot(-2)^9=-2\\cdot(-512)=1\\,024$. Suy ra mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "1D222DS2",
+    "question": "Cho dãy số $(u_n)$ có số hạng tổng quát $u_n=3n+1$. Xét tính đúng sai của các khẳng định sau",
+    "subQuestions": [
+      {
+        "text": "Tổng $8$ số hạng đầu của dãy số $(u_n)$ bằng $116$",
+        "answer": true
+      },
+      {
+        "text": "Dãy số $(u_n)$ là dãy số giảm",
+        "answer": false
+      },
+      {
+        "text": "Số hạng thứ tư của dãy số là $u_4=13$",
+        "answer": true
+      },
+      {
+        "text": "Dãy số đã cho là một cấp số cộng có công sai $d=2$",
+        "answer": false
+      }
+    ],
+    "explain": "<br>- Ta có $u_{n+1}-u_n=3(n+1)+1-(3n+1)=3$ với mọi $n$, không đổi, nên $(u_n)$ là cấp số cộng với công sai $d=3$, số hạng đầu $u_1=4$. Tổng $8$ số hạng đầu: $S_8=\\dfrac{8\\left[2\\cdot 4+(8-1)\\cdot 3\\right]}{2}=116$. Suy ra mệnh đề đúng.<br>- Vì công sai $d=3>0$ nên $(u_n)$ là dãy số tăng, không phải dãy số giảm. Suy ra mệnh đề sai.<br>- $u_4=3\\cdot 4+1=13$. Suy ra mệnh đề đúng.<br>- Dãy số đã cho là cấp số cộng với công sai $d=3$, không phải $d=2$. Suy ra mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
