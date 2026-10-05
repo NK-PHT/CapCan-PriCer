@@ -496,6 +496,67 @@ function capNhatDanhSachChuong() {
 selectLop.addEventListener('change', capNhatDanhSachChuong);
 capNhatDanhSachChuong();
 
+// ---- Giao diện chọn Chương → Nội dung (điều khiển <select id="select-chuong"> ẩn) ----
+const selectNhom = document.getElementById('select-nhom');
+const listBai = document.getElementById('list-bai');
+let nhomHienTai = [];
+
+function phanNhomDanhMuc() {
+    const ds = DanhMucChuong[selectLop.value] || [];
+    const nhom = [];
+    let cur = null;
+    ds.forEach(c => {
+        if (c.text.includes('⭐')) {
+            if (!cur || cur.loai !== 'de') { cur = { loai: 'de', ten: '⭐ Đề ôn học kì & thi thử', muc: [] }; nhom.push(cur); }
+            cur.muc.push({ value: c.value, nhan: c.text.replace(/^Lớp \d+ ➔ /, '').replace('⭐ ', ''), dacBiet: true });
+        } else if (/_TongOn$/.test(c.value)) {
+            const m = c.text.match(/Tổng ôn (Chương \d+): (.*)$/);
+            cur = { loai: 'chuong', ten: m ? m[1] + ': ' + m[2] : c.text, muc: [{ value: c.value, nhan: 'Tổng ôn cả chương', tongOn: true }] };
+            nhom.push(cur);
+        } else if (/^Chuyên đề/.test(c.text)) {
+            if (!cur || cur.loai !== 'cd') { cur = { loai: 'cd', ten: '📚 Chuyên đề', muc: [] }; nhom.push(cur); }
+            cur.muc.push({ value: c.value, nhan: c.text.replace(/^Chuyên đề \d+ ➔ /, '') });
+        } else {
+            if (!cur) { cur = { loai: 'chuong', ten: 'Khác', muc: [] }; nhom.push(cur); }
+            cur.muc.push({ value: c.value, nhan: c.text.replace(/^.*➔ C\d+ ➔ /, '') });
+        }
+    });
+    return nhom;
+}
+
+function veDanhSachBai(idxNhom, giaTriChon) {
+    const nhom = nhomHienTai[idxNhom];
+    if (!nhom) { listBai.innerHTML = ''; return; }
+    const chon = giaTriChon || nhom.muc[0].value;
+    listBai.innerHTML = nhom.muc.map((m, i) => {
+        const cls = 'bai-item' + (m.tongOn ? ' bai-tongon' : '') + (m.value === chon ? ' is-checked' : '');
+        const tag = m.tongOn ? '<span class="bai-tag">🔹 Ôn cả chương</span>' : '';
+        return `<label class="${cls}"><input type="radio" name="bai-chon" value="${m.value}"${m.value === chon ? ' checked' : ''}><span>${tag}${m.nhan}</span></label>`;
+    }).join('');
+    selectChuong.value = chon;
+}
+
+function dongBoGiaoDienChuong() {
+    nhomHienTai = phanNhomDanhMuc();
+    selectNhom.innerHTML = nhomHienTai.map((n, i) => `<option value="${i}">${n.ten}</option>`).join('');
+    // Mặc định: chương đầu tiên có bài (bỏ qua nhóm "Đề ôn" nếu muốn chọn bài), giữ nhóm đề ôn ở đầu danh sách
+    const giaTri = selectChuong.value;
+    let idx = nhomHienTai.findIndex(n => n.muc.some(m => m.value === giaTri));
+    if (idx < 0) idx = 0;
+    selectNhom.value = String(idx);
+    veDanhSachBai(idx, giaTri);
+}
+
+selectNhom.addEventListener('change', () => veDanhSachBai(parseInt(selectNhom.value, 10), null));
+listBai.addEventListener('change', e => {
+    if (e.target && e.target.name === 'bai-chon') {
+        selectChuong.value = e.target.value;
+        listBai.querySelectorAll('.bai-item').forEach(el => el.classList.toggle('is-checked', el.querySelector('input').checked));
+    }
+});
+selectLop.addEventListener('change', dongBoGiaoDienChuong);
+dongBoGiaoDienChuong();
+
 function startTimer(soGiayKhoiTao, thoiDiemBatDauGoc) {
     // soGiayKhoiTao/thoiDiemBatDauGoc chỉ được truyền vào khi KHÔI PHỤC một
     // bài đang làm dở (xem khoiPhucBaiLamNeuCo) - giữ nguyên mốc thời gian
@@ -1328,6 +1389,7 @@ function khoiPhucBaiLamNeuCo() {
         selectLop.value = banGhi.lop;
         capNhatDanhSachChuong();
         if (banGhi.chuong) selectChuong.value = banGhi.chuong;
+        dongBoGiaoDienChuong();
     }
     if (banGhi.hoTen) document.getElementById('student-name').value = banGhi.hoTen;
 

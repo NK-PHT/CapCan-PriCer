@@ -443,6 +443,18 @@
             font-size: 0.8rem; color: #64748b; text-transform: uppercase; letter-spacing: .02em;
         }
         .history-table td { font-size: 0.85rem; vertical-align: middle; }
+
+        /* ===== CHỌN CHƯƠNG → BÀI (cột trái) ===== */
+        .bai-list { display: flex; flex-direction: column; gap: 6px; max-height: 320px; overflow-y: auto; padding: 2px; }
+        .bai-item { display: flex; align-items: flex-start; gap: 8px; padding: 8px 10px; border: 1.5px solid #e2e8f0; border-radius: 10px; cursor: pointer; font-size: 0.85rem; line-height: 1.35; color: #334155; background: #fff; transition: border-color .15s, background .15s; }
+        .bai-item:hover { border-color: #93b4f5; background: #f8faff; }
+        .bai-item input { margin-top: 3px; flex-shrink: 0; accent-color: #2F6FED; }
+        .bai-item.is-checked { border-color: #2F6FED; background: #eef3ff; color: #1e3a8a; font-weight: 600; }
+        .bai-item.bai-tongon { background: linear-gradient(135deg, #fff7e6, #ffeccc); border-color: #f5b04a; color: #7a4300; font-weight: 800; }
+        .bai-item.bai-tongon:hover { border-color: #e8890c; background: #fff1d6; }
+        .bai-item.bai-tongon.is-checked { border-color: #e8890c; box-shadow: 0 0 0 2px rgba(232,137,12,.25); background: #ffe9c2; }
+        .bai-item.bai-tongon input { accent-color: #e8890c; }
+        .bai-tag { font-size: 0.7rem; font-weight: 700; letter-spacing: .02em; text-transform: uppercase; color: #b45309; display: block; }
     </style>
 </head>
 <body>
@@ -469,8 +481,14 @@
         </div>
 
         <div class="mb-3">
-            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-book me-1"></i> CHUYÊN ĐỀ / NỘI DUNG THI</label>
-            <select class="form-select form-select-sm" id="select-chuong"></select>
+            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-book me-1"></i> CHƯƠNG</label>
+            <select class="form-select form-select-sm" id="select-nhom"></select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-list-check me-1"></i> NỘI DUNG THI</label>
+            <div class="bai-list" id="list-bai" role="radiogroup"></div>
+            <select class="d-none" style="display:none" id="select-chuong" tabindex="-1" aria-hidden="true"></select>
         </div>
 
         <button class="btn btn-custom-generate mb-4 shadow-sm" id="btn-generate" disabled>
@@ -529,7 +547,7 @@
 </footer>
 
 <script src="data/manifest.js"></script>
-<script src="js/app.js?v=20260912-1000"></script>
+<script src="js/app.js?v=20261005-1"></script>
 
 <div class="author-modal-overlay" id="author-modal-overlay" onclick="if(event.target===this) closeAuthorModal()">
     <div class="author-modal-box">
