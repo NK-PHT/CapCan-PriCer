@@ -166,5 +166,53 @@ window.dungSai2H53 = [
     ],
     "explain": "<br>- <strong>Đúng</strong>.<br>  Tại thời điểm $9$ giờ $30$ phút, máy bay đang ở độ cao $9$ km.<br>- <strong>Sai</strong>.<br>  Tọa độ của máy bay $(150; 300; 9)$<br>- <strong>Đúng</strong>.<br>  Ta có $10$ m/s $=36$ km/h.<br>  Vì gió thổi theo hướng đông nên vận tốc thực tế của máy bay là $750+36=786$ km/h.<br>  Lúc $10$ giờ $30$, máy bay bay về hướng đông thêm được quãng đường là $786$ km.<br>  Ta có $300+786=1\\,086$. Vậy, tọa độ của máy bay khi đó là $(150; 1\\,086;9)$.<br>- <strong>Sai</strong>.<br>  Tung độ của máy bay tại thời điểm $11$ giờ là  $1\\,086-800\\cdot 0{,}5=686$.<br>  Tọa độ của máy bay là $M(150;686;9)$.<br>  Khoảng cách từ máy bay đến gốc tọa độ khi đó là  $OM=\\sqrt{150^2+686^2+9^2}\\approx 702(\\mathrm{km}).$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H534DS8",
+    "question": "Trong không gian $Oxyz$ thuộc hệ thống định vị GPS, bề mặt Trái Đất được mô hình hoá bởi mặt cầu $(x-1)^2+(y-2)^2+(z-2)^2=9$. Hai vệ tinh truyền tín hiệu có vị trí $ M(4;-4;2)$, $ N(6;0;6)$.",
+    "subQuestions": [
+      {
+        "text": "Vệ tinh ở vị trí $M$ gần tâm mặt cầu hơn so với vệ tinh ở vị trí $N$",
+        "answer": false
+      },
+      {
+        "text": "Một tín hiệu được truyền đi từ vệ tinh ở $M$ đến vệ tinh ở $N$ là đường thẳng có phương trình chính tắc $\\dfrac{x-4}{1}=\\dfrac{y+4}{2}=\\dfrac{z-2}{2}$",
+        "answer": true
+      },
+      {
+        "text": "Mặt phẳng đi qua tâm Trái Đất và hai điểm $M$, $N$ có phương trình $ 2x+y-2z=0$",
+        "answer": true
+      },
+      {
+        "text": "Giả sử đơn vị trên mỗi trục là $2\\,100$ km, một tín hiệu có tốc độ $3\\cdot10^5$ km/s được truyền từ vệ tinh $M$ đến điểm gần nhất thuộc bề mặt Trái Đất mất khoảng $0{,}026$ giây (làm tròn kết quả đến hàng phần nghìn của giây)",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Tâm Trái Đất là điểm $I\\left(1;2;2\\right)$.<br> Ta có<br><br>- $IM=\\sqrt{(4-1)^2+(-4-2)^2+(2-2)^2}=3\\sqrt{5}$.<br><br>- $IN=\\sqrt{(6-1)^2+(0-2)^2+(6-2)^2}=3\\sqrt{5}$.<br>Vì $IM=IN$ nên khoảng cách từ vệ tinh ở $M$ đến tâm mặt cầu bằng khoảng cách từ vệ tinh ở $N$ đến tâm mặt cầu.<br>- <strong>Đúng</strong>.<br>  Ta có $\\overrightarrow{MN}=(2;4;4)$.<br> Đường thẳng $MN$ đi qua điểm $M(4;-4;2)$ và có một vectơ chỉ phương $\\overrightarrow{u}=\\dfrac{1}{2}\\overrightarrow{MN}=(1;2;2)$ có phương trình chính tắc là \\[\\dfrac{x-4}{1}=\\dfrac{y+4}{2}=\\dfrac{z-2}{2}.\\]<br>- <strong>Đúng</strong>.<br>  $\\overrightarrow{IM}=(3;-6;0)$, $\\overrightarrow{IN}=(5;-2;4)$, $\\left[\\overrightarrow{IM},\\overrightarrow{IN}\\right]=(-24;-12;24)=-12(2;1;-2)$. Mặt phẳng đi qua tâm $I(1;2;2)$ có vectơ pháp tuyến $(2;1;-2)$: $2(x-1)+(y-2)-2(z-2)=0\\Leftrightarrow 2x+y-2z=0$. Kiểm tra: $M$, $N$ đều thoả phương trình.<br>- <strong>Đúng</strong>.<br>  Vì $ IM=3\\sqrt{5}$ và bán kính Trái Đất bằng $3$ nên khoảng cách từ điểm $M$ đến điểm gần nhất thuộc bề mặt Trái Đất bằng $3\\sqrt{5}-3$.<br> Do đó thời gian truyền tin bằng $\\dfrac{(3\\sqrt{5}-3)\\cdot2\\,100}{3\\cdot10^5}\\approx 0{,}026$ (giây).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H534DS9",
+    "question": "Trong không gian $Oxyz$ (đơn vị của các trục tọa độ là kilômét), một trạm thu phát sóng điện thoại di động có đầu thu phát được đặt tại điểm $I(-1;2;1)$ và bán kính phủ sóng của trạm là $\\sqrt{26}$ (km). Một người sử dụng điện thoại xuất phát từ vị trí $M(7;-4;0)$ chuyển động thẳng đều theo hướng về vị trí $N(-13;11;0)$ với tốc độ $v=10$ m/s.",
+    "subQuestions": [
+      {
+        "text": "Phương trình của mặt cầu $(S)$ biểu diễn ranh giới của vùng phủ sóng là $(x+1)^2+(y-2)^2+(z-1)^2=26$",
+        "answer": true
+      },
+      {
+        "text": "Tại các vị trí $M$ và $N$ người đó sử dụng được dịch vụ của trạm thu phát sóng nói trên",
+        "answer": false
+      },
+      {
+        "text": "Sau khi chuyển động từ vị trí $M$ được $500$ giây thì người đó bắt đầu sử dụng được dịch vụ của trạm thu phát sóng",
+        "answer": true
+      },
+      {
+        "text": "Trong quá trình di chuyển, người đó sử dụng được dịch vụ của trạm thu phát sóng nói trên trong khoảng thời gian $1\\,000$ giây",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Mặt cầu $(S)$ có tâm $I(-1;2;1)$ và bán kính $R=\\sqrt{26}$ nên có phương trình là $$(x+1)^2+(y-2)^2+(z-1)^2=26.$$<br>- <strong>Sai</strong>.<br>  Ta có $\\overrightarrow{IM} = (8;-6;-1) \\Rightarrow IM = \\sqrt{8^2+(-6)^2+(-1)^2} = \\sqrt{101}$.<br> Vì $IM = \\sqrt{101} &gt; R = \\sqrt{26}$ nên điểm $M$ nằm ngoài vùng phủ sóng.<br> Tại vị trí $M$ người đó không sử dụng được dịch vụ.<br>- <strong>Đúng</strong>.<br>  Ta có $10$ m/s $= 0{,}01$ km/s. <br> Ta có $\\overrightarrow{MN} = (-20;15;0) \\Rightarrow MN = \\sqrt{(-20)^2+15^2+0^2} = 25$ (km).<br> Thời gian đi từ $M$ đến $N$ là $t_{MN} = \\dfrac{25}{0{,}01} = 2500$ (giây).<br> Gọi $P(x;y;z)$ là vị trí của người đó sau thời gian $t$ giây kể từ lúc xuất phát ($0 \\le t \\le 2\\,500$).<br> Quãng đường đi được sau $t$ giây là $MP = 0{,}01t$ (km). <br> Vì $P$ thuộc đoạn $MN$ nên $\\overrightarrow{MP} = \\dfrac{MP}{MN}\\overrightarrow{MN} = \\dfrac{0{,}01t}{25} \\overrightarrow{MN} = t \\cdot \\left(-0{,}008; 0{,}006; 0\\right)$. <br> Suy ra $\\begin{cases}&x - 7 = -0{,}008t \\\\ &y + 4 = 0{,}006t \\\\ &z - 0 = 0\\end{cases} \\Leftrightarrow \\begin{cases}&x = 7 - 0{,}008t \\\\ &y = -4 + 0{,}006t \\\\ &z = 0.\\end{cases}$ <br> Người đó bắt đầu sử dụng được dịch vụ khi $P$ nằm trên mặt cầu $(S)$, tức là $$\\begin{aligned} & &(7 - 0{,}008t + 1)^2 + (-4 + 0{,}006t - 2)^2 + (0 - 1)^2 = 26\\\\ &\\Leftrightarrow &(8 - 0{,}008t)^2 + (-6 + 0{,}006t)^2 + 1 = 26\\\\ &\\Leftrightarrow &64 - 0{,}128t + 0{,}000064t^2 + 36 - 0{,}072t + 0{,}000036t^2 = 25\\\\ &\\Leftrightarrow &0{,}0001t^2 - 0{,}2t + 75 = 0\\\\ &\\Leftrightarrow & \\left[\\begin{aligned}&t = 500 \\\\ &t = 1\\,500.\\end{aligned}\\right. \\end{aligned}$$ Vậy sau $500$ giây người đó bắt đầu vào vùng phủ sóng.<br>- <strong>Đúng</strong>.<br>  Ta đã có, người đó ở trong vùng phủ sóng từ giây thứ $500$ đến giây thứ $1\\,500$. <br> Vậy khoảng thời gian sử dụng được dịch vụ là $ 1\\,500 - 500 = 1\\,000$ (giây).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

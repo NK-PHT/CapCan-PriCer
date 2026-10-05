@@ -238,5 +238,197 @@ window.dungSai2D32 = [
     ],
     "explain": "<br>- Cả hai bảng số liệu đều có chung nhóm đầu $[0;10)$ và nhóm cuối $[40;50)$ nên khoảng biến thiên của cả hai đều là $R=50-0=50$. Suy ra mệnh đề đúng.<br>- Chiều cao trung bình phương án $A$: $\\overline{x}_A=\\dfrac{5\\cdot 6+15\\cdot 8+25\\cdot 12+35\\cdot 8+45\\cdot 6}{40}=25$ (cm). Chiều cao trung bình phương án $B$: $\\overline{x}_B=\\dfrac{5\\cdot 13+15\\cdot 6+25\\cdot 2+35\\cdot 6+45\\cdot 13}{40}=25$ (cm). Vậy hai trung bình bằng nhau. Suy ra mệnh đề đúng.<br>- Độ lệch chuẩn phương án $A$: $s_A=\\sqrt{\\dfrac{5^2\\cdot 6+15^2\\cdot 8+25^2\\cdot 12+35^2\\cdot 8+45^2\\cdot 6}{40}-25^2}=\\sqrt{160}\\approx 12{,}65$ (cm). Suy ra mệnh đề đúng.<br>- Độ lệch chuẩn phương án $B$: $s_B=\\sqrt{\\dfrac{5^2\\cdot 13+15^2\\cdot 6+25^2\\cdot 2+35^2\\cdot 6+45^2\\cdot 13}{40}-25^2}=\\sqrt{290}\\approx 17{,}03$ (cm). Vì $s_A<s_B$ nên chiều cao cây theo phương án $A$ ít bị chênh lệch hơn (đồng đều hơn) phương án $B$, không phải ngược lại. Suy ra mệnh đề sai.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D322DS8",
+    "question": "Một bác tài xế thống kê lại độ dài quãng đường bác đã lái xe mỗi ngày trong một tháng ở bảng sau:<br>{ <table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Độ dài quãng đường (km)</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[ 50;100 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[ 100;150 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[ 150;200 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[ 200;250 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[ 250;300 \\right)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Số ngày</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$9$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$4$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr></table>}",
+    "subQuestions": [
+      {
+        "text": "Số trung bình của mẫu số liệu ghép nhóm là $145$",
+        "answer": false
+      },
+      {
+        "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm là $250$ km",
+        "answer": true
+      },
+      {
+        "text": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm bằng $79{,}17$ <em>(kết quả làm tròn đến hàng phần trăm)</em>",
+        "answer": true
+      },
+      {
+        "text": "Độ lệch chuẩn của mẫu số liệu ghép nhóm bằng $55{,}68$ <em>(kết quả làm tròn đến hàng phần trăm)</em>",
+        "answer": true
+      }
+    ],
+    "explain": "{ <table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Độ dài quãng đường (km)</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[50;100\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[100;150\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[150;200\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[200;250\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[250;300\\right)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Giá trị đại diện</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$75$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$125$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$175$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$225$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$275$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Số ngày</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$9$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$4$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr></table>}<br>- <strong>Sai</strong>.<br>  Cỡ mẫu:\t$n=5+10+9+4+2=30$.<br> Số trung bình của mẫu số liệu ghép nhóm là<br>$\\overline{x}=\\dfrac{75\\cdot5+125\\cdot10+175\\cdot9+225\\cdot4+275\\cdot2}{30}=155$.<br>- <strong>Đúng</strong>.<br>  Khoảng biến thiên của mẫu số liệu ghép nhóm là $R=300-50=250$ km.<br>- <strong>Đúng</strong>.<br>  Bảng tần số tích lũy<br>{ <table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Độ dài quãng đường (km)</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[50;100 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[100;150 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[150;200 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[200;250 \\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[250;300 \\right)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Số ngày</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$9$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$4$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\"><strong>Tần số tích lũy</strong></td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$15$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$24$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$28$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$30$</td></tr></table>}<br>Ta có $\\dfrac{n}{4}=\\dfrac{30}{4}=7,5&lt;15$. Suy ra\t$Q_1=100+\\dfrac{7{,}5-5}{10}\\cdot 50=\\dfrac{225}{2}$.<br> $\\dfrac{3n}{4}=\\dfrac{3\\cdot 30}{4}=22{,}5&lt;24$. Suy ra $Q_3=150+\\dfrac{22{,}5-15}{9}\\cdot 50=\\dfrac{575}{3}$. <br> Khoảng tứ phân vị của mẫu là $\\Delta Q=Q_3-Q_1=\\dfrac{575}{3}-\\dfrac{225}{2}=\\dfrac{475}{6} \\approx 79{,}17$.<br>- <strong>Đúng</strong>.<br>  Phương sai của mẫu là $$\\begin{aligned} s^2\t= \\dfrac{1}{30}\\cdot\\left(5\\cdot75^2+10\\cdot125^2+9\\cdot175^2+4\\cdot225^2+2\\cdot275^2\\right)-155^2= 3\\,100. \\end{aligned}$$ Độ lệch chuẩn là $s=\\sqrt{3\\,100}\\approx 55{,}68$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS9",
+    "question": "Giả sử kết quả khảo sát khu vực $A$ và $B$ về độ tuổi kết hôn của một số phụ nữ vừa lập gia đình được cho ở bảng sau<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Tuổi kết hôn</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[19; 22\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[22; 25\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[25; 28\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[28; 31\\right)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$\\left[31; 34\\right)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số phụ nữ ở khu vực $A$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$27$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$31$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$25$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$7$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số phụ nữ ở khu vực $B$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$47$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$40$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$11$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$0$</td></tr></table>",
+    "subQuestions": [
+      {
+        "text": "Số phụ nữ tham gia khảo sát ở mỗi khu vực $A$ và $B$ là $100$ người",
+        "answer": true
+      },
+      {
+        "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm ứng với khu vực $B$ là $15$ $\\left(\\text{tuổi}\\right)$",
+        "answer": false
+      },
+      {
+        "text": "Xét độ tuổi kết hôn trung bình thì phụ nữ ở khu vực $A$ kết hôn sớm hơn phụ nữ ở khu vực $B$",
+        "answer": false
+      },
+      {
+        "text": "Nếu so sánh theo độ lệch chuẩn thì phụ nữ ở khu vực $B$ có độ tuổi kết hôn đồng đều hơn",
+        "answer": true
+      }
+    ],
+    "explain": "Giá trị đại diện của các nhóm $\\left[19; 22\\right)$, $\\left[22; 25\\right)$, $\\left[25; 28\\right)$, $\\left[28; 31\\right)$, $\\left[31; 34\\right)$ lần lượt là $20{,}5$; $23{,}5$; $26{,}5$; $29{,}5$; $32{,}5$.<br>- <strong>Đúng</strong>.<br>  Ta có số phụ nữ khảo sát ở khu vực $A$ là $n_A = 10 + 27 + 31 + 25 + 7 = 100$ $\\left(\\text{người}\\right)$.<br> Số phụ nữ khảo sát ở khu vực $B$ là $n_B = 47 + 40 + 11 + 2 + 0 = 100$ $\\left(\\text{người}\\right)$.<br>- <strong>Sai</strong>.<br>  Mẫu số liệu của khu vực $B$ có các nhóm chứa số liệu $\\left(\\text{tần số lớn hơn } 0\\right)$ là $\\left[19; 22\\right)$, $\\left[22; 25\\right)$, $\\left[25; 28\\right)$, $\\left[28; 31\\right)$.<br> Khoảng biến thiên của mẫu số liệu ứng với khu vực $B$ là $R_B = 31 - 19 = 12$.<br>- <strong>Sai</strong>.<br>  Tuổi kết hôn trung bình của phụ nữ ở khu vực $A$ là \\[\\overline{x}_A = \\dfrac{10 \\cdot 20{,}5 + 27 \\cdot 23{,}5 + 31 \\cdot 26{,}5 + 25 \\cdot 29{,}5 + 7 \\cdot 32{,}5}{100} = 26{,}26 \\text{ }\\left(\\text{tuổi}\\right).\\] Tuổi kết hôn trung bình của phụ nữ ở khu vực $B$ là \\[\\overline{x}_B = \\dfrac{47 \\cdot 20{,}5 + 40 \\cdot 23{,}5 + 11 \\cdot 26{,}5 + 2 \\cdot 29{,}5 + 0 \\cdot 32{,}5}{100} = 22{,}54 \\text{ }\\left(\\text{tuổi}\\right).\\] Vì $\\overline{x}_A &gt; \\overline{x}_B$ nên xét theo độ tuổi kết hôn trung bình, phụ nữ ở khu vực $A$ kết hôn muộn hơn phụ nữ ở khu vực $B$.<br>- <strong>Đúng</strong>.<br>  $s_A^2=\\dfrac{10\\cdot 20{,}5^2+27\\cdot 23{,}5^2+31\\cdot 26{,}5^2+25\\cdot 29{,}5^2+7\\cdot 32{,}5^2}{100}-26{,}26^2=10{,}7424$, $s_A\\approx 3{,}28$.<br>$s_B^2=5{,}0184$, $s_B\\approx 2{,}24$.<br>Vì $s_B&lt;s_A$ nên độ tuổi kết hôn ở khu vực $B$ đồng đều hơn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS10",
+    "question": "Khảo sát thời gian tập thể dục mỗi ngày (tính theo phút) của $32$ người thuộc hai câu lạc bộ: CLB Yoga và CLB Gym. Kết quả được thu thập và tổng hợp trong bảng tần số ghép nhóm dưới đây:<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Thời gian (phút)</td><td style=\"border:1px solid #888;padding:3px 8px;\">[30; 50)</td><td style=\"border:1px solid #888;padding:3px 8px;\">[50; 70)</td><td style=\"border:1px solid #888;padding:3px 8px;\">[70; 90)</td><td style=\"border:1px solid #888;padding:3px 8px;\">[90; 110)</td><td style=\"border:1px solid #888;padding:3px 8px;\">[110; 130)</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">CLB Yoga</td><td style=\"border:1px solid #888;padding:3px 8px;\">2</td><td style=\"border:1px solid #888;padding:3px 8px;\">3</td><td style=\"border:1px solid #888;padding:3px 8px;\">6</td><td style=\"border:1px solid #888;padding:3px 8px;\">3</td><td style=\"border:1px solid #888;padding:3px 8px;\">2</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">CLB Gym</td><td style=\"border:1px solid #888;padding:3px 8px;\">4</td><td style=\"border:1px solid #888;padding:3px 8px;\">1</td><td style=\"border:1px solid #888;padding:3px 8px;\">6</td><td style=\"border:1px solid #888;padding:3px 8px;\">1</td><td style=\"border:1px solid #888;padding:3px 8px;\">4</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Tổng số</td><td style=\"border:1px solid #888;padding:3px 8px;\">6</td><td style=\"border:1px solid #888;padding:3px 8px;\">4</td><td style=\"border:1px solid #888;padding:3px 8px;\">12</td><td style=\"border:1px solid #888;padding:3px 8px;\">4</td><td style=\"border:1px solid #888;padding:3px 8px;\">6</td></tr></table><br>Xét tính đúng sai của các khẳng định sau.",
+    "subQuestions": [
+      {
+        "text": "Khoảng biến thiên của mẫu số liệu ghép nhóm cho cả $32$ người là $R=100$ (phút)",
+        "answer": true
+      },
+      {
+        "text": "Khoảng tứ phân vị của mẫu số liệu ghép nhóm cho cả $32$ người là $60$(phút)",
+        "answer": false
+      },
+      {
+        "text": "Mức độ tập luyện của những người ở CLB Yoga ổn định (đồng đều) hơn CLB Gym",
+        "answer": true
+      },
+      {
+        "text": "Chọn ngẫu nhiên $4$ người từ $32$ người trên. Xác suất để trong $4$ người được chọn có cả hai CLB Yoga, Gym và có đúng 2 người tập thể dục từ 110 phút trở lên là $\\dfrac{4388}{35960}$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Khoảng biến thiên cho tổng $32$ người là $130-30=100$ (phút).<br>- <strong>Sai</strong>.<br>  Cỡ mẫu $32$. $Q_1$ thuộc nhóm $[50;70)$: $Q_1=50+\\dfrac{8-6}{4}\\cdot 20=60$.<br>$Q_3$ thuộc nhóm $[90;110)$: $Q_3=90+\\dfrac{24-22}{4}\\cdot 20=100$.<br>Khoảng tứ phân vị là $100-60=40$ (phút), không phải $60$.<br>- <strong>Đúng</strong>.<br>  Trung bình thời gian tập luyện của CLB Yoga là<br> $\\overline{x}_1=\\dfrac{1}{16}(2\\cdot 40+3\\cdot 60+6\\cdot 80+3\\cdot 100+2\\cdot 120)=80$.<br> Phương sai của mẫu dữ liệu của CLB Yoga:<br> $s_{1}^2=\\dfrac{1}{16}[2\\cdot 40^2+3\\cdot 60^2+6\\cdot 80^2+ 3\\cdot 100^2+2\\cdot 120^2 ]-{80}^2=550$.<br> Trung bình thời gian tập luyện của CLB Gym<br> $\\overline{x}_2=\\dfrac{1}{16}(4\\cdot 40+1\\cdot 60+6\\cdot 80+1\\cdot 100+4\\cdot 120)=80$.<br> Phương sai của mẫu dữ liệu của CLB Gym:<br> $s_{2}^2=\\dfrac{1}{16}(4\\cdot 40^2+1\\cdot 60^2+6\\cdot 80^2+1\\cdot 100^2+4\\cdot 120^2)-80^2=850$.<br> Vì $s_{2}^2&gt; s_{1}^2$ nên mức độ tập luyện của những người ở CLB Yoga ổn định (đồng đều) hơn CLB Gym.<br>- <strong>Đúng</strong>.<br>  Không gian mẫu $n(\\Omega)=\\mathrm{C}_{32}^4=35\\,960$.<br> Số người tập luyện $110$ phút trở lên có: 2 người ở CLB Yoga và 4 người ở CLB Gym.<br> TH1: Chọn 4 người sao cho có cả CLB Gym, CLB yoga và có đúng 2 người tập luyện $110$ phút trở lên có cả 2 người ở CLB Yoga có<br> $\\mathrm{C}_{2}^2\\cdot (\\mathrm{C}_{14}^{1} \\cdot \\mathrm{C}_{12}^{1}+\\mathrm{C}_{12}^2)=234$ (cách chọn).<br> TH2: Chọn 4 người sao cho có cả CLB Gym, CLB yoga và có đúng 2 người tập luyện $110$ phút trở lên có cả 2 người ở CLB Gym có<br> $\\mathrm{C}_{4}^2(\\mathrm{C}_{14}^{1}\\cdot \\mathrm{C}_{12}^{1}+\\mathrm{C}_{14}^2)=1554$ (cách chọn).<br> TH3: Chọn 4 người sao cho có cả CLB Gym, CLB yoga và có đúng 2 người tập luyện $110$ phút trở lên có 1 người ở CLB Gym và người còn lại ở CLB Yoga có<br> $\\mathrm{C}_{4}^{1}\\mathrm{C}_{2}^{1}(\\mathrm{C}_{12}^{1}\\cdot \\mathrm{C}_{14}^{1}+\\mathrm{C}_{12}^2+\\mathrm{C}_{14}^2)=2600$.<br> Vậy xác suất để trong 4 người được chọn có cả hai CLB Yoga, Gym và có đúng 2 người tập thể dục từ 110 phút trở lên là<br> $P=\\dfrac{234+1554+2600}{35960}=\\dfrac{4388}{35960}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS11",
+    "question": "Thống kê thời gian trung bình sử dụng máy vi tính trong một ngày của nhân viên công ty X cho bởi bảng số liệu ghép nhóm sau<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Thời gian (phút)</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[30;60)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[60;90)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[90;120)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[120;150)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[150;180)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số nhân viên</td><td style=\"border:1px solid #888;padding:3px 8px;\">$3$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$25$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr></table>",
+    "subQuestions": [
+      {
+        "text": "Số phần tử (cỡ mẫu) của mẫu số liệu trên là $n=40$",
+        "answer": true
+      },
+      {
+        "text": "Số trung bình cộng của mẫu số liệu trên bằng $118{,}5$",
+        "answer": true
+      },
+      {
+        "text": "Phương sai của mẫu số liệu trên bằng $945$",
+        "answer": false
+      },
+      {
+        "text": "Độ lệch chuẩn của mẫu số liệu trên bằng $3\\sqrt{105}$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  $n=3+5+5+25+2=40$.<br>- <strong>Đúng</strong>.<br>  <table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Thời gian (phút)</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[30;60)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[60;90)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[90;120)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[120;150)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[150;180)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Giá trị đại diện</td><td style=\"border:1px solid #888;padding:3px 8px;\">$45$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$75$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$105$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$135$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$165$.</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số nhân viên</td><td style=\"border:1px solid #888;padding:3px 8px;\">$3$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$25$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr></table><br>$\\overline{x}=\\dfrac{45\\cdot 3+75\\cdot 5+105\\cdot 5+135\\cdot 25+165\\cdot 2}{40}=118{,}5$.<br>- <strong>Sai</strong>.<br>  Phương sai $S^2=\\dfrac{1}{40}(3\\cdot45^2+5\\cdot75^2+5\\cdot105^2+25\\cdot135^2+2\\cdot165^2) - 118{,}5^2 = 942{,}75$.<br>- <strong>Sai</strong>.<br>  $S=\\sqrt{942{,}75}=\\dfrac{3\\sqrt{419}}{2}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS12",
+    "question": "Một cơ sở sản xuất hàng thủ công thống kê về số lượng sản phẩm bán được trong ngày như sau:<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số lượng sản phẩm</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[100;140)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[140;180)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[180;220)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[220;260)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[260;300)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số ngày</td><td style=\"border:1px solid #888;padding:3px 8px;\">$3$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$6$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$12$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$6$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$3$</td></tr></table>",
+    "subQuestions": [
+      {
+        "text": "Khoảng biến thiên của mẫu số liệu đã cho là $200$",
+        "answer": true
+      },
+      {
+        "text": "Khoảng tứ phân vị của mẫu số liệu đã cho là $60$",
+        "answer": true
+      },
+      {
+        "text": "Trung bình số sản phẩm bán được trong một ngày là $220$",
+        "answer": false
+      },
+      {
+        "text": "Phương sai của mẫu số liệu đã cho là $1\\,920$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có khoảng biến thiên $R=300-100=200$.<br>- <strong>Đúng</strong>.<br>  Ta có $n=30$.<br> Suy ra $Q_1=140+\\dfrac{\\dfrac{1\\cdot 30}{4}-3}{6}\\cdot (180-140)=170$.<br> Và $Q_3=220+\\dfrac{\\dfrac{3\\cdot 30}{4}-(3+6+12)}{6}\\cdot (260-220)=230$.<br> Vậy khoảng tứ phân vị là $\\Delta Q=Q_3-Q_1=230-170=60$.<br>- <strong>Sai</strong>.<br>  Giá trị trung bình của mẫu số liệu là \\[\\overline{x}=\\dfrac{3\\cdot 120+6\\cdot 160+12\\cdot 200+6\\cdot 240+3\\cdot 280}{30}=200.\\]<br>- <strong>Đúng</strong>.<br>  Phương sai của mẫu số liệu là \\[s^2=\\dfrac{3\\cdot 120^2+6\\cdot 160^2+12\\cdot 200^2+6\\cdot 240^2+3\\cdot 280^2}{30}-200^2=1\\,920.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS13",
+    "question": "Thời gian hoàn thành một bài viết chính tả của một số học sinh lớp 4 hai trường X và Y được ghi lại ở bảng sau<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Thời gian (phút)</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[6;7)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[7;8)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[8;9)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[9;10)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[10;11)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số học sinh trường X</td><td style=\"border:1px solid #888;padding:3px 8px;\">$8$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$13$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$10$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$9$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số học sinh trường Y</td><td style=\"border:1px solid #888;padding:3px 8px;\">$4$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$12$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$17$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$14$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$3$</td></tr></table>",
+    "subQuestions": [
+      {
+        "text": "Nếu so sánh theo độ lệch chuẩn thì học sinh trường Y có tốc độ viết đồng đều hơn",
+        "answer": true
+      },
+      {
+        "text": "Nếu so sánh theo khoảng tứ phân vị thì học sinh trường X có tốc độ viết đồng đều hơn",
+        "answer": false
+      },
+      {
+        "text": "Phương sai của mẫu số liệu ghép nhóm của trường X là $1{,}08$ và phương sai của mẫu số liệu ghép nhóm của trường Y là $1{,}7584$",
+        "answer": false
+      },
+      {
+        "text": "Nếu so sánh theo số trung bình thì học sinh trường Y viết nhanh hơn",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Để giải bài toán này, ta xác định giá trị đại diện $x_i$ (trung điểm các khoảng) và tần số $n_i$ của hai trường. Tổng số học sinh mỗi trường là $n=50$.<br> Xét trường X:<br> Số trung bình $\\overline{x}_X=\\dfrac{6{,}5\\cdot 8+7{,}5\\cdot 10+8{,}5\\cdot 13+9{,}5\\cdot 10+10{,}5\\cdot 9}{50}=8{,}54$.<br> Phương sai $s_X^2=\\dfrac{8\\cdot 6{,}5^2+10\\cdot 7{,}5^2+13\\cdot 8{,}5^2+10\\cdot 9{,}5^2+9\\cdot 10{,}5^2}{50}-(8{,}54)^2=1{,}7584$.<br> Độ lệch chuẩn $s_X=\\sqrt{1{,}7584}\\approx 1{,}326$.<br> Xét trường Y:<br> Số trung bình $\\overline{x}_Y=\\dfrac{6{,}5\\cdot 4+7{,}5\\cdot 12+8{,}5\\cdot 17+9{,}5\\cdot 14+10{,}5\\cdot 3}{50}=8{,}5$.<br> Phương sai $s_Y^2=\\dfrac{4\\cdot 6{,}5^2+12\\cdot 7{,}5^2+17\\cdot 8{,}5^2+14\\cdot 9{,}5^2+3\\cdot 10{,}5^2}{50}-(8{,}5)^2=1{,}08$.<br> Độ lệch chuẩn $s_Y=\\sqrt{1{,}08}\\approx 1{,}039$.<br> Vì $s_Y &lt; s_X$ nên tốc độ viết của học sinh trường Y đồng đều hơn.<br>- <strong>Sai</strong>.<br>  Xét trường X:<br> Tứ phân vị thứ nhất $Q_{1X}$ thuộc nhóm $[7;8)$, $Q_{1X}=7+\\dfrac{12{,}5-8}{10}\\cdot 1=7{,}45$.<br> Tứ phân vị thứ ba $Q_{3X}$ thuộc nhóm $[9;10)$, $Q_{3X}=9+\\dfrac{37{,}5-31}{10}\\cdot 1=9{,}65$.<br> Khoảng tứ phân vị $\\Delta_{Q_X}=9{,}65-7{,}45=2{,}2$.<br> Xét trường Y:<br> Tứ phân vị thứ nhất $Q_{1Y}$ thuộc nhóm $[7;8)$, $Q_{1Y}=7+\\dfrac{12{,}5-4}{12}\\cdot 1\\approx 7{,}71$.<br> Tứ phân vị thứ ba $Q_{3Y}$ thuộc nhóm $[9;10)$, $Q_{3Y}=9+\\dfrac{37{,}5-33}{14}\\cdot 1\\approx 9{,}32$.<br> Khoảng tứ phân vị $\\Delta_{Q_Y}=9{,}32-7{,}71=1{,}61$.<br> Vì $\\Delta_{Q_Y} &lt;\\Delta_{Q_X}$ nên theo tiêu chí này, trường Y vẫn đồng đều hơn trường X.<br>- <strong>Sai</strong>.<br>  Dựa vào kết quả tính toán trên ta có $s_X^2=1{,}7584$ và $s_Y^2=1{,}08$.<br> Do đó, số liệu trong nhận định bị đảo ngược giá trị giữa hai trường.<br>- <strong>Đúng</strong>.<br>  Vì thời gian trung bình để hoàn thành bài viết của trường Y ($\\overline{x}_Y=8{,}5$) nhỏ hơn trường X ($\\overline{x}_X=8{,}54$) nên tính trung bình học sinh trường Y viết nhanh hơn.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS14",
+    "question": "Xét hàm số $f(x)=x+\\sin x$ trên $\\mathbb{R}$.",
+    "subQuestions": [
+      {
+        "text": "Đạo hàm của hàm số $f(x)$ là $f'(x)=1-\\cos x$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $F(x)=\\dfrac{x^2}{2}-\\cos x-2$ là một nguyên hàm của hàm số $f(x)$",
+        "answer": true
+      },
+      {
+        "text": "$\\displaystyle\\int{f(x)\\mathrm{\\,d}x}=\\dfrac{x^2}{2}-\\cos x+C$",
+        "answer": true
+      },
+      {
+        "text": "Gọi $G(x)$ là một nguyên hàm của hàm số $f(x)$ và thỏa mãn $G(0)=1$. Khi đó $G(\\pi)=\\dfrac{\\pi^2}{2}+3$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Ta có $f'(x)=(x+\\sin x)^{\\prime}=1+\\cos x$.<br>- <strong>Đúng</strong>.<br>  Ta có $F(x)=\\displaystyle\\int{f(x)\\mathrm{\\,d}x}=\\displaystyle\\int{(x+\\sin x)\\mathrm{\\,d}x}=\\dfrac{x^2}{2}-\\cos x+C$ với mọi $C\\in\\mathbb{R}$.<br> Do đó $F(x)=\\dfrac{x^2}{2}-\\cos x-2$ cũng là một nguyên hàm của $f(x)$.<br>- <strong>Đúng</strong>.<br>  Ta có $F(x)=\\displaystyle\\int{f(x)\\mathrm{\\,d}x}=\\displaystyle\\int{\\left(x+\\sin x\\right)\\mathrm{\\,d}x}=\\dfrac{x^2}{2}-\\cos x+C$ với mọi $C\\in\\mathbb{R}$.<br>- <strong>Đúng</strong>.<br>  Ta có $G(x)=\\displaystyle\\int{f(x)\\mathrm{\\,d}x}=\\displaystyle\\int{(x+\\sin x)\\mathrm{\\,d}x}=\\dfrac{x^2}{2}-\\cos x+C$ với mọi $C\\in\\mathbb{R}$.<br> Suy ra $G(0)=\\dfrac{0^2}{2}-\\cos 0+C=1\\Leftrightarrow C=2$.<br> Khi đó $G(x)=\\dfrac{x^2}{2}-\\cos x+2\\Rightarrow G\\left(\\pi\\right)=\\dfrac{\\pi^2}{2}-\\cos\\pi+2=\\dfrac{\\pi^2}{2}+3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D323DS15",
+    "question": "Qua khảo sát, thời gian hoàn thành một bài thi thử tốt nghiệp của một số học sinh lớp $12$ của trường Y được ghi lại ở bảng sau<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Thời gian (phút)</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[65; 70)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[70; 75)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[75; 80)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[80; 85)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[85; 90)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số học sinh</td><td style=\"border:1px solid #888;padding:3px 8px;\">$5$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$13$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$18$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$35$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$31$</td></tr></table>",
+    "subQuestions": [
+      {
+        "text": "Khoảng biến thiên của mẫu số liệu trên bằng $20$",
+        "answer": false
+      },
+      {
+        "text": "Tứ phân vị $Q_{3}$ của mẫu số liệu trên bằng $85{,}9$. <em>(Kết quả làm tròn đến một chữ số thập phân)</em>",
+        "answer": true
+      },
+      {
+        "text": "Phương sai của mẫu số liệu trên bằng $34{,}2$. <em>(Kết quả làm tròn đến một chữ số thập phân)</em>",
+        "answer": false
+      },
+      {
+        "text": "Số học sinh có thời gian làm bài từ $65$ phút đến dưới $75$ phút chiếm tỉ lệ là $17{,}6\\%$. <em>(Kết quả làm tròn đến một chữ số thập phân)</em>",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Ta có khoảng biến thiên $R = 90 - 65 = 25$.<br>- <strong>Đúng</strong>.<br>  Cỡ mẫu $n=102$, $\\dfrac{3n}{4}=76{,}5$; tần số tích lũy đến nhóm $[80;85)$ là $71$ nên $Q_3\\in[85;90)$.<br>$Q_3=85+\\dfrac{76{,}5-71}{31}\\cdot 5\\approx 85{,}9$. Vậy mệnh đề đúng.<br>- <strong>Sai</strong>.<br>  Số trung bình của mẫu số liệu là \\[\\overline{x} = \\dfrac{5 \\cdot 67{,}5 + 13 \\cdot 72{,}5 + 18 \\cdot 77{,}5 + 35 \\cdot 82{,}5 + 31 \\cdot 87{,}5}{102} \\approx 81{,}1.\\] Ta có phương sai của mẫu số liệu là \\[s^{2} = \\dfrac{5 \\cdot \\left(67{,}5 - 81{,}1\\right)^{2} + 13 \\cdot \\left(72{,}5 - 81{,}1\\right)^{2} + \\ldots + 31 \\cdot \\left(87{,}5 - 81{,}1\\right)^{2}}{102} \\approx 33{,}9.\\]<br>- <strong>Đúng</strong>.<br>  Số học sinh có thời gian làm bài từ $65$ phút đến dưới $75$ phút chiếm tỉ lệ là \\[\\dfrac{5 + 13}{102} \\cdot 100\\% \\approx 17{,}6\\%.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

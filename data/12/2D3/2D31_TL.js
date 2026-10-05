@@ -26,5 +26,26 @@ window.traLoiNgan2D31 = [
     "answer": "11,5",
     "explain": "Tứ phân vị thứ nhất $Q_1$ thuộc lớp $[160 ; 165):\\quad Q_1=160+\\dfrac{12,5-12}{10} \\cdot 5=160{,}25$. <br>  Tứ phân vị thứ ba $Q_3$ thuộc lớp $[170 ; 175): \\quad Q_3=170+\\dfrac{37,5-34}{10}\\cdot5=171{,}75$. <br>  Suy ra khoảng tứ phân vị $\\Delta Q=Q_3-Q_1=11{,}5$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D313TL6",
+    "question": "Một công ty thống kê tuổi của các nhân viên và kết quả được cho trong bảng số liệu ghép nhóm sau:<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Nhóm</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[23;26)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[26;29)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[29;32)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[32;35)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[35;38)$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Tần số</td><td style=\"border:1px solid #888;padding:3px 8px;\">$23$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$40$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$33$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$56$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$8$</td></tr></table><br>Khoảng tứ phân vị của mẫu số liệu ghép nhóm trên là bao nhiêu? (<em>làm tròn đến hàng phần mười</em>)",
+    "answer": "6",
+    "explain": "Tổng số liệu $N=160$.<br> $Q_1$ thuộc nhóm $[26;29)$, $Q_1=26+\\dfrac{\\frac{1}{4}\\cdot 160-23}{40}\\cdot 3=\\dfrac{1091}{40}$.<br> $Q_3$ thuộc nhóm $[32;35)$, $Q_3=32+\\dfrac{\\frac{3}{4}\\cdot 160-(23+40+33)}{56}\\cdot 3=\\dfrac{233}{7}$.<br> $\\Delta Q=Q_3-Q_1=\\dfrac{233}{7}-\\dfrac{1091}{40}\\approx 6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D313TL7",
+    "question": "Một bác tài xế thống kê lại độ dài quãng đường (đơn vị: km) bác đã lái xe mỗi ngày trong một tháng ở bảng sau:<br><table style=\"border-collapse:collapse;margin:8px auto;text-align:center;\"><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Quãng đường</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[100;120)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[120;140)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[140;160)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[160;180)$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$[180;200]$</td></tr><tr><td style=\"border:1px solid #888;padding:3px 8px;\">Số ngày</td><td style=\"border:1px solid #888;padding:3px 8px;\">$6$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$8$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$12$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td><td style=\"border:1px solid #888;padding:3px 8px;\">$2$</td></tr></table><br>Tính khoảng tứ phân vị của mẫu số liệu ghép nhóm trên (<em>làm tròn kết quả đến hàng phần chục</em>).",
+    "answer": "30,4",
+    "explain": "- Cỡ mẫu $n=30$.<br><br>- Tính $Q_1$<br> Ta có $\\dfrac{n}{4}=7{,}5\\Rightarrow Q_1\\in[120;140)$.<br> Do đó $Q_1 = 120 + \\dfrac{7{,}5-6}{8} \\cdot 20 = \\dfrac{495}{4}$.<br><br>- Tính $Q_3$.<br> Ta có $\\dfrac{3n}{4}=22{,}5\\Rightarrow Q_3\\in[140;160)$<br> Do đó $Q_3 = 140 + \\dfrac{22{,}5-14}{12} \\cdot 20 = \\dfrac{925}{6}$.<br><br>- Vậy khoảng tứ phân vị của mẫu là $\\Delta_Q = Q_3 - Q_1=\\dfrac{925}{6}-\\dfrac{495}{4} \\approx 30{,}4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D313TL8",
+    "question": "Cho $F(x)$ là một nguyên hàm của hàm số $f(x) = 3x^2 - 4x + 1$ và $F(2) = 2$. Tính $F(3)$.",
+    "answer": "12",
+    "explain": "Ta có $F(3) = 2 + \\displaystyle \\int \\limits_{2}^{3} (3x^2 - 4x + 1) \\mathrm{\\, d}x$.<br> Tính tích phân $\\displaystyle \\int \\limits_{2}^{3} (3x^2 - 4x + 1) dx = (x^3 - 2x^2 + x)\\Bigg|_2^3 = (27 - 18 + 3) - (8 - 8 + 2)= 10$.<br> Vậy $F(3) = 2 + 10 = 12$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

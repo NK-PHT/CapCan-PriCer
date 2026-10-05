@@ -166,5 +166,53 @@ window.dungSai2D61 = [
     ],
     "explain": "<br><img src=\"data/12/2D6/im2D61/2D61_tikz_new1.png\" alt=\"hinh ve\" style=\"max-width:min(360px,90%);max-height:320px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- Theo sơ đồ hình cây, $P(B\\mid \\overline{A})=0{,}6$. Suy ra mệnh đề đúng.<br>- Ta có $P(A\\cap B)=P(A)\\cdot P(B\\mid A)=0{,}1\\cdot 0{,}3=0{,}03$, không phải $0{,}3$. Suy ra mệnh đề sai.<br>- Ta có $P(B)=P(A)P(B\\mid A)+P(\\overline{A})P(B\\mid \\overline{A})=0{,}1\\cdot 0{,}3+0{,}9\\cdot 0{,}6=0{,}03+0{,}54=0{,}57$, không phải $0{,}9$. Suy ra mệnh đề sai.<br>- Ta có $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{0{,}03}{0{,}57}=\\dfrac{1}{19}$. Suy ra mệnh đề đúng.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D613DS6",
+    "question": "Bạn Ngọc phải thực hiện hai thí nghiệm liên tiếp. Thí nghiệm thứ nhất có xác suất thành công là $0{,}8$. Nếu thí nghiệm thứ nhất thành công thì xác suất thành công của thí nghiệm thứ hai là $0{,}9$. Nếu thí nghiệm thứ nhất không thành công thì xác suất thành công của thí nghiệm thứ hai chỉ là $0{,}5$. Xét các biến cố sau<br><br>- $A$: “ Thí nghiệm thứ nhất thành công”.<br><br>- $B$: “ Thí nghiệm thứ hai thành công”.",
+    "subQuestions": [
+      {
+        "text": "$\\mathrm{P}(B\\mid A)=0{,}9$",
+        "answer": true
+      },
+      {
+        "text": "$\\mathrm{P}\\left(\\overline{B}\\mid A\\right)=0{,}5$",
+        "answer": false
+      },
+      {
+        "text": "$\\mathrm{P}(AB)=0{,}72$",
+        "answer": true
+      },
+      {
+        "text": "$\\mathrm{P}\\left(\\overline{AB}\\right)=0{,}1$",
+        "answer": false
+      }
+    ],
+    "explain": "Theo đề bài ta có<br><br>- Xác suất thí nghiệm $1$ thành công $\\mathrm{P}(A) = 0{,}8 \\Rightarrow \\mathrm{P}\\left(\\overline{A}\\right) = 1 - 0{,}8 = 0{,}2$.<br><br>- Xác suất thí nghiệm $2$ thành công biết thí nghiệm $1$ thành công $$\\mathrm{P}\\left(B\\mid A\\right) = 0{,}9 \\Rightarrow \\mathrm{P}\\left(\\overline{B}\\mid A\\right) = 1 - 0{,}9 = 0{,}1.$$<br><br>- Xác suất thí nghiệm $2$ thành công biết thí nghiệm $1$ thất bại $$\\mathrm{P}\\left(B\\mid\\overline{A}\\right) = 0{,}5 \\Rightarrow \\mathrm{P}\\left(\\overline{B}\\mid\\overline{A}\\right) = 1 - 0{,}5 = 0{,}5.$$<br>Từ đó ta có sơ đồ cây<br><img src=\"data/12/2D6/im2D61/2D61_ex12_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào sơ đồ trên ta có<br>- <strong>Đúng</strong>.<br>  $\\mathrm{P}\\left(B\\mid A\\right) = 0{,}9$.<br>- <strong>Sai</strong>.<br>  $\\mathrm{P}\\left(\\overline{B}\\mid A\\right) = 1 - \\mathrm{P}\\left(B\\mid A\\right) = 1 - 0{,}9 = 0{,}1 \\neq 0{,}5$.<br>- <strong>Đúng</strong>.<br>  $\\mathrm{P}(AB) = \\mathrm{P}(A) \\cdot \\mathrm{P}\\left(B\\mid A\\right) = 0{,}8 \\cdot 0{,}9 = 0{,}72$.<br>- <strong>Sai</strong>.<br>  $\\overline{AB}$ là biến cố đối của $AB$ nên $\\mathrm{P}\\left(\\overline{AB}\\right)=1-\\mathrm{P}(AB)=1-0{,}72=0{,}28\\neq 0{,}1$. (Giá trị $0{,}1$ là $\\mathrm{P}\\left(\\overline{A}\\cap\\overline{B}\\right)=0{,}2\\cdot0{,}5$, không phải $\\mathrm{P}\\left(\\overline{AB}\\right)$.) Vậy mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D614DS7",
+    "question": "Trong một Câu lạc bộ thể thao của trường X, thầy giáo có chuẩn bị các phiếu khảo sát về bộ môn thể thao yêu thích gồm Bóng đá và Cầu lông, để giao cho $40$ bạn học sinh. Sau khi khảo sát, thầy giáo thu phiếu và nhận thấy rằng: Có $35$ học sinh thích Bóng đá, có $30$ học sinh thích Cầu lông, có $4$ học sinh không thích môn thể thao nào. Chọn ngẫu nhiên $1$ học sinh trong Câu lạc bộ thể thao. Gọi các biến cố:<br> $A\\colon$“ Học sinh yêu thích môn bóng đá”<br> $B\\colon$“ Học sinh yêu thích môn cầu lông”.",
+    "subQuestions": [
+      {
+        "text": "$P(A)=\\dfrac{7}{8}$",
+        "answer": true
+      },
+      {
+        "text": "$P(AB)=\\dfrac{29}{40}$",
+        "answer": true
+      },
+      {
+        "text": "$A$ và $B$ là hai biến cố xung khắc",
+        "answer": false
+      },
+      {
+        "text": "$P(A\\cup B)=\\dfrac{7}{10}$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  <strong>Đúng</strong>.<br> $P(A)=\\dfrac{35}{40}=\\dfrac{7}{8}$.<br>- <strong>Đúng</strong>.<br>  Số học sinh thích Bóng đá hoặc Cầu lông là $40-4=36$.<br>$n(A\\cap B)=n(A)+n(B)-n(A\\cup B)=35+30-36=29$ nên $P(AB)=\\dfrac{29}{40}$.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> $n(A\\cap B)=29$ nên $A$ và $B$ không xung khắc.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> $P(A\\cup B)=\\dfrac{36}{40}=\\dfrac{9}{10}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

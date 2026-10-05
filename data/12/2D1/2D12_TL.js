@@ -299,5 +299,61 @@ window.traLoiNgan2D12 = [
     "answer": "1",
     "explain": "Xét phương trình:  $f'(x)=0 \\Leftrightarrow \\left(x-1\\right)\\left(x^2-3\\right)\\left(x^4-1\\right)=0 \\Leftrightarrow x-1=0 \\text{ hoặc } x^2-3=0 \\text{ hoặc } x^4-1=0 \\Leftrightarrow x=1 \\text{ hoặc } x=\\sqrt{3} \\text{ hoặc } x=-\\sqrt{3} \\text{ hoặc } x=-1.$<br>  Bảng xét dấu:  <br><img src=\"data/12/2D1/im2D12/loc8_TT_THPT_NguyenVi_014.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vì $f'(x)$ đổi dấu từ dương sang âm $1$ lần tại $x=-1$ nên hàm số $f(x)$ có $1$ điểm cực đại.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121TL40",
+    "question": "Cho hàm số $y = \\dfrac{x^2 - 2x - 2}{x + 1}$ có đồ thị $(C)$ và điểm $M(1; -3)$. Gọi $A$, $B$ là hai điểm cực trị của đồ thị $(C)$. Tính diện tích của tam giác $MAB$.",
+    "answer": "3",
+    "explain": "Ta có $y = \\dfrac{x^2 - 2x - 2}{x + 1} \\Rightarrow y' = \\dfrac{(2x - 2)(x + 1) - (x^2 - 2x - 2)}{(x + 1)^2} = \\dfrac{x^2 + 2x}{(x + 1)^2}$.<br> Cho $y' = 0 \\Leftrightarrow x^2 + 2x = 0 \\Leftrightarrow \\left[\\begin{aligned}&x = 0 \\\\& x = -2.\\end{aligned}\\right.$<br> Đồ thị hàm số có hai điểm cực trị là $A(0; -2)$ và $B(-2; -6)$.<br> Xét bài toán trong hệ trục không gian $Oxyz$ ta có $A(0; -2; 0)$, $B(-2; -6; 0)$, $M(1; -3; 0)$.<br> Ta có $\\overrightarrow{AM}=(1; -1; 0)$, $\\overrightarrow{AB}=(-2; -4; 0)$.<br> Có $\\left[ \\overrightarrow{AM}, \\overrightarrow{AB} \\right] = (0; 0; -6)$ nên $S_{\\Delta MAB} = \\dfrac{1}{2} \\left| \\left[ \\overrightarrow{AM}, \\overrightarrow{AB} \\right] \\right| = \\dfrac{1}{2}\\cdot \\sqrt{(-6)^2} = 3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121TL41",
+    "question": "Hàm số $y=-11x^4+4x^2+82$ đạt cực tiểu tại $x$ bằng bao nhiêu?",
+    "answer": "0",
+    "explain": "Ta có $y' = -44x^3 + 8x = -4x(11x^2 - 2)$.<br> Suy ra $y' = 0 \\Leftrightarrow x = 0$ hoặc $x = \\pm \\sqrt{\\dfrac{2}{11}}$.<br> Ta có bảng biến thiên.<br><img src=\"data/12/2D1/im2D12/2D12_ex12_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Vậy hàm số đạt cực tiểu tại $x=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121TL42",
+    "question": "Cho đồ thị hàm số $y = x^4 -3x^2 + ax+b$ có $A(2;-2)$ là một điểm cực tiểu. Giá trị của biểu thức $S = 59b-a$ bằng bao nhiêu?",
+    "answer": "2026",
+    "explain": "Ta có $y' = 4x^3-6x+a$, $y''=12x^2 -6$. <br> Đồ thị hàm số $y = x^4 -3x^2 +ax+b$ có $A(2;-2)$ là một điểm cực tiểu suy ra<br>$$\\begin{aligned} \\begin{cases}&y(2) = -2\\\\ &y'(2) = 0\\\\ &y''(2) = 42 &gt; 0\\end{cases}\\Leftrightarrow \\begin{cases}&2a+b=-6\\\\ &a+20=0\\end{cases}\\Leftrightarrow \\begin{cases}&a=-20\\\\ &b=34.\\end{cases} \\end{aligned}$$ Vậy $S = 59b- a = 59 \\cdot 34 + 20 = 2\\,026$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121TL43",
+    "question": "Tìm giá trị cực đại của hàm số $y = f(x) = \\dfrac{8x - 4}{x^2 - 6x + 5}$.",
+    "answer": "-4",
+    "explain": "Tập xác định: $\\mathscr{D} = \\mathbb{R} \\setminus \\{1; 5\\}$.<br> Ta có $y' = \\dfrac{8\\cdot (x^2 - 6x + 5) - (8x - 4)\\cdot (2x - 6)}{(x^2 - 6x + 5)^2} = \\dfrac{-8x^2 + 8x + 16}{(x^2 - 6x + 5)^2}$.<br> Cho $y' = 0 \\Leftrightarrow -8x^2 + 8x + 16 = 0 \\Leftrightarrow \\left[\\begin{aligned}x &= -1 \\\\ x &= 2.\\end{aligned}\\right.$<br> Lập bảng biến thiên<br><img src=\"data/12/2D1/im2D12/2D12_ex12_014.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Từ bảng biến thiên, hàm số đạt cực đại tại $x = 2$ và giá trị cực đại $y_{\\text{CĐ}} = -4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121TL44",
+    "question": "Bán kính của mặt cầu $(S)\\colon x^2 + y^2 + z^2 + 2x - 4y + 6z - 5 = 0$ bằng bao nhiêu? (<em>làm tròn đến hàng phần trăm</em>)",
+    "answer": "4,36",
+    "explain": "Từ phương trình của mặt cầu $(S)\\colon x^2 + y^2 + z^2 + 2x - 4y + 6z - 5 = 0$ ta có $a = -1$; $b = 2$; $c= -3$; $d = -5$.<br> Vậy bán kính $R= \\sqrt{a^2 + b^2 + c^2 -d} = \\sqrt{(-1)^2 + 2^2 + (-3)^2 - (-5)} = \\sqrt{19}\\approx 4{,}36$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D127TL45",
+    "question": "Lợi nhuận thu được $P$ của một công ty khi dùng số tiền $s$ để chi cho quảng cáo được cho bởi công thức $$P = P(s) = -\\dfrac{1}{15}s^3 + 12s^2 + 300, s \\ge 0$$ Ở đây các số tiền được tính bằng đơn vị triệu đồng. Tìm số tiền mà công ty đó phải chi cho quảng cáo để mang lại lợi nhuận tối đa.",
+    "answer": "120",
+    "explain": "Ta có $P'(s) = -\\dfrac{1}{5}s^2 + 24s$.<br> $P'(s) = 0 \\Leftrightarrow -\\dfrac{1}{5}s^2 + 24s = 0 \\Leftrightarrow \\left[\\begin{aligned}&s = 120 \\\\ &s = 0.\\end{aligned}\\right.$<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D12/2D12_ex12_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào bảng biến thiên, số tiền mà công ty đó phải chi cho quảng cáo để mang lại lợi nhuận tối đa là $120$ (triệu đồng).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D127TL46",
+    "question": "Trong trò chơi mô phỏng xây dựng công viên giải trí Roller Coaster Tycoon, một kỹ sư thiết kế một đoạn đường ray hình lượn sóng. Trong hệ trục tọa độ $Oxy$, đoạn đường ray này được mô hình hóa bởi đồ thị của hàm số: $y = x^3 - 6x^2 + 9x + 1$, với $0 \\le x \\le 4$. Biết hệ trục tọa độ được thiết lập sao cho trục $Ox$ nằm ngang và mỗi đơn vị độ dài trên các trục tọa độ tương ứng với $2$ mét trên thực tế. Để kiểm tra độ ổn định của cấu trúc, kỹ sư sử dụng thiết bị laser để đo khoảng cách trực tiếp giữa hai điểm chốt kỹ thuật đặt tại điểm cực đại $A$ và điểm cực tiểu $B$ của đồ thị hàm số trên. Hãy tính độ dài thực tế của khoảng cách giữa hai điểm $A$ và $B$ <em>(làm tròn kết quả cuối cùng đến hàng phần trăm theo đơn vị mét)</em>.",
+    "answer": "8,94",
+    "explain": "Ta có $y' = 3x^2 - 12x + 9$.<br> $y' = 0 \\Leftrightarrow 3(x^2 - 4x + 3) = 0 \\Leftrightarrow \\left[\\begin{aligned} &x = 1 \\Rightarrow y = 5 \\\\ &x = 3 \\Rightarrow y = 1.\\end{aligned}\\right.$<br> Tọa độ hai điểm cực trị là $A(1; 5)$ và $B(3; 1)$.<br> Khoảng cách giữa hai điểm $A$, $B$ trên mặt phẳng tọa độ là $$AB = \\sqrt{(3-1)^2 + (1-5)^2} = \\sqrt{2^2 + (-4)^2} = \\sqrt{20} = 2\\sqrt{5}.$$ Vì mỗi đơn vị độ dài tương ứng với $2$ mét thực tế, nên độ dài thực tế là $$L = 2\\sqrt{5} \\cdot 2 = 4\\sqrt{5} \\approx 8{,}94 \\,(\\text{m}).$$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D127TL47",
+    "question": "Một phần đường chạy của tàu lượn siêu tốc khi gắn hệ trục tọa độ $Oxy$ được mô phỏng ở hình bên dưới, đơn vị trên mỗi trục là mét. Biết đường chạy của nó là một phần đồ thị hàm số bậc ba $y=ax^{3} +bx^{2} +cx+d$ $(0\\le x&lt;90)$; tàu lượn siêu tốc xuất phát từ điểm $A$, đi qua các điểm $C,\\, D$ (ba điểm $A$, $C$, $D$ nằm trên đường thẳng song song với trục $Ox$) đồng thời đạt độ cao nhỏ nhất so với mặt đất là $4$ m. Độ cao lớn nhất mà tàu lượn siêu tốc đạt được là bao nhiêu mét so với mặt đất (<em>kết quả làm tròn đến hàng phần chục</em>)?<br><img src=\"data/12/2D1/im2D12/2D12_ex12_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "answer": "40,7",
+    "explain": "Nhận xét: ta thấy đồ thị của hàm số $y=f(x)=ax^{3} +bx^{2} +cx+d\\,(0\\le x&lt;90)$ cắt đường thẳng $d\\colon y=30$ tại $3$ điểm phân biệt: $A(0;30)$, $C(50;30)$, $D(80;30)$.<br> Do đó, phương trình $f(x)=30$ có $3$ nghiệm phân biệt $x_{1} =0$; $x_{2} =50$; $x_{3} =80$ hay ta có $$\\begin{aligned} && f(x)-30=ax(x-50)(x-80) \\\\ &\\Leftrightarrow& f(x)=ax(x-50)(x-80)+30\\\\ &\\Leftrightarrow& f(x)=ax(x^{2} -130x+4\\,000)+30\\\\ &\\Leftrightarrow & f(x)=a(x^{3} -130x^{2} +4\\,000x)+30\\\\ &\\Rightarrow & f'(x)=a(3x^{2} -260x+4\\,000). \\end{aligned}$$ Cho $f'(x)=0\\Leftrightarrow a\\left(3x^{2} -260x+4\\,000\\right)=0\\Leftrightarrow \\left[\\begin{aligned}& x=20\\\\ & x=\\dfrac{200}{3}.\\end{aligned}\\right.$<br> Ta có<br><br>- Hàm số $y=f(x)$ đạt cực tiểu tại $x=20$, giá trị cực tiểu là $f(20)=4$.<br><br>- Hàm số $y=f(x)$ đạt cực đại tại $x=\\dfrac{200}{3}$, giá trị cực đại là $f\\left(\\dfrac{200}{3} \\right)$.<br>Do $f(20)=4$, suy ra $a\\cdot 20\\cdot(20-50)\\cdot(20-80)+30=4\\Rightarrow a=-\\dfrac{13}{18\\,000}$.<br> Giá trị cực đại của hàm số $y=f(x)$ là \\[f\\left(\\dfrac{200}{3} \\right)=-\\dfrac{13}{18\\,000} \\cdot\\dfrac{200}{3} \\cdot\\left(\\dfrac{200}{3} -50\\right)\\cdot\\left(\\dfrac{200}{3} -80\\right)+30=\\dfrac{9\\,890}{243} \\approx 40{,}7.\\] Vậy độ cao lớn nhất mà tàu lượn siêu tốc đạt được là khoảng $40{,}7$ mét so với mặt đất.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

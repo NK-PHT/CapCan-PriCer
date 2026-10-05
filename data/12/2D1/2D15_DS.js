@@ -958,5 +958,581 @@ window.dungSai2D15 = [
     ],
     "explain": "<br>- Từ đồ thị hàm số, ta có đồ thị hàm số “ đi xuống”\\ trên khoảng $(-1;1)$ nên hàm số $y = f(x)$ nghịch biến trên khoảng $(-1;1)$.<br>- Từ đồ thị hàm số, ta có trên đoạn $[-2;2]$ hàm số $f(x)$ đạt giá trị lớn nhất bằng $3$ tại $x=-1$ và $x=2$.<br>- Từ đồ thị hàm số ta có hàm số $y = f(x)$ có hai điểm cực trị là $x=-1$ và $x=1$.<br>- Gọi hàm số bậc ba có đồ thị như hình có dạng $y=f(x)=ax^3+bx^2+cx+d$.<br>  Ta có đồ thị hàm số đi qua điểm $(0;1)$ nên $d=1$.<br>  Đồ thị hàm số đi qua các điểm có tọa độ $(-1;3)$; $(1;-1)$ và $(2;3)$ nên ta có hệ phương trình  \\[  a \\cdot (-1)^3+b \\cdot (-1)^2+c \\cdot (-1)+1 = 3 \\text{ và } a \\cdot 1^3+b \\cdot 1^2+c \\cdot 1+1 = -1 \\text{ và } a \\cdot 2^3+b \\cdot 2^2+c \\cdot 2+1 = 3  \\Leftrightarrow  -a+b - c = 2 \\text{ và } a+b+c = -2 \\text{ và } 8a+4b+2c = 2  \\Leftrightarrow  a = 1 \\text{ và } b = 0 \\text{ và } c = -3.  \\]  Vậy hàm số cần tìm là $f(x)=x^3-3x+1$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS39",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{ax+b}{cx+1}$ với $a,b,c\\in \\mathbb{R}$ có đồ thị như hình vẽ dưới.<br><img src=\"data/12/2D1/im2D15/2D15_ex12_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Đạo hàm của hàm số $f'(x)&lt;0,\\forall x\\in \\mathbb{R}$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y=f(x)$ nghịch biến trên mỗi khoảng xác định",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị hàm số $y=f(x)$ có đường tiệm cận đứng là $x=1$ và đường tiệm cận ngang là $y=-1$",
+        "answer": true
+      },
+      {
+        "text": "Tổng $a+b+c=5$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Dựa vào hình vẽ, đạo hàm của hàm số $f'(x)&lt;0,\\forall x\\ne 1$.<br>- <strong>Đúng</strong>.<br>  Từ đồ thị ta có hàm số $y=f(x)$ nghịch biến trên khoảng $(-\\infty ;1)$ và $(1;+\\infty )$.<br>- <strong>Đúng</strong>.<br>  Đồ thị hàm số $y=f(x)$ có đường tiệm cận đứng là $x=1$ và đường tiệm cận ngang là $y=-1$.<br>- <strong>Sai</strong>.<br>  Đồ thị hàm số có đường tiệm cận đúng $x=-\\dfrac{1}{c}=1\\Rightarrow c=-1$.<br> Đồ thị hàm số có đường tiệm cận ngang $y=\\dfrac{a}{c}=-1\\Rightarrow a=1$.<br> Đồ thị hàm số cắt trục tung tại điểm $(0;-2)\\Rightarrow b=-2$.<br> Vậy $a+b+c=1-2-1=-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS40",
+    "question": "Cho hàm số bậc ba $f(x)=ax^3+bx^2+cx+d,\\ (a\\ne 0)$ liên tục trên $\\mathbb{R}$ và có đồ thị như hình vẽ.<br><br><img src=\"data/12/2D1/im2D15/2D15_ex12_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Trong bốn giá trị $a$, $b$, $c$, $d$ có đúng một giá trị bằng $0$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y=f(x)$ là hàm số lẻ trên tập $\\mathbb{R}$",
+        "answer": true
+      },
+      {
+        "text": "Điểm cực tiểu của đồ thị hàm số $y=f(x)$ là $x=-1$",
+        "answer": false
+      },
+      {
+        "text": "Số nghiệm thực của phương trình $f(x)=\\dfrac{2\\,025}{2\\,026}$ là $3$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Dựa vào đồ thị<br><br>- Đồ thị đi qua gốc tọa độ $O(0;0) \\Rightarrow d=0$.<br><br>- Đồ thị nhận gốc tọa độ $O$ làm tâm đối xứng nên là hàm số lẻ $\\Rightarrow b=0$.<br><br>- Hàm số đạt cực trị tại $x=\\pm 1$.<br> Ta có $f'(x) = 3ax^2 + 2bx + c$. Vì $b=0$ nên $f'(x) = 3ax^2 + c$.<br> $f'(1) = 3a + c = 0 \\Rightarrow c = -3a$.<br> $f(1) = a + c = 2 \\Rightarrow a - 3a = 2 \\Rightarrow -2a = 2 \\Rightarrow a = -1$.<br> Suy ra $c = 3$.<br>Vậy $a=-1$, $b=0$, $c=3$, $d=0$. Có hai giá trị bằng $0$ là $b$ và $d$.<br>- <strong>Đúng</strong>.<br>  Hàm số có $b=0, d=0$ nên $f(x) = -x^3 + 3x$. Ta có $f(-x) = -(-x)^3 + 3(-x) = x^3 - 3x = -f(x)$. Vậy đây là hàm số lẻ.<br>- <strong>Sai</strong>.<br>  Điểm cực tiểu của đồ thị hàm số là $(-1;-2)$.<br>- <strong>Đúng</strong>.<br>  Phương trình $f(x) = \\dfrac{2\\,025}{2\\,026} \\approx 0{,}999$.<br> Giá trị cực đại là $2$, giá trị cực tiểu là $-2$.<br> Vì $-2 &lt; 0{,}999 &lt; 2$ nên đường thẳng $y = \\dfrac{2\\,025}{2\\,026}$ cắt đồ thị hàm số tại $3$ điểm phân biệt.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS41",
+    "question": "Đồ thị cùa hàm số $y=ax+b+\\dfrac{c}{x+d}$ là hình bên<br><br><img src=\"data/12/2D1/im2D15/2D15_ex12_019.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hàm số nghịch biến trên khoảng $(0;1)$",
+        "answer": true
+      },
+      {
+        "text": "$\\lim\\limits_{x\\to 1^+}y=-\\infty $",
+        "answer": false
+      },
+      {
+        "text": "Phương trình đường tiệm cận xiên của đồ thị hàm số là $y=x+1$",
+        "answer": true
+      },
+      {
+        "text": "Tổng $a+b+c+d=2$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Dựa vào đồ thị hàm số, ta thấy hàm số nghịch biến trên khoảng $ (0;1)$.<br>- <strong>Sai</strong>.<br>  Dựa vào đồ thị hàm số, ta thấy $\\lim\\limits_{x\\to 1^+}y=+\\infty$.<br>- <strong>Đúng</strong>.<br>  Phương trình đường tiệm cận xiên của đồ thị hàm số có dạng $ y=ax+b$. (1)<br> Do đường tiệm cận xiên đi qua $2$ điểm $(0;1)$ và $(1;2)$, ta thay vào $(1)$ ta có hệ phương trình: $\\begin{cases}& b=1\\\\& a+b=2\\end{cases} \\Leftrightarrow\\begin{cases}& b=1\\\\& a=1\\end{cases} \\Rightarrow $ phương trình đường tiệm cận xiên của đồ thị hàm số là $y=x+1$.<br>- <strong>Đúng</strong>.<br>  Dựa vào đồ thị hàm số, phương trình đường tiệm cận đứng là $x=1$.<br> Nên mẫu số có dạng $x-1\\Rightarrow d=-1$.<br> Kết hợp phương trình đường tiệm cận xiên của đồ thị hàm số là $ y=x+1$.<br> Ta có $y=x+1+\\dfrac{c}{x-1}$. (2)<br> Đồ thị hàm số đi qua điểm $(0;0)$ thay vào $(2)$ ta được $ 0+1+\\dfrac{c}{0-1}=0\\Leftrightarrow c=1$.<br> Vậy tổng $ a+b+c+d=1+1+1-1=2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS42",
+    "question": "Cho hàm số $f(x)=x^3+3x^2-4$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số đã cho có đạo hàm là $f'(x)=3x^2+6x$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đã cho đồng biến trên khoảng $(-1;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số đã cho đạt cực đại tại $x=-2$",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị của hàm số đã cho có dạng như hình vẽ sau",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Đạo hàm của hàm số là $f'(x)=3x^2+6x$.<br>- <strong>Sai</strong>.<br>  Xét $f'(x)=0\\Leftrightarrow 3x^2+6x=0\\Leftrightarrow \\left[\\begin{aligned}&x=0\\\\&x=-2.\\end{aligned}\\right.$<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_021.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Từ bảng biến thiên ta thấy hàm số đồng biến trên khoảng $(0;+\\infty)$.<br>- <strong>Đúng</strong>.<br>  Từ bảng biến thiên ta thấy hàm số đạt cực đại tại $x=-2$.<br>- <strong>Đúng</strong>.<br>  Ta thấy tại $x=-2$ thì $y=0$; tại $x=0$ thì $y=-4$.<br> Do đó đồ thị hàm số đã cho có dạng như hình vẽ sau<br><img src=\"data/12/2D1/im2D15/2D15_ex12_022.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS43",
+    "question": "Cho hàm số $f(x) = ax^3 + bx^2 + cx + d$ ($a \\neq 0$) có đồ thị như hình vẽ sau<br><br><img src=\"data/12/2D1/im2D15/2D15_ex12_030.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hàm số $f(x)$ đạt cực đại tại điểm $x = -1$",
+        "answer": false
+      },
+      {
+        "text": "Giá trị lớn nhất của hàm số $g(x) = 26x - f(x)$ trên đoạn $[0; 4]$ bằng $105$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $f(x)$ nghịch biến trên khoảng $(0; 4)$",
+        "answer": true
+      },
+      {
+        "text": "$16a - 8b + 3c + d = 11$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Dựa vào đồ thị, hàm số đạt cực đại tại điểm $x = 0$ và đạt cực tiểu tại điểm $x = 4$.<br>- <strong>Đúng</strong>.<br>  Từ đồ thị, ta xác định các hệ số của hàm số $f(x)$<br><br>- Đồ thị cắt trục $Oy$ tại $(0; 3)$ nên $f(0) = 3 \\Rightarrow d = 3$.<br><br>- Điểm cực đại tại $x = 0$ nên $f'(0) = 0 \\Rightarrow c = 0$.<br><br>- Điểm cực tiểu tại $x = 4$ nên $f'(4) = 0 \\Rightarrow 48a + 8b + c = 0 \\Rightarrow 6a + b = 0$.<br><br>- Đồ thị đi qua điểm $(4; -1)$ nên \\[f(4) = -1 \\Rightarrow 64a + 16b + 4c + d = -1 \\Rightarrow 64a + 16b = -4 \\Rightarrow 16a + 4b = -1.\\]<br>Giải hệ phương trình $\\begin{cases}&6a + b = 0 \\\\ &16a + 4b = -1\\end{cases}$ ta được $a = \\dfrac{1}{8}$, $b = -\\dfrac{3}{4}$.<br> Vậy $f(x) = \\dfrac{1}{8}x^3 - \\dfrac{3}{4}x^2 + 3$.<br> Xét $g(x) = 26x - f(x) = -\\dfrac{1}{8}x^3 + \\dfrac{3}{4}x^2 + 26x - 3$ trên $[0; 4]$.<br> $g'(x) = -\\dfrac{3}{8}x^2 + \\dfrac{3}{2}x + 26$. Trên đoạn $[0; 4]$, $g'(x) &gt; 0$ nên hàm số $g(x)$ đồng biến.<br> Suy ra $\\max\\limits_{[0; 4]} g(x) = g(4) = 26 \\cdot 4 - f(4) = 104 -(-1) = 105$.<br>- <strong>Đúng</strong>.<br>  Dựa vào đồ thị, hàm số đi xuống từ điểm cực đại $(0; 3)$ đến điểm cực tiểu $(4; -1)$ nên hàm số nghịch biến trên khoảng $(0; 4)$.<br>- <strong>Đúng</strong>.<br>  Ta có $16a - 8b + 3c + d = 16 \\cdot \\dfrac{1}{8} - 8 \\cdot \\left(-\\dfrac{3}{4}\\right) + 3 \\cdot 0 + 3 = 2 + 6 + 3 = 11$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D151DS44",
+    "question": "Cho hàm số $y=\\dfrac{ax^2+bx+c}{x+d}$ ($a\\ne 0$) có đồ thị là đường cong $(C)$. Các đường thẳng $d_1$, $d_2$ lần lượt là tiệm cận đứng và tiệm cận xiên của đường cong $(C)$ như hình vẽ.<br><img src=\"data/12/2D1/im2D15/2D15_ex12_031.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Đồ thị $(C)$ đi qua điểm có toạ độ $(0;2)$",
+        "answer": false
+      },
+      {
+        "text": "Đồ thị $(C)$ có tiệm cận đứng là đường thẳng $x=-1$",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị $(C)$ có tiệm cận xiên là đường thẳng $y=x$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị của tổng $a+b+c+d$ là một số âm",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Đồ thị $(C)$ có điểm chung với trục $Oy$ và điểm chung này có tung độ âm.<br>- <strong>Đúng</strong>.<br>  Đồ thị $(C)$ có tiệm cận đứng là đường thẳng $x=-1$.<br>- <strong>Đúng</strong>.<br>  Đồ thị $(C)$ có tiệm cận xiên là đường thẳng $y=x$.<br>- <strong>Đúng</strong>.<br>  Ta có<br><br>- Đồ thị $(C)$ có tiệm cận đứng là đường thẳng $x=-1$ nên $d=1 \\Rightarrow y=\\dfrac{ax^2+bx+c}{x+1}$.<br><br>- Đồ thị $(C)$ đi qua điểm $(2;0)$ nên $0=\\dfrac{a\\cdot2^2+b\\cdot2+c}{2+1}\\Rightarrow 4a+2b+c=0$ (1).<br><br>- $y=\\dfrac{ax^2+bx+c}{x+1}=ax+b-a+\\dfrac{a-b+c}{x+1}$.<br> Suy ra đồ thị hàm số $y=\\dfrac{ax^2+bx+c}{x+1}$ có đường tiệm cận xiên là đường thẳng $y=ax+b-a$.<br> Dựa vào hình vẽ thì đồ thị hàm số $y=\\dfrac{ax^2+bx+c}{x+1}$ có tiệm cận xiên là đường thẳng $y=x$ nên $\\begin{cases}& a=1\\\\ & b-a=0\\end{cases}\\Leftrightarrow a=b=1$ (2).<br> Từ (1) và (2) $\\Rightarrow a=b=1$, $c=-6$.<br> Suy ra $a+b+c+d=1+1-6+1=-3$.<br>Vậy, $a+b+c+d$ là một số âm.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D153DS45",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{x^2-x+2}{x-2}$ có đồ thị $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Đồ thị $(C)$ có tiệm cận đứng là đường thẳng $x=2$",
+        "answer": true
+      },
+      {
+        "text": "Đường thẳng $y=x+1$ là tiệm cận xiên của đồ thị hàm số",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị $(C)$ đi qua điểm $M(0;1)$",
+        "answer": false
+      },
+      {
+        "text": "Có đúng $3$ giá trị $m$ nguyên thuộc đoạn $\\left[0;10\\right]$ để đường thẳng $y=m$ cắt đồ thị $(C)$ tại hai điểm phân biệt",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Tập xác định $\\mathscr{D}=\\mathbb{R} \\setminus \\{2\\}$.<br> $\\lim\\limits_{x\\to 2^{+}}f(x)=+\\infty$ nên đồ thị $(C)$ có tiệm cận đứng là đường thẳng $x=2$.<br>- <strong>Đúng</strong>.<br>  $y=\\dfrac{x^2-x+2}{x-2}=x+1+\\dfrac{4}{x-2}$ nên $y=x+1$ là tiệm cận xiên của đồ thị hàm số.<br>- <strong>Sai</strong>.<br>  Với $x=0$ suy ra $y=-1$. Vậy điểm $(0;-1)\\in (C)$.<br>- <strong>Đúng</strong>.<br>  $y'=\\dfrac{x^2-4 x}{(x-2)^2}$.<br> $y'=0 \\Leftrightarrow\\left[\\begin{aligned}&x=0\\\\&x=4.\\end{aligned}\\right.$<br> Ta có bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_028.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Đường thẳng $y=m$ cắt $(C)$ tại hai điểm phân biệt khi và chỉ khi $m&gt;7$ hoặc $m&lt;-1$.<br> Vì $m$ là số nguyên thuộc $[0;10]$ nên $m \\in\\{8,9,10\\}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D154DS46",
+    "question": "Cho hàm số $y = f(x)$ có đạo hàm trên $\\mathbb{R}$ và $f'(x)$ là hàm số bậc ba có đồ thị là đường cong trong hình vẽ.<br><img src=\"data/12/2D1/im2D15/2D15_ex12_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Đồ thị hàm số $g(x) = f(x) - \\dfrac{1}{2}x^2 + x + 2\\,025$ cắt đường thẳng $y = m$ tại bốn điểm phân biệt khi và chỉ khi $g(-1) &lt; m &lt; \\min\\{g(-3);g(1)\\}$",
+        "answer": false
+      },
+      {
+        "text": "Đồ thị hàm số $h(x) = \\dfrac{2x+1}{f'(x)}$ có $3$ đường tiệm cận",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $y = f(x)$ đồng biến trên khoảng $(0;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y = f(x)$ có hai điểm cực trị",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Từ đồ thị: $f'(x)=(x+2)^2(x-1)$. Ta có $g'(x)=f'(x)-x+1=(x-1)\\left[(x+2)^2-1\\right]=(x-1)(x+1)(x+3)$. Do đó $g$ giảm trên $(-\\infty;-3)$, tăng trên $(-3;-1)$, giảm trên $(-1;1)$, tăng trên $(1;+\\infty)$; $g(-1)$ là cực đại, $g(-3),g(1)$ là cực tiểu. Đường thẳng $y=m$ cắt đồ thị tại 4 điểm phân biệt khi và chỉ khi $\\max\\{g(-3);g(1)\\}&lt;m&lt;g(-1)$. Mệnh đề đã cho ($g(-1)&lt;m&lt;\\min\\{g(-3);g(1)\\}$) không thể xảy ra nên sai.<br>- <strong>Đúng</strong>.<br>  Đặt $f'(x)=a x^3+bx^2+cx+d$ $(a\\ne 0)$.<br> Vì $f'(x)=0$ nên $\\left[\\begin{aligned}&x=-2\\\\&x=1.\\end{aligned}\\right.$<br> Tập xác định của hàm số $h(x)$ là $\\mathscr{D}=\\mathbb{R}\\setminus \\{-2;1\\}$.<br> Ta có<br><br>- $\\lim\\limits_{x\\to \\pm\\infty}h(x)=0$. Suy ra đồ thị hàm số $h(x)$ có một đường tiệm cận ngang là $y=0$.<br><br>- Vì $\\begin{cases}&\\lim\\limits_{x\\to (-2)^-}(2x+1)=-3&lt;0\\\\&f'(-2)=0\\\\&f'(x)&lt;0\\;,\\forall x&lt;-2\\end{cases}$ nên $\\lim\\limits_{x\\to (-2)^-}h(x)=+\\infty$. Suy ra đồ thị hàm số $h(x)$ có một đường tiệm cận đứng là $x=-2$.<br><br>- Vì $\\begin{cases}&\\lim\\limits_{x\\to 1^-}(2x+1)=3&gt;0\\\\&f'(1)=0\\\\&f'(x)&lt;0\\;, \\forall x&lt;1\\end{cases}$ nên $\\lim\\limits_{x\\to 1^-}h(x)=-\\infty$. Suy ra đồ thị hàm số $h(x)$ có một đường tiệm cận đứng là $x=1$.<br>Vậy đồ thị của hàm số $h(x)$ có $3$ đường tiệm cận.<br>- <strong>Sai</strong>.<br>  Quan sát đồ thị hàm số, ta thấy $f'(x)&gt;0,\\; \\forall x&gt;1$ nên hàm số $y = f(x)$ đồng biến trên khoảng $(1;+\\infty)$.<br>- <strong>Sai</strong>.<br>  Quan sát đồ thị hàm số, ta thấy $f'(x)$ chỉ đổi dấu từ “ âm” sang “ dương” khi $x$ qua điểm $x_0=1$ nên đồ thị hàm số $y=f(x)$ có một điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D154DS47",
+    "question": "Cho hàm số $ f(x)=\\mathrm{e}^x-2x+\\mathrm{e}$. Khi đó",
+    "subQuestions": [
+      {
+        "text": "Tập xác định của hàm số $f(x)$ là $\\mathscr{D}=\\mathbb{R}$",
+        "answer": true
+      },
+      {
+        "text": "Đạo hàm của hàm số $f(x)$ là $f'(x)=\\mathrm{e}^x-2$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $\\left[0;2\\right]$ bằng $\\mathrm{e}^2+\\mathrm{e}$",
+        "answer": false
+      },
+      {
+        "text": "Đường cong $y=f(x)$ cắt đường thẳng $y=-2x$ tại hai điểm phân biệt",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Hàm số $f(x)=\\mathrm{e}^x-2x+\\mathrm{e}$ xác định với mọi $x\\in\\mathbb{R}$ nên tập xác định là $\\mathscr{D}=\\mathbb{R}$.<br>- <strong>Đúng</strong>.<br>  Ta có $f'(x)=\\mathrm{e}^x-2$.<br>- <strong>Sai</strong>.<br>  Ta có $f'(x)=0\\Leftrightarrow \\mathrm{e}^x-2\\Leftrightarrow\\mathrm{e}^x=2\\Leftrightarrow x=\\ln 2\\in\\left[0;2\\right]$.<br> Ta có $f(0)=1+\\mathrm{e}$, $f\\left(\\ln 2\\right)= 2 + \\mathrm{e} -2\\ln 2$, $f(2)=\\mathrm{e}^2-4+\\mathrm{e}$.<br> So sánh các giá trị ta thấy $\\max\\limits_{\\left[0;2\\right]} f(x)= f(2)=\\mathrm{e}^2-4+\\mathrm{e}$.<br>- <strong>Sai</strong>.<br>  Phương trình hoành độ giao điểm $\\mathrm{e}^x-2x+\\mathrm{e}=-2x\\Leftrightarrow \\mathrm{e}^x+\\mathrm{e}=0$.<br> Phương trình này vô nghiệm nên đường cong $y=f(x)$ không cắt đường thẳng $ y=-2x$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D154DS48",
+    "question": "Cho hàm số $y=\\dfrac{x+1}{x-1}$ có đồ thị $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số nghịch biến trên khoảng $(1;+\\infty)$",
+        "answer": true
+      },
+      {
+        "text": "Biết cả hai đường thẳng $d_1\\colon y=a_1x+b_1$; $d_2\\colon y=a_2x+b_2$ đi qua điểm $I(1;1)$, cắt đồ thị $(C)$ tại $4$ điểm tạo thành một hình chữ nhật có $a_1+a_2=\\dfrac{5}{2}$. Khi đó giá trị biểu thức $b_1\\cdot b_2=-\\dfrac{1}{2}$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị lớn nhất của hàm số trên $[2;5]$ là $3$",
+        "answer": true
+      },
+      {
+        "text": "Đường tiệm cận đứng của đồ thị hàm số có phương trình $y=1$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\{1\\}$.<br> Ta có $y'=\\dfrac{-2}{\\left(x-1\\right)^2}$, suy ra $y'&lt;0$, $\\forall x\\ne 1$.<br> Suy ra hàm số nghịch biến trên các khoảng $(-\\infty;1)$ và $(1;+\\infty)$.<br>- <strong>Đúng</strong>.<br>  <br><img src=\"data/12/2D1/im2D15/2D15_ex12_020.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Gọi $\\alpha$, $\\beta$ lần lượt là góc tạo bởi $d_1$, $d_2$ với trục $Ox\\Rightarrow{a_1}=\\tan\\alpha$, $a_2=\\tan\\beta $.<br> Để hai đường thẳng $d_1$, $d_2$ cắt đồ thị $(C)$ tại $4$ điểm tạo thành một hình chữ nhật $ABCD$ thì $ABCD$ phải nhận đường thẳng $y=x$ làm trục đối xứng và nhận $I(1;1)$ làm tâm đối xứng.<br> Khi đó $\\alpha+\\beta=90^\\circ\\Rightarrow\\tan\\alpha=\\cot\\beta\\Rightarrow{a_1}=\\dfrac{1}{a_2}\\Rightarrow a_1\\cdot a_2=1$.<br> Ta có $\\begin{cases}&a_1+a_2=\\dfrac{5}{2}\\\\ &a_1\\cdot a_2=1\\end{cases}$ suy ra $a_1$, $a_2$ là hai nghiệm phương trình $X^2-\\dfrac{5}{2}X+1=0$.<br> Phương trình có hai nghiệm $\\left[\\begin{aligned} & X=2\\\\ & X=\\dfrac{1}{2}\\end{aligned}\\right.\\Rightarrow\\begin{cases}&a_1=2\\\\ &a_2=\\dfrac{1}{2}.\\end{cases}$<br> Vì $d_1\\colon y=a_1x+b_1$; $d_2\\colon y=a_2x+b_2$ đi qua điểm $I(1;1)$ nên $$\\begin{cases} &a_1+b_1=1\\\\ &a_2+b_2=1\\end{cases}\\Rightarrow\\begin{cases}&b_1=-1\\\\ &b_2=\\dfrac{1}{2}\\end{cases}\\Rightarrow b_1\\cdot b_2=-\\dfrac{1}{2}.$$<br>- <strong>Đúng</strong>.<br>  Hàm số nghịch biến trên đoạn $[2;5]$ nên $\\max\\limits_{[2;5]}y=y(2)=3$.<br>- <strong>Sai</strong>.<br>  Ta có $\\lim\\limits_{x\\to1^+}y=\\lim\\limits_{x\\to1^+}\\dfrac{x+1}{x-1}=+\\infty $; $\\lim\\limits_{x\\to1^-}y=\\lim\\limits_{x\\to1^-}\\dfrac{x+1}{x-1}=-\\infty $.<br> Suy ra đồ thị hàm số có tiệm cận đứng $x=1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D155DS49",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{ax+b}{x+c}$ có giá trị lớn nhất trên đoạn $[3;4]$ bằng $7$ và có đồ thị $y=f'(x)$ như hình vẽ. Khi đó<br><br><img src=\"data/12/2D1/im2D15/2D15_ex12_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Đồ thị $y=f'(x)$ có đường tiệm cận đứng là $x=2$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $f(x)$ nghịch biến trên khoảng $(2;+\\infty)$",
+        "answer": true
+      },
+      {
+        "text": "$3b+2c=-2$",
+        "answer": false
+      },
+      {
+        "text": "Giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $[3;4]$ bằng $6$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có từ đồ thị hàm số $y=f'(x)$, đường tiệm cận đứng là $x=2$.<br>- <strong>Đúng</strong>.<br>  Ta có trên khoảng $(2;+\\infty)$ đồ thị $y=f'(x)$ nằm dưới trục hoành, nên $f'(x)&lt;0$, $\\forall x \\in (2;+\\infty)$.<br> Do đó hàm số $y=f(x)$ nghịch biến trên khoảng $(2;+\\infty)$.<br>- <strong>Sai</strong>.<br>  Ta có $y=f'(x)=\\dfrac{ac-b}{(x+c)^2}$.<br> Từ giả thiết ta có \\[\\begin{cases}&f(3)=7 \\\\ &f'(0)=-1 \\\\ &-c=2\\end{cases} \\Leftrightarrow \\begin{cases}&\\dfrac{3a+b}{3+c}=7 \\\\ &\\dfrac{ac-b}{c^2}=-1 \\\\ &c=-2\\end{cases} \\Leftrightarrow \\begin{cases}&3a+b=7 \\\\ &-2a-b=-4 \\\\ &c=-2\\end{cases} \\Leftrightarrow \\begin{cases}&a=3 \\\\ &b=-2 \\\\ &c=-2.\\end{cases}\\] Vậy $3b+2c=3 \\cdot (-2)+2 \\cdot (-2)=-10$.<br>- <strong>Sai</strong>.<br>  Vì trên đoạn $[3;4]$ hàm số nghịch biến nên $\\min\\limits_{[3;4]} f(x)=f(4)=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D155DS50",
+    "question": "Cho hàm số bậc bốn $y=f(x)$. Hàm số $y=f'(x)$ có đồ thị như hình vẽ bên.<br><br><img src=\"data/12/2D1/im2D15/2D15_ex12_017.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hàm số $y=f(x)$ nghịch biến trên khoảng $(-\\infty;-2)$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $y=f(x)$ có ba điểm cực trị",
+        "answer": true
+      },
+      {
+        "text": "Giá trị nhỏ nhất của hàm số trên đoạn $[-2;2]$ là $f(0)$",
+        "answer": false
+      },
+      {
+        "text": "Biết $f(0)&gt;0$. Khi đó phương trình $f(x)=0$ có tối đa ba nghiệm phân biệt",
+        "answer": false
+      }
+    ],
+    "explain": "Từ đồ thị hàm số $f'(x)$, ta có bảng biến thiên của hàm số $y=f(x)$<br><img src=\"data/12/2D1/im2D15/2D15_ex12_016.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Đúng</strong>.<br>  Hàm số nghịch biến trên khoảng $(-\\infty;-2)$.<br>- <strong>Đúng</strong>.<br>  Dựa vào bảng biến thiên, hàm số $y=f(x)$ có ba điểm cực trị.<br>- <strong>Sai</strong>.<br>  Trên đoạn $[-2;2]$, $f(0)$ không phải là giá trị nhỏ nhất.<br>- <strong>Sai</strong>.<br>  Từ BBT, $f(0)$ là cực đại, $f(-2),f(2)$ là hai cực tiểu và $f\\to+\\infty$ khi $x\\to\\pm\\infty$. Với $f(0)&gt;0$, nếu $f(\\pm2)&lt;0$ thì phương trình $f(x)=0$ có $4$ nghiệm phân biệt (mỗi khoảng $(-\\infty;-2),(-2;0),(0;2),(2;+\\infty)$ có một nghiệm). Do đó số nghiệm tối đa là $4$, không phải $3$. Mệnh đề sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D156DS51",
+    "question": "Cho hàm số $y=\\dfrac{x-1}{x+2}$ có đồ thị $\\left (C\\right )$. Gọi $I$ là giao điểm của hai tiệm cận của $\\left (C\\right )$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số đồng biến trên $\\mathbb{R}\\setminus\\{-2\\}$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số có tâm đối xứng $I(-2;1)$",
+        "answer": true
+      },
+      {
+        "text": "Phương trình tiếp tuyến của đồ thị $\\left (C\\right )$ tại điểm $x=1$ là $y=\\dfrac{1}{3}x-\\dfrac{1}{3}$",
+        "answer": true
+      },
+      {
+        "text": "Xét tam giác đều $ABI$ có hai đỉnh $A$, $B$ thuộc $\\left (C\\right )$. Đoạn thẳng $AB$ có độ dài bằng $2\\sqrt{3}$",
+        "answer": true
+      }
+    ],
+    "explain": "Đặt $y=f(x)=\\dfrac{x-1}{x+2}$. Ta có $y=f(x)=\\dfrac{x-1}{x+2}=1+\\dfrac{-3}{x+2}$.<br>- <strong>Sai</strong>.<br>  Tập xác định của hàm số $\\mathscr{D}=\\mathbb{R}\\setminus\\{-2\\}$.<br> Ta có $y'=f'(x)=\\dfrac{3}{(x+2)^2}&gt;0$ với mọi $x\\in\\mathscr{D}$.<br> Suy ra hàm số đã cho đồng biến trên mỗi khoảng $\\left (-\\infty;-2\\right )$ và $\\left (-2;+\\infty\\right )$.<br>- <strong>Đúng</strong>.<br>  Ta có<br><br>- $\\begin{cases}&\\lim \\limits_{x\\to-2^{+}}{y}=-\\infty\\\\&\\lim \\limits_{x\\to-2^{-}}{y}=+\\infty\\end{cases}$. Suy ra tiệm cận đứng của $\\left (C\\right )$ có phương trình $x=-2$.<br><br>- $\\begin{cases}&\\lim\\limits_{x\\to-\\infty}y=1\\\\&\\lim\\limits_{x\\to+\\infty}y=1\\end{cases}$. Suy ra tiệm cận ngang của $\\left (C\\right )$ có phương trình $y=1$.<br><br>- $I$ là giao điểm của hai đường tiệm cận của $\\left (C\\right )$ nên $I(-2;1)$.<br>- <strong>Đúng</strong>.<br>  Ta có $f(1)=0$ và $f'(1)=\\dfrac{1}{3}$. Tiếp tuyến của đồ thị $(C)$ đi qua điểm $(1;0)$ và có hệ số góc $k=f'(1)=\\dfrac{1}{3}$ có phương trình là $$y=f'(1)\\left (x-1\\right )+f(1)\\Leftrightarrow y=\\dfrac{1}{3}\\left (x-1\\right )+0\\Leftrightarrow y=\\dfrac{1}{3}x-\\dfrac{1}{3}.$$<br>- <strong>Đúng</strong>.<br>  Đặt $X=x+2,\\ Y=y-1$: đồ thị trở thành $XY=-3$ với $I$ là gốc. Tam giác $IAB$ đều thì $A,B$ cùng một nhánh và đối xứng qua đường phân giác $Y=-X$, nên $IA$, $IB$ lập với $Ox$ các góc $-15^\\circ$ và $-75^\\circ$. Điểm trên tia góc $\\theta$ cách $I$ một đoạn $r$ thỏa $r^2\\sin\\theta\\cos\\theta=-3\\Rightarrow r^2=\\dfrac{-6}{\\sin2\\theta}=\\dfrac{-6}{\\sin(-30^\\circ)}=12$. Vậy $AB=IA=\\sqrt{12}=2\\sqrt{3}$. Mệnh đề đúng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D156DS52",
+    "question": "Cho hàm số $ y=x^3-3x^2+5$ có đồ thị là $(C)$. Khi đó",
+    "subQuestions": [
+      {
+        "text": "Hàm số đã cho nghịch biến trên khoảng $\\left(0;2\\right)$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đã cho có hai điểm cực trị",
+        "answer": true
+      },
+      {
+        "text": "Giá trị nhỏ nhất của hàm số đã cho trên khoảng $(0;+\\infty)$ bằng $2$",
+        "answer": false
+      },
+      {
+        "text": "Tiếp tuyến của đồ thị $(C)$ tại điểm có hoành độ bằng $1$ là đường thẳng có phương trình $ y=-3x+3$",
+        "answer": false
+      }
+    ],
+    "explain": "Ta có $y=x^3-3x^2+5$ suy ra $y'=3x^2-6x$.<br> Khi đó $y'=0\\Leftrightarrow3x^2-6x=0\\Leftrightarrow\\left[\\begin{aligned}&x=0\\\\&x=2.\\end{aligned}\\right.$<br> Bảng biến thiên của hàm số<br><img src=\"data/12/2D1/im2D15/2D15_ex12_018.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào bảng biến thiên ta thấy<br>- <strong>Đúng</strong>.<br>  Hàm số nghịch biến trên $(0;2)$.<br>- <strong>Đúng</strong>.<br>  Hàm số có hai điểm cực trị.<br>- <strong>Sai</strong>.<br>  Hàm số có giá trị nhỏ nhất trên $(0;+\\infty)$ là $1$.<br>- <strong>Sai</strong>.<br>  Khi $x=1\\Rightarrow y=3$ và $y'(1)=-3$.<br> Phương trình tiếp tuyến tại $ x=1$ là $ y=-3\\cdot(x-1)+3=-3x+6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D156DS53",
+    "question": "Cho hàm số $y = \\dfrac{2x^2 - 5x + 7}{x - 5}$ có đồ thị $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Tổng tất cả các giá trị cực trị của hàm số bằng $30$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số nghịch biến trên khoảng $(-1; 5)$",
+        "answer": false
+      },
+      {
+        "text": "Đường tiệm cận xiên của đồ thị $(C)$ có phương trình $y = 2x - 5$",
+        "answer": false
+      },
+      {
+        "text": "Tiếp tuyến của $(C)$ tại điểm $M(3; -5)$ cắt các đường tiệm cận đứng và tiệm cận xiên lần lượt tại $P$, $Q$. Diện tích tam giác $OPQ$ là $52$, với $O$ là gốc tọa độ",
+        "answer": false
+      }
+    ],
+    "explain": "Tập xác định là $\\mathscr{D}=\\mathbb{R}\\setminus \\left\\lbrace 5\\right\\rbrace $.<br> Ta có $\\dfrac{2x^2 - 5x + 7}{x - 5} = 2x + 5 + \\dfrac{32}{x - 5}$.<br> Suy ra $\\lim\\limits_{x\\rightarrow+\\infty}\\left[y-(2x+5)\\right] =\\lim\\limits_{x\\rightarrow+\\infty}\\dfrac{32}{x-5}=0$.<br> $\\lim\\limits_{x\\rightarrow-\\infty}\\left[y-(2x+5)\\right]=\\lim\\limits_{x\\rightarrow-\\infty}\\dfrac{32}{x-5}=0$.<br> Suy ra đồ thị hàm số có tiệm cận xiên $y = 2x + 5$.<br> Ta có $\\lim\\limits_{x\\rightarrow 5^+}\\dfrac{2x^2 - 5x + 7}{x - 5}=+\\infty$ và $\\lim\\limits_{x\\rightarrow 5^-}\\dfrac{2x^2 - 5x + 7}{x - 5}=-\\infty$.<br> Suy ra đồ thị hàm số có tiệm cận đứng $x = 5$.<br> Ta có $y' = \\dfrac{(4x - 5)(x - 5) - (2x^2 - 5x + 7)}{(x - 5)^2} = \\dfrac{2x^2 - 20x + 18}{(x - 5)^2}$. <br> $y' = 0 \\Leftrightarrow 2x^2 - 20x + 18 = 0 \\Leftrightarrow \\left[\\begin{aligned}&x=1\\\\& x=9\\end{aligned}\\right.\\Rightarrow \\left[\\begin{aligned}&y=-1\\\\&y=31.\\end{aligned}\\right. $<br> Ta có bảng biến thiên như sau<br><img src=\"data/12/2D1/im2D15/2D15_ex12_034.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Đúng</strong>.<br>  Dựa vào bảng biến thiên ta có tổng giá trị cực đại và cực tiểu là $-1 + 31 = 30$.<br>- <strong>Sai</strong>.<br>  Dựa vào bảng biến thiên ta thấy hàm số nghịch biến trên $(1; 5)$ và $(5; 9)$.<br>- <strong>Sai</strong>.<br>  Đường tiệm cận xiên của đồ thị hàm số là $y = 2x + 5$.<br>- <strong>Sai</strong>.<br>  $y'(3) = \\dfrac{2\\cdot 9 - 60 + 18}{4} = -6$. <br> Phương trình tiếp tuyến $(d)$ của $(C)$ tại điểm $M(3; -5)$ là $$y + 5 = -6(x - 3)\\Leftrightarrow y = -6x + 13.$$ Giao điểm của $(d)$ với tiệm cận đứng $x = 5 \\Rightarrow y = -6 \\cdot 5 + 13 = -17$ ta được $P(5;-17)$ <br> Giao với tiệm cận xiên $-6x + 13 = 2x + 5 \\Leftrightarrow x = 1 \\Rightarrow y = 7$ ta được $Q(1; 7)$ <br> Diện tích tam giác $OPQ$ là $S = \\dfrac{1}{2} \\left| 5 \\cdot 7 - (-17) \\cdot 1\\right|= 26$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D157DS54",
+    "question": "Cho hàm số $f(x)=\\dfrac{2x^{2}-5x+9}{x-5}$. Các mệnh đề sau đúng hay sai?",
+    "subQuestions": [
+      {
+        "text": "Đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $-\\dfrac{9}{5}$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số nghịch biến trên khoảng ($1;9$)",
+        "answer": false
+      },
+      {
+        "text": "Có đúng một điểm trên đồ thị cách đều hai trục tọa độ",
+        "answer": false
+      },
+      {
+        "text": "Đồ thị hàm số có tiệm cận đứng là $y=5$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Với $x=0\\Rightarrow f(0)=-\\dfrac{9}{5}$.<br> Vậy đồ thị hàm số cắt trục tung tại điểm có tung độ bằng $-\\dfrac{9}{5}$.<br>- <strong>Sai</strong>.<br>  Tập xác định của hàm số là $\\mathbb{R}\\backslash\\{5\\}$ suy ra hàm số đã cho không xác định $\\forall x\\in(1;9)$.<br>- <strong>Sai</strong>.<br>  Gọi $M\\left(x_{0};y_{0}\\right)$ thuộc đồ thị hàm số (điều kiện $x_{0}\\neq 5$)<br> Vì điểm $M\\left(x_{0};y_{0}\\right)$ trên đồ thị cách đều hai trục tọa độ nên $y_{0}=\\pm x_{0}$<br><br>- <strong>Trường hợp 1</strong>.<br>$$\\begin{aligned} y_{0}=x_{0} &\\Leftrightarrow& \\dfrac{2x_{0}{}^{2}-5x_{0}+9}{x_{0}-5}=x_{0}\\\\ &\\Leftrightarrow& 2x_{0}{}^{2}-5x_{0}+9=x_{0}{}^{2}-5x_{0}\\\\ &\\Leftrightarrow& x_{0}{}^{2}+9=0 \\text{ (phương trình vô nghiệm).} \\end{aligned}$$<br><br>- <strong>Trường hợp 2</strong>.<br>$$\\begin{aligned} y_{0}=-x_{0} &\\Leftrightarrow& \\dfrac{2x_{0}{}^{2}-5x_{0}+9}{x_{0}-5}=-x_{0}\\\\ &\\Leftrightarrow& 2x_{0}{}^{2}-5x_{0}+9=-x_{0}{}^{2}+5x_{0}\\\\ &\\Leftrightarrow& 3x_{0}^{2}-10x_{0}+9=0 \\text{ (phương trình vô nghiệm).} \\end{aligned}$$<br>Vậy không có điểm nào trên đồ thị cách đều hai trục tọa độ<br>- <strong>Sai</strong>.<br>  Đồ thị hàm số có tiệm cận đứng là $x=5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D157DS55",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{x^2-2x+5}{x-1}$ có đồ thị là $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số có tập xác định là $\\mathscr{D}=\\mathbb{R} \\setminus \\{1\\}$",
+        "answer": true
+      },
+      {
+        "text": "Gọi $x_1$, $x_2$ là hai nghiệm của phương trình $f'(x)=0$. Khi đó $x_1^2+x_2^2=10$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đồng biến trên khoảng $(2;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Gọi $(d)$ là tiếp tuyến với đồ thị hàm số $(C)$ tại điểm $M(2;5)$. Biết $(d)$ cắt hai đường tiệm cận của $(C)$ tại hai điểm $A$, $B$. Gọi $I$ là tâm đối xứng của $(C)$. Diện tích tam giác $IAB$ bằng $8$ (đvdt)",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Hàm số xác định khi $x-1\\ne0\\Leftrightarrow x\\ne1$. Vậy $\\mathscr{D}=\\mathbb{R}\\setminus\\{1\\}$.<br>- <strong>Đúng</strong>.<br>  Ta có $x_1^2+x_2^2=3^2+(-1)^2=10$.<br>- <strong>Sai</strong>.<br>  Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\{1\\}$.<br> Ta có $f'(x)=0\\Leftrightarrow\\dfrac{x^2-2x-3}{(x-1)^2}=0\\Rightarrow \\left[\\begin{aligned}&x_1=3\\\\&x_2=-1.\\end{aligned}\\right.$<br> Ta có bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_013.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Từ bảng biến thiên suy ra hàm số đồng biến trên $(-\\infty;-1)$, $(3;+\\infty)$<br> Vậy hàm số không đồng biến trên $(2;+\\infty)$.<br>- <strong>Đúng</strong>.<br>  Phương trình tiếp tuyến của đồ thị hàm số $(C)$ tại điểm $M(2;5)$ \\[y=f'(2)(x-2)+5\\Leftrightarrow y=-3x+11.\\] Ta có $\\lim\\limits_{x\\rightarrow 1^+}f(x)=+\\infty$ nên tiệm cận đứng của đồ thị hàm số $(C)$ là $x=1$.<br> Ta có $f(x)=x-1+\\dfrac{4}{x-1}$.<br> Khi đó, $\\lim\\limits_{x\\rightarrow +\\infty} \\left[f(x)-(x-1)\\right]=\\lim\\limits_{x\\rightarrow +\\infty} \\dfrac{4}{x-1}=0$ nên $(C)$ có tiệm cận xiên $y=x-1$.<br> Toạ độ tâm đối xứng $I$ của $(C)$ là nghiệm của hệ phương trình $\\begin{cases}&y=x-1\\\\&x=1\\end{cases}\\Leftrightarrow \\begin{cases}&x=1\\\\&y=0\\end{cases}\\Rightarrow I(1;0)$.<br> Toạ độ giao điểm $A$ của $(C)$ và tiệm cận đứng là nghiệm của hệ phương trình \\[\\begin{cases}&y=-3x+11\\\\&x=1\\end{cases}\\Leftrightarrow \\begin{cases}&x=1\\\\&y=8\\end{cases}\\Rightarrow A(1;8).\\] Toạ độ giao điểm $B$ của $(C)$ và tiệm cận xiên là nghiệm của hệ phương trình \\[\\begin{cases}&y=-3x+11\\\\&y=x-1\\end{cases}\\Leftrightarrow \\begin{cases}&x=3\\\\&y=2\\end{cases}\\Rightarrow B(3;2).\\] Độ dài các cạnh $IA=8$, $IB=\\sqrt{(3-1)^2+2^2}=2\\sqrt{2}$, $AB=\\sqrt{(3-1)^2+(2-8)^2}=2\\sqrt{10}$.<br> Nửa chu vi tam giác $IAB$ bằng $p=\\dfrac{8+2\\sqrt{2}+2\\sqrt{10}}{2}=4+\\sqrt{2}+\\sqrt{10}$.<br> Diện tích tam giác $IAB$ bằng \\[S_{\\triangle IAB}=\\sqrt{p(p-IA)(p-IB)(p-AB)}=8\\,\\text{(đvdt)}.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D157DS56",
+    "question": "Cho hàm số $y=\\dfrac{2x-1}{x+1}$ có đồ thị $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số đồng biến trên tập xác định",
+        "answer": false
+      },
+      {
+        "text": "Đồ thị hàm số $(C)$ có tâm đối xứng là điểm $I(-1;2)$",
+        "answer": true
+      },
+      {
+        "text": "Tiếp tuyến của đồ thị hàm số $(C)$ tại giao điểm của đồ thị hàm số $(C)$ với trục tung có phương trình là $y=3x-1$",
+        "answer": true
+      },
+      {
+        "text": "Số điểm thuộc đồ thị hàm số $(C)$ có tọa độ nguyên là $2$",
+        "answer": false
+      }
+    ],
+    "explain": "- Tập xác định của hàm số là $\\mathscr{D}=\\mathbb{R}\\setminus\\{-1\\}$. <br> Ta có $y'=\\dfrac{2\\cdot(1)-(-1)\\cdot(1)}{(x+1)^2}=\\dfrac{3}{(x+1)^2}&gt;0$, $\\forall x\\in D$. <br> Hàm số đồng biến trên từng khoảng $(-\\infty; -1)$ và $(-1; +\\infty)$.<br><br>- Đồ thị hàm số $y = \\dfrac{ax+b}{cx+d}$ có tâm đối xứng là giao điểm của hai đường tiệm cận. <br> Ta có<br><br>- $\\displaystyle\\lim\\limits_{x\\to-1^{-}}\\dfrac{2x-1}{x+1}=+\\infty$.<br><br>- $\\displaystyle\\lim\\limits_{x\\to-1^{+}}\\dfrac{2x-1}{x+1}=-\\infty$.<br>Suy ra đồ thị hàm số đã cho có tiệm cận đứng là $x=-1$.<br> Lại có<br><br>- $\\displaystyle\\lim\\limits_{x\\to+\\infty}\\dfrac{2x-1}{x+1}=2$.<br><br>- $\\displaystyle\\lim\\limits_{x\\to-\\infty}\\dfrac{2x-1}{x+1}=2$.<br>Suy ra đồ thị hàm số đã cho có tiệm cận ngang là $y=\\dfrac{2}{1}=2$. <br> Vậy tâm đối xứng của đồ thị hàm số trên là $I(-1; 2)$.<br><br>- Giao điểm của $(C)$ với trục tung (cho $x=0$) là điểm $M(0; -1)$. <br> Hệ số góc của tiếp tuyến tại $M$ là $k=y'(0)=\\dfrac{3}{(0+1)^2}=3$. <br> Phương trình tiếp tuyến tại giao điểm của đồ thị $(C)$ với trục tung là $$y=3(x-0)-1\\Leftrightarrow y=3x-1.$$<br><br>- Ta có $y=\\dfrac{2x-1}{x+1} =\\dfrac{2(x+1)-3}{x+1}=2-\\dfrac{3}{x+1}$. <br> Để tọa độ $(x; y)$ nguyên thì $x+1$ phải là ước của $3$. <br> Suy ra $x+1\\in\\{1;- 1; 3; -3\\} \\Leftrightarrow x\\in\\{0; -2; 2; -4\\}$. <br> Khi đó, ta có<br><br>- Với $x=0$ thì $y=2-\\dfrac{3}{0+1}=-1$.<br><br>- Với $x=-2$ thì $y=2-\\dfrac{3}{-2+1}=5$.<br><br>- Với $x=2$ thì $y=2-\\dfrac{3}{2+1}=1$.<br><br>- Với $x=-4$ thì $y=2-\\dfrac{3}{-4+1}=3$.<br>Vậy có $4$ điểm có tọa độ nguyên là: $(0; -1)$, $(-2; 5)$, $(2; 1)$, $(-4; 3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS57",
+    "question": "Một hãng công nghệ dự định tung ra thị trường một loại tai nghe không dây mới. Chi phí sản xuất mỗi chiếc tai nghe là $500$ nghìn đồng với giá bán ra niêm yết là $1{,}2$ triệu đồng. Bộ phận bán hàng ước tính rằng, số lượng tai nghe bán được $n(x)$ phụ thuộc vào chi phí quảng cáo $x$ (đơn vị: triệu đồng) theo công thức $n(x)=A+30\\ln (1+x)$. Biết rằng nếu chi $\\mathrm{e}^3-1$ triệu đồng cho quảng cáo thì bán được $190$ sản phẩm. Xét tính đúng sai của các khẳng định sau.",
+    "subQuestions": [
+      {
+        "text": "$A=100$",
+        "answer": true
+      },
+      {
+        "text": "Hàm lợi nhuận của hãng (tính theo triệu đồng) là $L(x)=70+21\\ln(x+1)-2x$",
+        "answer": false
+      },
+      {
+        "text": "Khi chi phí quảng cáo đang ở mức $6$ triệu đồng thì lợi nhuận đạt $99$ triệu đồng (kết quả làm tròn đến hàng đơn vị)",
+        "answer": false
+      },
+      {
+        "text": "Để đạt lợi nhuận lớn nhất thì số tiền chi cho quảng cáo là $19{,}766$ triệu đồng (kết quả làm tròn đến hàng phần nghìn)",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có $A+30 \\ln \\left(1+{\\mathrm{e}^3}-1 \\right)=190 \\Leftrightarrow A+90=190 \\Leftrightarrow A=100$.<br>- <strong>Sai</strong>.<br>  Ta có hàm lợi nhuận <br> $L(x)=1{,}2\\cdot n(x)-0{,}5\\cdot n(x)-x=0{,}7(100+30\\ln (1+x))-x =70+21\\ln(1+x)-x$.<br>- <strong>Sai</strong>.<br>  Khi $x=6$ ta có $L(6)=70+21\\ln(1+6)-6\\approx 105$ (triệu đồng).<br>- <strong>Sai</strong>.<br>  Ta khảo sát hàm số $L(x)=70+21\\ln(1+x)-x$.<br> Ta có $L'(x)=\\dfrac{21}{1+x}-1$<br> $L'(x)=0\\Leftrightarrow x=20$.<br> Ta có bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_014.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Vậy lợi nhuận đạt lớn nhất khi số tiền chi cho quảng cáo là $20$ triệu đồng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS58",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{ax^2+bx+c}{x+d}$ có bảng biến thiên như hình vẽ dưới đây:<br><img src=\"data/12/2D1/im2D15/2D15_ex12_015.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hàm số $y=f(x)$ đồng biến trên khoảng $(0;4)$",
+        "answer": false
+      },
+      {
+        "text": "Tích giá trị cực đại và giá trị cực tiểu của hàm số $y=f(x)$ bằng $-12$",
+        "answer": true
+      },
+      {
+        "text": "Cho điểm $M$ có hoành độ lớn hơn 2, di chuyển trên đồ thị hàm số $y=f(x)$. Giá trị nhỏ nhất của tổng khoảng cách từ điểm $M$ tới hai trục tọa độ bằng $4+4\\sqrt{2}$",
+        "answer": true
+      },
+      {
+        "text": "$a+b+c+d=-5$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Hàm số đồng biến trên khoảng $\\left(0;2\\right)$ và $\\left(2;4\\right)$.<br>- <strong>Đúng</strong>.<br>  $y_{\\max} \\cdot y_{\\min} = \\left(-6\\right)\\cdot 2 = -12$.<br>- <strong>Đúng</strong>.<br>  - Tiệm cận đứng: $x=2 \\Leftrightarrow d = -2$.<br><br>- Ta có: $f(0) = 2\\Leftrightarrow \\dfrac{c}{0-2} = 2 \\Leftrightarrow c = -4$.<br><br>- Ta có: $f(4) = -6\\Leftrightarrow \\dfrac{16a+4b-4}{4-2}=-6\\Leftrightarrow 4a+b=-2\\Leftrightarrow b=-4a-2$<br><br>- Khi đó: $$\\begin{aligned} &f(x) = \\dfrac{ax^2-\\left(4a+2\\right)x-4}{x-2}\\\\ \\Rightarrow &f'(x)=\\dfrac{\\left[2ax-\\left(4a+2\\right)\\right]\\left(x-2\\right) - \\left[ax^2-\\left(4a+2\\right)x-4\\right]}{\\left(x-2\\right)^2} \\end{aligned}$$<br><br>- Lại có $f'(0)\\Leftrightarrow 2(4a+2)+4=0 \\Leftrightarrow a = -1 \\Rightarrow b = 2$.<br><br>- Vậy $f(x) = \\dfrac{-x^2+2x-4}{x-2}$. Gọi $M\\left(x_0;\\dfrac{-x_0^2+2x_0-4}{x_0-2}\\right)$ thuộc đồ thị hàm số.<br><br>- Tổng khoảng cách đến các trục tọa độ: $$\\left|x_0\\right|+\\left|\\dfrac{-x_0^2+2x_0-4}{x_0-2}\\right| = x_0+\\dfrac{x_0^2-2x_0+4}{x_0-2}\\text{ (vì $x_0&gt;2$)}$$<br><br>- Ta có: $$\\begin{aligned} &x_0+\\dfrac{-x_0^2+2x_0-4}{x_0-2} = 2x_0 + \\dfrac{4}{x_0-2}\\\\ &= 2(x_0-2)+\\dfrac{4}{x_0-2}+4 \\geqslant 2\\sqrt{2(x_0-2)\\dfrac{4}{x_0-2}}+4=4\\sqrt{2}+4 \\end{aligned}$$<br><br>- Dấu bằng xảy ra: $2(x_0-2)=\\dfrac{4}{x_0-2} \\Leftrightarrow \\left(x_0-2\\right)^2=2 \\Leftrightarrow \\left[\\begin{aligned}&x_0 = 2+\\sqrt{2}\\ \\text{(nhận)}\\\\ &x_0 = 2-\\sqrt{2} \\ \\text{(loại)}\\end{aligned}\\right. $<br>- <strong>Đúng</strong>.<br>  $a+b+c+d = -1+2-4-2 = -5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS59",
+    "question": "Một công ty sau khi ra mắt sản phẩm mới đã ghi nhận lợi nhuận $P(t)$ (đơn vị: triệu đồng) sau $t$ tháng kinh doanh. Trong năm đầu tiên, giả sử mối liên hệ giữa lợi nhuận và thời gian kinh doanh được mô hình hóa bởi hàm số $P(t) = -t^3 + 10t^2 + 63t - 45$, $0 \\le t \\le 12$.",
+    "subQuestions": [
+      {
+        "text": "Lợi nhuận của công ty sau $1$ quý là $27$ triệu đồng",
+        "answer": false
+      },
+      {
+        "text": "Lợi nhuận của công ty đạt mức tối đa tại thời điểm $t = 9$",
+        "answer": true
+      },
+      {
+        "text": "Tại thời điểm $t = 4$ thì tốc độ tăng trưởng lợi nhuận là lớn nhất",
+        "answer": false
+      },
+      {
+        "text": "Hàm số biểu thị tốc độ tăng trưởng lợi nhuận $P'(t) = -3t^2 + 20t + 63t$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Lợi nhuận của công ty sau $1$ quý tương ứng với thời điểm $t = 3$ là \\[P(3) = 207\\text{ (triệu đồng)}.\\]<br>- <strong>Đúng</strong>.<br>  Ta có $P'(t) = -3t^2 + 20t + 63 = 0 \\Leftrightarrow \\left[\\begin{aligned}&t = -\\dfrac{7}{3}\\\\ &t = 9.\\end{aligned}\\right.$<br> Khi đó $P(0) = -45$, $P(9) = 603$, $P(12) = 423$.<br> Vậy lợi nhuận của công ty đạt mức tối đa là $603$ triệu đồng tại thời điểm $t = 9$ (tháng).<br>- <strong>Sai</strong>.<br>  Ta có $$\\begin{aligned} P'(t) &= -3t^2 + 20t + 63\\\\ &= -3\\left(t^2 - \\dfrac{20}{3}t + \\dfrac{100}{9}\\right) + \\dfrac{289}{3} \\\\ &= -3\\left(t - \\dfrac{10}{3}\\right)^2 + \\dfrac{289}{3}. \\end{aligned}$$ Ta có $\\left(t - \\dfrac{10}{3}\\right)^2 \\ge 0$ với mọi $t$, suy ra $-3\\left(t - \\dfrac{10}{3}\\right)^2 \\le 0$ với mọi $t$.<br> Do đó $P'(t) \\le \\dfrac{289}{3}$ với mọi $t$.<br> Dấu ‘ ‘=’ ’ xảy ra khi và chỉ khi $t - \\dfrac{10}{3} = 0 \\Leftrightarrow t = \\dfrac{10}{3}$.<br> Vậy tốc độ tăng trưởng lợi nhuận là lớn nhất tại thời điểm $t = \\dfrac{10}{3}$ (tháng).<br>- <strong>Sai</strong>.<br>  Hàm số biểu thị tốc độ tăng trưởng lợi nhuận là $P'(t) = -3t^2 + 20t + 63$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS60",
+    "question": "Một hộ gia đình muốn xây dựng một bể chứa nước có dạng hình hộp chữ nhật không nắp, thể tích $V=12$m$^3$. Đáy bể là hình chữ nhật có chiều dài gấp đôi chiều rộng. Giá thuê nhân công và vật liệu xây đáy là $500$ nghìn đồng/m$^2$, xây thành bể là $300$ nghìn đồng/m$^2$. Gọi $x$ là chiều rộng của đáy bể, $h$ là chiều cao của bể ($x&gt;0$, $h&gt;0$, đơn vị: m).",
+    "subQuestions": [
+      {
+        "text": "Thể tích của bể nước được tính bằng công thức $V=2x^2h$ (m$^3$)",
+        "answer": true
+      },
+      {
+        "text": "Chiều cao của bể nước tính theo $x$ là $h=\\dfrac{6}{x^2}$ (m)",
+        "answer": true
+      },
+      {
+        "text": "Tổng chi phí xây dựng bể nước là $T(x)=500x^2+\\dfrac{10\\,800}{x}$ (nghìn đồng)",
+        "answer": false
+      },
+      {
+        "text": "Tổng chi phí tối thiểu để xây dựng bể là $9\\,324$ (nghìn đồng) (<em>không làm tròn kết quả của các phép toán trung gian, chỉ làm tròn kết quả phép toán cuối cùng đến hàng đơn vị</em>)",
+        "answer": false
+      }
+    ],
+    "explain": "<br><img src=\"data/12/2D1/im2D15/2D15_ex12_032.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Đúng</strong>.<br>  Thể tích của bể nước được tính bằng công thức $V=x \\cdot (2x) \\cdot h =2x^2h$ (m$^3$).<br>- <strong>Đúng</strong>.<br>  Ta có $V=12 \\Rightarrow 2x^2 h=12 \\Rightarrow h =\\dfrac{6}{x^2}$ (m).<br>- <strong>Sai</strong>.<br>  Chi phí để xây dựng đáy bể là $500 \\cdot x \\cdot 2x = 1\\, 000x^2$ (nghìn đồng).<br> Chi phí để xây dựng thành bể là $$300 \\left(2x h+ 4x h\\right)=1\\,800 xh= 1\\,800 x\\cdot \\dfrac{6}{x^2} = \\dfrac{19 \\, 800}{x^2} \\; \\text{(nghìn đồng)}.$$ Tổng chi phí xây dựng bể nước là $T(x)=1\\,000x^2+\\dfrac{10\\,800}{x}$ (nghìn đồng).<br>- <strong>Sai</strong>.<br>  Ta có $T'(x)=2 \\, 000x-\\dfrac{10 \\, 800}{x^2}$.<br> $T'(x) = 0 \\Leftrightarrow 2 \\, 000x-\\dfrac{10 \\, 800}{x^2} = 0 \\Leftrightarrow 2\\,000x^3 - {10 \\, 800}=0 \\Leftrightarrow x = \\dfrac{3}{\\sqrt[3]{5}}$.<br><img src=\"data/12/2D1/im2D15/2D15_ex12_033.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Vì $\\min \\limits_{(0,+\\infty)} T(x)=T\\left(\\dfrac{3}{\\sqrt[3]{5}}\\right)$ nên tổng chi phí tối thiểu để xây dựng bể là $$T \\left(\\dfrac{3}{\\sqrt[3]{5}}\\right) \\approx 9\\,234 \\; \\text{(nghìn đồng)}.$$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS61",
+    "question": "Cho hàm số $y=f(x)=\\dfrac{3x+5}{2x+2}$ có đồ thị là $(C)$.",
+    "subQuestions": [
+      {
+        "text": "Giá trị lớn nhất của hàm số $f(x)$ trên $[1;3]$ bằng $\\dfrac{7}{4}$",
+        "answer": false
+      },
+      {
+        "text": "Tâm đối xứng của $(C)$ là điểm $I\\left(1;\\dfrac{3}{2}\\right)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $f(x)$ không có cực trị",
+        "answer": true
+      },
+      {
+        "text": "Một công ty sản xuất $x$ sản phẩm $(x \\ge 1)$ thì chi phí sản xuất trung bình một sản phẩm được tính theo công thức $\\overline{C}(x)=250f(x)$ (nghìn đồng). Khi đó số lượng sản phẩm sản xuất càng lớn thì chi phí sản xuất trung bình một sản phẩm sẽ giảm dần và luôn thấp hơn $375$ nghìn đồng",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\{-1\\}$. Suy ra hàm số $y=f(x)$ liên tục trên đoạn $[1;3]$.<br> Ta có $f'(x) = -\\dfrac{4}{(2x+2)^2} &lt; 0, \\forall x \\neq -1$ và $f(1)=2$, $f(3)=\\dfrac{7}{4}$.<br> Vậy $\\max\\limits_{[1;3]} f(x) = f(1)=2$.<br>- <strong>Sai</strong>.<br>  Do $\\lim\\limits_{x\\to -1^+} \\dfrac{3x+5}{2x+2} = +\\infty$ nên đường thẳng $x=-1$ là đường tiệm cận đứng của đồ thị $(C)$.<br> Do $\\lim\\limits_{x\\to +\\infty} \\dfrac{3x+5}{2x+2} = \\dfrac{3}{2}$ nên đường thẳng $y=\\dfrac{3}{2}$ là đường tiệm cận ngang của đồ thị $(C)$.<br> Tâm đối xứng của $(C)$ là giao điểm của đường tiệm cận đứng và đường tiệm cận ngang nên tâm đối xứng của $(C)$ là điểm $\\left(-1;\\dfrac{3}{2}\\right)$.<br>- <strong>Đúng</strong>.<br>  Hàm số $y=f(x)=\\dfrac{3x+5}{2x+2}$ có tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\{-1\\}$ và $$f'(x)=-\\dfrac{4}{(2x+2)^2} &lt; 0, \\forall x \\neq -1.$$ Do đó hàm số $f(x)$ không có cực trị.<br>- <strong>Sai</strong>.<br>  Xét $h(x)=\\overline{C}(x) = 250 \\cdot \\dfrac{3x+5}{2x+2}$.<br> Ta có $h'(x)= 250 \\cdot \\dfrac{-4}{(2x+2)^2} = \\dfrac{-1\\,000}{(2x+2)^2} &lt; 0, \\forall x \\ge 1$.<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_035.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Số lượng sản phẩm sản xuất càng lớn thì chi phí sản xuất trung bình một sản phẩm sẽ giảm dần và luôn cao hơn 375 nghìn đồng.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D158DS62",
+    "question": "Ông A muốn xây một cái bể chứa nước bằng bê-tông dạng hình hộp chữ nhật có nắp, đáy là hình vuông. Bể cần chứa được đúng $0{,}5$ mét khối (m$^3$) nước. Gọi độ dài cạnh đáy của bể là $x$ (dm), biết rằng chi phí nguyên vật liệu xây dựng mỗi mét vuông diện tích bề mặt là như nhau và diện tích mặt cắt của các ống nước để dẫn nước vào và ra là không đáng kể.",
+    "subQuestions": [
+      {
+        "text": "Chiều cao của bể được tính theo công thức $\\dfrac{500}{x^2}$ (dm)",
+        "answer": true
+      },
+      {
+        "text": "Tổng diện tích bề mặt cần xây dựng là $S(x) = x^2 + \\dfrac{2\\,000}{x}$",
+        "answer": false
+      },
+      {
+        "text": "Đạo hàm của hàm số diện tích $S(x)$ (sau khi thay $h$ theo $x$) là $S'(x)=4x-\\dfrac{2\\,000}{x^2}$",
+        "answer": true
+      },
+      {
+        "text": "Để chi phí nguyên vật liệu xây bể là thấp nhất, độ dài cạnh đáy bể phải là $793{,}7$ mm, (với kết quả được làm tròn đến hàng phần chục)",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Diện tích đáy là $x^2$ (dm$^2$). Đổi $0{,}5$ m$^3$ $= 500$ dm$^3$.<br> Ta có $V = S_{\\text{đáy}}\\cdot h = x^2 h \\Rightarrow h = \\dfrac{500}{x^2}$ (dm).<br>- <strong>Sai</strong>.<br>  Tổng diện tích bề mặt cần xây dựng là $S(x) = S_{\\text{xq}} + 2S_{\\text{đáy}}$ nên<br> $$S(x) = 4x \\cdot \\dfrac{500}{x^2} + 2x^2 = 2x^2 + \\dfrac{2\\,000}{x}.$$<br>- <strong>Đúng</strong>.<br>  Với $S(x) = 2x^2 + \\dfrac{2\\,000}{x}$, ta có $S'(x)=4x-\\dfrac{2\\,000}{x^2}$.<br>- <strong>Đúng</strong>.<br>  Để chi phí nguyên vật liệu xây bể thấp nhất thì diện tích bề mặt $S(x)$ nhỏ nhất.<br> Bài toán quy về tìm giá trị nhỏ nhất của hàm số $S(x) = 2x^2 + \\dfrac{2\\,000}{x}$ với $x &gt; 0$.<br> Ta có $S'(x)=0 \\Leftrightarrow 4x - \\dfrac{2\\,000}{x^2} = 0 \\Leftrightarrow 4x^3 = 2\\,000 \\Leftrightarrow x = \\sqrt[3]{500} = 5\\sqrt[3]{4}$.<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D15/2D15_ex12_036.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Từ bảng biến thiên ta có $\\min\\limits_{(0;+\\infty)} S(x) = S(5\\sqrt[3]{4})$, đạt được khi $x=5\\sqrt[3]{4}$.<br> Đổi $x = 5\\sqrt[3]{4} \\text{ (dm)} = 5\\sqrt[3]{4} \\cdot 100 \\text{ (mm)} \\approx 793{,}7$ (mm).<br> Vậy để chi phí nguyên vật liệu xây bể thấp nhất, độ dài cạnh đáy bể phải là $793{,}7$ (mm).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

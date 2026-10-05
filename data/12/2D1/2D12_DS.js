@@ -526,5 +526,173 @@ window.dungSai2D12 = [
     ],
     "explain": "<br>- Tập xác định của hàm số $g(x)$ là $\\mathscr{D}=\\mathbb{R} \\setminus\\{-1\\}$.<br>- Có $g'(x)=\\dfrac{2x^2+4x-6}{(x+1)^2} \\Rightarrow g'(x) &gt; 0\\Leftrightarrow2x^2+4x-6&gt; 0 \\text{ và } x \\neq-1 \\Leftrightarrow x &gt; 1 \\text{ hoặc } x &lt;-3 \\text{ và } x \\neq-1.$<br>  Suy ra $\\forall x&gt;1, g'(x)&gt;0$.<br>- $g'(x)=0\\Leftrightarrow x=1 \\text{ hoặc } x=-3$ nên hàm số đã cho có hai điểm cực trị.<br>- Ta có:  $g'(x) &lt; 0\\Leftrightarrow2x^2+4x-6&lt; 0 \\text{ và } x \\neq -1 \\Leftrightarrow-3&lt; x &lt; 1 \\text{ và } x \\neq -1.$<br>  Hàm số đã cho nghịch biến trên mỗi khoảng $(-3;-1)$ và $(1;+\\infty)$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121DS19",
+    "question": "Cho hàm số $f(x) = \\mathrm{e}^{x^3-3x^2-9x+2026}$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số đã cho có đạo hàm là $f^\\prime(x) = \\mathrm{e}^{x^3-3x^2-9x+2026}$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $f(x)$ đồng biến trên khoảng $(-\\infty;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $f(x)$ có hai cực trị trái dấu",
+        "answer": false
+      },
+      {
+        "text": "Tích giá trị lớn nhất và giá trị nhỏ nhất của hàm số $f(x)$ trên đoạn $\\left[-2;2\\right]$ bằng $\\mathrm{e}^{4035}$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Ta có $f^\\prime(x) = (3x^2-6x-9)\\mathrm{e}^{x^3-3x^2-9x+2026}$.<br>- <strong>Sai</strong>.<br>  Xét $f^\\prime(x) = 0\\Leftrightarrow \\left[\\begin{aligned}&x= -1\\\\ &x= 3.\\end{aligned}\\right.$<br> Bảng biến thiên:<br><img src=\"data/12/2D1/im2D12/2D12_ex12_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Sai</strong>.<br>  Dựa vào bảng biến thiên, ta có $y_{\\max}\\cdot y_{\\min} = \\mathrm{e}^{4030} &gt; 0$.<br>- <strong>Đúng</strong>.<br>  Ta có $-1\\in \\left[-2;2\\right] \\Rightarrow \\displaystyle\\max\\limits_{\\left[-2;2\\right]}f(x) = \\mathrm{e}^{2031}$.<br> Lại có $f(-2) = \\mathrm{e}^{2024}$ và $f(2) = \\mathrm{e}^{2004}$.<br> Vậy $\\displaystyle\\max\\limits_{\\left[-2;2\\right]}f(x)\\cdot \\displaystyle\\min\\limits_{\\left[-2;2\\right]}f(x) = \\mathrm{e}^{2031}\\cdot \\mathrm{e}^{2004} = \\mathrm{e}^{4035}$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121DS20",
+    "question": "Cho hàm số $f(x) = x^3 - 3x$.",
+    "subQuestions": [
+      {
+        "text": "Hàm số đã cho có đạo hàm là $f'(x) = 3x^2 + 3$",
+        "answer": false
+      },
+      {
+        "text": "$f'(x) &lt; 0$ khi $x \\in (-\\infty; -1) \\cup (1; +\\infty)$ và $f'(x) &gt; 0$ khi $x \\in (-1; 1)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số đã cho nghịch biến trên khoảng $(-1; 1)$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị cực tiểu hàm số đã cho là $-2$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Hàm số đã cho có đạo hàm là $f'(x) = 3x^2 - 3$.<br>- <strong>Sai</strong>.<br>  Ta có $f'(x) = 0 \\Leftrightarrow 3x^2 - 3 = 0 \\Leftrightarrow \\left[\\begin{aligned}&x = 1 \\\\ &x = -1.\\end{aligned}\\right.$<br> Hàm số đã cho có bảng biến thiên<br><img src=\"data/12/2D1/im2D12/2D12_ex12_009.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Từ bảng biến thiên ta có<br><br>- $f'(x) &lt; 0$ khi $x \\in (-1; 1)$.<br><br>- $f'(x) &gt; 0$ khi $x \\in (-\\infty; -1) \\cup (1; +\\infty)$.<br>- <strong>Đúng</strong>.<br>  Từ bảng biến thiên suy ra hàm số đã cho nghịch biến trên khoảng $(-1; 1)$.<br>- <strong>Đúng</strong>.<br>  Từ bảng biến thiên suy ra giá trị cực tiểu hàm số đã cho là $-2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121DS21",
+    "question": "Cho hàm số $y=-x^3+3x^2+4$ có đồ thị $\\left(C\\right)$",
+    "subQuestions": [
+      {
+        "text": "Hàm số có đạo hàm $y'=-3x^2+6x$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đồng biến trên khoảng $\\left(0;2\\right)$",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị có hai điểm cực trị và đường thẳng đi qua hai điểm cực trị là $2x+y-4=0$",
+        "answer": false
+      },
+      {
+        "text": "Diện tích $\\Delta AOB$ bằng 4 trong đó $A$ và $B$ là hai điểm cực trị của đồ thị $\\left(C\\right)$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có $y=-x^3+3x^2+4\\Rightarrow y'=-3x^2+6x$.<br>- <strong>Đúng</strong>.<br>  Ta có $y'=-3x^2+6x$. Cho $y'=0\\Leftrightarrow -3x^2+6x=0\\Leftrightarrow \\left[\\begin{aligned}& x=0 \\\\ \t& x=2.\\end{aligned}\\right.$<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D12/2D12_ex12_010.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào bảng biến thiên, ta suy ra hàm số đồng biến trên khoảng $\\left(0;2 \\right)$.<br>- <strong>Sai</strong>.<br>  Gọi $A$ và $B$ là hai điểm cực trị của đồ thị $\\left(C\\right)$. Khi đó $A\\left( 0;4\\right)$, $B\\left( 2;8\\right)$.<br> Gọi $d$ là đường thẳng đi qua hai điểm cực trị nên $d$ có vectơ chỉ phương là $\\overrightarrow{AB}=\\left(2;4\\right)$.<br> Suy ra đường thẳng $d$ có một vectơ pháp tuyến là $\\overrightarrow{n}=\\left(2;-1\\right)$.<br> Phương trình tổng quát của đường thẳng $d$ là \\[2\\cdot\\left(x-0\\right)-1\\cdot\\left(y-4\\right)=0\\Leftrightarrow 2x-y+4=0.\\]<br>- <strong>Đúng</strong>.<br>  <strong>Cách 1:</strong><br> Ta có $A\\left(0;4\\right)$; $B\\left(2;8\\right)$$\\Rightarrow \\overrightarrow{AB}=\\left(2;4\\right)\\Rightarrow AB=2\\sqrt{5}$.<br> Khoảng cách từ $O$ tới đường thẳng $d$ là $d\\left(O,d\\right)=\\dfrac{\\left| 4 \\right|}{\\sqrt{4+1}}=\\dfrac{4}{\\sqrt{5}}$.<br> Diện tích tam giác $OAB$ là $S_{OAB}=\\dfrac{1}{2}\\cdot d\\left(O,d \\right)\\cdot AB=\\dfrac{1}{2}\\cdot\\dfrac{4}{\\sqrt{5}}\\cdot2\\sqrt{5}=4$.<br> <strong>Cách 2:</strong> <br> Ta có $\\overrightarrow{OA}=\\left(0;4 \\right)$, $\\overrightarrow{OB}=\\left(2;8\\right)\\Rightarrow S_{\\triangle OAB}=\\dfrac{1}{2}\\cdot\\left| 0\\cdot8-4\\cdot2 \\right|=4$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121DS22",
+    "question": "Cho hàm số $y=f(x)=x^3-3x^2-9x$.",
+    "subQuestions": [
+      {
+        "text": "Đồ thị hàm số $y=f(x)$ có hai điểm cực trị nằm về hai phía của trục tung",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $y=f(x)$ có đạo hàm $y'=f'(x)=3x^2-6x-9$",
+        "answer": true
+      },
+      {
+        "text": "Đường thẳng qua hai điểm cực trị của đồ thị hàm số $y=f(x)$ có hệ số góc là $k=-8$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị lớn nhất của hàm số $y=f(x)$ trên đoạn $[0;5]$ bằng $-5$",
+        "answer": false
+      }
+    ],
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}$.<br> Ta có $f'(x)=3x^2-6x-9=3(x^2-2x-3)=3(x-3)(x+1)$.<br> Bảng biến thiên:<br><img src=\"data/12/2D1/im2D12/2D12_ex12_012.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Đúng</strong>.<br>  <strong>Đúng</strong>. Suy ra hàm số có cực đại tại $x=-1$ và cực tiểu tại $x=3$, hai điểm nằm hai phía trục tung.<br>- <strong>Đúng</strong>.<br>  <strong>Đúng</strong>. Ta có $f'(x)=3x^2-6x-9$.<br>- <strong>Đúng</strong>.<br>  Cực trị: $f(-1)=5$, $f(3)=-27$ nên $A(-1;5)$, $B(3;-27)$. Hệ số góc $k=\\dfrac{-27-5}{3-(-1)}=-8$.<br>- <strong>Sai</strong>.<br>  Trên $[0;5]$: $f(0)=0$, $f(3)=-27$, $f(5)=125-75-45=5$. Vậy $\\max_{[0;5]}f(x)=5\\neq -5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D121DS23",
+    "question": "Cho hàm số $y=x^3+9x^2+15x$.",
+    "subQuestions": [
+      {
+        "text": "Đạo hàm của hàm số là $y'=3x^2+18x+15$",
+        "answer": true
+      },
+      {
+        "text": "Phương trình $y'=0$ có hai nghiệm $x_1=-5$, $x_2=-1$",
+        "answer": true
+      },
+      {
+        "text": "Giá trị cực tiểu của hàm số là $25$",
+        "answer": false
+      },
+      {
+        "text": "Tọa độ tâm đối xứng của đồ thị hàm số là $(-6;18)$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có $y'=3x^2+18x+15$.<br>- <strong>Đúng</strong>.<br>  Ta có $y' = 0 \\Leftrightarrow 3(x^2+6x+5)=0\\Leftrightarrow x=-5$ hoặc $x=-1$.<br>- <strong>Sai</strong>.<br>  Ta có $f'(x)=0\\Leftrightarrow x=-1$ hoặc $x=-5$.<br> $f(-1)=-7$, $f(-5)=25$.<br> Bảng biến thiên<br><img src=\"data/12/2D1/im2D12/2D12_ex12_013.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào bảng biến thiên, ta thấy giá trị cực tiểu của hàm số là $-7$.<br>- <strong>Sai</strong>.<br>  Ta có $y''=6x+18=0\\Leftrightarrow x=-3$, $f(-3)=9$.<br> Do đó, tọa độ tâm đối xứng của đồ thị hàm số là $I(-3;9)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D122DS24",
+    "question": "Cho hàm số $y=f(x)$ xác định, liên tục trên $\\mathbb{R}$ và có bảng biến thiên sau<br><img src=\"data/12/2D1/im2D12/2D12_ex12_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Hàm số đã cho đồng biến trên $(-1;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số đã cho đạt cực đại tại $x=0$; đạt cực tiểu tại $x=1$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số có ba điểm cực trị",
+        "answer": false
+      },
+      {
+        "text": "Phương trình $f(x)=\\dfrac{1}{2}$ có ba nghiệm phân biệt",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> Trên khoảng $(-1;+\\infty)$, hàm số đồng biến trên $(-1;0)$ và $(1;+\\infty)$, nhưng nghịch biến trên $(0;1)$. Do đó khẳng định này sai.<br>- <strong>Đúng</strong>.<br>  <strong>Đúng</strong>.<br> Đạo hàm $y'$ đổi dấy từ dương sang âm khi đi qua $x=0$ nên hàm số đạt cực đại tại $x=0$. Đạo hàm $y'$ đổi dấu từ âm sang dương khi đi qua $x=1$ nên hàm số đạt cực tiểu tại $x=1$. Đây là khẳng định đúng.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> Hàm số chỉ có hai điểm cực trị là $x=0$ và $x=1$. Khẳng định này sai.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> Đường thẳng $y=\\dfrac{1}{2}$ nằm phía trên giá cực trị đại ($y_{\\text{CĐ}=0}$). Đường thẳng này chỉ cắt nhánh cuối cùng $(1;+\\infty)$ tại một điểm duy nhất. Vật phương trình có một nghiệm. Khẳng định này sai.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D122DS25",
+    "question": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau<br><img src=\"data/12/2D1/im2D12/2D12_ex12_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$f'(x)=0\\Leftrightarrow\\left[\\begin{aligned}&x=-1\\\\&x=1\\end{aligned}\\right.$",
+        "answer": true
+      },
+      {
+        "text": "Đồ thị hàm số $y=f(x)$ cắt trục $Ox$ tại $3$ điểm phân biệt",
+        "answer": true
+      },
+      {
+        "text": "Cực tiểu của hàm số bằng $1$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y=f(2-x)$ đồng biến trên khoảng $(1;3)$",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Dựa vào bảng biến thiên ta có $f'(x)=0\\Leftrightarrow\\left[\\begin{aligned}&x=-1\\\\&x=1.\\end{aligned}\\right.$<br>- <strong>Đúng</strong>.<br>  Dựa vào bảng biến thiên ta thấy đồ thị hàm số đạt cực đại tại điểm $(-1;3)$ và đạt cực tiểu tại điểm $(1;-1)$.<br> Khi đó $y_{\\text{CĐ}}\\cdot y_{\\text{CT}}&lt;0$ suy ra đồ thị hàm số cắt trục hoành tại $3$ điểm phân biệt.<br>- <strong>Sai</strong>.<br>  Dựa vào bảng biến thiên, giá trị cực tiểu của hàm số bằng $-1$.<br>- <strong>Đúng</strong>.<br>  Ta có $y'=-f'(2-x)$.<br> Cho $y'=0\\Leftrightarrow f'(2-x)=0\\Leftrightarrow\\left[\\begin{aligned}&2-x=-1\\\\&2-x=1\\end{aligned}\\right.\\Leftrightarrow\\left[\\begin{aligned}&x=3\\\\&x=1.\\end{aligned}\\right.$<br> Ta có bảng biến thiên của hàm số $y=f(2-x)$ như sau<br><img src=\"data/12/2D1/im2D12/2D12_ex12_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào bảng biến thiên, hàm số $y=f(2-x)$ đồng biến trên khoảng $(1;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

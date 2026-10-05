@@ -19,5 +19,19 @@ window.traLoiNgan2D61 = [
     "answer": "11",
     "explain": "Gọi $A$ là biến cố “ Bệnh nhân uống thuốc M”.<br>  Gọi $B$ là biến cố “ Bệnh nhân khỏi bệnh”.<br>  Yêu cầu bài toán là tính $\\mathrm{P}(A\\mid B)$.<br>  Ta có $n(B)=1\\,600+1\\,200=2\\,800$, $n(AB)=1\\,600$.<br>  Xác suất cần tìm là  \\[\\mathrm{P}(A\\mid B)=\\dfrac{n(AB)}{n(B)}=\\dfrac{1\\,600}{2\\,800}=\\dfrac{4}{7}.\\]",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D611TL4",
+    "question": "Trong một hộp có $8$ viên bi màu xanh và $6$ viên bi màu đỏ, các viên bi cùng kích thước và cùng khối lượng. Bạn Hùng lấy ngẫu nhiên một viên bi từ hộp, không trả lại. Sau đó bạn Nam lấy ngẫu nhiên một viên bi trong số các bi còn lại trong hộp. Tính xác suất để Hùng lấy được viên bi màu đỏ, biết rằng Nam lấy được viên bi màu xanh <em>(làm tròn đến hàng phần trăm)</em>.",
+    "answer": "0,46",
+    "explain": "Sau khi Nam lấy được bi xanh, ta xét xác suất có điều kiện: $P=\\dfrac{\\frac{6}{14}\\cdot\\frac{8}{13}}{\\frac{8}{14}}=\\dfrac{6}{13}\\approx0{,}4615$.<br>Làm tròn đến hàng phần chục được $0{,}5$ (làm tròn đến hàng phần trăm được $0{,}46$).",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D612TL5",
+    "question": "Mỗi bạn học sinh trong lớp của An lựa chọn học một trong hai ngoại ngữ là tiếng Anh hoặc tiếng Pháp. Xác suất chọn tiếng Anh của mỗi bạn học sinh nữ là $0{,}6$ và của mỗi bạn học sinh nam là $0{,}5$. Lớp An có $25$ bạn nữ và $20$ bạn nam. Chọn ngẫu nhiên một bạn trong lớp. Gọi biến cố $A$ “ Bạn được chọn là nữ” và biến cố $B$ “ Bạn được chọn học tiếng Anh”. Tính xác suất để bạn được chọn là nữ và học tiếng Anh <em>(kết quả làm tròn đến hàng phần trăm)</em>.",
+    "answer": "0,33",
+    "explain": "Tổng số học sinh của lớp là $25 + 20 = 45$ bạn.<br> Xác suất chọn được một bạn nữ là $\\mathrm{P}(A) = \\dfrac{25}{45} = \\dfrac{5}{9}$.<br> Theo đề bài, xác suất chọn học tiếng Anh của mỗi bạn nữ là $\\mathrm{P}(B\\mid A) = 0{,}6$.<br> Xác suất bạn được chọn là nữ và học tiếng Anh là \\[\\mathrm{P}(A \\cap B) = \\mathrm{P}(A) \\cdot \\mathrm{P}(B\\mid A) = \\dfrac{5}{9} \\cdot 0{,}6 = \\dfrac{5}{9} \\cdot \\dfrac{3}{5} = \\dfrac{1}{3} \\approx 0{,}33.\\]",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

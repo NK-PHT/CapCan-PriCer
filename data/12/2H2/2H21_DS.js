@@ -478,5 +478,77 @@ window.dungSai2H21 = [
     ],
     "explain": "<br><img src=\"data/12/2H2/im2H21/loc8_TT_THPT_NguyenKh_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  <br>- Diện tích tam giác $ABC$ là $S_{ABC}=\\dfrac{1}{2} BC \\cdot BA=\\dfrac{1}{2} \\cdot 3\\cdot 2=3$.<br>  Thể tích của hình chóp $S.ABC$ có công thức là $V_{S.ABC}=\\dfrac{1}{3} \\cdot S \\cdot h=\\dfrac{1}{3} \\cdot 3 \\cdot 2=2$.<br>- Vì $SA \\perp(ABC)$ nên $SA \\perp BC$.<br>  Ta cũng có $AB \\perp BC$ nên $BC \\perp(SAB)$.<br>  Suy ra $\\mathrm{d}\\left(C,(SAB)\\right)=BC=3$.<br>- Vì $BC \\perp(SAB)$ nên $BC \\perp SB$. Ta cũng có $AB \\perp BC$ nên góc nhị diện $[S, BC, A]$ có số đo bằng với góc phẳng nhị diện $\\widehat{SBA}$.<br>  Xét $\\triangle SAB$ vuông tại $A$, có $AB=2$ và $SA=2$ nên $\\widehat{SBA}=45^{\\circ}$.<br>- Ta có $\\vec{SB} \\cdot \\vec{AC}=\\left(\\vec{SA}+\\vec{AB}\\right) \\cdot \\vec{AC}=\\vec{SA} \\cdot \\vec{AC}+\\vec{AB} \\cdot \\vec{AC}$.<br>  Mà $SA \\perp(ABC)$ nên $SA \\perp AC$. Suy ra $\\vec{SA} \\cdot \\vec{AC}=0$.<br>  Vậy $\\vec{SB} \\cdot \\vec{AC}=\\vec{AB} \\cdot \\vec{AC}=AB \\cdot AC \\cdot \\cos \\widehat{BAC}=AB \\cdot AB=4$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H213DS20",
+    "question": "Cho hình chóp đều $S.ABCD$ có $SA=AB=4\\sqrt{2}$. Gọi $M$ là trung điểm của $AB$, $G$ là trọng tâm tam giác $SAB$.",
+    "subQuestions": [
+      {
+        "text": "$\\overrightarrow{SA}+\\overrightarrow{SB}=\\overrightarrow{SC}+\\overrightarrow{SD}$",
+        "answer": false
+      },
+      {
+        "text": "$\\overrightarrow{DS}=-2\\overrightarrow{DM}+3\\overrightarrow{DG}$",
+        "answer": true
+      },
+      {
+        "text": "Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Điểm $E(a;b;c)$ thuộc mặt phẳng $(SBD)$ sao cho $C$, $E$, $G$ thẳng hàng thì $a+b+c=2$",
+        "answer": true
+      },
+      {
+        "text": "Nếu chọn hệ tọa độ $Oxyz$ sao cho $O$ là tâm hình vuông $ABCD$, $B$ thuộc tia $Ox$, $C$ thuộc tia $Oy$, $S$ thuộc tia $Oz$. Điểm $F(x;y;z)$ thuộc mặt phẳng $(SAC)$ sao cho $FG+FB$ nhỏ nhất thì $x+y+z=-1$",
+        "answer": false
+      }
+    ],
+    "explain": "<br><img src=\"data/12/2H2/im2H21/2H21_ex12_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>- <strong>Sai</strong>.<br>  Hình chóp đều $S.ABCD$ có $SA=SB=SC=SD$ và đáy $ABCD$ là hình vuông.<br> Gọi $O$ là tâm hình vuông $ ABCD$. Khi đó $SO\\perp(ABCD)$.<br> Điểm $O$ là trung điểm $AC$ nên $\\overrightarrow{SA}+\\overrightarrow{SC}=2\\overrightarrow{SO}$.<br> Điểm $O$ là trung điểm $BD$ nên $\\overrightarrow{SB}+\\overrightarrow{SD}=2\\overrightarrow{SO}$.<br> Do đó $\\overrightarrow{SA}+\\overrightarrow{SC}=\\overrightarrow{SB}+\\overrightarrow{SD}$.<br>- <strong>Đúng</strong>.<br>  Vì $G$ là trọng tâm tam giác $SAB$ nên $\\overrightarrow{DS}+\\overrightarrow{DA}+\\overrightarrow{DB}=3\\overrightarrow{DG}$.<br> Mặt khác $M$ là trung điểm $AB$ nên $\\overrightarrow{DA}+\\overrightarrow{DB}=2\\overrightarrow{DM}$.<br> Do đó $\\overrightarrow{DS}+\\overrightarrow{DA}+\\overrightarrow{DB}=3\\overrightarrow{DG}\\Leftrightarrow\\overrightarrow{DS}+2\\overrightarrow{DM}=3\\overrightarrow{DG}\\Leftrightarrow\\overrightarrow{DS}=-2\\overrightarrow{DM}+3\\overrightarrow{DG}$.<br>- <strong>Đúng</strong>.<br>  $G\\left(\\dfrac43;-\\dfrac43;\\dfrac43\\right)$, $E\\in(SBD)\\equiv(Oxz)$ nên $E(a;0;c)$. $C,E,G$ thẳng hàng: $\\overrightarrow{CE}=k\\overrightarrow{CG}$ nên $a=\\dfrac43k$, $-4=-\\dfrac{16}{3}k$, $c=\\dfrac43k$, suy ra $k=\\dfrac34$, $a=1$, $c=1$.<br>Vậy $E(1;0;1)$, $a+b+c=1+0+1=2$.<br>- <strong>Sai</strong>.<br>  Ta có mặt phẳng $(SAC)$ là mặt phẳng $(Oyz)$.<br> Điểm $F(x;y;z)\\in(SAC)$ thì $F(0;y;z)$.<br> Ta có điểm $D$ đối xứng với $B$ qua mặt phẳng $(Oyz)$. Khi đó $ FB=FD$.<br> Do đó $FG+FB=FG+FD$.<br> Theo bất đẳng thức tam giác ta có $FG+FD\\ge GD$. Để dấu “$=$” xảy ra thì $F$, $G$, $D$ thẳng hàng.<br> Khi đó $\\overrightarrow{FG}=k\\overrightarrow{GD}\\Leftrightarrow\\begin{cases} &\\dfrac{4}{3}=k\\cdot \\left(-\\dfrac{16}{3}\\right)\\\\ &-\\dfrac{4}{3}-y=k\\cdot \\dfrac{4}{3}\\\\ &\\dfrac{4}{3}-z=k\\cdot \\left(-\\dfrac{4}{3}\\right)\\end{cases}\\Leftrightarrow\\begin{cases} & k=-\\dfrac{1}{4}\\\\ & y=-1\\\\ & z=1.\\end{cases}$<br> Vậy $F(0;-1;1)$ nên $x+y+z=0$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H213DS21",
+    "question": "Cho hình lăng trụ $ABC.A'B'C'$ có tất cả các cạnh bằng $a$, $\\widehat{A'AB}=120^\\circ, \\widehat{A'AC}=60^\\circ$. Gọi $M$ là trung điểm $BC$; $N$ là điểm trên cạnh $BB'$ sao cho $BN=\\dfrac{2}{3}BB'$.<br><br><img src=\"data/12/2H2/im2H21/2H21_ex12_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$\\overrightarrow{A'M} \\cdot \\overrightarrow{C'N} = \\dfrac{4a^2}{3}$",
+        "answer": true
+      },
+      {
+        "text": "$\\overrightarrow{AB} + \\overrightarrow{CC'} = \\overrightarrow{AB'}$",
+        "answer": true
+      },
+      {
+        "text": "$\\overrightarrow{NB} = -2\\overrightarrow{NB'}$",
+        "answer": true
+      },
+      {
+        "text": "Giả sử $\\overrightarrow{A'M} = x\\overrightarrow{AB} + y\\overrightarrow{AC} + z\\overrightarrow{AA'}$ thì $x+y=z$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Đặt $\\vec u=\\overrightarrow{AB},\\vec v=\\overrightarrow{AC},\\vec w=\\overrightarrow{AA'}$ với $u^2=v^2=w^2=a^2$, $\\vec u\\cdot\\vec v=\\dfrac{a^2}{2}$, $\\vec u\\cdot\\vec w=-\\dfrac{a^2}{2}$, $\\vec v\\cdot\\vec w=\\dfrac{a^2}{2}$.<br>$\\overrightarrow{A'M}=\\dfrac12\\vec u+\\dfrac12\\vec v-\\vec w$, $\\overrightarrow{C'N}=\\vec u-\\vec v-\\dfrac13\\vec w$.<br>Nhân vô hướng: $\\dfrac12-\\dfrac14+\\dfrac1{12}+\\dfrac14-\\dfrac12-\\dfrac1{12}+\\dfrac12+\\dfrac12+\\dfrac13=\\dfrac43$ (nhân $a^2$). Vậy $\\overrightarrow{A'M}\\cdot\\overrightarrow{C'N}=\\dfrac{4a^2}{3}$.<br>- <strong>Đúng</strong>.<br>  Ta có $\\overrightarrow{AB} + \\overrightarrow{CC'} = \\overrightarrow{AB} + \\overrightarrow{BB'} = \\overrightarrow{AB'}$.<br>- <strong>Đúng</strong>.<br>  Ta có $BN = \\dfrac{2}{3}BB'$ và $\\overrightarrow{NB}, \\overrightarrow{NB'}$ ngược hướng nên $\\overrightarrow{NB} = -2\\overrightarrow{NB'}$.<br>- <strong>Sai</strong>.<br>  Ta có $\\overrightarrow{A'M} = \\overrightarrow{AM} - \\overrightarrow{AA'} = \\dfrac{1}{2}\\overrightarrow{AB} + \\dfrac{1}{2}\\overrightarrow{AC} - \\overrightarrow{AA'}$.<br> Vậy $x = \\dfrac{1}{2}, y = \\dfrac{1}{2}, z = -1 \\Rightarrow x+y = 1$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2H214DS22",
+    "question": "Để xác định vị trí của một máy bay đang bay, người ta gắn một hệ trục tọa độ không gian $Oxyz$ trong đó gốc tọa độ $O$ đặt tại một sân bay. Biết rằng cao độ của tọa độ máy bay chính là độ cao của máy bay so với mặt đất. Đơn vị độ dài trên mỗi trục tọa độ là $100$ m. Một máy bay đang bay với quỹ đạo là một đường thẳng trong không gian với vận tốc không đổi. Tại thời điểm ban đầu, máy bay ở vị trí điểm $A$ có tọa độ $(200; 70; 118)$. Sau $50$ giây, độ cao của máy bay so với mặt đất giảm $400$ m. Biết rằng trong suốt quá trình bay, máy bay có đi qua điểm $B$ có tọa độ $(80; 105; 113)$. Giả sử mốc thời gian tại thời điểm máy bay ở điểm $A$.",
+    "subQuestions": [
+      {
+        "text": "Tọa độ của máy bay sau khi bay $50$ giây là $(104; 98; 114)$",
+        "answer": true
+      },
+      {
+        "text": "Khoảng cách khi máy bay ở điểm $C$ đến sân bay là $183$ m <em>(làm tròn đến hàng đơn vị)</em>",
+        "answer": false
+      },
+      {
+        "text": "Cao độ của tọa độ máy bay tại điểm $C$ sau khi bay $50$ giây là $114$",
+        "answer": true
+      },
+      {
+        "text": "Quãng đường máy bay đã đi được từ thời điểm đầu tiên đến $B$ là $12\\,510$ m <em>(làm tròn đến hàng đơn vị)</em>",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Đúng</strong>.<br>  Ta có vectơ chỉ phương của đường bay là $\\overrightarrow{AB} = (-120; 35; -5)$.<br> Vì quỹ đạo là đường thẳng và vận tốc không đổi nên máy bay chuyển động đều trên đường thẳng $AB$.<br> Gọi $\\overrightarrow{v} = (v_x; v_y; v_z)$ là vectơ vận tốc của máy bay (đơn vị tọa độ/giây). Khi đó $\\overrightarrow{v}$ cùng phương với $\\overrightarrow{AB}$, suy ra $\\overrightarrow{v} = k\\overrightarrow{AB} = (-120k; 35k; -5k)$ với $k &gt; 0$.<br> Sau $50$ giây, độ cao của máy bay giảm $400$ m tương ứng giảm $4$ đơn vị tọa độ (do $1$ đơn vị là $100$ m).<br> Sự thay đổi theo trục $Oz$ sau $50$ giây là $\\Delta z = 50 \\cdot v_z = 50 \\cdot (-5k) = -250k$.<br> Theo giả thiết $\\Delta z = -4 \\Rightarrow -250k = -4 \\Rightarrow k = \\dfrac{4}{250} = 0{,}016$.<br> Do đó $\\overrightarrow{v} = (-1{,}92; 0{,}56; -0{,}08)$.<br> Tọa độ máy bay sau $50$ giây (gọi là điểm $C$) thỏa mãn $\\overrightarrow{AC} = 50\\overrightarrow{v} = (-96; 28; -4)$.<br> Suy ra $C = A + \\overrightarrow{AC} = (200 - 96; 70 + 28; 118 - 4) = (104; 98; 114)$.<br>- <strong>Sai</strong>.<br>  Khoảng cách từ máy bay ở điểm $C$ đến sân bay (gốc tọa độ $O$) tính theo đơn vị tọa độ được tính bằng công thức $OC = \\sqrt{104^2 + 98^2 + 114^2} = \\sqrt{33\\,416} \\approx 182{,}8$.<br> Khoảng cách thực tế là $182{,}8 \\cdot 100 = 18\\,280$ m.<br>- <strong>Đúng</strong>.<br>  Từ tọa độ điểm $C(104; 98; 114)$ tính được ở trên, cao độ của tọa độ máy bay tại điểm $C$ sau khi bay $50$ giây là $114$.<br>- <strong>Đúng</strong>.<br>  Quãng đường máy bay đã đi được từ thời điểm đầu tiên (điểm $A$) đến điểm $B$ tương ứng với độ dài đoạn thẳng $AB$.<br> Ta có $AB = \\left| \\overrightarrow{AB} \\right| = \\sqrt{(-120)^2 + 35^2 + (-5)^2} = \\sqrt{15\\,650} \\approx 125{,}09996$ (đơn vị tọa độ).<br> Quãng đường thực tế máy bay đi được là $125{,}09996 \\cdot 100 \\approx 12\\,510$ m.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

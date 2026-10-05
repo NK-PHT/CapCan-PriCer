@@ -194,5 +194,47 @@ window.traLoiNgan2D14 = [
     "answer": "5",
     "explain": "Tiệm cận đứng là $x=-4$.<br>  Tiệm cận ngang là $y=\\dfrac{3}{1}=3$.<br>  Giao điểm của hai đường tiệm cận là $I(-4; 3)$.<br>  Khoảng cách từ điểm $I$ đến điểm $O$ là $IO=\\sqrt{(0+4)^2+(0-3)^2}=5$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D141TL27",
+    "question": "Đồ thị hàm số $y=\\dfrac{x^3\\left(\\sqrt{x^2-4}+x\\right)}{2x^3+3x^2-3x-2}$ có tất cả bao nhiêu đường tiệm cận?",
+    "answer": "3",
+    "explain": "Xét $y = \\dfrac{x^3\\left(\\sqrt{x^2-4}+x\\right)}{2x^3+3x^2-3x-2}$.<br> Điều kiện xác định $\\begin{cases}&x^2 - 4 \\ge 0\\\\&2x^3+3x^2-3x-2 \\ne 0\\end{cases}\\Leftrightarrow \\begin{cases}&x \\in (-\\infty; -2] \\cup [2; +\\infty)\\\\&x\\notin \\left\\{1;-2;-\\dfrac{1}{2}\\right\\}.\\end{cases}$<br> Tập xác định $\\mathscr {D}=(-\\infty; -2) \\cup [2; +\\infty)$.<br> Xét $\\lim\\limits_{x \\to -2^-} \\dfrac{x^3\\left(\\sqrt{x^2-4}+x\\right)}{2x^3+3x^2-3x-2}=-\\infty$ suy ra $x=-2$ là một đường tiệm cận đứng của đồ thị hàm số.<br> Xét $\\lim\\limits_{x \\to -\\infty} y = \\lim\\limits_{x \\to -\\infty} \\dfrac{-4x^3}{(-2x)\\left( 2x^3\\right) } = \\lim\\limits_{x \\to -\\infty} \\dfrac{1}{x} = 0$ suy ra $y=0$ là tiệm cận ngang của đồ thị hàm số khi $x \\to -\\infty$.<br> Xét $\\lim\\limits_{x \\to +\\infty} \\dfrac{y}{x} = \\lim\\limits_{x \\to +\\infty} \\dfrac{x^3\\left( \\sqrt{x^2-4}+x\\right)}{x(2x^3+3x^2-3x-2)} = 1 \\Rightarrow a=1$.<br> Suy ra $\\lim\\limits_{x \\to +\\infty} (y-x) = \\lim\\limits_{x \\to +\\infty} \\left[ \\dfrac{x^3\\left( \\sqrt{x^2-4}+x\\right)}{2x^3+3x^2-3x-2} - x\\right] = -\\dfrac{3}{2}$.<br> Vậy $y = x - 1{,}5$ là tiệm cận xiên của đồ thị hàm số khi $x \\to +\\infty$.<br> Từ đó ta có<br><br>- Tiệm cận đứng $x = -2$;<br><br>- Tiệm cận ngang $y = 0$ (khi $x \\to -\\infty$);<br><br>- Tiệm cận xiên $y = x - 1{,}5$ (khi $x \\to +\\infty$).<br>Vậy tổng số đường tiệm cận của đồ thị hàm số đã cho là $3$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D141TL28",
+    "question": "Đồ thị hàm số $y = \\dfrac{2x^2 - 3x + 5}{3x - 3}$ có đường tiệm cận xiên là $y = ax + b$. Tính $a \\cdot b$ (làm tròn kết quả đến hàng phần chục).",
+    "answer": "-0,2",
+    "explain": "Ta có $y = \\dfrac{2x^2 - 3x + 5}{3x - 3} = \\dfrac{2}{3}x - \\dfrac{1}{3} + \\dfrac{4}{3x - 3}$. <br> Mà $$\\lim_{x \\to +\\infty} \\left[ y - \\left( \\dfrac{2}{3}x - \\dfrac{1}{3} \\right) \\right] = \\lim_{x \\to +\\infty} \\dfrac{4}{3x - 3} = 0;$$ $$\\lim_{x \\to -\\infty} \\left[ y - \\left( \\dfrac{2}{3}x - \\dfrac{1}{3} \\right) \\right] = \\lim_{x \\to -\\infty} \\dfrac{4}{3x - 3} = 0.$$ Nên đồ thị hàm số có tiệm cận xiên là đường thẳng $y = \\dfrac{2}{3}x - \\dfrac{1}{3}$. <br> Do đó $a = \\dfrac{2}{3}; b = -\\dfrac{1}{3}$. <br> Vậy $a \\cdot b = \\dfrac{2}{3} \\cdot \\left( -\\dfrac{1}{3} \\right) = -\\dfrac{2}{9} \\approx -0{,}2$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D141TL29",
+    "question": "Cho hàm số $y=g(x)=\\ln\\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}$. Hỏi đồ thị hàm số có bao nhiêu đường tiệm cận (chỉ xét tiệm cận đứng và tiệm cận ngang)?",
+    "answer": "3",
+    "explain": "Điều kiện xác định $\\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}&gt;0\\Leftrightarrow\\left[\\begin{aligned}&-5&lt;x&lt;-1\\\\&x&gt;4\\end{aligned}\\right.$.<br> Vậy tập xác định $\\mathscr{D}=(-5;-1)\\cup(4;+\\infty)$.<br><br>- Trước hết ta tìm tiệm cận đứng.<br> Ta biết với $a&gt;1$ thì $\\lim\\limits_{x\\rightarrow 0^+}\\log_a x=-\\infty$; $\\lim\\limits_{x \\rightarrow+\\infty} \\log_a x=+\\infty$.<br> Đặt $f(x)=\\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}$.<br> Ta xét các giá trị của $x$ để $f(x) \\rightarrow 0^{+}$ và $f(x) \\rightarrow+\\infty$.<br><br>- Xét $x \\rightarrow-5^{+} \\Rightarrow f(x) \\rightarrow 0^{+}$.<br> Do đó $\\lim\\limits_{x \\rightarrow-5^{+}} \\ln f(x)=-\\infty$.<br> Vậy $x=-5$ là một đường tiệm cận đứng của đồ thị $y=g(x)=\\ln \\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}$.<br><br>- Xét $x \\rightarrow-1^{-} \\Rightarrow f(x) \\rightarrow+\\infty$.<br> Do đó $\\lim\\limits_{x \\rightarrow-1^{-}} \\ln f(x)=+\\infty$.<br> Vậy $x=-1$ là một đường tiệm cận đứng của đồ thị $y=g(x)=\\ln \\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}$.<br><br>- Xét $x \\rightarrow 4^{+} \\Rightarrow f(x) \\rightarrow+\\infty$.<br> Do đó $\\lim\\limits_{x \\rightarrow 4^{+}} \\ln f(x)=+\\infty$.<br> Vậy $x=4$ là một đường tiệm cận đứng của đồ thị $y=g(x)=\\ln \\dfrac{(x-2)^2(x+5)}{(x-4)(x+1)}$.<br>Vậy đồ thị đã cho có $3$ đường tiệm cận đứng.<br><br>- Ta có $\\lim\\limits_{x \\rightarrow+\\infty }f(x)=+\\infty$ nên $\\lim\\limits_{x \\rightarrow+\\infty} \\ln f(x)=+\\infty$.<br> Vậy đồ thị hàm số đã cho không có tiệm cận ngang.<br>Vậy đồ thị hàm số có $3$ đường tiệm cận.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D143TL30",
+    "question": "Cho hàm số $y=\\dfrac{x^2-4x+5}{x-2}$ có đồ thị $(C)$. Gọi $A$ là điểm cực trị có tung độ âm của đồ thị $(C)$. Khoảng cách từ điểm $A$ đến đường tiệm cận xiên của đồ thị hàm số $(C)$ bằng $\\dfrac{\\sqrt{a}}{b}$ với $a$, $b\\in\\mathbb{Z}^+$ và $a$ là số nguyên tố. Tính $2\\,026a+b$.",
+    "answer": "4054",
+    "explain": "Tập xác định $\\mathscr{D}=\\mathbb{R}\\setminus\\{2\\}$.<br> Ta có $$ y=\\dfrac{x^2-4x+5}{x-2} \\Rightarrow y'=\\dfrac{(2x-4)(x-2)-(x^2-4x+5)}{(x-2)^2} =\\dfrac{x^2-4x+3}{(x-2)^2}. $$ Ta lại có $$ y'=0 \\Leftrightarrow x^2-4x+3=0 \\Leftrightarrow \\left[\\begin{aligned} &x=1 \\Rightarrow y=-2\\\\ &x=3 \\Rightarrow y=2 \\end{aligned}\\right. \\Rightarrow A(1;-2). $$ Ta có $$ y=\\dfrac{x^2-4x+5}{x-2}=x-2+\\dfrac{1}{x-2} \\Rightarrow \\text{đồ thị có tiệm cận xiên } \\Delta\\colon y=x-2 \\Rightarrow x-y-2=0. $$ Do đó $$ \\mathrm{d}(A,\\Delta)= \\dfrac{|1+2-2|}{\\sqrt{1^2+(-1)^2}} =\\dfrac{\\sqrt{2}}{2} \\Rightarrow \\begin{cases} a&=2,\\\\ b&=2. \\end{cases} \\Rightarrow 2\\,026a+b=2\\,026\\cdot2+2=4\\,054. $$",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D143TL31",
+    "question": "Một quần thể vi khuẩn được nuôi cấy trong phòng thí nghiệm. Nồng độ dinh dưỡng $S$ (đơn vị mg/l) thay đổi theo thời gian $t$ giờ $(t \\geq 0)$ được mô hình hóa bởi hàm số $S(t)=\\dfrac{10 t+5}{t+1}$. Biết rằng tốc độ sinh trưởng $V$ của vi khuẩn phụ thuộc vào nồng độ dinh dưỡng theo hàm số $V(S)=\\dfrac{5 S}{S+2}$. Khi thời gian $t$ kéo dài, tốc độ sinh trưởng $V$ tăng dần và ổn định quanh một ngưỡng $K$ nhất định. Hỏi sau bao nhiêu <strong>phút</strong> thì tốc độ sinh trưởng của vi khuẩn đạt $90\\%$ của ngưỡng $K$ đó?",
+    "answer": "15",
+    "explain": "Khi thời gian $t$ kéo dài thì ta có \\[\\lim\\limits_{t\\to +\\infty}S(t)=\\lim\\limits_{t\\to +\\infty}\\dfrac{10 t+5}{t+1}=10.\\] Do đó $\\lim\\limits_{t\\to +\\infty}V(t)=\\lim\\limits_{S\\to 10}V(S)=\\lim\\limits_{S\\to 10}\\dfrac{5 S}{S+2}=\\dfrac{5\\cdot10}{10+2}=\\dfrac{25}{6}.$\t Suy ra $K=\\dfrac{25}{6}$.\t<br> Ta có $V(S)=90\\%\\cdot\\dfrac{25}{6}=\\dfrac{15}{4}$.<br> Khi đó $\\dfrac{5 S}{S+2}=\\dfrac{15}{4}\\Leftrightarrow S=6$.<br> Suy ra $S=6\\Leftrightarrow\\dfrac{10 t+5}{t+1}=6\\Leftrightarrow 10t+5=6t+6\\Leftrightarrow t=\\dfrac{1}{4}=0{,}25$ h $=15$ phút.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D143TL32",
+    "question": "Trong không gian với hệ trục tọa độ $Oxyz$ (đơn vị trên mỗi trục tính theo ki-lô-mét), mặt phẳng $Oxy$ trùng với mặt sân bay. Một máy bay bay theo đường thẳng từ vị trí $A(5;0;5)$ đến vị trí $B(10;10;3)$ và hạ cánh ở sân bay tại vị trí $M(a;b;c)$. Giá trị $a+b+c$ bằng bao nhiêu?",
+    "answer": "42,5",
+    "explain": "Ta có $\\overrightarrow{AB} = (10-5; 10-0; 3-5) = (5; 10; -2)$.<br> Phương trình đường thẳng $AB$ là $\\begin{cases}&x = 5 + 5t \\\\ &y = 10t \\\\ &z = 5 - 2t.\\end{cases}$<br> Vì $M \\in Oxy$ nên cao độ $c = 0$.<br> Thay vào phương trình đường thẳng $AB$ ta được<br> $5 - 2t = 0 \\Rightarrow t = 2{,}5$.<br> Với $t = 2{,}5$, ta tìm được $a = 5 + 5 \\cdot (2,5) = 17{,}5$ và $b = 10 \\cdot (2{,}5) = 25$. Suy ra $M(17{,}5; 25; 0)$. Vậy giá trị $a + b + c = 17{,}5 + 25 + 0 = 42{,}5$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

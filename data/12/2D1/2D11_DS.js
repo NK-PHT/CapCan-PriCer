@@ -334,5 +334,101 @@ window.dungSai2D11 = [
     ],
     "explain": "Từ đồ thị ta có $f'(x)=0\\Leftrightarrow x=-1$.<br>  Ta có bảng biến thiên của $f(x)$ như sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_084.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Từ bảng biến thiên ta thấy hàm số đồng biến trên khoảng $(-1;+\\infty)$ và nghịch biến trên khoảng $(-\\infty;-1)$.  <br>- <strong>Đúng</strong>.<br>   Do $(0;2)\\subset (-1;+\\infty)$ nên hàm số $y=f(x)$ đồng biến trên khoảng $(0;2)$.<br>- <strong>Sai</strong>.<br>   Hàm số chỉ có $1$ điểm cực trị.<br>- <strong>Đúng</strong>.<br>   Ta có $h'(x)=f'(x)$, do đó $h(x)$ có cùng tính chất với $f(x)$ hay hàm số $h(x)$ nghịch biến trên khoảng $(-\\infty;-1)$.<br>- <strong>Đúng</strong>.<br>   Ta có $g'(x)=(1-2x)'f'(1-2x)=-2f'(1-2x)$.<br>  Xét $g'(x)=0\\Leftrightarrow 1-2x=-1\\Leftrightarrow x=1$.<br>  Ta có bảng biến thiên của $g(x)$ như sau  <br><img src=\"data/12/2D1/im2D1/2D11_tikz_085.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Ta thấy hàm số đồng biến trên khoảng $(1;+\\infty)$ và nghịch biến trên khoảng $(-\\infty;1)$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D111DS13",
+    "question": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau<br><img src=\"data/12/2D1/im2D11/2D11_ex12_008.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Đồ thị hàm số có đường tiệm cận đứng $x=2$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số có đúng một điểm cực trị",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đạt giá trị lớn nhất bằng $2$ tại $x$ bằng $4$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số đồng biến trên khoảng $(2 ; 3)$",
+        "answer": true
+      }
+    ],
+    "explain": "Từ bảng biến thiên ta có<br>- <strong>Đúng</strong>.<br>  Đồ thị hàm số có đường tiệm cận đứng $x=2$.<br>- <strong>Đúng</strong>.<br>  Hàm số có đúng $1$ điểm cực trị là điểm cực đại $x=4$.<br>- <strong>Sai</strong>.<br>  Hàm số không tồn tại giá trị lớn nhất.<br>- <strong>Đúng</strong>.<br>  Hàm số đồng biến trên khoảng $(2;4)$ nên đồng biến trên $(2;3)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D112DS14",
+    "question": "Cho hàm số $y=f(x)=ax^3+bx^2+cx+d$ có đồ thì như hình vẽ dưới đây<br><img src=\"data/12/2D1/im2D11/2D11_ex12_001.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$2a+3b+c=9$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số đạt cực tiểu tại $x=1$",
+        "answer": false
+      },
+      {
+        "text": "Tổng giá trị lớn nhất, giá trị nhỏ nhất của hàm số trên $[-1;0]$ bằng $3$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số đồng biến trên khoảng $(-\\infty;-1)$",
+        "answer": false
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Đồ thị qua $(-2;1)$, $(-1;2)$, $(0;1)$ và đạt cực trị tại $x=0$ nên $d=1$, $c=0$ (vì $f'(0)=c=0$). Từ $-8a+4b+1=1$ và $-a+b+1=2$ suy ra $a=1$, $b=2$. Vậy $2a+3b+c=2+6+0=8\\neq 9$.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> Dựa vào đồ thị hàm số, ta thấy hàm số đạt cực tiểu tại $x=0$.<br>- <strong>Đúng</strong>.<br>  <strong>Đúng</strong>.<br> Dựa vào đồ thị hàm số, ta thấy<br><br>- Giá trị lớn nhất của hàm số trên đoạn $[-1;0]$ là $2$.<br><br>- Giá trị nhỏ nhất của hàm số trên đoạn $[-1;0]$ là $1$.<br>Vậy tổng giá trị lớn nhất, giá trị nhỏ nhất của hàm số trên đoạn $[-1;0]$ bằng $2+1=3$.<br>- <strong>Sai</strong>.<br>  <strong>Sai</strong>.<br> Dựa vào đồ thị hàm số, ta thấy hàm số đồng biến trên khoảng $(-\\infty;a)$ với $a\\in(-2;-1)$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D112DS15",
+    "question": "Cho hàm số $y = f(x) = \\dfrac{x^2 + bx + c}{x-2}$ có đạo hàm $f'(x)$. Đồ thị của hàm số $f'(x)$ như hình vẽ bên.<br><br><img src=\"data/12/2D1/im2D11/2D11_ex12_004.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "Phương trình $f'(x) = 0$ có hai nghiệm $x=1$ và $x=3$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $y = f(x)$ nghịch biến trên khoảng $(1;3)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y = f(x)$ đạt cực đại tại $x=1$ và đạt cực tiểu tại $x=3$",
+        "answer": true
+      },
+      {
+        "text": "Nếu $f(0)=1$ thì $\\max\\limits_{[3;4]} f(x) = 6$",
+        "answer": true
+      }
+    ],
+    "explain": "Tập xác định $\\mathscr{D} = \\mathbb{R} \\setminus \\{2\\}$.<br>- <strong>Đúng</strong>.<br>  Dựa vào đồ thị ta thấy $f'(x) = 0$ có hai nghiệm $x=1$ và $x=3$.<br>- <strong>Sai</strong>.<br>  Ta có $f'(x) = \\dfrac{x^2-4x-2b-c}{(x-2)^2} = 0 \\Leftrightarrow \\left[\\begin{aligned}&x=1\\\\&x=3.\\end{aligned}\\right.$<br> Bảng xét dấu<br><img src=\"data/12/2D1/im2D11/2D11_ex12_003.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Vậy hàm số $y = f(x)$ nghịch biến trên các khoảng $(1;2)$ và $(2;3)$.<br>- <strong>Đúng</strong>.<br>  Dựa vào bảng xét dấu ta thấy hàm số $y = f(x)$ đạt cực đại tại $x=1$ và đạt cực tiểu tại $x=3$.<br>- <strong>Đúng</strong>.<br>  Nếu $f(0)=1$ thì $\\dfrac{c}{-2}=1 \\Rightarrow c=-2$. <br> Mà $f'(1)=0 \\Rightarrow 1-4-2b+2=0 \\Rightarrow b=-\\dfrac{1}{2}$. Khi đó $f(x)=\\dfrac{x^2-\\dfrac{1}{2}x-2}{x-2}$. <br> Mà hàm số $y = f(x)$ đồng biến trên đoạn $[3;4]$ nên $\\max\\limits_{[3;4]} f(x) = f(4) = 6$.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
+  },
+  {
+    "id": "2D112DS16",
+    "question": "Cho hàm số $y=f(x)$ có đạo hàm trên $\\mathbb{R}$ và hàm số $y=f'(x)$ là hàm số bậc ba có đồ thị như hình vẽ<br><br><img src=\"data/12/2D1/im2D11/2D11_ex12_007.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
+    "subQuestions": [
+      {
+        "text": "$f'(2)=48$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $y=f(x)$ đồng biến trên khoảng $(0;+\\infty)$",
+        "answer": false
+      },
+      {
+        "text": "Hàm số $g(x)=f(x)-\\dfrac{1}{2}x^2+x+2026$ đồng biến trên khoảng $(1;2026)$",
+        "answer": true
+      },
+      {
+        "text": "Hàm số $y=f(x)$ có duy nhất một điểm cực trị",
+        "answer": true
+      }
+    ],
+    "explain": "- <strong>Sai</strong>.<br>  Từ đồ thị ta thấy $f'(x)$ đạt cực đại tại $x=-2$ và tiếp xúc với trục hoành, đồng thời cắt trục hoành tại $x=1$.<br> Do đó $f'(x)$ có dạng $f'(x)=a(x+2)^2(x-1)$.<br> Đồ thị đi qua điểm $(0;-4) \\Rightarrow a(0+2)^2(0-1) = -4 \\Rightarrow -4a = -4 \\Rightarrow a=1$.<br> Vậy $f'(x)=(x+2)^2(x-1) \\Rightarrow f'(2)=(2+2)^2(2-1)=16$.<br>- <strong>Sai</strong>.<br>  Dựa vào đồ thị hàm số $f'(x)$ ta có $f'(x) \\le 0$, $\\forall x \\le 1$ và $f'(x) &gt; 0$, $\\forall x &gt; 1$ nên hàm số $y=f(x)$ đồng biến trên khoảng $(1;+\\infty)$.<br>- <strong>Đúng</strong>.<br>  Ta có $g'(x)=f'(x)-x+1$.<br> Xét $g'(x)=0 \\Leftrightarrow f'(x)=x-1$.<br> Vẽ đường thẳng $d\\colon y=x-1$ đi qua các điểm $A(-3;-4)$, $B(-1;-2)$, $C(1;0)$.<br><img src=\"data/12/2D1/im2D11/2D11_ex12_005.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Bảng biến thiên<br><img src=\"data/12/2D1/im2D11/2D11_ex12_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>Dựa vào tương giao đồ thị và bảng biến thiên, ta thấy trên khoảng $(1;+\\infty)$, đồ thị $f'(x)$ luôn nằm phía trên đường thẳng $d\\colon y=x-1$, suy ra $g'(x) &gt; 0$, $\\forall x \\in (1;+\\infty)$.<br> Vì $g(x)$ đồng biến trên $(1;+\\infty)$ nên nó đồng biến trên khoảng $(1;2026)$.<br>- <strong>Đúng</strong>.<br>  Từ đồ thị hàm số $y=f'(x)$, ta thấy $f'(x)$ chỉ đổi dấu từ âm sang dương khi đi qua điểm $x=1$ (điểm $x=-2$ là nghiệm kép, $f'(x)$ không đổi dấu).<br> Do đó hàm số $y=f(x)$ có duy nhất một điểm cực trị.",
+    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
