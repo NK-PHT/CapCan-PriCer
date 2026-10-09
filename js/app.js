@@ -202,8 +202,35 @@ const DanhMucChuong = {
 
         { value: "0C11", text: "Chuyên đề 10 ➔ C1 ➔ Hệ phương trình bậc nhất ba ẩn và ứng dụng" },
         { value: "0C21", text: "Chuyên đề 10 ➔ C2 ➔ Phương pháp quy nạp toán học" },
+    ],
+    daihoc: [
+        { hp: "DSTT", value: "DH_DSTT_C1_TongOn", text: "Đại số tuyến tính ➔ 🔹 Tổng ôn Chương 1: Số phức" },
+        { hp: "DSTT", value: "3D11", text: "Đại số tuyến tính ➔ C1 ➔ §1. Dạng đại số, các phép toán, số phức liên hợp và môđun" },
+        { hp: "DSTT", value: "3D12", text: "Đại số tuyến tính ➔ C1 ➔ §2. Dạng lượng giác và dạng mũ, lũy thừa, căn bậc n" },
+        { hp: "DSTT", value: "3D13", text: "Đại số tuyến tính ➔ C1 ➔ §3. Phương trình, đa thức và biểu diễn hình học trên ℂ" },
+        { hp: "DSTT", value: "DH_DSTT_C2_TongOn", text: "Đại số tuyến tính ➔ 🔹 Tổng ôn Chương 2: Ma trận và định thức" },
+        { hp: "DSTT", value: "3D21", text: "Đại số tuyến tính ➔ C2 ➔ §1. Ma trận và các phép toán trên ma trận" },
+        { hp: "DSTT", value: "3D22", text: "Đại số tuyến tính ➔ C2 ➔ §2. Định thức" },
+        { hp: "DSTT", value: "3D23", text: "Đại số tuyến tính ➔ C2 ➔ §3. Ma trận nghịch đảo, hạng ma trận và hệ phương trình tuyến tính" },
+        { hp: "DSTT", value: "DH_DSTT_C3_TongOn", text: "Đại số tuyến tính ➔ 🔹 Tổng ôn Chương 3: Không gian vector" },
+        { hp: "DSTT", value: "3D31", text: "Đại số tuyến tính ➔ C3 ➔ §1. Không gian vector và không gian con" },
+        { hp: "DSTT", value: "3D32", text: "Đại số tuyến tính ➔ C3 ➔ §2. Độc lập tuyến tính, hệ sinh, cơ sở và số chiều" },
+        { hp: "DSTT", value: "3D33", text: "Đại số tuyến tính ➔ C3 ➔ §3. Tọa độ, ma trận chuyển cơ sở, hạng và không gian nghiệm" },
+        { hp: "DSTT", value: "DH_DSTT_C4_TongOn", text: "Đại số tuyến tính ➔ 🔹 Tổng ôn Chương 4: Ánh xạ tuyến tính" },
+        { hp: "DSTT", value: "3D41", text: "Đại số tuyến tính ➔ C4 ➔ §1. Ánh xạ tuyến tính, nhân và ảnh" },
+        { hp: "DSTT", value: "3D42", text: "Đại số tuyến tính ➔ C4 ➔ §2. Ma trận của ánh xạ tuyến tính" },
+        { hp: "DSTT", value: "3D43", text: "Đại số tuyến tính ➔ C4 ➔ §3. Trị riêng, vector riêng và chéo hóa" },
     ]
 };
+
+// Danh sách học phần của khối Đại học (học phần chưa có câu hỏi sẽ hiện "đang cập nhật")
+const DanhMucHocPhan = [
+    { ma: "DSTT", ten: "Đại số tuyến tính" },
+    { ma: "GT", ten: "Giải tích" },
+    { ma: "RR", ten: "Toán rời rạc" },
+    { ma: "HHGT", ten: "Hình học giải tích (afin – Euclid)" },
+    { ma: "HHVP", ten: "Hình học vi phân" }
+];
 
 // =========================================================================
 // 2. KHO DỮ LIỆU TỔNG VÀ BỘ QUÉT ĐỘNG TOÀN CỤC (Dynamic Global Scanner)
@@ -485,12 +512,82 @@ function xepThuTuUuTienChuaDung(dsCauHoi, bucketKey, trangThaiToanCuc) {
     return thuTuUuTien.map(id => banDo.get(id));
 }
 
+// ---- Cấp độ: THCS / THPT / Đại học ----
 const selectLop = document.getElementById('select-lop');
+let capDoHienTai = 'thpt';
+let lopThptCuoi = 'lop12';
+
+function laDaiHoc() { return selectLop.value === 'daihoc'; }
+
+/** Số câu của một đề: THPT theo cấu trúc 12 TN / 4 ĐS / 6 TLN; Đại học luyện theo chủ đề: 0 TN / 4 ĐS / 6 TLN. */
+function layYeuCauSoCau() {
+    return laDaiHoc()
+        ? { tracNghiem: 0, dungSai: 4, traLoiNgan: 6 }
+        : { tracNghiem: 12, dungSai: 4, traLoiNgan: 6 };
+}
+function layDiemToiDa() {
+    const y = layYeuCauSoCau();
+    return y.tracNghiem * 0.25 + y.dungSai * 1 + y.traLoiNgan * 0.5;
+}
+
+function hienThiTheoCapDo() {
+    const lv = capDoHienTai;
+    document.body.setAttribute('data-lv', lv);
+    document.querySelectorAll('#lv-seg button').forEach(b => b.classList.toggle('active', b.dataset.lv === lv));
+    const q = id => document.getElementById(id) || { style: {}, innerHTML: '', classList: { contains: () => true } };
+    q('ctl-main').style.display = (lv === 'thcs') ? 'none' : '';
+    q('thcs-soon').style.display = (lv === 'thcs') ? '' : 'none';
+    q('wrap-lop').style.display = (lv === 'thpt') ? '' : 'none';
+    q('wrap-hp').style.display = (lv === 'dh') ? '' : 'none';
+    q('lbl-nhom').innerHTML = (lv === 'dh')
+        ? '<i class="fa-solid fa-book me-1"></i> CHƯƠNG' : '<i class="fa-solid fa-book me-1"></i> CHƯƠNG';
+    q('btn-generate').innerHTML = (lv === 'dh')
+        ? '<i class="fa-solid fa-play me-1"></i> BẮT ĐẦU LUYỆN TẬP'
+        : '<i class="fa-solid fa-play me-1"></i> PHÁT ĐỀ TÍNH GIỜ';
+    const tm = q('exam-timer');
+    if (!thoiDiemBatDauLamBai || document.getElementById('btn-submit').classList.contains('d-none')) {
+        tm.innerHTML = '<i class="fa-regular fa-clock me-2"></i>' + (lv === 'dh' ? '00:00' : '90:00');
+    }
+}
+
+/** Suy ra cấp độ từ giá trị select-lop (dùng khi khôi phục bài làm dở). */
+function dongBoCapDoTheoLop() {
+    capDoHienTai = laDaiHoc() ? 'dh' : 'thpt';
+    if (!laDaiHoc()) lopThptCuoi = selectLop.value;
+    hienThiTheoCapDo();
+}
+
+function chonCapDo(lv) {
+    if (lv === capDoHienTai) return;
+    capDoHienTai = lv;
+    if (lv === 'dh') {
+        selectLop.value = 'daihoc';
+    } else if (lv === 'thpt') {
+        selectLop.value = lopThptCuoi || 'lop12';
+    }
+    if (lv !== 'thcs') {
+        capNhatDanhSachChuong();
+        dongBoGiaoDienChuong();
+    }
+    hienThiTheoCapDo();
+}
+document.querySelectorAll('#lv-seg button').forEach(b => b.addEventListener('click', () => chonCapDo(b.dataset.lv)));
+
+// (bank.html cũ không có các phần tử cấp độ/học phần -> dùng đối tượng giả để không lỗi)
+const selectHp = document.getElementById('select-hp') || { innerHTML: '', value: '', addEventListener() {} };
+selectHp.innerHTML = DanhMucHocPhan.map(h => {
+    const coDuLieu = (DanhMucChuong.daihoc || []).some(c => c.hp === h.ma);
+    return `<option value="${h.ma}">${h.ten}${coDuLieu ? '' : ' (đang cập nhật)'}</option>`;
+}).join('');
+selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(); });
+selectLop.addEventListener('change', () => { if (!laDaiHoc()) lopThptCuoi = selectLop.value; });
+
 const selectChuong = document.getElementById('select-chuong');
 
 function capNhatDanhSachChuong() {
     const lopDuocChon = selectLop.value;
-    const chuongS = DanhMucChuong[lopDuocChon] || [];
+    let chuongS = DanhMucChuong[lopDuocChon] || [];
+    if (lopDuocChon === 'daihoc') chuongS = chuongS.filter(c => c.hp === selectHp.value);
     selectChuong.innerHTML = chuongS.map(c => `<option value="${c.value}">${c.text}</option>`).join('');
 }
 selectLop.addEventListener('change', capNhatDanhSachChuong);
@@ -502,7 +599,8 @@ const listBai = document.getElementById('list-bai');
 let nhomHienTai = [];
 
 function phanNhomDanhMuc() {
-    const ds = DanhMucChuong[selectLop.value] || [];
+    let ds = DanhMucChuong[selectLop.value] || [];
+    if (selectLop.value === 'daihoc') ds = ds.filter(c => c.hp === selectHp.value);
     const nhom = [];
     let cur = null;
     ds.forEach(c => {
@@ -526,7 +624,13 @@ function phanNhomDanhMuc() {
 
 function veDanhSachBai(idxNhom, giaTriChon) {
     const nhom = nhomHienTai[idxNhom];
-    if (!nhom) { listBai.innerHTML = ''; return; }
+    if (!nhom) {
+        listBai.innerHTML = laDaiHoc()
+            ? '<div class="text-muted small p-2"><i class="fa-solid fa-hourglass-half me-1"></i>Học phần này đang được cập nhật câu hỏi — bạn quay lại sau nhé.</div>'
+            : '';
+        selectChuong.innerHTML = '';
+        return;
+    }
     const chon = giaTriChon || nhom.muc[0].value;
     listBai.innerHTML = nhom.muc.map((m, i) => {
         const cls = 'bai-item' + (m.tongOn ? ' bai-tongon' : '') + (m.value === chon ? ' is-checked' : '');
@@ -539,6 +643,7 @@ function veDanhSachBai(idxNhom, giaTriChon) {
 function dongBoGiaoDienChuong() {
     nhomHienTai = phanNhomDanhMuc();
     selectNhom.innerHTML = nhomHienTai.map((n, i) => `<option value="${i}">${n.ten}</option>`).join('');
+    if (nhomHienTai.length === 0) { veDanhSachBai(0, null); return; }
     // Mặc định: chương đầu tiên có bài (bỏ qua nhóm "Đề ôn" nếu muốn chọn bài), giữ nhóm đề ôn ở đầu danh sách
     const giaTri = selectChuong.value;
     let idx = nhomHienTai.findIndex(n => n.muc.some(m => m.value === giaTri));
@@ -556,8 +661,10 @@ listBai.addEventListener('change', e => {
 });
 selectLop.addEventListener('change', dongBoGiaoDienChuong);
 dongBoGiaoDienChuong();
+hienThiTheoCapDo();
 
 function startTimer(soGiayKhoiTao, thoiDiemBatDauGoc) {
+    if (laDaiHoc()) { startDongHoLuyenTap(thoiDiemBatDauGoc); return; }
     // soGiayKhoiTao/thoiDiemBatDauGoc chỉ được truyền vào khi KHÔI PHỤC một
     // bài đang làm dở (xem khoiPhucBaiLamNeuCo) - giữ nguyên mốc thời gian
     // bắt đầu gốc để tính đúng "thời gian làm bài" lúc nộp, và đếm tiếp từ
@@ -580,6 +687,22 @@ function startTimer(soGiayKhoiTao, thoiDiemBatDauGoc) {
         }
         thoiGianConLai--;
     }, 1000);
+}
+
+/** Chế độ luyện tập (Đại học): đồng hồ đếm lên, không giới hạn thời gian, không tự thu bài. */
+function startDongHoLuyenTap(thoiDiemBatDauGoc) {
+    thoiDiemBatDauLamBai = thoiDiemBatDauGoc || Date.now();
+    const timerElement = document.getElementById('exam-timer');
+    timerElement.style.display = 'block';
+    clearInterval(boDemThoiGian);
+    const ve = () => {
+        const tong = Math.max(0, Math.floor((Date.now() - thoiDiemBatDauLamBai) / 1000));
+        const m = String(Math.floor(tong / 60)).padStart(2, '0');
+        const g = String(tong % 60).padStart(2, '0');
+        timerElement.innerHTML = `<i class="fa-regular fa-clock me-2"></i>${m}:${g}`;
+    };
+    ve();
+    boDemThoiGian = setInterval(ve, 1000);
 }
 
 // =========================================================================
@@ -648,7 +771,13 @@ const CHUONG_TONG_ON_DAC_BIET = {
     "10_C7_TongOn": ["0D71", "0D72", "0D73"],
     "10_C8_TongOn": ["0D81", "0D82", "0D83"],
     "10_C9_TongOn": ["0H91", "0H92", "0H93", "0H94", "0H95"],
-    "10_C10_TongOn": ["0D01", "0D02"]
+    "10_C10_TongOn": ["0D01", "0D02"],
+
+    // ===== ĐẠI HỌC =====
+    "DH_DSTT_C1_TongOn": ["3D11", "3D12", "3D13"],
+    "DH_DSTT_C2_TongOn": ["3D21", "3D22", "3D23"],
+    "DH_DSTT_C3_TongOn": ["3D31", "3D32", "3D33"],
+    "DH_DSTT_C4_TongOn": ["3D41", "3D42", "3D43"]
 };
 
 /**
@@ -668,7 +797,7 @@ const CHUONG_TONG_ON_DAC_BIET = {
  * giảm trùng lặp giữa các lần "Phát đề" liên tiếp của cùng lựa chọn này.
  */
 function taoDeTongOnTheoChuong(danhSachMaBai, tienToBucket) {
-    const TARGET = { tracNghiem: 12, dungSai: 4, traLoiNgan: 6 };
+    const TARGET = layYeuCauSoCau();
     const ketQua = { tracNghiem: [], dungSai: [], traLoiNgan: [] };
     const trangThaiToanCuc = docKhoCauConLai();
 
@@ -719,6 +848,10 @@ function taoDeTongOnTheoChuong(danhSachMaBai, tienToBucket) {
 
 document.getElementById('btn-generate').addEventListener('click', () => {
     const maChuongDuocChon = selectChuong.value;
+    if (!maChuongDuocChon) {
+        alert("⚠️ Phần này đang được cập nhật câu hỏi, bạn chọn mục khác nhé!");
+        return;
+    }
 
     // 🌟 ĐỀ "TỔNG ÔN MỖI CHƯƠNG" (mỗi bài góp đều 1 câu) - xử lý riêng, không
     // đụng vào logic NHOM_MA_CHUONG_DAC_BIET / đơn bài phía dưới.
@@ -765,13 +898,14 @@ document.getElementById('btn-generate').addEventListener('click', () => {
     // 🌟 CỐ ĐỊNH SỐ CÂU TRƯỚC KHI RENDER - ưu tiên câu CHƯA từng ra cho lựa
     // chọn này (xem XOAY VÒNG CÂU HỎI CHƯA DÙNG ở trên), chỉ lặp lại câu cũ
     // khi đã dùng hết sạch cả kho của "maChuongDuocChon".
+    const yeuCau = layYeuCauSoCau();
     const deThiTron = {
-        tracNghiem: chonCauHoiXoayVong(khoTracNghiem, 12, `${maChuongDuocChon}:tracNghiem`),
-        dungSai: chonCauHoiXoayVong(khoDungSai, 4, `${maChuongDuocChon}:dungSai`),
-        traLoiNgan: chonCauHoiXoayVong(khoTraLoiNgan, 6, `${maChuongDuocChon}:traLoiNgan`)
+        tracNghiem: yeuCau.tracNghiem > 0 ? chonCauHoiXoayVong(khoTracNghiem, yeuCau.tracNghiem, `${maChuongDuocChon}:tracNghiem`) : [],
+        dungSai: chonCauHoiXoayVong(khoDungSai, yeuCau.dungSai, `${maChuongDuocChon}:dungSai`),
+        traLoiNgan: chonCauHoiXoayVong(khoTraLoiNgan, yeuCau.traLoiNgan, `${maChuongDuocChon}:traLoiNgan`)
     };
-    if (deThiTron.tracNghiem.length < 12 || deThiTron.dungSai.length < 4 || deThiTron.traLoiNgan.length < 6) {
-        alert("⚠️ Cảnh báo: Kho dữ liệu không đủ số câu hỏi yêu cầu (Cần 12 TN, 4 DS, 6 TLN).");
+    if (deThiTron.tracNghiem.length < yeuCau.tracNghiem || deThiTron.dungSai.length < yeuCau.dungSai || deThiTron.traLoiNgan.length < yeuCau.traLoiNgan) {
+        alert(`⚠️ Cảnh báo: Kho dữ liệu không đủ số câu hỏi yêu cầu (Cần ${yeuCau.tracNghiem} TN, ${yeuCau.dungSai} DS, ${yeuCau.traLoiNgan} TLN).`);
     }
     deThiHienTai = deThiTron;
     renderQuiz(deThiHienTai);
@@ -1060,7 +1194,7 @@ function nopBaiVaChamDiem() {
     });
 
     const resultBox = document.getElementById('result-box');
-    resultBox.innerHTML = `Thí sinh: <strong>${hoTenHocSinh}</strong><br>Tổng điểm đạt được: <span style="font-size:1.6rem; color:#ef4444;"><strong>${tongDiem.toFixed(2)}</strong></span> / 10 điểm!`;
+    resultBox.innerHTML = `Thí sinh: <strong>${hoTenHocSinh}</strong><br>Tổng điểm đạt được: <span style="font-size:1.6rem; color:#ef4444;"><strong>${tongDiem.toFixed(2)}</strong></span> / ${laDaiHoc() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : '10'} điểm!`;
     resultBox.classList.remove('d-none');
     
     document.querySelectorAll('.explain-box').forEach(box => box.style.display = 'block');
@@ -1118,7 +1252,7 @@ function nopBaiVaChamDiem() {
         const duLieuGui = new URLSearchParams();
         duLieuGui.append(FORM_ENTRY_HOTEN, hoTenHocSinh);
         duLieuGui.append(FORM_ENTRY_CHUONG, chuongHoc);
-        duLieuGui.append(FORM_ENTRY_DIEM, tongDiem.toFixed(2) + "/10");
+        duLieuGui.append(FORM_ENTRY_DIEM, tongDiem.toFixed(2) + "/" + (laDaiHoc() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : "10"));
         duLieuGui.append(FORM_ENTRY_THOIGIAN, thoiGianLamBaiText);
         duLieuGui.append(FORM_ENTRY_LINK, linkXemLaiBaiLam);
 
@@ -1367,7 +1501,7 @@ function khoiPhucBaiLamNeuCo() {
     }
 
     const daTroiQuaGiay = Math.floor((Date.now() - banGhi.batDau) / 1000);
-    const conLaiGiay = 90 * 60 - daTroiQuaGiay;
+    const conLaiGiay = (banGhi.lop === 'daihoc' ? 24 * 3600 : 90 * 60) - daTroiQuaGiay;
     if (conLaiGiay <= 0) {
         xoaTienDoBaiLamDaLuu(); // bai da luu qua han 90 phut, khong khoi phuc nua
         return;
@@ -1387,6 +1521,11 @@ function khoiPhucBaiLamNeuCo() {
     // lúc bắt đầu (để lúc nộp bài, tên chuyên đề ghi lại đúng như cũ).
     if (banGhi.lop) {
         selectLop.value = banGhi.lop;
+        if (banGhi.lop === 'daihoc' && banGhi.chuong) {
+            const mucDH = (DanhMucChuong.daihoc || []).find(c => c.value === banGhi.chuong);
+            if (mucDH) selectHp.value = mucDH.hp;
+        }
+        dongBoCapDoTheoLop();
         capNhatDanhSachChuong();
         if (banGhi.chuong) selectChuong.value = banGhi.chuong;
         dongBoGiaoDienChuong();
