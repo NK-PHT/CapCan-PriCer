@@ -203,6 +203,60 @@ const DanhMucChuong = {
         { value: "0C11", text: "Chuyên đề 10 ➔ C1 ➔ Hệ phương trình bậc nhất ba ẩn và ứng dụng" },
         { value: "0C21", text: "Chuyên đề 10 ➔ C2 ➔ Phương pháp quy nạp toán học" },
     ],
+    lop9: [
+        { value: "9_C1_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 1: Phương trình và hệ phương trình bậc nhất hai ẩn" },
+        { value: "9D11", text: "Lớp 9 ➔ C1 ➔ §1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn" },
+        { value: "9D12", text: "Lớp 9 ➔ C1 ➔ §2. Giải hệ hai phương trình bậc nhất hai ẩn" },
+        { value: "9D13", text: "Lớp 9 ➔ C1 ➔ §3. Giải bài toán bằng cách lập hệ phương trình" },
+
+        { value: "9_C2_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 2: Phương trình và bất phương trình bậc nhất một ẩn" },
+        { value: "9D21", text: "Lớp 9 ➔ C2 ➔ §1. Phương trình quy về phương trình bậc nhất một ẩn" },
+        { value: "9D22", text: "Lớp 9 ➔ C2 ➔ §2. Bất đẳng thức và tính chất" },
+        { value: "9D23", text: "Lớp 9 ➔ C2 ➔ §3. Bất phương trình bậc nhất một ẩn" },
+
+        { value: "9_C3_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 3: Căn bậc hai và căn bậc ba" },
+        { value: "9D31", text: "Lớp 9 ➔ C3 ➔ §1. Căn bậc hai và căn thức bậc hai" },
+        { value: "9D32", text: "Lớp 9 ➔ C3 ➔ §2. Khai căn bậc hai với phép nhân và phép chia" },
+        { value: "9D33", text: "Lớp 9 ➔ C3 ➔ §3. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai" },
+        { value: "9D34", text: "Lớp 9 ➔ C3 ➔ §4. Căn bậc ba và căn thức bậc ba" },
+
+        { value: "9_C4_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 4: Hệ thức lượng trong tam giác vuông" },
+        { value: "9H41", text: "Lớp 9 ➔ C4 ➔ §1. Tỉ số lượng giác của góc nhọn" },
+        { value: "9H42", text: "Lớp 9 ➔ C4 ➔ §2. Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng" },
+
+        { value: "9_C5_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 5: Đường tròn" },
+        { value: "9H51", text: "Lớp 9 ➔ C5 ➔ §1. Mở đầu về đường tròn" },
+        { value: "9H52", text: "Lớp 9 ➔ C5 ➔ §2. Cung và dây của một đường tròn" },
+        { value: "9H53", text: "Lớp 9 ➔ C5 ➔ §3. Độ dài của cung tròn, diện tích hình quạt tròn và hình vành khuyên" },
+        { value: "9H54", text: "Lớp 9 ➔ C5 ➔ §4. Vị trí tương đối của đường thẳng và đường tròn" },
+        { value: "9H55", text: "Lớp 9 ➔ C5 ➔ §5. Vị trí tương đối của hai đường tròn" },
+
+        { value: "9_C6_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 6: Hàm số y = ax² (a ≠ 0) và phương trình bậc hai một ẩn" },
+        { value: "9D61", text: "Lớp 9 ➔ C6 ➔ §1. Hàm số y = ax² (a ≠ 0)" },
+        { value: "9D62", text: "Lớp 9 ➔ C6 ➔ §2. Phương trình bậc hai một ẩn" },
+        { value: "9D63", text: "Lớp 9 ➔ C6 ➔ §3. Định lí Viète và ứng dụng" },
+        { value: "9D64", text: "Lớp 9 ➔ C6 ➔ §4. Giải bài toán bằng cách lập phương trình" },
+
+        { value: "9_C7_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 7: Tần số và tần số tương đối" },
+        { value: "9D71", text: "Lớp 9 ➔ C7 ➔ §1. Bảng tần số và biểu đồ tần số" },
+        { value: "9D72", text: "Lớp 9 ➔ C7 ➔ §2. Bảng tần số tương đối và biểu đồ tần số tương đối" },
+        { value: "9D73", text: "Lớp 9 ➔ C7 ➔ §3. Tần số ghép nhóm, tần số tương đối ghép nhóm" },
+
+        { value: "9_C8_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 8: Xác suất của biến cố trong một số mô hình xác suất đơn giản" },
+        { value: "9D81", text: "Lớp 9 ➔ C8 ➔ §1. Phép thử ngẫu nhiên và không gian mẫu" },
+        { value: "9D82", text: "Lớp 9 ➔ C8 ➔ §2. Xác suất của biến cố liên quan tới phép thử" },
+
+        { value: "9_C9_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 9: Đường tròn ngoại tiếp và đường tròn nội tiếp" },
+        { value: "9H91", text: "Lớp 9 ➔ C9 ➔ §1. Góc nội tiếp" },
+        { value: "9H92", text: "Lớp 9 ➔ C9 ➔ §2. Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác" },
+        { value: "9H93", text: "Lớp 9 ➔ C9 ➔ §3. Tứ giác nội tiếp" },
+        { value: "9H94", text: "Lớp 9 ➔ C9 ➔ §4. Đa giác đều và phép quay" },
+
+        { value: "9_C10_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 10: Một số hình khối trong thực tiễn" },
+        { value: "9H01", text: "Lớp 9 ➔ C10 ➔ §1. Hình trụ và hình nón" },
+        { value: "9H02", text: "Lớp 9 ➔ C10 ➔ §2. Hình cầu" },
+
+    ],
     daihoc: [
         { hp: "DSTT", value: "DH_DSTT_C1_TongOn", text: "Đại số tuyến tính ➔ 🔹 Tổng ôn Chương 1: Số phức" },
         { hp: "DSTT", value: "3D11", text: "Đại số tuyến tính ➔ C1 ➔ §1. Dạng đại số, các phép toán, số phức liên hợp và môđun" },
@@ -538,10 +592,12 @@ let capDoHienTai = 'thpt';
 let lopThptCuoi = 'lop12';
 
 function laDaiHoc() { return selectLop.value === 'daihoc'; }
+/** Chế độ luyện tập theo mục (Đại học, THCS): 4 Đúng–Sai + 6 Trả lời ngắn, đồng hồ đếm lên, điểm tối đa 7. */
+function laLuyenTap() { return selectLop.value === 'daihoc' || /^lop[6-9]$/.test(selectLop.value); }
 
 /** Số câu của một đề: THPT theo cấu trúc 12 TN / 4 ĐS / 6 TLN; Đại học luyện theo chủ đề: 0 TN / 4 ĐS / 6 TLN. */
 function layYeuCauSoCau() {
-    return laDaiHoc()
+    return laLuyenTap()
         ? { tracNghiem: 0, dungSai: 4, traLoiNgan: 6 }
         : { tracNghiem: 12, dungSai: 4, traLoiNgan: 6 };
 }
@@ -568,23 +624,23 @@ function hienThiTheoCapDo() {
         if (typeof window.hienThiLyThuyet === 'function') window.hienThiLyThuyet();
         return;
     }
-    q('ctl-main').style.display = (lv === 'thcs') ? 'none' : '';
-    q('thcs-soon').style.display = (lv === 'thcs') ? '' : 'none';
-    q('wrap-lop').style.display = (lv === 'thpt') ? '' : 'none';
+    q('ctl-main').style.display = '';
+    q('thcs-soon').style.display = 'none';
+    q('wrap-lop').style.display = (lv === 'thpt' || lv === 'thcs') ? '' : 'none';
     q('wrap-hp').style.display = (lv === 'dh') ? '' : 'none';
-    q('btn-generate').innerHTML = (lv === 'dh')
+    q('btn-generate').innerHTML = (lv === 'dh' || lv === 'thcs')
         ? '<i class="fa-solid fa-play me-1"></i> Bắt đầu luyện tập'
         : '<i class="fa-solid fa-play me-1"></i> Phát đề';
     const tm = q('exam-timer');
     if (!thoiDiemBatDauLamBai || document.getElementById('btn-submit').classList.contains('d-none')) {
-        tm.innerHTML = '<i class="fa-regular fa-clock me-2"></i>' + (lv === 'dh' ? '00:00' : '90:00');
+        tm.innerHTML = '<i class="fa-regular fa-clock me-2"></i>' + ((lv === 'dh' || lv === 'thcs') ? '00:00' : '90:00');
     }
 }
 
 /** Suy ra cấp độ từ giá trị select-lop (dùng khi khôi phục bài làm dở). */
 function dongBoCapDoTheoLop() {
-    capDoHienTai = laDaiHoc() ? 'dh' : 'thpt';
-    if (!laDaiHoc()) lopThptCuoi = selectLop.value;
+    capDoHienTai = laDaiHoc() ? 'dh' : (/^lop[6-9]$/.test(selectLop.value) ? 'thcs' : 'thpt');
+    if (capDoHienTai === 'thpt') lopThptCuoi = selectLop.value;
     hienThiTheoCapDo();
 }
 
@@ -593,10 +649,12 @@ function chonCapDo(lv) {
     capDoHienTai = lv;
     if (lv === 'dh') {
         selectLop.value = 'daihoc';
+    } else if (lv === 'thcs') {
+        selectLop.value = 'lop9';
     } else if (lv === 'thpt') {
         selectLop.value = lopThptCuoi || 'lop12';
     }
-    if (lv !== 'thcs' && lv !== 'lt') {
+    if (lv !== 'lt') {
         capNhatDanhSachChuong();
         dongBoGiaoDienChuong(true);
     }
@@ -619,7 +677,7 @@ function capNhatGhiChuNguon() {
         : '';
 }
 selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(true); capNhatGhiChuNguon(); });
-selectLop.addEventListener('change', () => { if (!laDaiHoc()) lopThptCuoi = selectLop.value; });
+selectLop.addEventListener('change', () => { if (/^lop1[0-2]$/.test(selectLop.value)) lopThptCuoi = selectLop.value; });
 
 const selectChuong = document.getElementById('select-chuong');
 
@@ -642,6 +700,7 @@ const TEN_NGAN_CHUONG = {
     "12_C1_TongOn": "Hàm số", "12_C2_TongOn": "Vectơ", "12_C3_TongOn": "Thống kê", "12_C4_TongOn": "Nguyên hàm", "12_C5_TongOn": "Oxyz", "12_C6_TongOn": "Xác suất",
     "11_C1_TongOn": "Lượng giác", "11_C2_TongOn": "Dãy số", "11_C3_TongOn": "Số đặc trưng", "11_C4_TongOn": "Song song", "11_C5_TongOn": "Giới hạn", "11_C6_TongOn": "Mũ – Lôgarít", "11_C7_TongOn": "Vuông góc", "11_C8_TongOn": "Xác suất", "11_C9_TongOn": "Đạo hàm",
     "10_C1_TongOn": "Mệnh đề", "10_C2_TongOn": "BPT bậc nhất", "10_C3_TongOn": "Hàm bậc hai", "10_C4_TongOn": "Hệ thức lượng", "10_C5_TongOn": "Véctơ", "10_C6_TongOn": "Thống kê", "10_C7_TongOn": "BPT bậc hai", "10_C8_TongOn": "Tổ hợp", "10_C9_TongOn": "Oxy", "10_C10_TongOn": "Xác suất",
+    "9_C1_TongOn": "PT & hệ PT", "9_C2_TongOn": "PT & BPT", "9_C3_TongOn": "Căn thức", "9_C4_TongOn": "Hệ thức lượng", "9_C5_TongOn": "Đường tròn", "9_C6_TongOn": "Hàm bậc hai", "9_C7_TongOn": "Tần số", "9_C8_TongOn": "Xác suất", "9_C9_TongOn": "Ngoại – nội tiếp", "9_C10_TongOn": "Hình khối",
     "DH_DSTT_C1_TongOn": "Số phức", "DH_DSTT_C2_TongOn": "Ma trận", "DH_DSTT_C3_TongOn": "Không gian vector", "DH_DSTT_C4_TongOn": "Ánh xạ tuyến tính",
     "DH_GT_C1_TongOn": "Vi phân", "DH_GT_C2_TongOn": "Tích phân", "DH_GT_C3_TongOn": "Dãy – Chuỗi", "DH_GT_C4_TongOn": "Nhiều biến", "DH_GT_C5_TongOn": "PT vi phân"
 };
@@ -720,8 +779,12 @@ function veChipLuaChon() {
     const chipsHp = document.getElementById('chips-hp');
     const chipsNhom = document.getElementById('chips-nhom');
     if (chipsLop) {
-        chipsLop.innerHTML = [['lop10', 'Lớp 10'], ['lop11', 'Lớp 11'], ['lop12', 'Lớp 12']].map(([v, t]) =>
-            `<button type="button" class="chip${selectLop.value === v ? ' active' : ''}" data-v="${v}" aria-pressed="${selectLop.value === v}">${t}</button>`).join('');
+        const dsLop = (capDoHienTai === 'thcs')
+            ? [['lop6', 'Lớp 6', false], ['lop7', 'Lớp 7', false], ['lop8', 'Lớp 8', false], ['lop9', 'Lớp 9', true]]
+            : [['lop10', 'Lớp 10', true], ['lop11', 'Lớp 11', true], ['lop12', 'Lớp 12', true]];
+        chipsLop.innerHTML = dsLop.map(([v, t, co]) => co
+            ? `<button type="button" class="chip${selectLop.value === v ? ' active' : ''}" data-v="${v}" aria-pressed="${selectLop.value === v}">${t}</button>`
+            : `<button type="button" class="chip soon" disabled title="${t} đang được cập nhật">${t}</button>`).join('');
     }
     if (chipsHp) {
         chipsHp.innerHTML = DanhMucHocPhan.map(h => {
@@ -762,7 +825,7 @@ hienThiTheoCapDo();
 capNhatGhiChuNguon();
 
 function startTimer(soGiayKhoiTao, thoiDiemBatDauGoc) {
-    if (laDaiHoc()) { startDongHoLuyenTap(thoiDiemBatDauGoc); return; }
+    if (laLuyenTap()) { startDongHoLuyenTap(thoiDiemBatDauGoc); return; }
     // soGiayKhoiTao/thoiDiemBatDauGoc chỉ được truyền vào khi KHÔI PHỤC một
     // bài đang làm dở (xem khoiPhucBaiLamNeuCo) - giữ nguyên mốc thời gian
     // bắt đầu gốc để tính đúng "thời gian làm bài" lúc nộp, và đếm tiếp từ
@@ -872,6 +935,17 @@ const CHUONG_TONG_ON_DAC_BIET = {
     "10_C10_TongOn": ["0D01", "0D02"],
 
     // ===== ĐẠI HỌC =====
+    // ===== LỚP 9 (THCS) =====
+    "9_C1_TongOn": ["9D11", "9D12", "9D13"],
+    "9_C2_TongOn": ["9D21", "9D22", "9D23"],
+    "9_C3_TongOn": ["9D31", "9D32", "9D33", "9D34"],
+    "9_C4_TongOn": ["9H41", "9H42"],
+    "9_C5_TongOn": ["9H51", "9H52", "9H53", "9H54", "9H55"],
+    "9_C6_TongOn": ["9D61", "9D62", "9D63", "9D64"],
+    "9_C7_TongOn": ["9D71", "9D72", "9D73"],
+    "9_C8_TongOn": ["9D81", "9D82"],
+    "9_C9_TongOn": ["9H91", "9H92", "9H93", "9H94"],
+    "9_C10_TongOn": ["9H01", "9H02"],
     "DH_DSTT_C1_TongOn": ["3D11", "3D12", "3D13"],
     "DH_DSTT_C2_TongOn": ["3D21", "3D22", "3D23"],
     "DH_DSTT_C3_TongOn": ["3D31", "3D32", "3D33"],
@@ -1297,7 +1371,7 @@ function nopBaiVaChamDiem() {
     });
 
     const resultBox = document.getElementById('result-box');
-    resultBox.innerHTML = `Thí sinh: <strong>${hoTenHocSinh}</strong><br>Tổng điểm đạt được: <span style="font-size:1.6rem; color:#ef4444;"><strong>${tongDiem.toFixed(2)}</strong></span> / ${laDaiHoc() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : '10'} điểm!`;
+    resultBox.innerHTML = `Thí sinh: <strong>${hoTenHocSinh}</strong><br>Tổng điểm đạt được: <span style="font-size:1.6rem; color:#ef4444;"><strong>${tongDiem.toFixed(2)}</strong></span> / ${laLuyenTap() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : '10'} điểm!`;
     resultBox.classList.remove('d-none');
     
     document.querySelectorAll('.explain-box').forEach(box => box.style.display = 'block');
@@ -1355,7 +1429,7 @@ function nopBaiVaChamDiem() {
         const duLieuGui = new URLSearchParams();
         duLieuGui.append(FORM_ENTRY_HOTEN, hoTenHocSinh);
         duLieuGui.append(FORM_ENTRY_CHUONG, chuongHoc);
-        duLieuGui.append(FORM_ENTRY_DIEM, tongDiem.toFixed(2) + "/" + (laDaiHoc() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : "10"));
+        duLieuGui.append(FORM_ENTRY_DIEM, tongDiem.toFixed(2) + "/" + (laLuyenTap() ? layDiemToiDa().toFixed(2).replace(/\.?0+$/, '') : "10"));
         duLieuGui.append(FORM_ENTRY_THOIGIAN, thoiGianLamBaiText);
         duLieuGui.append(FORM_ENTRY_LINK, linkXemLaiBaiLam);
 
@@ -1604,7 +1678,7 @@ function khoiPhucBaiLamNeuCo() {
     }
 
     const daTroiQuaGiay = Math.floor((Date.now() - banGhi.batDau) / 1000);
-    const conLaiGiay = (banGhi.lop === 'daihoc' ? 24 * 3600 : 90 * 60) - daTroiQuaGiay;
+    const conLaiGiay = ((banGhi.lop === 'daihoc' || /^lop[6-9]$/.test(banGhi.lop || '')) ? 24 * 3600 : 90 * 60) - daTroiQuaGiay;
     if (conLaiGiay <= 0) {
         xoaTienDoBaiLamDaLuu(); // bai da luu qua han 90 phut, khong khoi phuc nua
         return;
