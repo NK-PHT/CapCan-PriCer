@@ -464,11 +464,6 @@
         .app-header::after, .main-title { background: linear-gradient(90deg, var(--a1), var(--a2)); }
         .main-title { -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
         .app-header::after { -webkit-text-fill-color: initial; }
-        .lv-seg { display: inline-flex; gap: 4px; padding: 4px; background: #eef1f7; border-radius: 999px; margin-left: auto; }
-        .lv-seg button { border: 0; background: transparent; padding: 7px 16px; border-radius: 999px; font-weight: 700; font-size: .86rem; color: #5b6477; cursor: pointer; font-family: inherit; white-space: nowrap; transition: background .15s, color .15s; }
-        .lv-seg button:hover { color: #1e293b; }
-        .lv-seg button.active { background: linear-gradient(135deg, var(--a1), var(--a2)); color: #fff; box-shadow: 0 2px 8px rgba(0,0,0,.15); }
-        .lv-seg button:focus-visible { outline: 3px solid var(--a1); outline-offset: 1px; }
         .btn-custom-generate { background: linear-gradient(135deg, var(--a1), var(--a2)); }
         .btn-custom-generate:hover, .btn-custom-generate:focus, .btn-custom-generate:active { color: #fff; }
         .bai-item input, .form-check-input { accent-color: var(--a1); }
@@ -481,27 +476,62 @@
         .soon-card i { font-size: 1.8rem; color: var(--a1); }
         .soon-card span { font-size: .85rem; }
         @media (max-width: 576px) {
-            .lv-seg { width: 100%; justify-content: space-between; margin-left: 0; order: 3; }
-            .lv-seg button { flex: 1; padding: 7px 6px; font-size: .78rem; }
+                }
+
+        /* ===== BỘ CHUYỂN CẤP HỌC (thẻ lớn có phụ đề) ===== */
+        .lv-wrap { padding: 14px 20px 0; max-width: 1300px; margin: 0 auto; }
+        .lv-seg { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; padding: 6px; background: #eaeef7; border-radius: 18px; }
+        .lv-seg button { border: 0; background: transparent; padding: 10px 8px 12px; border-radius: 14px; cursor: pointer; font-family: inherit; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; position: relative; color: #5b6477; transition: background .15s, box-shadow .15s, color .15s; }
+        .lv-seg button .lv-t { font-weight: 800; font-size: 1rem; line-height: 1.2; }
+        .lv-seg button .lv-s { font-weight: 500; font-size: .74rem; line-height: 1.25; color: #7b8499; }
+        .lv-seg button:hover { color: #1e293b; background: rgba(255,255,255,.55); }
+        .lv-seg button.active { background: #fff; color: #1e293b; box-shadow: 0 2px 10px rgba(30,41,59,.12); }
+        .lv-seg button.active .lv-t { color: var(--tint-ink); }
+        .lv-seg button.active::after { content: ""; position: absolute; left: 50%; bottom: 6px; width: 38px; height: 3px; border-radius: 3px; transform: translateX(-50%); background: linear-gradient(90deg, var(--a1), var(--a2)); }
+        .lv-seg button.active .lv-s { margin-bottom: 6px; }
+        .lv-seg button:focus-visible { outline: 3px solid var(--a1); outline-offset: 1px; }
+        @media (max-width: 576px) {
+            .lv-wrap { padding: 10px 12px 0; }
+            .lv-seg button .lv-t { font-size: .92rem; }
+            .lv-seg button .lv-s { font-size: .68rem; }
         }
+
+        /* ===== NÚT CHỌN NHANH (khối lớp / học phần / chương) ===== */
+        .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+        .chip { border: 1.5px solid #dbe2ef; background: #fff; border-radius: 999px; padding: 5px 13px; font-size: .84rem; font-weight: 600; color: #475569; cursor: pointer; font-family: inherit; line-height: 1.3; transition: border-color .15s, background .15s, color .15s; }
+        .chip:hover { border-color: var(--a1); color: #1e293b; }
+        .chip.active { border-color: var(--a1); background: var(--tint); color: var(--tint-ink); font-weight: 700; }
+        .chip.soon:not(.active) { opacity: .6; }
+        .chip:focus-visible { outline: 3px solid var(--a1); outline-offset: 1px; }
+        .bai-item input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
+        .bai-item { position: relative; }
+        .bai-item:focus-within { outline: 3px solid var(--a1); outline-offset: 1px; }
+
+        /* ===== ĐỒNG HỒ: chữ "Thời gian" gọn ở góc phải tiêu đề ===== */
+        .app-header .timer-box { background: none; box-shadow: none; padding: 0; border-radius: 0; color: #64748b; font-size: 1rem; font-weight: 700; display: block; }
+        .app-header .timer-box i { display: none; }
+        .app-header .timer-box::before { content: "Thời gian "; font-weight: 600; color: #94a3b8; }
     </style>
 </head>
 <body>
 
 <header class="app-header shadow-sm d-flex justify-content-between align-items-center">
     <h1 class="main-title" id="brand-title" onclick="openAuthorModal()" title="Xem thông tin tác giả"><i class="fa-solid fa-graduation-cap me-2"></i>Hệ thống luyện thi Toán</h1>
-    <nav class="lv-seg" id="lv-seg" aria-label="Chọn cấp học">
-        <button type="button" data-lv="thcs"><i class="fa-solid fa-shapes me-1"></i>Toán THCS</button>
-        <button type="button" data-lv="thpt" class="active"><i class="fa-solid fa-graduation-cap me-1"></i>Toán THPT</button>
-        <button type="button" data-lv="dh"><i class="fa-solid fa-infinity me-1"></i>Toán Đại học</button>
-    </nav>
     <div class="timer-box text-center" id="exam-timer"><i class="fa-regular fa-clock me-2"></i>90:00</div>
 </header>
+
+<div class="lv-wrap">
+    <nav class="lv-seg" id="lv-seg" aria-label="Chọn cấp học">
+        <button type="button" data-lv="thcs"><span class="lv-t">Toán THCS</span><span class="lv-s">Lớp 6 – 9</span></button>
+        <button type="button" data-lv="thpt" class="active"><span class="lv-t">Toán THPT</span><span class="lv-s">Lớp 10 – 12</span></button>
+        <button type="button" data-lv="dh"><span class="lv-t">Toán Đại học</span><span class="lv-s">Giải tích · ĐSTT · Rời rạc</span></button>
+    </nav>
+</div>
 
 <main class="main-layout">
     <section class="sidebar-panel shadow-sm">
         <div class="mb-3">
-            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-user me-1"></i> TÊN THÍ SINH</label>
+            <label class="form-label small fw-bold text-secondary">THÍ SINH</label>
             <input type="text" class="form-control" id="student-name" placeholder="Nhập tên trước khi nộp...">
         </div>
         
@@ -513,8 +543,9 @@
 
         <div id="ctl-main">
         <div class="mb-3" id="wrap-lop">
-            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-layer-group me-1"></i> KHỐI LỚP</label>
-            <select class="form-select form-select-sm" id="select-lop">
+            <label class="form-label small fw-bold text-secondary">KHỐI LỚP</label>
+            <div class="chips" id="chips-lop" role="group" aria-label="Khối lớp"></div>
+            <select class="d-none" style="display:none" id="select-lop" tabindex="-1" aria-hidden="true">
                 <option value="lop12" selected>Khối Lớp 12 (Tốt Nghiệp)</option>
                 <option value="lop11">Khối Lớp 11 (THPT)</option>
                 <option value="lop10">Khối Lớp 10 (THPT)</option>
@@ -523,24 +554,26 @@
         </div>
 
         <div class="mb-3" id="wrap-hp" style="display:none">
-            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-layer-group me-1"></i> HỌC PHẦN</label>
-            <select class="form-select form-select-sm" id="select-hp"></select>
+            <label class="form-label small fw-bold text-secondary">HỌC PHẦN</label>
+            <div class="chips" id="chips-hp" role="group" aria-label="Học phần"></div>
+            <select class="d-none" style="display:none" id="select-hp" tabindex="-1" aria-hidden="true"></select>
             <div class="hp-nguon" id="hp-nguon"></div>
         </div>
 
         <div class="mb-3">
-            <label class="form-label small fw-bold text-secondary" id="lbl-nhom"><i class="fa-solid fa-book me-1"></i> CHƯƠNG</label>
-            <select class="form-select form-select-sm" id="select-nhom"></select>
+            <label class="form-label small fw-bold text-secondary" id="lbl-nhom">CHƯƠNG</label>
+            <div class="chips" id="chips-nhom" role="group" aria-label="Chương"></div>
+            <select class="d-none" style="display:none" id="select-nhom" tabindex="-1" aria-hidden="true"></select>
         </div>
 
         <div class="mb-3">
-            <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-list-check me-1"></i> NỘI DUNG THI</label>
+            <label class="form-label small fw-bold text-secondary">NỘI DUNG</label>
             <div class="bai-list" id="list-bai" role="radiogroup"></div>
             <select class="d-none" style="display:none" id="select-chuong" tabindex="-1" aria-hidden="true"></select>
         </div>
 
         <button class="btn btn-custom-generate mb-4 shadow-sm" id="btn-generate" disabled>
-            <i class="fa-solid fa-play me-1"></i> PHÁT ĐỀ TÍNH GIỜ
+            <i class="fa-solid fa-play me-1"></i> Phát đề
         </button>
         <div class="small text-muted text-center" id="data-load-status">Đang tải ngân hàng câu hỏi...</div>
         </div><!-- /#ctl-main -->
@@ -561,7 +594,7 @@
             <div id="quiz-content">
                 <div class="text-center text-muted py-5">
                     <i class="fa-solid fa-folder-open fa-3x mb-3 text-info" style="opacity: 0.4;"></i>
-                    <p class="mb-0 small">Hệ thống đang đợi lệnh. Vui lòng nhấn nút <strong>"Phát Đề Tính Giờ"</strong> ở bảng điều khiển bên cạnh.</p>
+                    <p class="mb-0 small">Hệ thống đang đợi lệnh. Vui lòng nhấn nút <strong>"Phát đề"</strong> (hoặc <strong>"Bắt đầu luyện tập"</strong>) ở bảng điều khiển bên cạnh.</p>
                 </div>
             </div>
             
@@ -596,7 +629,7 @@
 </footer>
 
 <script src="data/manifest.js"></script>
-<script src="js/app.js?v=20261009-3"></script>
+<script src="js/app.js?v=20261010-1"></script>
 
 <div class="author-modal-overlay" id="author-modal-overlay" onclick="if(event.target===this) closeAuthorModal()">
     <div class="author-modal-box">

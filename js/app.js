@@ -245,11 +245,11 @@ const DanhMucChuong = {
 
 // Danh sách học phần của khối Đại học (học phần chưa có câu hỏi sẽ hiện "đang cập nhật")
 const DanhMucHocPhan = [
-    { ma: "DSTT", ten: "Đại số tuyến tính", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
-    { ma: "GT", ten: "Giải tích", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
-    { ma: "RR", ten: "Toán rời rạc", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
-    { ma: "HHGT", ten: "Hình học giải tích (afin – Euclid)" },
-    { ma: "HHVP", ten: "Hình học vi phân" }
+    { ma: "DSTT", ten: "Đại số tuyến tính", ngan: "ĐSTT", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
+    { ma: "GT", ten: "Giải tích", ngan: "Giải tích", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
+    { ma: "RR", ten: "Toán rời rạc", ngan: "Rời rạc", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
+    { ma: "HHGT", ten: "Hình học giải tích (afin – Euclid)", ngan: "Hình học GT" },
+    { ma: "HHVP", ten: "Hình học vi phân", ngan: "Hình học VP" }
 ];
 
 // =========================================================================
@@ -559,11 +559,9 @@ function hienThiTheoCapDo() {
     q('thcs-soon').style.display = (lv === 'thcs') ? '' : 'none';
     q('wrap-lop').style.display = (lv === 'thpt') ? '' : 'none';
     q('wrap-hp').style.display = (lv === 'dh') ? '' : 'none';
-    q('lbl-nhom').innerHTML = (lv === 'dh')
-        ? '<i class="fa-solid fa-book me-1"></i> CHƯƠNG' : '<i class="fa-solid fa-book me-1"></i> CHƯƠNG';
     q('btn-generate').innerHTML = (lv === 'dh')
-        ? '<i class="fa-solid fa-play me-1"></i> BẮT ĐẦU LUYỆN TẬP'
-        : '<i class="fa-solid fa-play me-1"></i> PHÁT ĐỀ TÍNH GIỜ';
+        ? '<i class="fa-solid fa-play me-1"></i> Bắt đầu luyện tập'
+        : '<i class="fa-solid fa-play me-1"></i> Phát đề';
     const tm = q('exam-timer');
     if (!thoiDiemBatDauLamBai || document.getElementById('btn-submit').classList.contains('d-none')) {
         tm.innerHTML = '<i class="fa-regular fa-clock me-2"></i>' + (lv === 'dh' ? '00:00' : '90:00');
@@ -587,7 +585,7 @@ function chonCapDo(lv) {
     }
     if (lv !== 'thcs') {
         capNhatDanhSachChuong();
-        dongBoGiaoDienChuong();
+        dongBoGiaoDienChuong(true);
     }
     hienThiTheoCapDo();
 }
@@ -607,7 +605,7 @@ function capNhatGhiChuNguon() {
         ? '<i class="fa-solid fa-book-open me-1"></i>Dựa theo bài giảng và bài tập của giảng viên <strong>' + h.nguon + '</strong>.'
         : '';
 }
-selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(); capNhatGhiChuNguon(); });
+selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(true); capNhatGhiChuNguon(); });
 selectLop.addEventListener('change', () => { if (!laDaiHoc()) lopThptCuoi = selectLop.value; });
 
 const selectChuong = document.getElementById('select-chuong');
@@ -626,6 +624,20 @@ const selectNhom = document.getElementById('select-nhom');
 const listBai = document.getElementById('list-bai');
 let nhomHienTai = [];
 
+// Tên ngắn của từng chương (hiện trên các nút chọn nhanh)
+const TEN_NGAN_CHUONG = {
+    "12_C1_TongOn": "Hàm số", "12_C2_TongOn": "Vectơ", "12_C3_TongOn": "Thống kê", "12_C4_TongOn": "Nguyên hàm", "12_C5_TongOn": "Oxyz", "12_C6_TongOn": "Xác suất",
+    "11_C1_TongOn": "Lượng giác", "11_C2_TongOn": "Dãy số", "11_C3_TongOn": "Số đặc trưng", "11_C4_TongOn": "Song song", "11_C5_TongOn": "Giới hạn", "11_C6_TongOn": "Mũ – Lôgarít", "11_C7_TongOn": "Vuông góc", "11_C8_TongOn": "Xác suất", "11_C9_TongOn": "Đạo hàm",
+    "10_C1_TongOn": "Mệnh đề", "10_C2_TongOn": "BPT bậc nhất", "10_C3_TongOn": "Hàm bậc hai", "10_C4_TongOn": "Hệ thức lượng", "10_C5_TongOn": "Véctơ", "10_C6_TongOn": "Thống kê", "10_C7_TongOn": "BPT bậc hai", "10_C8_TongOn": "Tổ hợp", "10_C9_TongOn": "Oxy", "10_C10_TongOn": "Xác suất",
+    "DH_DSTT_C1_TongOn": "Số phức", "DH_DSTT_C2_TongOn": "Ma trận", "DH_DSTT_C3_TongOn": "Không gian vector", "DH_DSTT_C4_TongOn": "Ánh xạ tuyến tính",
+    "DH_GT_C1_TongOn": "Vi phân", "DH_GT_C2_TongOn": "Tích phân", "DH_GT_C3_TongOn": "Dãy – Chuỗi", "DH_GT_C4_TongOn": "Nhiều biến", "DH_GT_C5_TongOn": "PT vi phân"
+};
+function tenNganChuong(value, m) {
+    const so = m ? (m[1].match(/\d+/) || [''])[0] : '';
+    const ten = TEN_NGAN_CHUONG[value] || (m ? m[2].split(/[.:]/)[0].slice(0, 18) : '');
+    return (so ? 'C' + so + ' ' : '') + ten;
+}
+
 function phanNhomDanhMuc() {
     let ds = DanhMucChuong[selectLop.value] || [];
     if (selectLop.value === 'daihoc') ds = ds.filter(c => c.hp === selectHp.value);
@@ -633,17 +645,17 @@ function phanNhomDanhMuc() {
     let cur = null;
     ds.forEach(c => {
         if (c.text.includes('⭐')) {
-            if (!cur || cur.loai !== 'de') { cur = { loai: 'de', ten: '⭐ Đề ôn học kì & thi thử', muc: [] }; nhom.push(cur); }
+            if (!cur || cur.loai !== 'de') { cur = { loai: 'de', ten: '⭐ Đề ôn học kì & thi thử', ngan: '⭐ Đề ôn', muc: [] }; nhom.push(cur); }
             cur.muc.push({ value: c.value, nhan: c.text.replace(/^Lớp \d+ ➔ /, '').replace('⭐ ', ''), dacBiet: true });
         } else if (/_TongOn$/.test(c.value)) {
             const m = c.text.match(/Tổng ôn (Chương \d+): (.*)$/);
-            cur = { loai: 'chuong', ten: m ? m[1] + ': ' + m[2] : c.text, muc: [{ value: c.value, nhan: 'Tổng ôn cả chương', tongOn: true }] };
+            cur = { loai: 'chuong', ten: m ? m[1] + ': ' + m[2] : c.text, ngan: tenNganChuong(c.value, m), muc: [{ value: c.value, nhan: 'Tổng ôn cả chương', tongOn: true }] };
             nhom.push(cur);
         } else if (/^Chuyên đề/.test(c.text)) {
-            if (!cur || cur.loai !== 'cd') { cur = { loai: 'cd', ten: '📚 Chuyên đề', muc: [] }; nhom.push(cur); }
+            if (!cur || cur.loai !== 'cd') { cur = { loai: 'cd', ten: '📚 Chuyên đề', ngan: '📚 Chuyên đề', muc: [] }; nhom.push(cur); }
             cur.muc.push({ value: c.value, nhan: c.text.replace(/^Chuyên đề \d+ ➔ /, '') });
         } else {
-            if (!cur) { cur = { loai: 'chuong', ten: 'Khác', muc: [] }; nhom.push(cur); }
+            if (!cur) { cur = { loai: 'chuong', ten: 'Khác', ngan: 'Khác', muc: [] }; nhom.push(cur); }
             cur.muc.push({ value: c.value, nhan: c.text.replace(/^.*➔ C\d+ ➔ /, '') });
         }
     });
@@ -659,7 +671,7 @@ function veDanhSachBai(idxNhom, giaTriChon) {
         selectChuong.innerHTML = '';
         return;
     }
-    const chon = giaTriChon || nhom.muc[0].value;
+    const chon = giaTriChon || (nhom.muc.find(m => !m.tongOn) || nhom.muc[0]).value;
     listBai.innerHTML = nhom.muc.map((m, i) => {
         const cls = 'bai-item' + (m.tongOn ? ' bai-tongon' : '') + (m.value === chon ? ' is-checked' : '');
         const tag = m.tongOn ? '<span class="bai-tag">🔹 Ôn cả chương</span>' : '';
@@ -668,27 +680,70 @@ function veDanhSachBai(idxNhom, giaTriChon) {
     selectChuong.value = chon;
 }
 
-function dongBoGiaoDienChuong() {
+function dongBoGiaoDienChuong(macDinh) {
     nhomHienTai = phanNhomDanhMuc();
     selectNhom.innerHTML = nhomHienTai.map((n, i) => `<option value="${i}">${n.ten}</option>`).join('');
-    if (nhomHienTai.length === 0) { veDanhSachBai(0, null); return; }
+    if (nhomHienTai.length === 0) { veDanhSachBai(0, null); veChipLuaChon(); return; }
     // Mặc định: chương đầu tiên có bài (bỏ qua nhóm "Đề ôn" nếu muốn chọn bài), giữ nhóm đề ôn ở đầu danh sách
-    const giaTri = selectChuong.value;
+    let giaTri = selectChuong.value;
     let idx = nhomHienTai.findIndex(n => n.muc.some(m => m.value === giaTri));
+    if (macDinh === true) {
+        const gi = nhomHienTai.findIndex(n => n.loai === 'chuong');
+        if (gi >= 0) {
+            idx = gi;
+            giaTri = (nhomHienTai[gi].muc.find(m => !m.tongOn) || nhomHienTai[gi].muc[0]).value;
+        }
+    }
     if (idx < 0) idx = 0;
     selectNhom.value = String(idx);
     veDanhSachBai(idx, giaTri);
+    veChipLuaChon();
 }
 
-selectNhom.addEventListener('change', () => veDanhSachBai(parseInt(selectNhom.value, 10), null));
+// ---- Các nút chọn nhanh (Khối lớp / Học phần / Chương) - điều khiển các <select> ẩn ----
+function veChipLuaChon() {
+    const chipsLop = document.getElementById('chips-lop');
+    const chipsHp = document.getElementById('chips-hp');
+    const chipsNhom = document.getElementById('chips-nhom');
+    if (chipsLop) {
+        chipsLop.innerHTML = [['lop10', 'Lớp 10'], ['lop11', 'Lớp 11'], ['lop12', 'Lớp 12']].map(([v, t]) =>
+            `<button type="button" class="chip${selectLop.value === v ? ' active' : ''}" data-v="${v}" aria-pressed="${selectLop.value === v}">${t}</button>`).join('');
+    }
+    if (chipsHp) {
+        chipsHp.innerHTML = DanhMucHocPhan.map(h => {
+            const coDuLieu = (DanhMucChuong.daihoc || []).some(c => c.hp === h.ma);
+            const act = selectHp.value === h.ma;
+            return `<button type="button" class="chip${act ? ' active' : ''}${coDuLieu ? '' : ' soon'}" data-v="${h.ma}" aria-pressed="${act}" title="${coDuLieu ? h.ten : h.ten + ' (đang cập nhật)'}">${h.ngan || h.ten}</button>`;
+        }).join('');
+    }
+    if (chipsNhom) {
+        chipsNhom.innerHTML = nhomHienTai.map((n, i) => {
+            const act = String(i) === selectNhom.value;
+            return `<button type="button" class="chip${act ? ' active' : ''}" data-v="${i}" aria-pressed="${act}" title="${n.ten}">${n.ngan || n.ten}</button>`;
+        }).join('');
+    }
+}
+function ganSuKienChip(id, xuLy) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.addEventListener('click', e => {
+        const b = e.target.closest('.chip');
+        if (b) xuLy(b.dataset.v);
+    });
+}
+ganSuKienChip('chips-lop', v => { selectLop.value = v; selectLop.dispatchEvent(new Event('change')); });
+ganSuKienChip('chips-hp', v => { selectHp.value = v; selectHp.dispatchEvent(new Event('change')); });
+ganSuKienChip('chips-nhom', v => { selectNhom.value = v; selectNhom.dispatchEvent(new Event('change')); });
+
+selectNhom.addEventListener('change', () => { veDanhSachBai(parseInt(selectNhom.value, 10), null); veChipLuaChon(); });
 listBai.addEventListener('change', e => {
     if (e.target && e.target.name === 'bai-chon') {
         selectChuong.value = e.target.value;
         listBai.querySelectorAll('.bai-item').forEach(el => el.classList.toggle('is-checked', el.querySelector('input').checked));
     }
 });
-selectLop.addEventListener('change', dongBoGiaoDienChuong);
-dongBoGiaoDienChuong();
+selectLop.addEventListener('change', () => dongBoGiaoDienChuong(true));
+dongBoGiaoDienChuong(true);
 hienThiTheoCapDo();
 capNhatGhiChuNguon();
 
