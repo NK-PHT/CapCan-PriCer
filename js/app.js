@@ -220,14 +220,34 @@ const DanhMucChuong = {
         { hp: "DSTT", value: "3D41", text: "Đại số tuyến tính ➔ C4 ➔ §1. Ánh xạ tuyến tính, nhân và ảnh" },
         { hp: "DSTT", value: "3D42", text: "Đại số tuyến tính ➔ C4 ➔ §2. Ma trận của ánh xạ tuyến tính" },
         { hp: "DSTT", value: "3D43", text: "Đại số tuyến tính ➔ C4 ➔ §3. Trị riêng, vector riêng và chéo hóa" },
+        { hp: "GT", value: "DH_GT_C1_TongOn", text: "Giải tích ➔ 🔹 Tổng ôn Chương 1: Vi phân hàm một biến" },
+        { hp: "GT", value: "3G11", text: "Giải tích ➔ C1 ➔ §1. Giới hạn hàm số và tính liên tục" },
+        { hp: "GT", value: "3G12", text: "Giải tích ➔ C1 ➔ §2. Đạo hàm và vi phân" },
+        { hp: "GT", value: "3G13", text: "Giải tích ➔ C1 ➔ §3. Cực trị, quy tắc L'Hospital, khai triển Taylor và các định lý giá trị trung bình" },
+        { hp: "GT", value: "DH_GT_C2_TongOn", text: "Giải tích ➔ 🔹 Tổng ôn Chương 2: Tích phân hàm một biến" },
+        { hp: "GT", value: "3G21", text: "Giải tích ➔ C2 ➔ §1. Nguyên hàm và tích phân xác định" },
+        { hp: "GT", value: "3G22", text: "Giải tích ➔ C2 ➔ §2. Phương pháp đổi biến và tích phân từng phần" },
+        { hp: "GT", value: "3G23", text: "Giải tích ➔ C2 ➔ §3. Tích phân suy rộng" },
+        { hp: "GT", value: "DH_GT_C3_TongOn", text: "Giải tích ➔ 🔹 Tổng ôn Chương 3: Dãy số, chuỗi số và chuỗi hàm" },
+        { hp: "GT", value: "3G31", text: "Giải tích ➔ C3 ➔ §1. Giới hạn của dãy số" },
+        { hp: "GT", value: "3G32", text: "Giải tích ➔ C3 ➔ §2. Chuỗi số dương" },
+        { hp: "GT", value: "3G33", text: "Giải tích ➔ C3 ➔ §3. Chuỗi đan dấu, chuỗi bất kỳ và chuỗi hàm" },
+        { hp: "GT", value: "DH_GT_C4_TongOn", text: "Giải tích ➔ 🔹 Tổng ôn Chương 4: Vi tích phân hàm nhiều biến" },
+        { hp: "GT", value: "3G41", text: "Giải tích ➔ C4 ➔ §1. Đạo hàm riêng, vi phân và khai triển Taylor" },
+        { hp: "GT", value: "3G42", text: "Giải tích ➔ C4 ➔ §2. Cực trị hàm hai biến" },
+        { hp: "GT", value: "3G43", text: "Giải tích ➔ C4 ➔ §3. Tích phân hai lớp và tích phân ba lớp" },
+        { hp: "GT", value: "DH_GT_C5_TongOn", text: "Giải tích ➔ 🔹 Tổng ôn Chương 5: Phương trình vi phân" },
+        { hp: "GT", value: "3G51", text: "Giải tích ➔ C5 ➔ §1. Phương trình cấp một dạng tách biến và đẳng cấp" },
+        { hp: "GT", value: "3G52", text: "Giải tích ➔ C5 ➔ §2. Phương trình cấp một tuyến tính và dạng toàn phần" },
+        { hp: "GT", value: "3G53", text: "Giải tích ➔ C5 ➔ §3. Phương trình vi phân cấp hai" },
     ]
 };
 
 // Danh sách học phần của khối Đại học (học phần chưa có câu hỏi sẽ hiện "đang cập nhật")
 const DanhMucHocPhan = [
-    { ma: "DSTT", ten: "Đại số tuyến tính" },
-    { ma: "GT", ten: "Giải tích" },
-    { ma: "RR", ten: "Toán rời rạc" },
+    { ma: "DSTT", ten: "Đại số tuyến tính", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
+    { ma: "GT", ten: "Giải tích", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
+    { ma: "RR", ten: "Toán rời rạc", nguon: "Vũ Đỗ Huy Cường, Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên" },
     { ma: "HHGT", ten: "Hình học giải tích (afin – Euclid)" },
     { ma: "HHVP", ten: "Hình học vi phân" }
 ];
@@ -579,7 +599,15 @@ selectHp.innerHTML = DanhMucHocPhan.map(h => {
     const coDuLieu = (DanhMucChuong.daihoc || []).some(c => c.hp === h.ma);
     return `<option value="${h.ma}">${h.ten}${coDuLieu ? '' : ' (đang cập nhật)'}</option>`;
 }).join('');
-selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(); });
+function capNhatGhiChuNguon() {
+    const el = document.getElementById('hp-nguon');
+    if (!el) return;
+    const h = DanhMucHocPhan.find(x => x.ma === selectHp.value);
+    el.innerHTML = (h && h.nguon)
+        ? '<i class="fa-solid fa-book-open me-1"></i>Dựa theo bài giảng và bài tập của giảng viên <strong>' + h.nguon + '</strong>.'
+        : '';
+}
+selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(); capNhatGhiChuNguon(); });
 selectLop.addEventListener('change', () => { if (!laDaiHoc()) lopThptCuoi = selectLop.value; });
 
 const selectChuong = document.getElementById('select-chuong');
@@ -662,6 +690,7 @@ listBai.addEventListener('change', e => {
 selectLop.addEventListener('change', dongBoGiaoDienChuong);
 dongBoGiaoDienChuong();
 hienThiTheoCapDo();
+capNhatGhiChuNguon();
 
 function startTimer(soGiayKhoiTao, thoiDiemBatDauGoc) {
     if (laDaiHoc()) { startDongHoLuyenTap(thoiDiemBatDauGoc); return; }
@@ -777,7 +806,12 @@ const CHUONG_TONG_ON_DAC_BIET = {
     "DH_DSTT_C1_TongOn": ["3D11", "3D12", "3D13"],
     "DH_DSTT_C2_TongOn": ["3D21", "3D22", "3D23"],
     "DH_DSTT_C3_TongOn": ["3D31", "3D32", "3D33"],
-    "DH_DSTT_C4_TongOn": ["3D41", "3D42", "3D43"]
+    "DH_DSTT_C4_TongOn": ["3D41", "3D42", "3D43"],
+    "DH_GT_C1_TongOn": ["3G11", "3G12", "3G13"],
+    "DH_GT_C2_TongOn": ["3G21", "3G22", "3G23"],
+    "DH_GT_C3_TongOn": ["3G31", "3G32", "3G33"],
+    "DH_GT_C4_TongOn": ["3G41", "3G42", "3G43"],
+    "DH_GT_C5_TongOn": ["3G51", "3G52", "3G53"]
 };
 
 /**
@@ -1523,7 +1557,7 @@ function khoiPhucBaiLamNeuCo() {
         selectLop.value = banGhi.lop;
         if (banGhi.lop === 'daihoc' && banGhi.chuong) {
             const mucDH = (DanhMucChuong.daihoc || []).find(c => c.value === banGhi.chuong);
-            if (mucDH) selectHp.value = mucDH.hp;
+            if (mucDH) { selectHp.value = mucDH.hp; capNhatGhiChuNguon(); }
         }
         dongBoCapDoTheoLop();
         capNhatDanhSachChuong();

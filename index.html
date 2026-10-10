@@ -475,6 +475,8 @@
         .bai-item:hover { border-color: var(--a1); }
         .bai-item.is-checked { border-color: var(--a1); background: var(--tint); color: var(--tint-ink); }
         .short-box:focus { border-color: var(--a1); }
+        .hp-nguon { margin-top: 6px; font-size: .74rem; line-height: 1.4; color: #64748b; }
+        .hp-nguon:empty { display: none; }
         .soon-card { display: flex; flex-direction: column; align-items: center; gap: 6px; text-align: center; padding: 28px 16px; margin-bottom: 16px; border: 2px dashed #9fe3c9; border-radius: 14px; background: var(--tint); color: var(--tint-ink); }
         .soon-card i { font-size: 1.8rem; color: var(--a1); }
         .soon-card span { font-size: .85rem; }
@@ -523,6 +525,7 @@
         <div class="mb-3" id="wrap-hp" style="display:none">
             <label class="form-label small fw-bold text-secondary"><i class="fa-solid fa-layer-group me-1"></i> HỌC PHẦN</label>
             <select class="form-select form-select-sm" id="select-hp"></select>
+            <div class="hp-nguon" id="hp-nguon"></div>
         </div>
 
         <div class="mb-3">
@@ -593,7 +596,7 @@
 </footer>
 
 <script src="data/manifest.js"></script>
-<script src="js/app.js?v=20261009-2"></script>
+<script src="js/app.js?v=20261009-3"></script>
 
 <div class="author-modal-overlay" id="author-modal-overlay" onclick="if(event.target===this) closeAuthorModal()">
     <div class="author-modal-box">

@@ -20,7 +20,7 @@ window.dungSai3D22 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det A=1(10-20)-2(0-8)+3(0-2)=-10+16-6=0$. (Cũng có thể thấy dòng $3$ $=2\\cdot$ dòng $1+$ dòng $2$.)<br>- <strong>Sai</strong>.<br>  $\\det A=0$ nên $A$ không khả nghịch.<br>- <strong>Đúng</strong>.<br>  Dòng $3=2h_1+h_2$ nên hạng không vượt quá $2$; hai dòng đầu không tỉ lệ nên hạng bằng $2$.<br>- <strong>Sai</strong>.<br>  Phép biến đổi $h_i\\to h_i+kh_j$ không làm thay đổi định thức nên định thức vẫn bằng $\\det A=0$, khác $\\det A+1=1$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det A=1(10-20)-2(0-8)+3(0-2)=-10+16-6=0$. (Cũng có thể thấy dòng $3$ $=2\\cdot$ dòng $1+$ dòng $2$.)<br>- <strong>Sai</strong>.<br>  $\\det A=0$ nên $A$ không khả nghịch.<br>- <strong>Đúng</strong>.<br>  Dòng $3=2h_1+h_2$ nên hạng không vượt quá $2$; hai dòng đầu không tỉ lệ nên hạng bằng $2$.<br>- <strong>Sai</strong>.<br>  Phép biến đổi $h_i\\to h_i+kh_j$ không làm thay đổi định thức nên định thức vẫn bằng $\\det A=0$, khác $\\det A+1=1$.<br><br><em>Dựa theo các dạng bài tập trong: Vũ Đỗ Huy Cường, Đại số tuyến tính (bài giảng và bài tập), Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên.</em>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -44,7 +44,7 @@ window.dungSai3D22 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Với ma trận cấp $n$: $\\det(kA)=k^n\\det A$. Do đó $\\det(2A)=2^3\\cdot4=32$.<br>- <strong>Đúng</strong>.<br>  Ma trận chuyển vị có cùng định thức: $\\det(A^T)=\\det A=4$.<br>- <strong>Đúng</strong>.<br>  $\\det(A^{-1})=\\dfrac{1}{\\det A}=\\dfrac14$ (vì $\\det A\\neq 0$ nên $A$ khả nghịch).<br>- <strong>Sai</strong>.<br>  $\\det(A^2)=(\\det A)^2=16\\neq 8$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Với ma trận cấp $n$: $\\det(kA)=k^n\\det A$. Do đó $\\det(2A)=2^3\\cdot4=32$.<br>- <strong>Đúng</strong>.<br>  Ma trận chuyển vị có cùng định thức: $\\det(A^T)=\\det A=4$.<br>- <strong>Đúng</strong>.<br>  $\\det(A^{-1})=\\dfrac{1}{\\det A}=\\dfrac14$ (vì $\\det A\\neq 0$ nên $A$ khả nghịch).<br>- <strong>Sai</strong>.<br>  $\\det(A^2)=(\\det A)^2=16\\neq 8$.<br><br><em>Dựa theo các dạng bài tập trong: Vũ Đỗ Huy Cường, Đại số tuyến tính (bài giảng và bài tập), Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên.</em>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -68,7 +68,7 @@ window.dungSai3D22 = [
         "answer": true
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det C=2(12-0)-1(-4-2)+0=24+6=30$.<br>- <strong>Đúng</strong>.<br>  $\\det C^T=\\det C=30$.<br>- <strong>Sai</strong>.<br>  $\\det(3C)=3^3\\det C=27\\cdot30=810\\neq 90$.<br>- <strong>Đúng</strong>.<br>  $\\det C=30\\neq0$ nên $C$ khả nghịch.",
+    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det C=2(12-0)-1(-4-2)+0=24+6=30$.<br>- <strong>Đúng</strong>.<br>  $\\det C^T=\\det C=30$.<br>- <strong>Sai</strong>.<br>  $\\det(3C)=3^3\\det C=27\\cdot30=810\\neq 90$.<br>- <strong>Đúng</strong>.<br>  $\\det C=30\\neq0$ nên $C$ khả nghịch.<br><br><em>Dựa theo các dạng bài tập trong: Vũ Đỗ Huy Cường, Đại số tuyến tính (bài giảng và bài tập), Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên.</em>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -92,7 +92,7 @@ window.dungSai3D22 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det A=1\\cdot(3-0)-0+2\\cdot(2x-0)=3+4x$.<br>- <strong>Đúng</strong>.<br>  Từ $\\det A=4x+3$ suy ra hệ số của $x$ là $4$.<br>- <strong>Đúng</strong>.<br>  Khi $x=-\\dfrac34$ thì $\\det A=4\\cdot\\left(-\\dfrac34\\right)+3=0$ nên $A$ không khả nghịch.<br>- <strong>Sai</strong>.<br>  Khi $x=\\dfrac34$ thì $\\det A=3+3=6\\neq0$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Khai triển theo dòng $1$: $\\det A=1\\cdot(3-0)-0+2\\cdot(2x-0)=3+4x$.<br>- <strong>Đúng</strong>.<br>  Từ $\\det A=4x+3$ suy ra hệ số của $x$ là $4$.<br>- <strong>Đúng</strong>.<br>  Khi $x=-\\dfrac34$ thì $\\det A=4\\cdot\\left(-\\dfrac34\\right)+3=0$ nên $A$ không khả nghịch.<br>- <strong>Sai</strong>.<br>  Khi $x=\\dfrac34$ thì $\\det A=3+3=6\\neq0$.<br><br><em>Dựa theo các dạng bài tập trong: Vũ Đỗ Huy Cường, Đại số tuyến tính (bài giảng và bài tập), Khoa Toán-Tin học, Trường Đại học Khoa học Tự nhiên.</em>",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
