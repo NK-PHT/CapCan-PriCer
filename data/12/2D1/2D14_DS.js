@@ -737,7 +737,7 @@ window.dungSai2D14 = [
       },
       {
         "text": "Khoảng cách từ điểm $M(2;1)$ đến đường tiệm cận xiên của đồ thị $(C)$ bằng $\\dfrac{2\\sqrt{5}}{5}$",
-        "answer": false
+        "answer": true
       }
     ],
     "explain": "<br>- Tập xác định $\\mathscr{D}=\\mathbb{R}\\backslash \\{-3\\}$.<br>- Ta có $y=\\dfrac{2x^2+5x}{x+3}=2x-1+\\dfrac{3}{x+3}\\Rightarrow y'=2-\\dfrac{3}{(x+3)^2}$.<br>  Suy ra $y'=0\\Leftrightarrow 2-\\dfrac{3}{(x+3)^2}=0\\Leftrightarrow \\dfrac{2x^2+12x+15}{(x+3)^2}=0\\Leftrightarrow 2x^2+12x+15=0$ có hai nghiệm phân biệt.<br>  Vậy hàm số có hai cực trị có tổng hoành độ của cực trị bằng $\\dfrac{-12}{2}=-6$.<br>- Ta có $\\lim\\limits_{x\\to +\\infty }\\dfrac{2x^2+5x}{x+3}=+\\infty , \\lim\\limits_{x\\to -\\infty }\\dfrac{2x^2+5x}{x+3}=-\\infty $, nên đồ thị hàm số không có tiệm cận ngang.<br>- Ta có $\\lim\\limits_{x\\to +\\infty }\\left[y-(2x-1)\\right]= \\lim\\limits_{x\\to +\\infty }\\dfrac{3}{x+3}=0; \\lim\\limits_{x\\to -\\infty }\\left[y-(2x-1)\\right]= \\lim\\limits_{x\\to -\\infty }\\dfrac{3}{x+3}=0$.<br>  Nên đồ thị hàm số có tiệm cận xiên là $\\Delta \\colon y=2x-1\\Leftrightarrow 2x-y-1=0$.<br>  Khoảng cách từ điểm $M(2;1)$ đến $\\Delta $ là   $\\mathrm{d}(M,\\Delta )=\\dfrac{| 2\\cdot 2-1-1 |}{\\sqrt{2^2+(-1)^2}}=\\dfrac{2\\sqrt{5}}{5}.$",
