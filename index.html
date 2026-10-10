@@ -460,6 +460,7 @@
         body { --a1: #2F6FED; --a2: #7C5CFC; --tint: #eef3ff; --tint-ink: #1e3a8a; }
         body[data-lv="thcs"] { --a1: #0E9F6E; --a2: #2BB5A0; --tint: #e8f8f1; --tint-ink: #065f46; }
         body[data-lv="dh"] { --a1: #4338CA; --a2: #C026D3; --tint: #f1edff; --tint-ink: #3730a3; }
+        body[data-lv="lt"] { --a1: #0B7285; --a2: #3B82C4; --tint: #e7f6f9; --tint-ink: #0b4f5c; }
         .app-header { flex-wrap: wrap; gap: 8px 16px; }
         .app-header::after, .main-title { background: linear-gradient(90deg, var(--a1), var(--a2)); }
         .main-title { -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
@@ -480,7 +481,7 @@
 
         /* ===== BỘ CHUYỂN CẤP HỌC (thẻ lớn có phụ đề) ===== */
         .lv-wrap { padding: 14px 20px 0; max-width: 1300px; margin: 0 auto; }
-        .lv-seg { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; padding: 6px; background: #eaeef7; border-radius: 18px; }
+        .lv-seg { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 6px; background: #eaeef7; border-radius: 18px; }
         .lv-seg button { border: 0; background: transparent; padding: 10px 8px 12px; border-radius: 14px; cursor: pointer; font-family: inherit; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; position: relative; color: #5b6477; transition: background .15s, box-shadow .15s, color .15s; }
         .lv-seg button .lv-t { font-weight: 800; font-size: 1rem; line-height: 1.2; }
         .lv-seg button .lv-s { font-weight: 500; font-size: .74rem; line-height: 1.25; color: #7b8499; }
@@ -503,6 +504,45 @@
         .chip.active { border-color: var(--a1); background: var(--tint); color: var(--tint-ink); font-weight: 700; }
         .chip.soon:not(.active) { opacity: .6; }
         .chip:focus-visible { outline: 3px solid var(--a1); outline-offset: 1px; }
+
+        /* ===== Tab Lý thuyết ===== */
+        .lt-panel { min-height: 320px; }
+        .lt-eyebrow { font-size: .76rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--tint-ink); margin-bottom: 4px; }
+        .lt-title { font-size: 1.45rem; font-weight: 800; line-height: 1.3; margin: 0 0 14px; color: #1e293b; text-wrap: balance; }
+        .lt-body { font-size: 1rem; line-height: 1.75; color: #27324a; max-width: 78ch; }
+        .lt-body h4 { font-size: 1.05rem; font-weight: 800; margin: 22px 0 8px; color: var(--tint-ink); }
+        .lt-body p { margin: 0 0 10px; }
+        .lt-body ul, .lt-body ol { padding-left: 1.3rem; margin: 0 0 10px; }
+        .lt-body li { margin-bottom: 4px; }
+        .lt-body table { border-collapse: collapse; margin: 8px 0 14px; font-size: .94rem; }
+        .lt-body th, .lt-body td { border: 1px solid #d5dbe8; padding: 5px 12px; text-align: center; }
+        .lt-body th { background: var(--tint); color: var(--tint-ink); }
+        .lt-body mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; max-width: 100%; }
+        .lt-def, .lt-formula, .lt-warn, .lt-ex, .lt-sum { margin: 12px 0; padding: 12px 16px; border-radius: 12px; overflow-x: auto; }
+        .lt-def > strong:first-child, .lt-formula > strong:first-child, .lt-warn > strong:first-child, .lt-ex > strong:first-child, .lt-sum > strong:first-child { display: inline-block; margin-right: 4px; }
+        .lt-def { background: var(--tint); border: 1px solid color-mix(in srgb, var(--a1) 28%, #fff); }
+        .lt-def > strong:first-child { color: var(--tint-ink); }
+        .lt-formula { background: #f6f8fc; border: 1px solid #d5dbe8; }
+        .lt-formula > strong:first-child { color: #334155; }
+        .lt-warn { background: #fff7e6; border: 1px solid #f3d28b; }
+        .lt-warn > strong:first-child { color: #92400e; }
+        .lt-ex { background: #fff; border: 1px solid #dfe5f1; box-shadow: 0 1px 3px rgba(30,41,59,.06); }
+        .lt-ex > strong:first-child { color: var(--a1); }
+        .lt-sol { margin-top: 10px; padding: 10px 14px; background: #f7f9fd; border-radius: 10px; border-top: 1px dashed #c7d0e2; }
+        .lt-sol > strong:first-child { color: #475569; }
+        .lt-sum { background: linear-gradient(135deg, color-mix(in srgb, var(--a1) 10%, #fff), color-mix(in srgb, var(--a2) 10%, #fff)); border: 1px solid color-mix(in srgb, var(--a1) 25%, #fff); }
+        .lt-sum ul { margin-bottom: 0; }
+        .lt-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-top: 22px; padding-top: 16px; border-top: 1px solid #e6eaf3; }
+        .lt-nav { display: flex; gap: 8px; flex-wrap: wrap; }
+        .lt-nav button, .lt-practice { border: 1px solid #d5dbe8; background: #fff; border-radius: 10px; padding: 8px 14px; font-weight: 600; font-size: .9rem; color: #334155; cursor: pointer; font-family: inherit; }
+        .lt-nav button:hover:not(:disabled) { border-color: var(--a1); color: var(--tint-ink); }
+        .lt-nav button:disabled { opacity: .4; cursor: default; }
+        .lt-practice { background: linear-gradient(135deg, var(--a1), var(--a2)); color: #fff; border: 0; }
+        .lt-practice:hover { filter: brightness(1.06); }
+        .lt-nav button:focus-visible, .lt-practice:focus-visible { outline: 3px solid var(--a1); outline-offset: 2px; }
+        .lt-empty { text-align: center; color: #64748b; padding: 48px 12px; }
+        .lt-empty i { font-size: 2.2rem; color: var(--a1); opacity: .5; margin-bottom: 10px; display: block; }
+        @media (max-width: 520px) { .lv-seg { gap: 4px; padding: 4px; } .lv-seg button { padding: 8px 2px 10px; } .lv-seg button .lv-t { font-size: .8rem; } .lv-seg button .lv-s { font-size: .6rem; } .lt-title { font-size: 1.2rem; } }
         .bai-item input { position: absolute; opacity: 0; width: 0; height: 0; pointer-events: none; }
         .bai-item { position: relative; }
         .bai-item:focus-within { outline: 3px solid var(--a1); outline-offset: 1px; }
@@ -525,12 +565,13 @@
         <button type="button" data-lv="thcs"><span class="lv-t">Toán THCS</span><span class="lv-s">Lớp 6 – 9</span></button>
         <button type="button" data-lv="thpt" class="active"><span class="lv-t">Toán THPT</span><span class="lv-s">Lớp 10 – 12</span></button>
         <button type="button" data-lv="dh"><span class="lv-t">Toán Đại học</span><span class="lv-s">Nhiều học phần</span></button>
+        <button type="button" data-lv="lt"><span class="lv-t">Lý thuyết</span><span class="lv-s">Tóm tắt kiến thức</span></button>
     </nav>
 </div>
 
 <main class="main-layout">
     <section class="sidebar-panel shadow-sm">
-        <div class="mb-3">
+        <div class="mb-3" id="wrap-name">
             <label class="form-label small fw-bold text-secondary">THÍ SINH</label>
             <input type="text" class="form-control" id="student-name" placeholder="Nhập tên trước khi nộp...">
         </div>
@@ -577,6 +618,22 @@
         <div class="small text-muted text-center" id="data-load-status">Đang tải ngân hàng câu hỏi...</div>
         </div><!-- /#ctl-main -->
 
+        <div id="ctl-lt" style="display:none">
+            <div class="mb-3">
+                <label class="form-label small fw-bold text-secondary">KHỐI LỚP</label>
+                <div class="chips" id="lt-chips-lop" role="group" aria-label="Khối lớp"></div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label small fw-bold text-secondary">CHƯƠNG</label>
+                <div class="chips" id="lt-chips-nhom" role="group" aria-label="Chương"></div>
+            </div>
+            <div class="mb-3">
+                <label class="form-label small fw-bold text-secondary">NỘI DUNG</label>
+                <div class="bai-list" id="lt-list" role="radiogroup"></div>
+            </div>
+        </div><!-- /#ctl-lt -->
+
+        <div id="exam-extras">
         <hr class="text-muted">
         
         <label class="form-label small tabular fw-bold text-secondary"><i class="fa-solid fa-grid me-1"></i> TIẾN ĐỘ LÀM BÀI</label>
@@ -586,9 +643,10 @@
         <button type="button" class="btn btn-outline-secondary btn-sm w-100 mt-3" id="btn-xem-lich-su">
             <i class="fa-solid fa-clock-rotate-left me-1"></i> Xem lịch sử làm bài
         </button>
+        </div><!-- /#exam-extras -->
     </section>
 
-    <section class="exam-panel shadow-sm">
+    <section class="exam-panel shadow-sm" id="exam-panel">
         <form id="quiz-form">
             <div id="quiz-content">
                 <div class="text-center text-muted py-5">
@@ -605,6 +663,10 @@
         </form>
 
         <div id="result-box" class="alert mt-4 d-none score-display-box text-center"></div>
+    </section>
+
+    <section class="exam-panel lt-panel shadow-sm" id="lt-panel" style="display:none" aria-live="polite">
+        <div id="lt-content"></div>
     </section>
 </main>
 
@@ -628,7 +690,8 @@
 </footer>
 
 <script src="data/manifest.js"></script>
-<script src="js/app.js?v=20261010-1"></script>
+<script src="js/app.js?v=20261011-1"></script>
+<script src="js/lythuyet.js?v=20261011-1"></script>
 
 <div class="author-modal-overlay" id="author-modal-overlay" onclick="if(event.target===this) closeAuthorModal()">
     <div class="author-modal-box">

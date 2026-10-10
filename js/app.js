@@ -555,6 +555,19 @@ function hienThiTheoCapDo() {
     document.body.setAttribute('data-lv', lv);
     document.querySelectorAll('#lv-seg button').forEach(b => b.classList.toggle('active', b.dataset.lv === lv));
     const q = id => document.getElementById(id) || { style: {}, innerHTML: '', classList: { contains: () => true } };
+    const laLT = (lv === 'lt');
+    q('ctl-lt').style.display = laLT ? '' : 'none';
+    q('lt-panel').style.display = laLT ? '' : 'none';
+    q('exam-panel').style.display = laLT ? 'none' : '';
+    q('wrap-name').style.display = laLT ? 'none' : '';
+    q('exam-timer').style.visibility = laLT ? 'hidden' : '';
+    q('exam-extras').style.display = laLT ? 'none' : '';
+    if (laLT) {
+        q('ctl-main').style.display = 'none';
+        q('thcs-soon').style.display = 'none';
+        if (typeof window.hienThiLyThuyet === 'function') window.hienThiLyThuyet();
+        return;
+    }
     q('ctl-main').style.display = (lv === 'thcs') ? 'none' : '';
     q('thcs-soon').style.display = (lv === 'thcs') ? '' : 'none';
     q('wrap-lop').style.display = (lv === 'thpt') ? '' : 'none';
@@ -583,7 +596,7 @@ function chonCapDo(lv) {
     } else if (lv === 'thpt') {
         selectLop.value = lopThptCuoi || 'lop12';
     }
-    if (lv !== 'thcs') {
+    if (lv !== 'thcs' && lv !== 'lt') {
         capNhatDanhSachChuong();
         dongBoGiaoDienChuong(true);
     }
@@ -638,9 +651,10 @@ function tenNganChuong(value, m) {
     return (so ? 'C' + so + ' ' : '') + ten;
 }
 
-function phanNhomDanhMuc() {
-    let ds = DanhMucChuong[selectLop.value] || [];
-    if (selectLop.value === 'daihoc') ds = ds.filter(c => c.hp === selectHp.value);
+function phanNhomDanhMuc(lop) {
+    const lopXet = lop || selectLop.value;
+    let ds = DanhMucChuong[lopXet] || [];
+    if (lopXet === 'daihoc') ds = ds.filter(c => c.hp === selectHp.value);
     const nhom = [];
     let cur = null;
     ds.forEach(c => {
