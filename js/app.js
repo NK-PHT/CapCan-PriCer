@@ -203,6 +203,67 @@ const DanhMucChuong = {
         { value: "0C11", text: "Chuyên đề 10 ➔ C1 ➔ Hệ phương trình bậc nhất ba ẩn và ứng dụng" },
         { value: "0C21", text: "Chuyên đề 10 ➔ C2 ➔ Phương pháp quy nạp toán học" },
     ],
+    lop8: [
+        { value: "8_C1_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 1: Đa thức" },
+        { value: "8D11", text: "Lớp 8 ➔ C1 ➔ §1. Đơn thức" },
+        { value: "8D12", text: "Lớp 8 ➔ C1 ➔ §2. Đa thức" },
+        { value: "8D13", text: "Lớp 8 ➔ C1 ➔ §3. Phép cộng, phép trừ đa thức" },
+        { value: "8D14", text: "Lớp 8 ➔ C1 ➔ §4. Phép nhân đa thức" },
+        { value: "8D15", text: "Lớp 8 ➔ C1 ➔ §5. Phép chia đa thức cho đơn thức" },
+
+        { value: "8_C2_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 2: Hằng đẳng thức đáng nhớ và ứng dụng" },
+        { value: "8D21", text: "Lớp 8 ➔ C2 ➔ §1. Hiệu hai bình phương, bình phương của một tổng hay một hiệu" },
+        { value: "8D22", text: "Lớp 8 ➔ C2 ➔ §2. Lập phương của một tổng hay một hiệu" },
+        { value: "8D23", text: "Lớp 8 ➔ C2 ➔ §3. Tổng và hiệu hai lập phương" },
+        { value: "8D24", text: "Lớp 8 ➔ C2 ➔ §4. Phân tích đa thức thành nhân tử" },
+
+        { value: "8_C3_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 3: Tứ giác" },
+        { value: "8H31", text: "Lớp 8 ➔ C3 ➔ §1. Tứ giác" },
+        { value: "8H32", text: "Lớp 8 ➔ C3 ➔ §2. Hình thang cân" },
+        { value: "8H33", text: "Lớp 8 ➔ C3 ➔ §3. Hình bình hành" },
+        { value: "8H34", text: "Lớp 8 ➔ C3 ➔ §4. Hình chữ nhật" },
+        { value: "8H35", text: "Lớp 8 ➔ C3 ➔ §5. Hình thoi và hình vuông" },
+
+        { value: "8_C4_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 4: Định lí Thalès" },
+        { value: "8H41", text: "Lớp 8 ➔ C4 ➔ §1. Định lí Thalès trong tam giác" },
+        { value: "8H42", text: "Lớp 8 ➔ C4 ➔ §2. Đường trung bình của tam giác" },
+        { value: "8H43", text: "Lớp 8 ➔ C4 ➔ §3. Tính chất đường phân giác của tam giác" },
+
+        { value: "8_C5_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 5: Dữ liệu và biểu đồ" },
+        { value: "8D51", text: "Lớp 8 ➔ C5 ➔ §1. Thu thập và phân loại dữ liệu" },
+        { value: "8D52", text: "Lớp 8 ➔ C5 ➔ §2. Biểu diễn dữ liệu bằng bảng, biểu đồ" },
+        { value: "8D53", text: "Lớp 8 ➔ C5 ➔ §3. Phân tích số liệu thống kê dựa vào biểu đồ" },
+
+        { value: "8_C6_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 6: Phân thức đại số" },
+        { value: "8D61", text: "Lớp 8 ➔ C6 ➔ §1. Phân thức đại số" },
+        { value: "8D62", text: "Lớp 8 ➔ C6 ➔ §2. Tính chất cơ bản của phân thức đại số" },
+        { value: "8D63", text: "Lớp 8 ➔ C6 ➔ §3. Phép cộng, phép trừ phân thức đại số" },
+        { value: "8D64", text: "Lớp 8 ➔ C6 ➔ §4. Phép nhân, phép chia phân thức đại số" },
+
+        { value: "8_C7_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 7: Phương trình bậc nhất và hàm số bậc nhất" },
+        { value: "8D71", text: "Lớp 8 ➔ C7 ➔ §1. Phương trình bậc nhất một ẩn" },
+        { value: "8D72", text: "Lớp 8 ➔ C7 ➔ §2. Giải bài toán bằng cách lập phương trình" },
+        { value: "8D73", text: "Lớp 8 ➔ C7 ➔ §3. Khái niệm hàm số và đồ thị của hàm số" },
+        { value: "8D74", text: "Lớp 8 ➔ C7 ➔ §4. Hàm số bậc nhất và đồ thị của hàm số bậc nhất" },
+        { value: "8D75", text: "Lớp 8 ➔ C7 ➔ §5. Hệ số góc của đường thẳng" },
+
+        { value: "8_C8_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 8: Mở đầu về tính xác suất của biến cố" },
+        { value: "8D81", text: "Lớp 8 ➔ C8 ➔ §1. Kết quả có thể và kết quả thuận lợi" },
+        { value: "8D82", text: "Lớp 8 ➔ C8 ➔ §2. Cách tính xác suất của biến cố bằng tỉ số" },
+        { value: "8D83", text: "Lớp 8 ➔ C8 ➔ §3. Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng" },
+
+        { value: "8_C9_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 9: Tam giác đồng dạng" },
+        { value: "8H91", text: "Lớp 8 ➔ C9 ➔ §1. Hai tam giác đồng dạng" },
+        { value: "8H92", text: "Lớp 8 ➔ C9 ➔ §2. Ba trường hợp đồng dạng của hai tam giác" },
+        { value: "8H93", text: "Lớp 8 ➔ C9 ➔ §3. Định lí Pythagore và ứng dụng" },
+        { value: "8H94", text: "Lớp 8 ➔ C9 ➔ §4. Các trường hợp đồng dạng của hai tam giác vuông" },
+        { value: "8H95", text: "Lớp 8 ➔ C9 ➔ §5. Hình đồng dạng" },
+
+        { value: "8_C10_TongOn", text: "Lớp 8 ➔ 🔹 Tổng ôn Chương 10: Một số hình khối trong thực tiễn" },
+        { value: "8H01", text: "Lớp 8 ➔ C10 ➔ §1. Hình chóp tam giác đều" },
+        { value: "8H02", text: "Lớp 8 ➔ C10 ➔ §2. Hình chóp tứ giác đều" },
+
+    ],
     lop9: [
         { value: "9_C1_TongOn", text: "Lớp 9 ➔ 🔹 Tổng ôn Chương 1: Phương trình và hệ phương trình bậc nhất hai ẩn" },
         { value: "9D11", text: "Lớp 9 ➔ C1 ➔ §1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn" },
@@ -590,14 +651,15 @@ function xepThuTuUuTienChuaDung(dsCauHoi, bucketKey, trangThaiToanCuc) {
 const selectLop = document.getElementById('select-lop');
 let capDoHienTai = 'thpt';
 let lopThptCuoi = 'lop12';
+let lopThcsCuoi = 'lop9';
 
 function laDaiHoc() { return selectLop.value === 'daihoc'; }
-/** Chế độ luyện tập theo mục (Đại học, THCS): 4 Đúng–Sai + 6 Trả lời ngắn, đồng hồ đếm lên, điểm tối đa 7. */
+/** Chế độ luyện tập theo mục (Đại học, THCS): đồng hồ đếm lên, điểm tối đa theo cấu trúc đề (ĐH 7, THCS 10). */
 function laLuyenTap() { return selectLop.value === 'daihoc' || /^lop[6-9]$/.test(selectLop.value); }
 
-/** Số câu của một đề: THPT theo cấu trúc 12 TN / 4 ĐS / 6 TLN; Đại học luyện theo chủ đề: 0 TN / 4 ĐS / 6 TLN. */
+/** Số câu của một đề: THPT và THCS theo cấu trúc 12 TN / 4 ĐS / 6 TLN (10 điểm); Đại học luyện theo chủ đề: 0 TN / 4 ĐS / 6 TLN. */
 function layYeuCauSoCau() {
-    return laLuyenTap()
+    return laDaiHoc()
         ? { tracNghiem: 0, dungSai: 4, traLoiNgan: 6 }
         : { tracNghiem: 12, dungSai: 4, traLoiNgan: 6 };
 }
@@ -641,6 +703,7 @@ function hienThiTheoCapDo() {
 function dongBoCapDoTheoLop() {
     capDoHienTai = laDaiHoc() ? 'dh' : (/^lop[6-9]$/.test(selectLop.value) ? 'thcs' : 'thpt');
     if (capDoHienTai === 'thpt') lopThptCuoi = selectLop.value;
+    if (capDoHienTai === 'thcs') lopThcsCuoi = selectLop.value;
     hienThiTheoCapDo();
 }
 
@@ -650,7 +713,7 @@ function chonCapDo(lv) {
     if (lv === 'dh') {
         selectLop.value = 'daihoc';
     } else if (lv === 'thcs') {
-        selectLop.value = 'lop9';
+        selectLop.value = lopThcsCuoi || 'lop9';
     } else if (lv === 'thpt') {
         selectLop.value = lopThptCuoi || 'lop12';
     }
@@ -677,7 +740,10 @@ function capNhatGhiChuNguon() {
         : '';
 }
 selectHp.addEventListener('change', () => { capNhatDanhSachChuong(); dongBoGiaoDienChuong(true); capNhatGhiChuNguon(); });
-selectLop.addEventListener('change', () => { if (/^lop1[0-2]$/.test(selectLop.value)) lopThptCuoi = selectLop.value; });
+selectLop.addEventListener('change', () => {
+    if (/^lop1[0-2]$/.test(selectLop.value)) lopThptCuoi = selectLop.value;
+    else if (/^lop[6-9]$/.test(selectLop.value)) lopThcsCuoi = selectLop.value;
+});
 
 const selectChuong = document.getElementById('select-chuong');
 
@@ -700,6 +766,7 @@ const TEN_NGAN_CHUONG = {
     "12_C1_TongOn": "Hàm số", "12_C2_TongOn": "Vectơ", "12_C3_TongOn": "Thống kê", "12_C4_TongOn": "Nguyên hàm", "12_C5_TongOn": "Oxyz", "12_C6_TongOn": "Xác suất",
     "11_C1_TongOn": "Lượng giác", "11_C2_TongOn": "Dãy số", "11_C3_TongOn": "Số đặc trưng", "11_C4_TongOn": "Song song", "11_C5_TongOn": "Giới hạn", "11_C6_TongOn": "Mũ – Lôgarít", "11_C7_TongOn": "Vuông góc", "11_C8_TongOn": "Xác suất", "11_C9_TongOn": "Đạo hàm",
     "10_C1_TongOn": "Mệnh đề", "10_C2_TongOn": "BPT bậc nhất", "10_C3_TongOn": "Hàm bậc hai", "10_C4_TongOn": "Hệ thức lượng", "10_C5_TongOn": "Véctơ", "10_C6_TongOn": "Thống kê", "10_C7_TongOn": "BPT bậc hai", "10_C8_TongOn": "Tổ hợp", "10_C9_TongOn": "Oxy", "10_C10_TongOn": "Xác suất",
+    "8_C1_TongOn": "Đa thức", "8_C2_TongOn": "Hằng đẳng thức", "8_C3_TongOn": "Tứ giác", "8_C4_TongOn": "Thalès", "8_C5_TongOn": "Dữ liệu", "8_C6_TongOn": "Phân thức", "8_C7_TongOn": "PT & hàm số bậc nhất", "8_C8_TongOn": "Xác suất", "8_C9_TongOn": "Đồng dạng", "8_C10_TongOn": "Hình chóp",
     "9_C1_TongOn": "PT & hệ PT", "9_C2_TongOn": "PT & BPT", "9_C3_TongOn": "Căn thức", "9_C4_TongOn": "Hệ thức lượng", "9_C5_TongOn": "Đường tròn", "9_C6_TongOn": "Hàm bậc hai", "9_C7_TongOn": "Tần số", "9_C8_TongOn": "Xác suất", "9_C9_TongOn": "Ngoại – nội tiếp", "9_C10_TongOn": "Hình khối",
     "DH_DSTT_C1_TongOn": "Số phức", "DH_DSTT_C2_TongOn": "Ma trận", "DH_DSTT_C3_TongOn": "Không gian vector", "DH_DSTT_C4_TongOn": "Ánh xạ tuyến tính",
     "DH_GT_C1_TongOn": "Vi phân", "DH_GT_C2_TongOn": "Tích phân", "DH_GT_C3_TongOn": "Dãy – Chuỗi", "DH_GT_C4_TongOn": "Nhiều biến", "DH_GT_C5_TongOn": "PT vi phân"
@@ -780,7 +847,7 @@ function veChipLuaChon() {
     const chipsNhom = document.getElementById('chips-nhom');
     if (chipsLop) {
         const dsLop = (capDoHienTai === 'thcs')
-            ? [['lop6', 'Lớp 6', false], ['lop7', 'Lớp 7', false], ['lop8', 'Lớp 8', false], ['lop9', 'Lớp 9', true]]
+            ? [['lop6', 'Lớp 6', false], ['lop7', 'Lớp 7', false], ['lop8', 'Lớp 8', true], ['lop9', 'Lớp 9', true]]
             : [['lop10', 'Lớp 10', true], ['lop11', 'Lớp 11', true], ['lop12', 'Lớp 12', true]];
         chipsLop.innerHTML = dsLop.map(([v, t, co]) => co
             ? `<button type="button" class="chip${selectLop.value === v ? ' active' : ''}" data-v="${v}" aria-pressed="${selectLop.value === v}">${t}</button>`
@@ -935,6 +1002,17 @@ const CHUONG_TONG_ON_DAC_BIET = {
     "10_C10_TongOn": ["0D01", "0D02"],
 
     // ===== ĐẠI HỌC =====
+    // ===== LỚP 8 (THCS) =====
+    "8_C1_TongOn": ["8D11", "8D12", "8D13", "8D14", "8D15"],
+    "8_C2_TongOn": ["8D21", "8D22", "8D23", "8D24"],
+    "8_C3_TongOn": ["8H31", "8H32", "8H33", "8H34", "8H35"],
+    "8_C4_TongOn": ["8H41", "8H42", "8H43"],
+    "8_C5_TongOn": ["8D51", "8D52", "8D53"],
+    "8_C6_TongOn": ["8D61", "8D62", "8D63", "8D64"],
+    "8_C7_TongOn": ["8D71", "8D72", "8D73", "8D74", "8D75"],
+    "8_C8_TongOn": ["8D81", "8D82", "8D83"],
+    "8_C9_TongOn": ["8H91", "8H92", "8H93", "8H94", "8H95"],
+    "8_C10_TongOn": ["8H01", "8H02"],
     // ===== LỚP 9 (THCS) =====
     "9_C1_TongOn": ["9D11", "9D12", "9D13"],
     "9_C2_TongOn": ["9D21", "9D22", "9D23"],
