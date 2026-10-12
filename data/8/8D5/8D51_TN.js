@@ -126,7 +126,7 @@ window.tracNghiem8D51 = [
       "$6$"
     ],
     "answer": 3,
-    "explain": "Tổng các tỉ lệ là $40\\%+30\\%+18\\%+14\\%=102\\%\\gt100\\%$ nên dữ liệu không hợp lí.<br>Tỉ lệ đúng của môn bơi lội là $100\\%-40\\%-30\\%-18\\%=12\\%$.<br>Số học sinh chọn bơi lội là $50\\cdot 12\\%=6$ (học sinh).<br>Lỗi thường gặp: dùng tỉ lệ ghi sai $14\\%$ (được $7$) hoặc lấy luôn $12$ làm số học sinh.<br>Vậy chọn đáp án D.",
+    "explain": "Tổng các tỉ lệ là $40\\%+30\\%+18\\%+14\\%=102\\%\\gt100\\%$ nên dữ liệu không hợp lí.<br>Tỉ lệ đúng của môn bơi lội là $100\\%-40\\%-30\\%-18\\%=12\\%$. Biểu đồ hình quạt tròn với các tỉ lệ đúng:<img src=\"data/8/8D5/fig/8D511TN10_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:319px;max-width:92%;height:auto;\">Số học sinh chọn bơi lội là $50\\cdot 12\\%=6$ (học sinh).<br>Lỗi thường gặp: dùng tỉ lệ ghi sai $14\\%$ (được $7$) hoặc lấy luôn $12$ làm số học sinh.<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

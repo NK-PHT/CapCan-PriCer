@@ -14,7 +14,7 @@ window.tracNghiem8H34 = [
   },
   {
     "id": "8H341TN2",
-    "question": "Cho hình chữ nhật $ABCD$ có $AC=14$ cm, $O$ là giao điểm của hai đường chéo. Độ dài đoạn $OD$ là",
+    "question": "Cho hình chữ nhật $ABCD$ có $AC=14$ cm, $O$ là giao điểm của hai đường chéo. Độ dài đoạn $OD$ là<img src=\"data/8/8H3/fig/8H341TN2_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$14$ cm",
       "$28$ cm",
@@ -22,7 +22,7 @@ window.tracNghiem8H34 = [
       "$3{,}5$ cm"
     ],
     "answer": 2,
-    "explain": "Hình chữ nhật có hai đường chéo bằng nhau và cắt nhau tại trung điểm của mỗi đường nên $OD=\\dfrac{BD}{2}=\\dfrac{AC}{2}=7$ (cm).<br>Lỗi thường gặp: nhầm $OD=BD=14$ cm.<br>Vậy chọn đáp án C.",
+    "explain": "Hình chữ nhật có hai đường chéo bằng nhau và cắt nhau tại trung điểm của mỗi đường (xem hình) nên $OD=\\dfrac{BD}{2}=\\dfrac{AC}{2}=7$ (cm).<img src=\"data/8/8H3/fig/8H341TN2_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Lỗi thường gặp: nhầm $OD=BD=14$ cm.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -53,7 +53,7 @@ window.tracNghiem8H34 = [
   },
   {
     "id": "8H341TN5",
-    "question": "Cho hình chữ nhật $ABCD$ có $\\widehat{BAC}=35^\\circ$. Số đo góc $ABD$ là",
+    "question": "Cho hình chữ nhật $ABCD$ có $\\widehat{BAC}=35^\\circ$. Số đo góc $ABD$ là<img src=\"data/8/8H3/fig/8H341TN5_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$55^\\circ$",
       "$70^\\circ$",
@@ -61,12 +61,12 @@ window.tracNghiem8H34 = [
       "$35^\\circ$"
     ],
     "answer": 3,
-    "explain": "Gọi $O$ là giao điểm hai đường chéo. Hình chữ nhật có hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường nên $OA=OB$.<br>Tam giác $OAB$ cân tại $O$ nên $\\widehat{ABD}=\\widehat{OBA}=\\widehat{OAB}=35^\\circ$.<br>Lỗi thường gặp: lấy góc phụ $90^\\circ-35^\\circ=55^\\circ$.<br>Vậy chọn đáp án D.",
+    "explain": "Gọi $O$ là giao điểm hai đường chéo. Hình chữ nhật có hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường nên $OA=OB$.<br><img src=\"data/8/8H3/fig/8H341TN5_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Tam giác $OAB$ cân tại $O$ nên $\\widehat{ABD}=\\widehat{OBA}=\\widehat{OAB}=35^\\circ$.<br>Lỗi thường gặp: lấy góc phụ $90^\\circ-35^\\circ=55^\\circ$.<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H341TN6",
-    "question": "Cho hình chữ nhật $ABCD$ có $AC=10$ cm, $O$ là giao điểm của hai đường chéo và $\\widehat{AOD}=60^\\circ$. Độ dài cạnh $AD$ là",
+    "question": "Cho hình chữ nhật $ABCD$ có $AC=10$ cm, $O$ là giao điểm của hai đường chéo và $\\widehat{AOD}=60^\\circ$. Độ dài cạnh $AD$ là<img src=\"data/8/8H3/fig/8H341TN6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$10$ cm",
       "$5$ cm",
@@ -74,7 +74,7 @@ window.tracNghiem8H34 = [
       "$2{,}5$ cm"
     ],
     "answer": 1,
-    "explain": "Ta có $OA=OD=\\dfrac{AC}{2}=5$ cm nên tam giác $AOD$ cân tại $O$; lại có $\\widehat{AOD}=60^\\circ$ nên tam giác $AOD$ đều.<br>Suy ra $AD=OA=5$ cm.<br>Lỗi thường gặp: cho rằng $AD=AC=10$ cm.<br>Vậy chọn đáp án B.",
+    "explain": "Ta có $OA=OD=\\dfrac{AC}{2}=5$ cm nên tam giác $AOD$ cân tại $O$; lại có $\\widehat{AOD}=60^\\circ$ nên tam giác $AOD$ đều.<br><img src=\"data/8/8H3/fig/8H341TN6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Suy ra $AD=OA=5$ cm.<br>Lỗi thường gặp: cho rằng $AD=AC=10$ cm.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -92,7 +92,7 @@ window.tracNghiem8H34 = [
   },
   {
     "id": "8H341TN8",
-    "question": "Cho tam giác $ABC$ có $AM$ là đường trung tuyến, $AM=BM=5$ cm và $\\widehat{B}=30^\\circ$. Độ dài cạnh $AC$ là",
+    "question": "Cho tam giác $ABC$ có $AM$ là đường trung tuyến, $AM=BM=5$ cm và $\\widehat{B}=30^\\circ$. Độ dài cạnh $AC$ là<img src=\"data/8/8H3/fig/8H341TN8_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$5$ cm",
       "$10$ cm",
@@ -100,12 +100,12 @@ window.tracNghiem8H34 = [
       "$7{,}5$ cm"
     ],
     "answer": 0,
-    "explain": "Ta có $AM=BM=CM=\\dfrac{BC}{2}$, tức là đường trung tuyến $AM$ bằng nửa cạnh $BC$, nên tam giác $ABC$ vuông tại $A$.<br>Suy ra $\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$. Tam giác $AMC$ cân tại $M$ ($MA=MC$) có $\\widehat{C}=60^\\circ$ nên là tam giác đều.<br>Do đó $AC=MC=5$ cm.<br>Lỗi thường gặp: nhầm $AC=BC=10$ cm.<br>Vậy chọn đáp án A.",
+    "explain": "Ta có $AM=BM=CM=\\dfrac{BC}{2}$, tức là đường trung tuyến $AM$ bằng nửa cạnh $BC$, nên tam giác $ABC$ vuông tại $A$.<br>Suy ra $\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$. Tam giác $AMC$ cân tại $M$ ($MA=MC$) có $\\widehat{C}=60^\\circ$ nên là tam giác đều.<br><img src=\"data/8/8H3/fig/8H341TN8_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Do đó $AC=MC=5$ cm.<br>Lỗi thường gặp: nhầm $AC=BC=10$ cm.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H341TN9",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=3$ cm, $AC=5$ cm. Gọi $M$ là trung điểm của $BC$; trên tia đối của tia $MA$ lấy điểm $D$ sao cho $MD=MA$. Tứ giác $ABDC$ là",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=3$ cm, $AC=5$ cm. Gọi $M$ là trung điểm của $BC$; trên tia đối của tia $MA$ lấy điểm $D$ sao cho $MD=MA$. Tứ giác $ABDC$ là<img src=\"data/8/8H3/fig/8H341TN9_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "hình thoi",
       "hình chữ nhật",
@@ -113,12 +113,12 @@ window.tracNghiem8H34 = [
       "hình bình hành không có góc vuông"
     ],
     "answer": 1,
-    "explain": "Tứ giác $ABDC$ có hai đường chéo $AD$ và $BC$ cắt nhau tại trung điểm $M$ của mỗi đường nên là hình bình hành.<br>Hình bình hành $ABDC$ có $\\widehat{BAC}=90^\\circ$ nên là hình chữ nhật.<br>Vì $AB\\ne AC$ (hai cạnh kề không bằng nhau) nên $ABDC$ không phải hình thoi, cũng không phải hình vuông.<br>Vậy chọn đáp án B.",
+    "explain": "Theo hình vẽ, tứ giác $ABDC$ có hai đường chéo $AD$ và $BC$ cắt nhau tại trung điểm $M$ của mỗi đường nên là hình bình hành.<br>Hình bình hành $ABDC$ có $\\widehat{BAC}=90^\\circ$ nên là hình chữ nhật.<br>Vì $AB\\ne AC$ (hai cạnh kề không bằng nhau) nên $ABDC$ không phải hình thoi, cũng không phải hình vuông.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H341TN10",
-    "question": "Cho hình chữ nhật $ABCD$ có $\\widehat{ADB}=55^\\circ$, $O$ là giao điểm của hai đường chéo. Kẻ $AH\\perp BD$ ($H$ thuộc $BD$). Số đo góc $HAO$ là",
+    "question": "Cho hình chữ nhật $ABCD$ có $\\widehat{ADB}=55^\\circ$, $O$ là giao điểm của hai đường chéo. Kẻ $AH\\perp BD$ ($H$ thuộc $BD$). Số đo góc $HAO$ là<img src=\"data/8/8H3/fig/8H341TN10_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$35^\\circ$",
       "$55^\\circ$",
@@ -126,12 +126,12 @@ window.tracNghiem8H34 = [
       "$70^\\circ$"
     ],
     "answer": 2,
-    "explain": "Tam giác $AHD$ vuông tại $H$ nên $\\widehat{DAH}=90^\\circ-55^\\circ=35^\\circ$.<br>Vì $OA=OD$ nên tam giác $OAD$ cân tại $O$, $\\widehat{OAD}=\\widehat{ODA}=55^\\circ$.<br>Do đó $\\widehat{HAO}=\\widehat{OAD}-\\widehat{DAH}=55^\\circ-35^\\circ=20^\\circ$.<br>Lỗi thường gặp: dừng lại ở $\\widehat{DAH}=35^\\circ$.<br>Vậy chọn đáp án C.",
+    "explain": "Tam giác $AHD$ vuông tại $H$ nên $\\widehat{DAH}=90^\\circ-55^\\circ=35^\\circ$.<br>Vì $OA=OD$ nên tam giác $OAD$ cân tại $O$, $\\widehat{OAD}=\\widehat{ODA}=55^\\circ$.<br><img src=\"data/8/8H3/fig/8H341TN10_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Do đó (xem hình) $\\widehat{HAO}=\\widehat{OAD}-\\widehat{DAH}=55^\\circ-35^\\circ=20^\\circ$.<br>Lỗi thường gặp: dừng lại ở $\\widehat{DAH}=35^\\circ$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H341TN11",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $\\widehat{B}=25^\\circ$, đường cao $AH$ và đường trung tuyến $AM$. Số đo góc $HAM$ là",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $\\widehat{B}=25^\\circ$, đường cao $AH$ và đường trung tuyến $AM$. Số đo góc $HAM$ là<img src=\"data/8/8H3/fig/8H341TN11_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$40^\\circ$",
       "$25^\\circ$",
@@ -139,12 +139,12 @@ window.tracNghiem8H34 = [
       "$65^\\circ$"
     ],
     "answer": 0,
-    "explain": "Ta có $\\widehat{C}=90^\\circ-25^\\circ=65^\\circ$. Tam giác $AHC$ vuông tại $H$ nên $\\widehat{HAC}=90^\\circ-65^\\circ=25^\\circ$.<br>Đường trung tuyến $AM$ ứng với cạnh huyền bằng nửa cạnh huyền nên $MA=MC$, tam giác $MAC$ cân tại $M$, $\\widehat{MAC}=\\widehat{C}=65^\\circ$.<br>Do đó $\\widehat{HAM}=\\widehat{MAC}-\\widehat{HAC}=65^\\circ-25^\\circ=40^\\circ$.<br>Lỗi thường gặp: cho rằng $\\widehat{HAM}=\\widehat{HAC}=25^\\circ$.<br>Vậy chọn đáp án A.",
+    "explain": "Ta có $\\widehat{C}=90^\\circ-25^\\circ=65^\\circ$. Tam giác $AHC$ vuông tại $H$ nên $\\widehat{HAC}=90^\\circ-65^\\circ=25^\\circ$.<br>Đường trung tuyến $AM$ ứng với cạnh huyền bằng nửa cạnh huyền nên $MA=MC$, tam giác $MAC$ cân tại $M$, $\\widehat{MAC}=\\widehat{C}=65^\\circ$.<br><img src=\"data/8/8H3/fig/8H341TN11_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Do đó (xem hình) $\\widehat{HAM}=\\widehat{MAC}-\\widehat{HAC}=65^\\circ-25^\\circ=40^\\circ$.<br>Lỗi thường gặp: cho rằng $\\widehat{HAM}=\\widehat{HAC}=25^\\circ$.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H341TN12",
-    "question": "Cho hình chữ nhật $ABCD$ có $AB=12$ cm, $AD=5$ cm. Điểm $M$ thay đổi trên cạnh $CD$. Diện tích tam giác $MAB$ luôn bằng",
+    "question": "Cho hình chữ nhật $ABCD$ có $AB=12$ cm, $AD=5$ cm. Điểm $M$ thay đổi trên cạnh $CD$. Diện tích tam giác $MAB$ luôn bằng<img src=\"data/8/8H3/fig/8H341TN12_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$60\\ \\text{cm}^2$",
       "$15\\ \\text{cm}^2$",
@@ -152,7 +152,7 @@ window.tracNghiem8H34 = [
       "$30\\ \\text{cm}^2$"
     ],
     "answer": 3,
-    "explain": "Vì $CD\\parallel AB$ nên khoảng cách từ $M$ đến $AB$ luôn bằng $AD=5$ cm.<br>$S_{MAB}=\\dfrac{1}{2}\\cdot AB\\cdot AD=\\dfrac{1}{2}\\cdot 12\\cdot 5=30\\ (\\text{cm}^2)$, không phụ thuộc vị trí của $M$.<br>Lỗi thường gặp: quên chia cho $2$, được $60\\ \\text{cm}^2$ (đó là diện tích hình chữ nhật).<br>Vậy chọn đáp án D.",
+    "explain": "Vì $CD\\parallel AB$ nên khoảng cách $MK$ từ $M$ đến $AB$ (xem hình) luôn bằng $AD=5$ cm.<br><img src=\"data/8/8H3/fig/8H341TN12_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">$S_{MAB}=\\dfrac{1}{2}\\cdot AB\\cdot AD=\\dfrac{1}{2}\\cdot 12\\cdot 5=30\\ (\\text{cm}^2)$, không phụ thuộc vị trí của $M$.<br>Lỗi thường gặp: quên chia cho $2$, được $60\\ \\text{cm}^2$ (đó là diện tích hình chữ nhật).<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

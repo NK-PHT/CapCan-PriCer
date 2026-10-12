@@ -22,7 +22,7 @@ window.tracNghiem9H51 = [
       "Điểm $M$ trùng với tâm $O$"
     ],
     "answer": 0,
-    "explain": "Ta có $OM=4$ cm $\\lt R=5$ cm nên điểm $M$ nằm bên trong đường tròn $(O)$.<br>Vì $OM\\neq0$ nên $M$ không trùng với $O$.<br>Vậy chọn đáp án A.",
+    "explain": "Ta có $OM=4$ cm $\\lt R=5$ cm nên điểm $M$ nằm bên trong đường tròn $(O)$.<br>Vì $OM\\neq0$ nên $M$ không trùng với $O$.<br><img src=\"data/9/9H5/fig/9H511TN2_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -35,7 +35,7 @@ window.tracNghiem9H51 = [
       "Vô số"
     ],
     "answer": 3,
-    "explain": "Mỗi đường thẳng đi qua tâm (chứa một đường kính) đều là trục đối xứng của đường tròn.<br>Có vô số đường thẳng đi qua tâm nên đường tròn có vô số trục đối xứng.<br>Vậy chọn đáp án D.",
+    "explain": "Mỗi đường thẳng đi qua tâm (chứa một đường kính) đều là trục đối xứng của đường tròn.<br>Có vô số đường thẳng đi qua tâm nên đường tròn có vô số trục đối xứng.<br><img src=\"data/9/9H5/fig/9H511TN3_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -66,7 +66,7 @@ window.tracNghiem9H51 = [
   },
   {
     "id": "9H511TN6",
-    "question": "Cho đường tròn $(O;R)$, điểm $A$ thuộc đường tròn và đường thẳng $d$ đi qua $O$. Gọi $A'$ là điểm đối xứng với $A$ qua đường thẳng $d$. Khẳng định nào sau đây đúng?",
+    "question": "Cho đường tròn $(O;R)$, điểm $A$ thuộc đường tròn và đường thẳng $d$ đi qua $O$. Gọi $A'$ là điểm đối xứng với $A$ qua đường thẳng $d$. Khẳng định nào sau đây đúng?<img src=\"data/9/9H5/fig/9H511TN6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "Điểm $A'$ nằm bên trong đường tròn $(O;R)$",
       "Điểm $A'$ nằm bên ngoài đường tròn $(O;R)$",
@@ -74,12 +74,12 @@ window.tracNghiem9H51 = [
       "Điểm $A'$ thuộc đường tròn $(O;R)$"
     ],
     "answer": 3,
-    "explain": "Vì $O$ thuộc $d$ nên $O$ đối xứng với chính nó qua $d$. Phép đối xứng trục bảo toàn khoảng cách nên $OA'=OA=R$.<br>Do đó $A'$ thuộc đường tròn $(O;R)$ (đường thẳng đi qua tâm là trục đối xứng của đường tròn).<br>Vậy chọn đáp án D.",
+    "explain": "Vì $O$ thuộc $d$ nên $O$ đối xứng với chính nó qua $d$. Phép đối xứng trục bảo toàn khoảng cách nên $OA'=OA=R$.<br>Do đó $A'$ thuộc đường tròn $(O;R)$ (đường thẳng đi qua tâm là trục đối xứng của đường tròn).<br><img src=\"data/9/9H5/fig/9H511TN6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H511TN7",
-    "question": "Bốn đỉnh của một hình vuông cùng thuộc một đường tròn có bán kính $5$ cm. Độ dài cạnh của hình vuông đó bằng",
+    "question": "Bốn đỉnh của một hình vuông cùng thuộc một đường tròn có bán kính $5$ cm. Độ dài cạnh của hình vuông đó bằng<img src=\"data/9/9H5/fig/9H511TN7_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">",
     "options": [
       "$5\\sqrt{2}$ cm",
       "$10$ cm",
@@ -87,7 +87,7 @@ window.tracNghiem9H51 = [
       "$10\\sqrt{2}$ cm"
     ],
     "answer": 0,
-    "explain": "Hai đường chéo của hình vuông bằng nhau và cắt nhau tại trung điểm mỗi đường, nên tâm đường tròn là giao điểm hai đường chéo và đường chéo là đường kính: đường chéo dài $10$ cm.<br>Gọi cạnh là $a$, theo định lí Pythagore: $a^2+a^2=10^2$, suy ra $a^2=50$, $a=5\\sqrt2$ (cm).<br>Lưu ý: $10$ cm là độ dài đường chéo, không phải cạnh.<br>Vậy chọn đáp án A.",
+    "explain": "Hai đường chéo của hình vuông bằng nhau và cắt nhau tại trung điểm mỗi đường, nên tâm đường tròn là giao điểm hai đường chéo và đường chéo là đường kính: đường chéo dài $10$ cm (xem hình).<br><img src=\"data/9/9H5/fig/9H511TN7_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">Gọi cạnh là $a$, theo định lí Pythagore: $a^2+a^2=10^2$, suy ra $a^2=50$, $a=5\\sqrt2$ (cm).<br>Lưu ý: $10$ cm là độ dài đường chéo, không phải cạnh.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -100,12 +100,12 @@ window.tracNghiem9H51 = [
       "tâm là điểm $A$, bán kính $3$ cm"
     ],
     "answer": 2,
-    "explain": "Đường tròn đường kính $AB$ có tâm là trung điểm $M$ của $AB$ và bán kính bằng $\\dfrac{AB}{2}=3$ cm.<br>Lưu ý: đường kính dài $6$ cm, bán kính chỉ bằng một nửa.<br>Vậy chọn đáp án C.",
+    "explain": "Đường tròn đường kính $AB$ có tâm là trung điểm $M$ của $AB$ và bán kính bằng $\\dfrac{AB}{2}=3$ cm (xem hình).<br><img src=\"data/9/9H5/fig/9H511TN8_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:280px;max-width:92%;height:auto;\">Lưu ý: đường kính dài $6$ cm, bán kính chỉ bằng một nửa.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H511TN9",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=5$ cm, $AC=12$ cm. Tâm của đường tròn đi qua ba điểm $A,B,C$ là",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=5$ cm, $AC=12$ cm. Tâm của đường tròn đi qua ba điểm $A,B,C$ là<img src=\"data/9/9H5/fig/9H511TN9_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:280px;max-width:92%;height:auto;\">",
     "options": [
       "trung điểm của cạnh $AB$",
       "trọng tâm của tam giác $ABC$",
@@ -113,12 +113,12 @@ window.tracNghiem9H51 = [
       "trung điểm của cạnh $BC$"
     ],
     "answer": 3,
-    "explain": "Gọi $M$ là trung điểm của $BC$. Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền bằng nửa cạnh huyền nên $MA=MB=MC=\\dfrac{BC}{2}$.<br>Do đó $A,B,C$ cùng thuộc đường tròn tâm $M$ (bán kính $\\dfrac{13}{2}$ cm vì $BC=\\sqrt{5^2+12^2}=13$ cm).<br>Vậy chọn đáp án D.",
+    "explain": "Gọi $M$ là trung điểm của $BC$. Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền bằng nửa cạnh huyền nên $MA=MB=MC=\\dfrac{BC}{2}$.<br>Do đó $A,B,C$ cùng thuộc đường tròn tâm $M$ (bán kính $\\dfrac{13}{2}$ cm vì $BC=\\sqrt{5^2+12^2}=13$ cm), xem hình.<br><img src=\"data/9/9H5/fig/9H511TN9_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H511TN10",
-    "question": "Cho đường tròn $(O;10\\text{ cm})$ và điểm $M$ với $OM=6$ cm. Với $N$ là một điểm thay đổi trên đường tròn, độ dài lớn nhất của đoạn thẳng $MN$ bằng",
+    "question": "Cho đường tròn $(O;10\\text{ cm})$ và điểm $M$ với $OM=6$ cm. Với $N$ là một điểm thay đổi trên đường tròn, độ dài lớn nhất của đoạn thẳng $MN$ bằng<img src=\"data/9/9H5/fig/9H511TN10_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:280px;max-width:92%;height:auto;\">",
     "options": [
       "$16$ cm",
       "$10$ cm",
@@ -126,12 +126,12 @@ window.tracNghiem9H51 = [
       "$20$ cm"
     ],
     "answer": 0,
-    "explain": "Với mọi điểm $N$ thuộc đường tròn: $MN\\le MO+ON=6+10=16$ (cm) (bất đẳng thức tam giác).<br>Dấu bằng xảy ra khi $N$ là giao điểm của tia đối của tia $OM$ với đường tròn (khi đó $O$ nằm giữa $M$ và $N$).<br>Lưu ý: $4$ cm là độ dài nhỏ nhất ($10-6$), $20$ cm là đường kính.<br>Vậy chọn đáp án A.",
+    "explain": "Với mọi điểm $N$ thuộc đường tròn: $MN\\le MO+ON=6+10=16$ (cm) (bất đẳng thức tam giác).<br>Dấu bằng xảy ra khi $N$ là giao điểm của tia đối của tia $OM$ với đường tròn (khi đó $O$ nằm giữa $M$ và $N$), xem hình.<br><img src=\"data/9/9H5/fig/9H511TN10_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:280px;max-width:92%;height:auto;\">Lưu ý: $4$ cm là độ dài nhỏ nhất ($10-6$), $20$ cm là đường kính.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H511TN11",
-    "question": "Cho hình chữ nhật $ABCD$ có $AB=8$ cm, $BC=6$ cm. Vẽ đường tròn $(A;R)$. Điều kiện của $R$ để hai điểm $B,D$ nằm bên trong đường tròn và điểm $C$ nằm bên ngoài đường tròn là",
+    "question": "Cho hình chữ nhật $ABCD$ có $AB=8$ cm, $BC=6$ cm. Vẽ đường tròn $(A;R)$. Điều kiện của $R$ để hai điểm $B,D$ nằm bên trong đường tròn và điểm $C$ nằm bên ngoài đường tròn là<img src=\"data/9/9H5/fig/9H511TN11_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$6\\lt R\\lt 8$",
       "$6\\lt R\\lt 10$",
@@ -139,12 +139,12 @@ window.tracNghiem9H51 = [
       "$R\\gt 10$"
     ],
     "answer": 2,
-    "explain": "Ta có $AB=8$ cm, $AD=BC=6$ cm, $AC=\\sqrt{8^2+6^2}=10$ cm.<br>$B$ và $D$ nằm bên trong đường tròn khi $AB\\lt R$ và $AD\\lt R$, tức $R\\gt 8$.<br>$C$ nằm bên ngoài đường tròn khi $AC\\gt R$, tức $R\\lt 10$.<br>Vậy $8\\lt R\\lt 10$.<br>Vậy chọn đáp án C.",
+    "explain": "Ta có $AB=8$ cm, $AD=BC=6$ cm, $AC=\\sqrt{8^2+6^2}=10$ cm.<br>$B$ và $D$ nằm bên trong đường tròn khi $AB\\lt R$ và $AD\\lt R$, tức $R\\gt 8$.<br>$C$ nằm bên ngoài đường tròn khi $AC\\gt R$, tức $R\\lt 10$.<br><img src=\"data/9/9H5/fig/9H511TN11_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Vậy $8\\lt R\\lt 10$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H511TN12",
-    "question": "Cho tam giác nhọn $ABC$ có $BC=10$ cm, các đường cao $BD$ và $CE$ ($D$ thuộc $AC$, $E$ thuộc $AB$). Bốn điểm $B,C,D,E$ cùng thuộc một đường tròn có bán kính bằng",
+    "question": "Cho tam giác nhọn $ABC$ có $BC=10$ cm, các đường cao $BD$ và $CE$ ($D$ thuộc $AC$, $E$ thuộc $AB$). Bốn điểm $B,C,D,E$ cùng thuộc một đường tròn có bán kính bằng<img src=\"data/9/9H5/fig/9H511TN12_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:320px;max-width:92%;height:auto;\">",
     "options": [
       "$10$ cm",
       "$5$ cm",
@@ -152,7 +152,7 @@ window.tracNghiem9H51 = [
       "$\\dfrac{10}{3}$ cm"
     ],
     "answer": 1,
-    "explain": "Gọi $M$ là trung điểm của $BC$.<br>Tam giác $BDC$ vuông tại $D$ nên $MD=\\dfrac{BC}{2}$; tam giác $BEC$ vuông tại $E$ nên $ME=\\dfrac{BC}{2}$.<br>Do đó $MB=MC=MD=ME=\\dfrac{BC}{2}=5$ cm: bốn điểm $B,C,D,E$ cùng thuộc đường tròn tâm $M$, bán kính $5$ cm.<br>Lưu ý: $BC=10$ cm là đường kính chứ không phải bán kính.<br>Vậy chọn đáp án B.",
+    "explain": "Gọi $M$ là trung điểm của $BC$.<br>Tam giác $BDC$ vuông tại $D$ nên $MD=\\dfrac{BC}{2}$; tam giác $BEC$ vuông tại $E$ nên $ME=\\dfrac{BC}{2}$.<br>Do đó $MB=MC=MD=ME=\\dfrac{BC}{2}=5$ cm: bốn điểm $B,C,D,E$ cùng thuộc đường tròn tâm $M$, bán kính $5$ cm (xem hình).<br><img src=\"data/9/9H5/fig/9H511TN12_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Lưu ý: $BC=10$ cm là đường kính chứ không phải bán kính.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

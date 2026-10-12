@@ -53,7 +53,7 @@ window.tracNghiem8H91 = [
   },
   {
     "id": "8H911TN5",
-    "question": "Cho tam giác $ABC$. Một đường thẳng song song với $BC$ cắt các cạnh $AB$, $AC$ lần lượt tại $M$ và $N$. Khẳng định nào sau đây đúng?",
+    "question": "Cho tam giác $ABC$. Một đường thẳng song song với $BC$ cắt các cạnh $AB$, $AC$ lần lượt tại $M$ và $N$. Khẳng định nào sau đây đúng?<img src=\"data/8/8H9/fig/8H911TN5_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "$\\triangle AMN\\backsim\\triangle ACB$",
       "$\\triangle ANM\\backsim\\triangle ABC$",
@@ -61,12 +61,12 @@ window.tracNghiem8H91 = [
       "$\\triangle MAN\\backsim\\triangle ABC$"
     ],
     "answer": 2,
-    "explain": "Đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì tạo thành một tam giác mới đồng dạng với tam giác đã cho.<br>Ở đây $M\\in AB$, $N\\in AC$, $MN\\parallel BC$ nên các đỉnh tương ứng là $A\\leftrightarrow A$, $M\\leftrightarrow B$, $N\\leftrightarrow C$, tức là $\\triangle AMN\\backsim\\triangle ABC$.<br>Vậy chọn đáp án C.",
+    "explain": "Đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì tạo thành một tam giác mới đồng dạng với tam giác đã cho.<br>Theo hình vẽ, $M\\in AB$, $N\\in AC$, $MN\\parallel BC$ nên các đỉnh tương ứng là $A\\leftrightarrow A$, $M\\leftrightarrow B$, $N\\leftrightarrow C$, tức là $\\triangle AMN\\backsim\\triangle ABC$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911TN6",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$, biết $AB=9$ cm, $BC=12$ cm, $CA=15$ cm và $DE=6$ cm. Độ dài cạnh $FD$ bằng",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$, biết $AB=9$ cm, $BC=12$ cm, $CA=15$ cm và $DE=6$ cm. Độ dài cạnh $FD$ bằng<img src=\"data/8/8H9/fig/8H911TN6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "options": [
       "$10$ cm",
       "$8$ cm",
@@ -74,12 +74,12 @@ window.tracNghiem8H91 = [
       "$12$ cm"
     ],
     "answer": 0,
-    "explain": "Tỉ số đồng dạng của $\\triangle ABC$ với $\\triangle DEF$ là $k=\\dfrac{AB}{DE}=\\dfrac{9}{6}=\\dfrac{3}{2}$.<br>Cạnh $FD$ tương ứng với cạnh $CA$ nên $\\dfrac{CA}{FD}=\\dfrac{3}{2}$, suy ra $FD=\\dfrac{2}{3}\\cdot 15=10$ (cm).<br>Lưu ý: $8$ cm là độ dài $EF$ (ghép nhầm cạnh); $22{,}5$ cm là do nhân với $\\dfrac32$ thay vì $\\dfrac23$.<br>Vậy chọn đáp án A.",
+    "explain": "Theo hình vẽ, cạnh $AB$ tương ứng với cạnh $DE$ nên tỉ số đồng dạng của $\\triangle ABC$ với $\\triangle DEF$ là $k=\\dfrac{AB}{DE}=\\dfrac{9}{6}=\\dfrac{3}{2}$.<br>Cạnh $FD$ tương ứng với cạnh $CA$ nên $\\dfrac{CA}{FD}=\\dfrac{3}{2}$, suy ra $FD=\\dfrac{2}{3}\\cdot 15=10$ (cm).<br>Lưu ý: $8$ cm là độ dài $EF$ (ghép nhầm cạnh); $22{,}5$ cm là do nhân với $\\dfrac32$ thay vì $\\dfrac23$.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911TN7",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$, trong đó tam giác $ABC$ cân tại $B$ và $\\widehat{A}=40^\\circ$. Số đo góc $E$ bằng",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$, trong đó tam giác $ABC$ cân tại $B$ và $\\widehat{A}=40^\\circ$. Số đo góc $E$ bằng<img src=\"data/8/8H9/fig/8H911TN7_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "options": [
       "$40^\\circ$",
       "$70^\\circ$",
@@ -87,7 +87,7 @@ window.tracNghiem8H91 = [
       "$100^\\circ$"
     ],
     "answer": 3,
-    "explain": "Tam giác $ABC$ cân tại $B$ nên $\\widehat{C}=\\widehat{A}=40^\\circ$, suy ra $\\widehat{B}=180^\\circ-40^\\circ-40^\\circ=100^\\circ$.<br>Vì $\\triangle ABC\\backsim\\triangle DEF$ nên $\\widehat{E}=\\widehat{B}=100^\\circ$.<br>Lưu ý: $70^\\circ$ là do coi $40^\\circ$ là góc ở đỉnh; $40^\\circ$ là do nhầm $\\widehat{E}$ tương ứng với $\\widehat{A}$.<br>Vậy chọn đáp án D.",
+    "explain": "Theo hình vẽ, tam giác $ABC$ cân tại $B$ nên $\\widehat{C}=\\widehat{A}=40^\\circ$, suy ra $\\widehat{B}=180^\\circ-40^\\circ-40^\\circ=100^\\circ$.<br>Vì $\\triangle ABC\\backsim\\triangle DEF$ nên $\\widehat{E}=\\widehat{B}=100^\\circ$.<br>Lưu ý: $70^\\circ$ là do coi $40^\\circ$ là góc ở đỉnh; $40^\\circ$ là do nhầm $\\widehat{E}$ tương ứng với $\\widehat{A}$.<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -105,7 +105,7 @@ window.tracNghiem8H91 = [
   },
   {
     "id": "8H911TN9",
-    "question": "Cho tam giác $ABC$ có $BC=15$ cm. Trên cạnh $AB$ lấy điểm $M$, qua $M$ kẻ đường thẳng song song với $BC$ cắt $AC$ tại $N$. Biết $AM=4$ cm và $MN=6$ cm. Độ dài cạnh $AB$ bằng",
+    "question": "Cho tam giác $ABC$ có $BC=15$ cm. Trên cạnh $AB$ lấy điểm $M$, qua $M$ kẻ đường thẳng song song với $BC$ cắt $AC$ tại $N$. Biết $AM=4$ cm và $MN=6$ cm. Độ dài cạnh $AB$ bằng<img src=\"data/8/8H9/fig/8H911TN9_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$10$ cm",
       "$6$ cm",
@@ -113,12 +113,12 @@ window.tracNghiem8H91 = [
       "$22{,}5$ cm"
     ],
     "answer": 0,
-    "explain": "Vì $MN\\parallel BC$ ($M\\in AB$, $N\\in AC$) nên $\\triangle AMN\\backsim\\triangle ABC$, suy ra $\\dfrac{AM}{AB}=\\dfrac{MN}{BC}$.<br>Do đó $\\dfrac{4}{AB}=\\dfrac{6}{15}$, suy ra $AB=\\dfrac{4\\cdot 15}{6}=10$ (cm).<br>Lưu ý: $6$ cm là độ dài $MB$, không phải $AB$.<br>Vậy chọn đáp án A.",
+    "explain": "Theo hình vẽ, vì $MN\\parallel BC$ ($M\\in AB$, $N\\in AC$) nên $\\triangle AMN\\backsim\\triangle ABC$, suy ra $\\dfrac{AM}{AB}=\\dfrac{MN}{BC}$.<br>Do đó $\\dfrac{4}{AB}=\\dfrac{6}{15}$, suy ra $AB=\\dfrac{4\\cdot 15}{6}=10$ (cm).<br>Lưu ý: $6$ cm là độ dài $MB$, không phải $AB$.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911TN10",
-    "question": "Cho tam giác $ABC$ có $AB=6$ cm, $AC=9$ cm, $BC=12$ cm. Trên tia đối của tia $AB$ lấy điểm $M$ sao cho $AM=2$ cm. Đường thẳng qua $M$ song song với $BC$ cắt đường thẳng $AC$ tại $N$. Độ dài đoạn thẳng $MN$ bằng",
+    "question": "Cho tam giác $ABC$ có $AB=6$ cm, $AC=9$ cm, $BC=12$ cm. Trên tia đối của tia $AB$ lấy điểm $M$ sao cho $AM=2$ cm. Đường thẳng qua $M$ song song với $BC$ cắt đường thẳng $AC$ tại $N$. Độ dài đoạn thẳng $MN$ bằng<img src=\"data/8/8H9/fig/8H911TN10_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$16$ cm",
       "$\\dfrac{8}{3}$ cm",
@@ -126,12 +126,12 @@ window.tracNghiem8H91 = [
       "$36$ cm"
     ],
     "answer": 2,
-    "explain": "Đường thẳng $MN$ song song với $BC$ và cắt phần kéo dài của hai cạnh $AB$, $AC$ nên $\\triangle AMN\\backsim\\triangle ABC$ (các đỉnh tương ứng $A\\leftrightarrow A$, $M\\leftrightarrow B$, $N\\leftrightarrow C$).<br>Suy ra $\\dfrac{MN}{BC}=\\dfrac{AM}{AB}=\\dfrac{2}{6}=\\dfrac{1}{3}$, do đó $MN=\\dfrac{12}{3}=4$ (cm).<br>Lưu ý: $16$ cm là do lấy tỉ số $\\dfrac{BM}{AB}=\\dfrac{8}{6}$; $\\dfrac{8}{3}$ cm là do dùng nhầm $AC$ thay cho $AB$.<br>Vậy chọn đáp án C.",
+    "explain": "Theo hình vẽ, đường thẳng $MN$ song song với $BC$ và cắt phần kéo dài của hai cạnh $AB$, $AC$ nên $\\triangle AMN\\backsim\\triangle ABC$ (các đỉnh tương ứng $A\\leftrightarrow A$, $M\\leftrightarrow B$, $N\\leftrightarrow C$).<br>Suy ra $\\dfrac{MN}{BC}=\\dfrac{AM}{AB}=\\dfrac{2}{6}=\\dfrac{1}{3}$, do đó $MN=\\dfrac{12}{3}=4$ (cm).<br>Lưu ý: $16$ cm là do lấy tỉ số $\\dfrac{BM}{AB}=\\dfrac{8}{6}$; $\\dfrac{8}{3}$ cm là do dùng nhầm $AC$ thay cho $AB$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911TN11",
-    "question": "Cho hình thang $ABCD$ ($AB\\parallel CD$) có $AB=6$ cm, $CD=10$ cm. Hai đường thẳng $AD$ và $BC$ cắt nhau tại $E$. Biết $ED=15$ cm. Độ dài cạnh bên $AD$ bằng",
+    "question": "Cho hình thang $ABCD$ ($AB\\parallel CD$) có $AB=6$ cm, $CD=10$ cm. Hai đường thẳng $AD$ và $BC$ cắt nhau tại $E$. Biết $ED=15$ cm. Độ dài cạnh bên $AD$ bằng<img src=\"data/8/8H9/fig/8H911TN11_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "$9$ cm",
       "$6$ cm",
@@ -139,7 +139,7 @@ window.tracNghiem8H91 = [
       "$10$ cm"
     ],
     "answer": 1,
-    "explain": "Trong tam giác $EDC$ có $AB\\parallel DC$ ($A\\in ED$, $B\\in EC$) nên $\\triangle EAB\\backsim\\triangle EDC$.<br>Suy ra $\\dfrac{EA}{ED}=\\dfrac{AB}{DC}=\\dfrac{6}{10}=\\dfrac{3}{5}$, do đó $EA=\\dfrac{3}{5}\\cdot 15=9$ (cm).<br>Vậy $AD=ED-EA=15-9=6$ (cm).<br>Lưu ý: $9$ cm là độ dài $EA$ (quên trừ); $25$ cm là do lấy tỉ số ngược $\\dfrac{10}{6}$.<br>Vậy chọn đáp án B.",
+    "explain": "Theo hình vẽ, trong tam giác $EDC$ có $AB\\parallel DC$ ($A\\in ED$, $B\\in EC$) nên $\\triangle EAB\\backsim\\triangle EDC$.<br>Suy ra $\\dfrac{EA}{ED}=\\dfrac{AB}{DC}=\\dfrac{6}{10}=\\dfrac{3}{5}$, do đó $EA=\\dfrac{3}{5}\\cdot 15=9$ (cm).<br>Vậy $AD=ED-EA=15-9=6$ (cm).<br>Lưu ý: $9$ cm là độ dài $EA$ (quên trừ); $25$ cm là do lấy tỉ số ngược $\\dfrac{10}{6}$.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

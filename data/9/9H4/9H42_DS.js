@@ -1,7 +1,7 @@
 window.dungSai9H42 = [
   {
     "id": "9H421DS1",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $BC=12$ cm và $\\widehat{B}=30^\\circ$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $BC=12$ cm và $\\widehat{B}=30^\\circ$. Xét tính đúng sai của các khẳng định sau:<img src=\"data/9/9H4/fig/9H421DS1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$AC=6$ cm",
@@ -20,12 +20,12 @@ window.dungSai9H42 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  $AC=BC\\cdot\\sin B=12\\cdot\\sin 30^\\circ=12\\cdot\\dfrac{1}{2}=6$ (cm).<br>- <strong>Sai</strong>.<br>  $AB$ là cạnh góc vuông kề với góc $B$ nên $AB=BC\\cdot\\cos B$; còn $BC\\cdot\\sin B=AC$.<br>- <strong>Đúng</strong>.<br>  $AB=BC\\cdot\\cos B=12\\cdot\\dfrac{\\sqrt{3}}{2}=6\\sqrt{3}$ (cm).<br>- <strong>Sai</strong>.<br>  $\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$; $AB$ đối diện góc $C$ nên $AB=AC\\cdot\\tan C=6\\sqrt{3}$, còn $AC\\cdot\\cot C=6\\cdot\\dfrac{\\sqrt{3}}{3}=2\\sqrt{3}\\ne 6\\sqrt{3}$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Theo hình vẽ, $AC$ là cạnh góc vuông đối diện góc $B$ nên $AC=BC\\cdot\\sin B=12\\cdot\\sin 30^\\circ=12\\cdot\\dfrac{1}{2}=6$ (cm).<br>- <strong>Sai</strong>.<br>  $AB$ là cạnh góc vuông kề với góc $B$ nên $AB=BC\\cdot\\cos B$; còn $BC\\cdot\\sin B=AC$.<br>- <strong>Đúng</strong>.<br>  $AB=BC\\cdot\\cos B=12\\cdot\\dfrac{\\sqrt{3}}{2}=6\\sqrt{3}$ (cm).<br>- <strong>Sai</strong>.<br>  $\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$; $AB$ đối diện góc $C$ nên $AB=AC\\cdot\\tan C=6\\sqrt{3}$, còn $AC\\cdot\\cot C=6\\cdot\\dfrac{\\sqrt{3}}{3}=2\\sqrt{3}\\ne 6\\sqrt{3}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H421DS2",
-    "question": "Giải tam giác $ABC$ vuông tại $A$, biết $AC=4\\sqrt{3}$ cm và $\\widehat{C}=30^\\circ$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Giải tam giác $ABC$ vuông tại $A$, biết $AC=4\\sqrt{3}$ cm và $\\widehat{C}=30^\\circ$. Xét tính đúng sai của các khẳng định sau:<img src=\"data/9/9H4/fig/9H421DS2_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$\\widehat{B}=60^\\circ$",
@@ -44,12 +44,12 @@ window.dungSai9H42 = [
         "answer": true
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  $\\widehat{B}=90^\\circ-\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$.<br>- <strong>Đúng</strong>.<br>  $AB=AC\\cdot\\tan C=4\\sqrt{3}\\cdot\\dfrac{\\sqrt{3}}{3}=4$ (cm).<br>- <strong>Sai</strong>.<br>  $BC=\\dfrac{AB}{\\sin C}=\\dfrac{4}{\\frac{1}{2}}=8$ (cm), khác $8\\sqrt{3}$ cm.<br>- <strong>Đúng</strong>.<br>  $S=\\dfrac{1}{2}AB\\cdot AC=\\dfrac{1}{2}\\cdot 4\\cdot 4\\sqrt{3}=8\\sqrt{3}\\ (\\text{cm}^2)$.",
+    "explain": "- <strong>Đúng</strong>.<br>  $\\widehat{B}=90^\\circ-\\widehat{C}=90^\\circ-30^\\circ=60^\\circ$.<br>- <strong>Đúng</strong>.<br>  Theo hình vẽ, $AB$ đối diện góc $C$, $AC$ kề góc $C$ nên $AB=AC\\cdot\\tan C=4\\sqrt{3}\\cdot\\dfrac{\\sqrt{3}}{3}=4$ (cm).<br>- <strong>Sai</strong>.<br>  $BC=\\dfrac{AB}{\\sin C}=\\dfrac{4}{\\frac{1}{2}}=8$ (cm), khác $8\\sqrt{3}$ cm.<br>- <strong>Đúng</strong>.<br>  $S=\\dfrac{1}{2}AB\\cdot AC=\\dfrac{1}{2}\\cdot 4\\cdot 4\\sqrt{3}=8\\sqrt{3}\\ (\\text{cm}^2)$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H421DS3",
-    "question": "Một chiếc thang dài $6$ m dựa vào một bức tường thẳng đứng, chân thang đặt trên mặt đất nằm ngang và thang tạo với mặt đất một góc $60^\\circ$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Một chiếc thang dài $6$ m dựa vào một bức tường thẳng đứng, chân thang đặt trên mặt đất nằm ngang và thang tạo với mặt đất một góc $60^\\circ$. Xét tính đúng sai của các khẳng định sau:<img src=\"data/9/9H4/fig/9H421DS3_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "Chân thang cách chân tường $3$ m",
@@ -68,12 +68,12 @@ window.dungSai9H42 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Thang, tường và mặt đất tạo thành tam giác vuông với cạnh huyền là thang. Khoảng cách từ chân thang đến chân tường là cạnh kề góc $60^\\circ$: $6\\cdot\\cos 60^\\circ=6\\cdot\\dfrac{1}{2}=3$ (m).<br>- <strong>Đúng</strong>.<br>  Độ cao đầu thang là cạnh đối góc $60^\\circ$: $6\\cdot\\sin 60^\\circ=6\\cdot\\dfrac{\\sqrt{3}}{2}=3\\sqrt{3}$ (m).<br>- <strong>Sai</strong>.<br>  Khoảng cách đó là cạnh kề nên bằng $6\\cdot\\cos 60^\\circ=3$ m, còn $6\\cdot\\sin 60^\\circ=3\\sqrt{3}$ m là độ cao đầu thang.<br>- <strong>Sai</strong>.<br>  Gọi $\\alpha$ là góc giữa thang và mặt đất, $\\cos\\alpha=\\dfrac{3\\sqrt{2}}{6}=\\dfrac{\\sqrt{2}}{2}$ nên $\\alpha=45^\\circ$, không phải $30^\\circ$.",
+    "explain": "- <strong>Đúng</strong>.<br><img src=\"data/9/9H4/fig/9H421DS3_s1.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">  Theo hình vẽ, thang, tường và mặt đất tạo thành tam giác vuông với cạnh huyền là thang. Khoảng cách từ chân thang đến chân tường là cạnh kề góc $60^\\circ$: $6\\cdot\\cos 60^\\circ=6\\cdot\\dfrac{1}{2}=3$ (m).<br>- <strong>Đúng</strong>.<br>  Độ cao đầu thang là cạnh đối góc $60^\\circ$: $6\\cdot\\sin 60^\\circ=6\\cdot\\dfrac{\\sqrt{3}}{2}=3\\sqrt{3}$ (m).<br>- <strong>Sai</strong>.<br>  Khoảng cách đó là cạnh kề nên bằng $6\\cdot\\cos 60^\\circ=3$ m, còn $6\\cdot\\sin 60^\\circ=3\\sqrt{3}$ m là độ cao đầu thang.<br>- <strong>Sai</strong>.<br><img src=\"data/9/9H4/fig/9H421DS3_s2.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">  Gọi $\\alpha$ là góc giữa thang và mặt đất, $\\cos\\alpha=\\dfrac{3\\sqrt{2}}{6}=\\dfrac{\\sqrt{2}}{2}$ nên $\\alpha=45^\\circ$, không phải $30^\\circ$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H421DS4",
-    "question": "Cho tam giác $ABC$ có $\\widehat{B}=45^\\circ$, $\\widehat{C}=30^\\circ$ và đường cao $AH=6$ cm ($H$ thuộc cạnh $BC$). Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho tam giác $ABC$ có $\\widehat{B}=45^\\circ$, $\\widehat{C}=30^\\circ$ và đường cao $AH=6$ cm ($H$ thuộc cạnh $BC$). Xét tính đúng sai của các khẳng định sau:<img src=\"data/9/9H4/fig/9H421DS4_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$BH=6$ cm",
@@ -92,7 +92,7 @@ window.dungSai9H42 = [
         "answer": true
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Tam giác $ABH$ vuông tại $H$: $BH=AH\\cdot\\cot B=6\\cdot\\cot 45^\\circ=6$ (cm).<br>- <strong>Đúng</strong>.<br>  Tam giác $ACH$ vuông tại $H$: $AH=AC\\cdot\\sin C$ nên $AC=\\dfrac{AH}{\\sin 30^\\circ}=\\dfrac{6}{\\frac{1}{2}}=12$ (cm).<br>- <strong>Sai</strong>.<br>  $CH=AH\\cdot\\cot C=6\\cdot\\cot 30^\\circ=6\\sqrt{3}$ (cm). Kết quả $2\\sqrt{3}$ là do nhầm $CH=AH\\cdot\\tan 30^\\circ$.<br>- <strong>Đúng</strong>.<br>  $BC=BH+CH=6+6\\sqrt{3}$ (cm).",
+    "explain": "- <strong>Đúng</strong>.<br>  Theo hình vẽ, tam giác $ABH$ vuông tại $H$: $BH=AH\\cdot\\cot B=6\\cdot\\cot 45^\\circ=6$ (cm).<br>- <strong>Đúng</strong>.<br>  Tam giác $ACH$ vuông tại $H$: $AH=AC\\cdot\\sin C$ nên $AC=\\dfrac{AH}{\\sin 30^\\circ}=\\dfrac{6}{\\frac{1}{2}}=12$ (cm).<br>- <strong>Sai</strong>.<br>  $CH=AH\\cdot\\cot C=6\\cdot\\cot 30^\\circ=6\\sqrt{3}$ (cm). Kết quả $2\\sqrt{3}$ là do nhầm $CH=AH\\cdot\\tan 30^\\circ$.<br>- <strong>Đúng</strong>.<br>  $BC=BH+CH=6+6\\sqrt{3}$ (cm).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

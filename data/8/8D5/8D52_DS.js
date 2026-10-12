@@ -25,7 +25,7 @@ window.dungSai8D52 = [
   },
   {
     "id": "8D521DS2",
-    "question": "Kết quả khảo sát môn thể thao yêu thích nhất của $40$ học sinh (mỗi bạn chọn một môn) như sau:<br>$\\begin{array}{|c|c|c|c|c|} \\hline \\text{Môn} & \\text{Bóng đá} & \\text{Cầu lông} & \\text{Bóng rổ} & \\text{Bơi lội} \\\\ \\hline \\text{Số học sinh} & 14 & 10 & 6 & 10 \\\\ \\hline \\end{array}$<br>Dữ liệu được biểu diễn bằng biểu đồ hình quạt tròn. Xét tính đúng sai của các mệnh đề sau:",
+    "question": "Kết quả khảo sát môn thể thao yêu thích nhất của $40$ học sinh (mỗi bạn chọn một môn) như sau:<br>$\\begin{array}{|c|c|c|c|c|} \\hline \\text{Môn} & \\text{Bóng đá} & \\text{Cầu lông} & \\text{Bóng rổ} & \\text{Bơi lội} \\\\ \\hline \\text{Số học sinh} & 14 & 10 & 6 & 10 \\\\ \\hline \\end{array}$<br>Dữ liệu được biểu diễn bằng biểu đồ hình quạt tròn. <img src=\"data/8/8D5/fig/8D521DS2_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:319px;max-width:92%;height:auto;\">Xét tính đúng sai của các mệnh đề sau:",
     "subQuestions": [
       {
         "text": "Tỉ lệ học sinh chọn bóng đá là $35\\%$",
@@ -44,7 +44,7 @@ window.dungSai8D52 = [
         "answer": true
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  $\\dfrac{14}{40}\\cdot 100\\%=35\\%$.<br>- <strong>Đúng</strong>.<br>  Góc ở tâm: $360^\\circ\\cdot\\dfrac{10}{40}=90^\\circ$.<br>- <strong>Sai</strong>.<br>  Góc ở tâm: $360^\\circ\\cdot\\dfrac{6}{40}=54^\\circ$, không phải $60^\\circ$ (con số $60^\\circ$ có được khi nhầm mỗi học sinh ứng với $10^\\circ$; thực ra mỗi học sinh ứng với $360^\\circ:40=9^\\circ$).<br>- <strong>Đúng</strong>.<br>  Bóng đá và bơi lội có $14+10=24$ học sinh, góc ở tâm tương ứng là $360^\\circ\\cdot\\dfrac{24}{40}=216^\\circ$.",
+    "explain": "- <strong>Đúng</strong>.<br>  $\\dfrac{14}{40}\\cdot 100\\%=35\\%$.<br>- <strong>Đúng</strong>.<br><img src=\"data/8/8D5/fig/8D521DS2_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:319px;max-width:92%;height:auto;\">  Cả hình tròn ($360^\\circ$) ứng với $40$ học sinh nên mỗi học sinh ứng với $360^\\circ:40=9^\\circ$. Góc ở tâm của hình quạt cầu lông: $360^\\circ\\cdot\\dfrac{10}{40}=90^\\circ$ (số đo góc ở tâm của từng hình quạt được ghi trên hình).<br>- <strong>Sai</strong>.<br>  Góc ở tâm: $360^\\circ\\cdot\\dfrac{6}{40}=54^\\circ$, không phải $60^\\circ$ (con số $60^\\circ$ có được khi nhầm mỗi học sinh ứng với $10^\\circ$; thực ra mỗi học sinh ứng với $360^\\circ:40=9^\\circ$).<br>- <strong>Đúng</strong>.<br>  Bóng đá và bơi lội có $14+10=24$ học sinh, góc ở tâm tương ứng là $360^\\circ\\cdot\\dfrac{24}{40}=216^\\circ$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -68,7 +68,7 @@ window.dungSai8D52 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  $35:5=7$ biểu tượng.<br>- <strong>Đúng</strong>.<br>  Tổng số sách: $35+40+25+30=130$, số biểu tượng: $130:5=26$.<br>- <strong>Sai</strong>.<br>  $25:10=2{,}5$, nên lớp 8C được biểu diễn bởi $2$ biểu tượng nguyên và nửa biểu tượng, không phải đúng $2$ biểu tượng.<br>- <strong>Sai</strong>.<br>  Chiều cao cột tỉ lệ với số sách: $\\dfrac{40}{25}=1{,}6$, nên cột 8B chỉ cao gấp $1{,}6$ lần cột 8C, không phải gấp đôi.",
+    "explain": "- <strong>Đúng</strong>.<br><img src=\"data/8/8D5/fig/8D521DS3_s1.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">  Biểu đồ tranh với mỗi biểu tượng ứng với $5$ cuốn sách như hình trên. Lớp 8A có $35:5=7$ biểu tượng.<br>- <strong>Đúng</strong>.<br>  Tổng số sách: $35+40+25+30=130$, số biểu tượng: $130:5=26$ (đếm trên hình: $7+8+5+6=26$).<br>- <strong>Sai</strong>.<br><img src=\"data/8/8D5/fig/8D521DS3_s2.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">  $25:10=2{,}5$, nên lớp 8C được biểu diễn bởi $2$ biểu tượng nguyên và nửa biểu tượng (như hình), không phải đúng $2$ biểu tượng.<br>- <strong>Sai</strong>.<br><img src=\"data/8/8D5/fig/8D521DS3_s3.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:320px;max-width:92%;height:auto;\">  Chiều cao cột tỉ lệ với số sách: $\\dfrac{40}{25}=1{,}6$, nên cột 8B chỉ cao gấp $1{,}6$ lần cột 8C (hai cột tô đỏ trên hình), không phải gấp đôi.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -92,7 +92,7 @@ window.dungSai8D52 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Doanh thu giảm từ $45$ xuống $38$ triệu đồng nên đoạn thẳng đi xuống.<br>- <strong>Sai</strong>.<br>  Biểu đồ có $6$ điểm (ứng với $6$ tháng), nối hai điểm liên tiếp được $5$ đoạn thẳng, không phải $6$.<br>- <strong>Đúng</strong>.<br>  Doanh thu tháng $5$ là $55$ triệu đồng, lớn nhất trong bảng.<br>- <strong>Sai</strong>.<br>  Tổng doanh thu: $40+45+38+50+55+52=280$ (triệu đồng). Góc ở tâm của tháng $4$: $360^\\circ\\cdot\\dfrac{50}{280}\\approx 64{,}3^\\circ\\neq 60^\\circ$ (góc $60^\\circ$ chỉ đúng nếu doanh thu các tháng bằng nhau).",
+    "explain": "- <strong>Đúng</strong>.<br><img src=\"data/8/8D5/fig/8D521DS4_s1.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">  Doanh thu giảm từ $45$ xuống $38$ triệu đồng nên đoạn thẳng nối điểm của tháng $2$ với điểm của tháng $3$ đi xuống (đoạn tô đỏ trên hình).<br>- <strong>Sai</strong>.<br>  Biểu đồ có $6$ điểm (ứng với $6$ tháng), nối hai điểm liên tiếp được $5$ đoạn thẳng (xem hình ở ý trên), không phải $6$.<br>- <strong>Đúng</strong>.<br><img src=\"data/8/8D5/fig/8D521DS4_s2.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">  Doanh thu tháng $5$ là $55$ triệu đồng, lớn nhất trong bảng, nên cột của tháng $5$ là cột cao nhất (cột tô đỏ).<br>- <strong>Sai</strong>.<br>  Tổng doanh thu: $40+45+38+50+55+52=280$ (triệu đồng). Góc ở tâm của tháng $4$: $360^\\circ\\cdot\\dfrac{50}{280}\\approx 64{,}3^\\circ\\neq 60^\\circ$ (góc $60^\\circ$ chỉ đúng nếu doanh thu các tháng bằng nhau).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

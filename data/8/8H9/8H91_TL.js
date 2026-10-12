@@ -1,9 +1,9 @@
 window.traLoiNgan8H91 = [
   {
     "id": "8H911TL1",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle A'B'C'$, biết $AB=4$ cm, $BC=5$ cm, $CA=6$ cm và $A'B'=10$ cm. Tính chu vi tam giác $A'B'C'$ (đơn vị: cm).",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle A'B'C'$, biết $AB=4$ cm, $BC=5$ cm, $CA=6$ cm và $A'B'=10$ cm. Tính chu vi tam giác $A'B'C'$ (đơn vị: cm).<img src=\"data/8/8H9/fig/8H911TL1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "answer": "37,5",
-    "explain": "Tỉ số đồng dạng của $\\triangle A'B'C'$ với $\\triangle ABC$ là $\\dfrac{A'B'}{AB}=\\dfrac{10}{4}=2{,}5$.<br>Suy ra $B'C'=2{,}5\\cdot5=12{,}5$ (cm), $C'A'=2{,}5\\cdot6=15$ (cm).<br>Chu vi $\\triangle A'B'C'$ là $10+12{,}5+15=37{,}5$ (cm).",
+    "explain": "Theo hình vẽ, cạnh $A'B'$ tương ứng với cạnh $AB$ nên tỉ số đồng dạng của $\\triangle A'B'C'$ với $\\triangle ABC$ là $\\dfrac{A'B'}{AB}=\\dfrac{10}{4}=2{,}5$.<br>Suy ra $B'C'=2{,}5\\cdot5=12{,}5$ (cm), $C'A'=2{,}5\\cdot6=15$ (cm).<br>Chu vi $\\triangle A'B'C'$ là $10+12{,}5+15=37{,}5$ (cm).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -15,9 +15,9 @@ window.traLoiNgan8H91 = [
   },
   {
     "id": "8H911TL3",
-    "question": "Cho tam giác $ABC$ có $BC=10$ cm. Trên cạnh $AB$ lấy điểm $D$ sao cho $AD=3$ cm, $DB=2$ cm. Đường thẳng qua $D$ song song với $BC$ cắt $AC$ tại $E$. Tính độ dài $DE$ (đơn vị: cm).",
+    "question": "Cho tam giác $ABC$ có $BC=10$ cm. Trên cạnh $AB$ lấy điểm $D$ sao cho $AD=3$ cm, $DB=2$ cm. Đường thẳng qua $D$ song song với $BC$ cắt $AC$ tại $E$. Tính độ dài $DE$ (đơn vị: cm).<img src=\"data/8/8H9/fig/8H911TL3_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "answer": "6",
-    "explain": "Vì $DE\\parallel BC$ nên $\\triangle ADE\\backsim\\triangle ABC$.<br>$AB=AD+DB=3+2=5$ (cm), tỉ số đồng dạng $\\dfrac{AD}{AB}=\\dfrac{3}{5}$.<br>Suy ra $DE=\\dfrac{3}{5}BC=\\dfrac{3}{5}\\cdot10=6$ (cm).",
+    "explain": "Theo hình vẽ, vì $DE\\parallel BC$ nên $\\triangle ADE\\backsim\\triangle ABC$.<br>$AB=AD+DB=3+2=5$ (cm), tỉ số đồng dạng $\\dfrac{AD}{AB}=\\dfrac{3}{5}$.<br>Suy ra $DE=\\dfrac{3}{5}BC=\\dfrac{3}{5}\\cdot10=6$ (cm).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -29,16 +29,16 @@ window.traLoiNgan8H91 = [
   },
   {
     "id": "8H911TL5",
-    "question": "Cho hình thang $ABCD$ ($AB\\parallel CD$) có $AB=4$ cm, $CD=10$ cm. Hai đường chéo $AC$ và $BD$ cắt nhau tại $O$. Biết $OA=2$ cm, tính độ dài $AC$ (đơn vị: cm).",
+    "question": "Cho hình thang $ABCD$ ($AB\\parallel CD$) có $AB=4$ cm, $CD=10$ cm. Hai đường chéo $AC$ và $BD$ cắt nhau tại $O$. Biết $OA=2$ cm, tính độ dài $AC$ (đơn vị: cm).<img src=\"data/8/8H9/fig/8H911TL5_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "answer": "7",
-    "explain": "Trong $\\triangle OCD$, đường thẳng $AB\\parallel CD$ cắt phần kéo dài của hai cạnh $OC$, $OD$ nên $\\triangle OAB\\backsim\\triangle OCD$.<br>Suy ra $\\dfrac{OA}{OC}=\\dfrac{AB}{CD}=\\dfrac{4}{10}=\\dfrac{2}{5}$, do đó $OC=\\dfrac{5}{2}\\cdot 2=5$ (cm).<br>$AC=OA+OC=2+5=7$ (cm).",
+    "explain": "Theo hình vẽ, trong $\\triangle OCD$, đường thẳng $AB\\parallel CD$ cắt phần kéo dài của hai cạnh $OC$, $OD$ nên $\\triangle OAB\\backsim\\triangle OCD$.<br><img src=\"data/8/8H9/fig/8H911TL5_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">Suy ra $\\dfrac{OA}{OC}=\\dfrac{AB}{CD}=\\dfrac{4}{10}=\\dfrac{2}{5}$, do đó $OC=\\dfrac{5}{2}\\cdot 2=5$ (cm).<br>$AC=OA+OC=2+5=7$ (cm).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911TL6",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$ có $\\widehat{A}=45^\\circ$ và $\\widehat{F}=65^\\circ$. Tính số đo góc $B$ (đơn vị: độ).",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$ có $\\widehat{A}=45^\\circ$ và $\\widehat{F}=65^\\circ$. Tính số đo góc $B$ (đơn vị: độ).<img src=\"data/8/8H9/fig/8H911TL6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "answer": "70",
-    "explain": "Vì $\\triangle ABC\\backsim\\triangle DEF$ nên $\\widehat{C}=\\widehat{F}=65^\\circ$.<br>Trong $\\triangle ABC$: $\\widehat{B}=180^\\circ-\\widehat{A}-\\widehat{C}=180^\\circ-45^\\circ-65^\\circ=70^\\circ$.",
+    "explain": "Theo hình vẽ, vì $\\triangle ABC\\backsim\\triangle DEF$ ($C\\leftrightarrow F$) nên $\\widehat{C}=\\widehat{F}=65^\\circ$.<br>Trong $\\triangle ABC$: $\\widehat{B}=180^\\circ-\\widehat{A}-\\widehat{C}=180^\\circ-45^\\circ-65^\\circ=70^\\circ$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

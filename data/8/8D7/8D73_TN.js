@@ -22,7 +22,7 @@ window.tracNghiem8D73 = [
       "$(-3;3)$"
     ],
     "answer": 1,
-    "explain": "Điểm nằm trên trục hoành có tung độ bằng $0$.<br>Chỉ có điểm $(3;0)$ có tung độ bằng $0$.<br>Lưu ý: điểm $(0;3)$ có hoành độ bằng $0$ nên nằm trên trục tung.<br>Vậy chọn đáp án B.",
+    "explain": "Điểm nằm trên trục hoành có tung độ bằng $0$.<br>Chỉ có điểm $(3;0)$ có tung độ bằng $0$ (điểm màu đỏ, nằm trên trục $Ox$):<img src=\"data/8/8D7/fig/8D731TN2_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:320px;max-width:92%;height:auto;\">Lưu ý: điểm $(0;3)$ có hoành độ bằng $0$ nên nằm trên trục tung.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -35,7 +35,7 @@ window.tracNghiem8D73 = [
       "$(2;3)$"
     ],
     "answer": 0,
-    "explain": "Điểm nằm ở góc phần tư thứ II có hoành độ âm và tung độ dương.<br>Điểm $(-2;3)$ có hoành độ $-2\\lt 0$, tung độ $3\\gt 0$ nên nằm ở góc phần tư thứ II.<br>Các điểm $(2;-3)$, $(-2;-3)$, $(2;3)$ lần lượt nằm ở góc phần tư thứ IV, III, I.<br>Vậy chọn đáp án A.",
+    "explain": "Điểm nằm ở góc phần tư thứ II có hoành độ âm và tung độ dương.<br>Điểm $(-2;3)$ có hoành độ $-2\\lt 0$, tung độ $3\\gt 0$ nên nằm ở góc phần tư thứ II.<br>Các điểm $(2;-3)$, $(-2;-3)$, $(2;3)$ lần lượt nằm ở góc phần tư thứ IV, III, I (xem hình).<img src=\"data/8/8D7/fig/8D731TN3_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:280px;max-width:92%;height:auto;\">Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -74,7 +74,7 @@ window.tracNghiem8D73 = [
       "$(2;1)$"
     ],
     "answer": 3,
-    "explain": "Thay hoành độ vào công thức và so sánh với tung độ:<br>$x=2$: $y=2\\cdot 2-3=1$ nên $(2;1)$ thuộc đồ thị.<br>$x=1$: $y=-1\\neq 1$; $x=0$: $y=-3\\neq 3$; $x=-1$: $y=-5\\neq -1$.<br>Vậy chọn đáp án D.",
+    "explain": "Thay hoành độ vào công thức và so sánh với tung độ:<br>$x=2$: $y=2\\cdot 2-3=1$ nên $(2;1)$ thuộc đồ thị.<br>$x=1$: $y=-1\\neq 1$; $x=0$: $y=-3\\neq 3$; $x=-1$: $y=-5\\neq -1$.<br>Trên hình, chỉ điểm $(2;1)$ (màu đỏ) nằm trên đồ thị; các điểm rỗng không thuộc đồ thị.<img src=\"data/8/8D7/fig/8D731TN6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:274px;max-width:92%;height:auto;\">Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -92,7 +92,7 @@ window.tracNghiem8D73 = [
   },
   {
     "id": "8D731TN8",
-    "question": "Một hình vuông có cạnh $x$ (cm) và chu vi $y$ (cm). Công thức biểu diễn $y$ theo $x$ là",
+    "question": "Một hình vuông có cạnh $x$ (cm) và chu vi $y$ (cm). Công thức biểu diễn $y$ theo $x$ là<img src=\"data/8/8D7/fig/8D731TN8_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:200px;max-width:92%;height:auto;\">",
     "options": [
       "$y=4x$",
       "$y=x^2$",
@@ -113,7 +113,7 @@ window.tracNghiem8D73 = [
       "$3$ cm"
     ],
     "answer": 2,
-    "explain": "Hai điểm $A$, $B$ có cùng tung độ $2$ nên đoạn thẳng $AB$ song song với trục hoành.<br>$AB=3-(-1)=4$ (cm).<br>Lỗi thường gặp: lấy $3-1=2$ (quên dấu trừ của hoành độ $-1$).<br>Vậy chọn đáp án C.",
+    "explain": "Hai điểm $A$, $B$ có cùng tung độ $2$ nên đoạn thẳng $AB$ song song với trục hoành.<br>$AB=3-(-1)=4$ (cm) (xem hình).<img src=\"data/8/8D7/fig/8D731TN9_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:289px;max-width:92%;height:auto;\">Lỗi thường gặp: lấy $3-1=2$ (quên dấu trừ của hoành độ $-1$).<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -139,7 +139,7 @@ window.tracNghiem8D73 = [
       "$(-2;-2)$"
     ],
     "answer": 0,
-    "explain": "Gọi $M(a;a)$. Vì $M$ thuộc đồ thị nên $a=-2a+6\\Leftrightarrow 3a=6\\Leftrightarrow a=2$.<br>Vậy $M(2;2)$.<br>Kiểm tra: với $x=3$ thì $y=0\\neq 3$; với $x=6$ thì $y=-6\\neq 6$; với $x=-2$ thì $y=10\\neq -2$.<br>Vậy chọn đáp án A.",
+    "explain": "Gọi $M(a;a)$. Vì $M$ thuộc đồ thị nên $a=-2a+6\\Leftrightarrow 3a=6\\Leftrightarrow a=2$.<br>Vậy $M(2;2)$: đó là điểm của đồ thị nằm trên đường nét đứt gồm các điểm có hoành độ bằng tung độ (xem hình).<img src=\"data/8/8D7/fig/8D731TN11_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:225px;max-width:92%;height:auto;\">Kiểm tra: với $x=3$ thì $y=0\\neq 3$; với $x=6$ thì $y=-6\\neq 6$; với $x=-2$ thì $y=10\\neq -2$.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -152,7 +152,7 @@ window.tracNghiem8D73 = [
       "$45$ nghìn đồng"
     ],
     "answer": 3,
-    "explain": "Với $x\\gt 2$, phần khối lượng vượt quá $2$ kg là $x-2$ (kg) nên $y=20+5(x-2)$.<br>Với $x=7$: $y=20+5\\cdot(7-2)=20+25=45$ (nghìn đồng).<br>Lỗi thường gặp: tính $20+5\\cdot 7=55$ (tính thêm cả $2$ kg đầu).<br>Vậy chọn đáp án D.",
+    "explain": "Với $x\\gt 2$, phần khối lượng vượt quá $2$ kg là $x-2$ (kg) nên $y=20+5(x-2)$.<br>Với $x=7$: $y=20+5\\cdot(7-2)=20+25=45$ (nghìn đồng). Đồ thị của hàm số giá cước và điểm ứng với $x=7$:<img src=\"data/8/8D7/fig/8D731TN12_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:330px;max-width:92%;height:auto;\">Lỗi thường gặp: tính $20+5\\cdot 7=55$ (tính thêm cả $2$ kg đầu).<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

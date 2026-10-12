@@ -17,7 +17,7 @@ window.traLoiNgan8D51 = [
     "id": "8D511TL3",
     "question": "Một cửa hàng kem chỉ bán bốn loại kem. Bảng thống kê tỉ lệ phần trăm số que kem bán được trong một ngày như sau: sô-cô-la $35\\%$, va-ni $25\\%$, dâu $x\\%$, khoai môn $15\\%$. Tìm $x$ để dữ liệu hợp lí.",
     "answer": "25",
-    "explain": "Bốn loại kem chiếm toàn bộ số kem bán được nên tổng các tỉ lệ bằng $100\\%$:<br>$35+25+x+15=100$, suy ra $x=25$.",
+    "explain": "Bốn loại kem chiếm toàn bộ số kem bán được nên tổng các tỉ lệ bằng $100\\%$:<br>$35+25+x+15=100$, suy ra $x=25$.<br>Khi đó bốn hình quạt biểu diễn bốn loại kem ghép vừa khít thành một hình tròn:<img src=\"data/8/8D5/fig/8D511TL3_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:326px;max-width:92%;height:auto;\">",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -38,7 +38,7 @@ window.traLoiNgan8D51 = [
     "id": "8D511TL6",
     "question": "Bạn Minh hỏi $20$ bạn trong lớp về phương tiện đến trường và ghi lại kết quả (B: đi bộ, Đ: xe đạp, X: xe buýt, M: bố mẹ đưa):<br>$\\text{Đ}\\ \\ \\text{B}\\ \\ \\text{X}\\ \\ \\text{Đ}\\ \\ \\text{M}\\ \\ \\text{Đ}\\ \\ \\text{B}\\ \\ \\text{Đ}\\ \\ \\text{X}\\ \\ \\text{M}\\ \\ \\text{Đ}\\ \\ \\text{B}\\ \\ \\text{Đ}\\ \\ \\text{X}\\ \\ \\text{Đ}\\ \\ \\text{M}\\ \\ \\text{B}\\ \\ \\text{Đ}\\ \\ \\text{X}\\ \\ \\text{Đ}$<br>Có bao nhiêu bạn đến trường bằng xe đạp?",
     "answer": "9",
-    "explain": "Đếm số chữ Đ trong dãy: có $9$ chữ Đ.<br>(Kiểm tra: B có $4$, X có $4$, M có $3$; tổng $9+4+4+3=20$.)<br>Vậy có $9$ bạn đi xe đạp.",
+    "explain": "Đếm số lần xuất hiện của mỗi chữ trong dãy: Đ có $9$ lần, B có $4$ lần, X có $4$ lần, M có $3$ lần.<br>(Kiểm tra: $9+4+4+3=20$.)<br>Biểu diễn kết quả bằng biểu đồ cột:<img src=\"data/8/8D5/fig/8D511TL6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">Cột \"Xe đạp\" ứng với $9$ bạn.<br>Vậy có $9$ bạn đi xe đạp.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

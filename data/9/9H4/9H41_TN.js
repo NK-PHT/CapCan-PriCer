@@ -1,7 +1,7 @@
 window.tracNghiem9H41 = [
   {
     "id": "9H411TN1",
-    "question": "Cho tam giác $ABC$ vuông tại $A$. Khi đó $\\sin B$ bằng",
+    "question": "Cho tam giác $ABC$ vuông tại $A$. Khi đó $\\sin B$ bằng<img src=\"data/9/9H4/fig/9H411TN1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$\\dfrac{AB}{BC}$",
       "$\\dfrac{AC}{AB}$",
@@ -9,7 +9,7 @@ window.tracNghiem9H41 = [
       "$\\dfrac{AC}{BC}$"
     ],
     "answer": 3,
-    "explain": "Đối với góc $B$: cạnh đối là $AC$, cạnh kề là $AB$, cạnh huyền là $BC$.<br>$\\sin B=\\dfrac{\\text{cạnh đối}}{\\text{cạnh huyền}}=\\dfrac{AC}{BC}$.<br>Lỗi thường gặp: nhầm $\\dfrac{AB}{BC}$ (là $\\cos B$), $\\dfrac{AC}{AB}$ (là $\\tan B$).<br>Vậy chọn đáp án D.",
+    "explain": "Đối với góc $B$: cạnh đối là $AC$, cạnh kề là $AB$, cạnh huyền là $BC$ (xem hình).<br><img src=\"data/9/9H4/fig/9H411TN1_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">$\\sin B=\\dfrac{\\text{cạnh đối}}{\\text{cạnh huyền}}=\\dfrac{AC}{BC}$.<br>Lỗi thường gặp: nhầm $\\dfrac{AB}{BC}$ (là $\\cos B$), $\\dfrac{AC}{AB}$ (là $\\tan B$).<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -40,7 +40,7 @@ window.tracNghiem9H41 = [
   },
   {
     "id": "9H411TN4",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=8$ cm, $AC=15$ cm. Giá trị của $\\tan B$ là",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=8$ cm, $AC=15$ cm. Giá trị của $\\tan B$ là<img src=\"data/9/9H4/fig/9H411TN4_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "$\\dfrac{15}{8}$",
       "$\\dfrac{8}{15}$",
@@ -48,7 +48,7 @@ window.tracNghiem9H41 = [
       "$\\dfrac{8}{17}$"
     ],
     "answer": 0,
-    "explain": "$\\tan B=\\dfrac{\\text{cạnh đối}}{\\text{cạnh kề}}=\\dfrac{AC}{AB}=\\dfrac{15}{8}$.<br>Lỗi thường gặp: lấy $\\dfrac{AB}{AC}=\\dfrac{8}{15}$ (là $\\cot B$) hoặc $\\dfrac{AC}{BC}=\\dfrac{15}{17}$ (là $\\sin B$, với $BC=\\sqrt{8^2+15^2}=17$).<br>Vậy chọn đáp án A.",
+    "explain": "Theo hình vẽ, đối với góc $B$: cạnh đối là $AC$, cạnh kề là $AB$.<br>$\\tan B=\\dfrac{\\text{cạnh đối}}{\\text{cạnh kề}}=\\dfrac{AC}{AB}=\\dfrac{15}{8}$.<br>Lỗi thường gặp: lấy $\\dfrac{AB}{AC}=\\dfrac{8}{15}$ (là $\\cot B$) hoặc $\\dfrac{AC}{BC}=\\dfrac{15}{17}$ (là $\\sin B$, với $BC=\\sqrt{8^2+15^2}=17$).<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -66,7 +66,7 @@ window.tracNghiem9H41 = [
   },
   {
     "id": "9H411TN6",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=3$ cm, $AC=3\\sqrt{3}$ cm. Khẳng định nào sau đây đúng?",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=3$ cm, $AC=3\\sqrt{3}$ cm. Khẳng định nào sau đây đúng?<img src=\"data/9/9H4/fig/9H411TN6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$\\widehat{B}=30^\\circ$",
       "$\\widehat{C}=60^\\circ$",
@@ -74,7 +74,7 @@ window.tracNghiem9H41 = [
       "$\\widehat{C}=45^\\circ$"
     ],
     "answer": 2,
-    "explain": "$\\tan B=\\dfrac{AC}{AB}=\\dfrac{3\\sqrt{3}}{3}=\\sqrt{3}=\\tan 60^\\circ$ nên $\\widehat{B}=60^\\circ$.<br>Suy ra $\\widehat{C}=90^\\circ-60^\\circ=30^\\circ$.<br>Lỗi thường gặp: tính $\\tan B=\\dfrac{AB}{AC}=\\dfrac{\\sqrt{3}}{3}$ rồi kết luận $\\widehat{B}=30^\\circ$.<br>Vậy chọn đáp án C.",
+    "explain": "Theo hình vẽ, $AC$ là cạnh đối, $AB$ là cạnh kề của góc $B$ nên $\\tan B=\\dfrac{AC}{AB}=\\dfrac{3\\sqrt{3}}{3}=\\sqrt{3}=\\tan 60^\\circ$ nên $\\widehat{B}=60^\\circ$.<br>Suy ra $\\widehat{C}=90^\\circ-60^\\circ=30^\\circ$.<br>Lỗi thường gặp: tính $\\tan B=\\dfrac{AB}{AC}=\\dfrac{\\sqrt{3}}{3}$ rồi kết luận $\\widehat{B}=30^\\circ$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -87,7 +87,7 @@ window.tracNghiem9H41 = [
       "$\\dfrac{25}{24}$"
     ],
     "answer": 0,
-    "explain": "Dựng tam giác vuông có góc nhọn $\\alpha$ với cạnh kề bằng $7$, cạnh đối bằng $24$ thì $\\cot\\alpha=\\dfrac{7}{24}$.<br>Cạnh huyền: $\\sqrt{7^2+24^2}=\\sqrt{625}=25$.<br>Do đó $\\sin\\alpha=\\dfrac{\\text{đối}}{\\text{huyền}}=\\dfrac{24}{25}$.<br>Lỗi thường gặp: lấy $\\dfrac{7}{25}$ (là $\\cos\\alpha$) hoặc $\\dfrac{24}{7}$ (là $\\tan\\alpha$).<br>Vậy chọn đáp án A.",
+    "explain": "Dựng tam giác vuông có góc nhọn $\\alpha$ với cạnh kề bằng $7$, cạnh đối bằng $24$ thì $\\cot\\alpha=\\dfrac{7}{24}$ (xem hình).<br><img src=\"data/9/9H4/fig/9H411TN7_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">Cạnh huyền: $\\sqrt{7^2+24^2}=\\sqrt{625}=25$.<br>Do đó $\\sin\\alpha=\\dfrac{\\text{đối}}{\\text{huyền}}=\\dfrac{24}{25}$.<br>Lỗi thường gặp: lấy $\\dfrac{7}{25}$ (là $\\cos\\alpha$) hoặc $\\dfrac{24}{7}$ (là $\\tan\\alpha$).<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -105,7 +105,7 @@ window.tracNghiem9H41 = [
   },
   {
     "id": "9H411TN9",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=15$ cm, $AC=20$ cm, đường cao $AH$ ($H$ thuộc cạnh $BC$). Giá trị của $\\sin\\widehat{BAH}$ là",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=15$ cm, $AC=20$ cm, đường cao $AH$ ($H$ thuộc cạnh $BC$). Giá trị của $\\sin\\widehat{BAH}$ là<img src=\"data/9/9H4/fig/9H411TN9_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">",
     "options": [
       "$\\dfrac{4}{5}$",
       "$\\dfrac{3}{4}$",
@@ -113,12 +113,12 @@ window.tracNghiem9H41 = [
       "$\\dfrac{4}{3}$"
     ],
     "answer": 2,
-    "explain": "$BC=\\sqrt{AB^2+AC^2}=\\sqrt{15^2+20^2}=25$ (cm).<br>$\\widehat{BAH}$ và $\\widehat{C}$ cùng phụ với $\\widehat{B}$ nên $\\widehat{BAH}=\\widehat{C}$.<br>Do đó $\\sin\\widehat{BAH}=\\sin C=\\dfrac{AB}{BC}=\\dfrac{15}{25}=\\dfrac{3}{5}$.<br>Lỗi thường gặp: nhầm $\\widehat{BAH}=\\widehat{B}$ nên tính $\\sin B=\\dfrac{4}{5}$.<br>Vậy chọn đáp án C.",
+    "explain": "$BC=\\sqrt{AB^2+AC^2}=\\sqrt{15^2+20^2}=25$ (cm).<br>$\\widehat{BAH}$ và $\\widehat{C}$ cùng phụ với $\\widehat{B}$ nên $\\widehat{BAH}=\\widehat{C}$ (hai góc được đánh dấu trên hình).<br><img src=\"data/9/9H4/fig/9H411TN9_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">Do đó $\\sin\\widehat{BAH}=\\sin C=\\dfrac{AB}{BC}=\\dfrac{15}{25}=\\dfrac{3}{5}$.<br>Lỗi thường gặp: nhầm $\\widehat{BAH}=\\widehat{B}$ nên tính $\\sin B=\\dfrac{4}{5}$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H411TN10",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $\\tan B=\\dfrac{5}{12}$ và $BC=26$ cm. Chu vi tam giác $ABC$ bằng",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $\\tan B=\\dfrac{5}{12}$ và $BC=26$ cm. Chu vi tam giác $ABC$ bằng<img src=\"data/9/9H4/fig/9H411TN10_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">",
     "options": [
       "$60$ cm",
       "$120$ cm",
@@ -126,12 +126,12 @@ window.tracNghiem9H41 = [
       "$30$ cm"
     ],
     "answer": 0,
-    "explain": "$\\tan B=\\dfrac{AC}{AB}=\\dfrac{5}{12}$ nên đặt $AC=5k$, $AB=12k$ ($k\\gt 0$).<br>Theo định lí Pythagore: $BC=\\sqrt{(12k)^2+(5k)^2}=13k=26$ nên $k=2$.<br>Suy ra $AB=24$ cm, $AC=10$ cm; chu vi tam giác là $24+10+26=60$ (cm).<br>Lỗi thường gặp: quên cộng cạnh huyền (được $34$ cm) hoặc lấy luôn $5+12+13=30$ mà không nhân với $k$.<br>Vậy chọn đáp án A.",
+    "explain": "Theo hình vẽ, $AC$ là cạnh đối, $AB$ là cạnh kề của góc $B$; $\\tan B=\\dfrac{AC}{AB}=\\dfrac{5}{12}$ nên đặt $AC=5k$, $AB=12k$ ($k\\gt 0$).<br>Theo định lí Pythagore: $BC=\\sqrt{(12k)^2+(5k)^2}=13k=26$ nên $k=2$.<br>Suy ra $AB=24$ cm, $AC=10$ cm; chu vi tam giác là $24+10+26=60$ (cm).<br>Lỗi thường gặp: quên cộng cạnh huyền (được $34$ cm) hoặc lấy luôn $5+12+13=30$ mà không nhân với $k$.<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H411TN11",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=6$ cm và $\\widehat{ABC}=60^\\circ$. Tia phân giác của góc $ABC$ cắt cạnh $AC$ tại $D$. Tỉ số $\\dfrac{DC}{DA}$ bằng",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=6$ cm và $\\widehat{ABC}=60^\\circ$. Tia phân giác của góc $ABC$ cắt cạnh $AC$ tại $D$. Tỉ số $\\dfrac{DC}{DA}$ bằng<img src=\"data/9/9H4/fig/9H411TN11_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "$\\dfrac{1}{2}$",
       "$\\sqrt{3}$",
@@ -139,12 +139,12 @@ window.tracNghiem9H41 = [
       "$2$"
     ],
     "answer": 3,
-    "explain": "$\\widehat{ABD}=\\dfrac{60^\\circ}{2}=30^\\circ$.<br>Trong tam giác $ABD$ vuông tại $A$: $\\tan 30^\\circ=\\dfrac{AD}{AB}$ nên $AD=6\\cdot\\dfrac{\\sqrt{3}}{3}=2\\sqrt{3}$ (cm).<br>Trong tam giác $ABC$ vuông tại $A$: $\\tan 60^\\circ=\\dfrac{AC}{AB}$ nên $AC=6\\sqrt{3}$ (cm).<br>$DC=AC-AD=6\\sqrt{3}-2\\sqrt{3}=4\\sqrt{3}$ (cm). Do đó $\\dfrac{DC}{DA}=\\dfrac{4\\sqrt{3}}{2\\sqrt{3}}=2$.<br>Vậy chọn đáp án D.",
+    "explain": "$\\widehat{ABD}=\\dfrac{60^\\circ}{2}=30^\\circ$.<br>Trong tam giác $ABD$ vuông tại $A$: $\\tan 30^\\circ=\\dfrac{AD}{AB}$ nên $AD=6\\cdot\\dfrac{\\sqrt{3}}{3}=2\\sqrt{3}$ (cm).<br>Trong tam giác $ABC$ vuông tại $A$: $\\tan 60^\\circ=\\dfrac{AC}{AB}$ nên $AC=6\\sqrt{3}$ (cm).<br>$DC=AC-AD=6\\sqrt{3}-2\\sqrt{3}=4\\sqrt{3}$ (cm). Do đó $\\dfrac{DC}{DA}=\\dfrac{4\\sqrt{3}}{2\\sqrt{3}}=2$.<br><img src=\"data/9/9H4/fig/9H411TN11_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "9H411TN12",
-    "question": "Cho tam giác $ABC$ có $AB=13$ cm, $AC=15$ cm và đường cao $AH=12$ cm ($H$ nằm giữa $B$ và $C$). Giá trị của $\\tan B+\\tan C$ là",
+    "question": "Cho tam giác $ABC$ có $AB=13$ cm, $AC=15$ cm và đường cao $AH=12$ cm ($H$ nằm giữa $B$ và $C$). Giá trị của $\\tan B+\\tan C$ là<img src=\"data/9/9H4/fig/9H411TN12_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "options": [
       "$\\dfrac{7}{6}$",
       "$\\dfrac{56}{15}$",
@@ -152,7 +152,7 @@ window.tracNghiem9H41 = [
       "$\\dfrac{12}{7}$"
     ],
     "answer": 1,
-    "explain": "Tam giác $ABH$ vuông tại $H$: $BH=\\sqrt{13^2-12^2}=5$ (cm). Tam giác $ACH$ vuông tại $H$: $CH=\\sqrt{15^2-12^2}=9$ (cm).<br>$\\tan B=\\dfrac{AH}{BH}=\\dfrac{12}{5}$; $\\tan C=\\dfrac{AH}{CH}=\\dfrac{12}{9}=\\dfrac{4}{3}$.<br>$\\tan B+\\tan C=\\dfrac{12}{5}+\\dfrac{4}{3}=\\dfrac{56}{15}$.<br>Lỗi thường gặp: lấy ngược tỉ số $\\dfrac{BH}{AH}+\\dfrac{CH}{AH}=\\dfrac{7}{6}$ (là $\\cot B+\\cot C$) hoặc tính $\\sin B+\\sin C=\\dfrac{112}{65}$.<br>Vậy chọn đáp án B.",
+    "explain": "Tam giác $ABH$ vuông tại $H$: $BH=\\sqrt{13^2-12^2}=5$ (cm). Tam giác $ACH$ vuông tại $H$: $CH=\\sqrt{15^2-12^2}=9$ (cm) (xem hình).<br><img src=\"data/9/9H4/fig/9H411TN12_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">$\\tan B=\\dfrac{AH}{BH}=\\dfrac{12}{5}$; $\\tan C=\\dfrac{AH}{CH}=\\dfrac{12}{9}=\\dfrac{4}{3}$.<br>$\\tan B+\\tan C=\\dfrac{12}{5}+\\dfrac{4}{3}=\\dfrac{56}{15}$.<br>Lỗi thường gặp: lấy ngược tỉ số $\\dfrac{BH}{AH}+\\dfrac{CH}{AH}=\\dfrac{7}{6}$ (là $\\cot B+\\cot C$) hoặc tính $\\sin B+\\sin C=\\dfrac{112}{65}$.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

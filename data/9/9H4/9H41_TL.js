@@ -1,9 +1,9 @@
 window.traLoiNgan9H41 = [
   {
     "id": "9H411TL1",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=5$ cm, $BC=13$ cm. Tính giá trị của $5\\tan B$.",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=5$ cm, $BC=13$ cm. Tính giá trị của $5\\tan B$.<img src=\"data/9/9H4/fig/9H411TL1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "answer": "12",
-    "explain": "Theo định lí Pythagore: $AC=\\sqrt{13^2-5^2}=\\sqrt{144}=12$ (cm).<br>$\\tan B=\\dfrac{AC}{AB}=\\dfrac{12}{5}$, do đó $5\\tan B=12$.",
+    "explain": "Tam giác $ABC$ vuông tại $A$ (xem hình), theo định lí Pythagore: $AC=\\sqrt{13^2-5^2}=\\sqrt{144}=12$ (cm).<br>$\\tan B=\\dfrac{AC}{AB}=\\dfrac{12}{5}$, do đó $5\\tan B=12$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -36,9 +36,9 @@ window.traLoiNgan9H41 = [
   },
   {
     "id": "9H411TL6",
-    "question": "Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H$ thuộc cạnh $BC$) với $BH=9$ cm, $CH=16$ cm. Tính $\\sin B+\\cos B$.",
+    "question": "Cho tam giác $ABC$ vuông tại $A$, đường cao $AH$ ($H$ thuộc cạnh $BC$) với $BH=9$ cm, $CH=16$ cm. Tính $\\sin B+\\cos B$.<img src=\"data/9/9H4/fig/9H411TL6_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">",
     "answer": "1,4",
-    "explain": "$BC=9+16=25$ (cm). Theo định lí Pythagore: $AB^2=BH^2+AH^2$, $AC^2=CH^2+AH^2$ và $AB^2+AC^2=BC^2$.<br>Suy ra $81+256+2AH^2=625$, nên $AH^2=144$, $AH=12$ cm. Khi đó $AB=\\sqrt{81+144}=15$ cm, $AC=\\sqrt{256+144}=20$ cm.<br>$\\sin B=\\dfrac{AC}{BC}=\\dfrac{20}{25}=0{,}8$; $\\cos B=\\dfrac{AB}{BC}=\\dfrac{15}{25}=0{,}6$.<br>Vậy $\\sin B+\\cos B=1{,}4$.",
+    "explain": "$BC=9+16=25$ (cm). Theo định lí Pythagore: $AB^2=BH^2+AH^2$, $AC^2=CH^2+AH^2$ và $AB^2+AC^2=BC^2$.<br>Suy ra $81+256+2AH^2=625$, nên $AH^2=144$, $AH=12$ cm. Khi đó $AB=\\sqrt{81+144}=15$ cm, $AC=\\sqrt{256+144}=20$ cm.<br><img src=\"data/9/9H4/fig/9H411TL6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:360px;max-width:92%;height:auto;\">Theo hình vẽ, đối với góc $B$: $AC$ là cạnh đối, $AB$ là cạnh kề, $BC$ là cạnh huyền.<br>$\\sin B=\\dfrac{AC}{BC}=\\dfrac{20}{25}=0{,}8$; $\\cos B=\\dfrac{AB}{BC}=\\dfrac{15}{25}=0{,}6$.<br>Vậy $\\sin B+\\cos B=1{,}4$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

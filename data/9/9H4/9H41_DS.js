@@ -1,7 +1,7 @@
 window.dungSai9H41 = [
   {
     "id": "9H411DS1",
-    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=6$ cm, $AC=8$ cm. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho tam giác $ABC$ vuông tại $A$ có $AB=6$ cm, $AC=8$ cm. Xét tính đúng sai của các khẳng định sau:<img src=\"data/9/9H4/fig/9H411DS1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$\\sin B=\\dfrac{4}{5}$",
@@ -20,7 +20,7 @@ window.dungSai9H41 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Theo định lí Pythagore: $BC=\\sqrt{6^2+8^2}=10$ (cm). $\\sin B=\\dfrac{AC}{BC}=\\dfrac{8}{10}=\\dfrac{4}{5}$.<br>- <strong>Sai</strong>.<br>  $\\cos B=\\dfrac{AB}{BC}=\\dfrac{6}{10}=\\dfrac{3}{5}\\ne\\dfrac{4}{5}$ (nhầm cạnh đối với cạnh kề).<br>- <strong>Đúng</strong>.<br>  $\\tan C=\\dfrac{AB}{AC}=\\dfrac{6}{8}=\\dfrac{3}{4}$.<br>- <strong>Sai</strong>.<br>  $\\cot B=\\dfrac{AB}{AC}=\\dfrac{6}{8}=\\dfrac{3}{4}\\ne\\dfrac{4}{3}$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Tam giác $ABC$ vuông tại $A$ (xem hình), theo định lí Pythagore: $BC=\\sqrt{6^2+8^2}=10$ (cm). $\\sin B=\\dfrac{AC}{BC}=\\dfrac{8}{10}=\\dfrac{4}{5}$.<br>- <strong>Sai</strong>.<br>  $\\cos B=\\dfrac{AB}{BC}=\\dfrac{6}{10}=\\dfrac{3}{5}\\ne\\dfrac{4}{5}$ (nhầm cạnh đối với cạnh kề).<br>- <strong>Đúng</strong>.<br>  $\\tan C=\\dfrac{AB}{AC}=\\dfrac{6}{8}=\\dfrac{3}{4}$.<br>- <strong>Sai</strong>.<br>  $\\cot B=\\dfrac{AB}{AC}=\\dfrac{6}{8}=\\dfrac{3}{4}\\ne\\dfrac{4}{3}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

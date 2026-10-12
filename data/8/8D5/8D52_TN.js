@@ -14,7 +14,7 @@ window.tracNghiem8D52 = [
   },
   {
     "id": "8D521TN2",
-    "question": "Trong một biểu đồ hình quạt tròn, hình quạt biểu diễn một thành phần có góc ở tâm bằng $72^\\circ$. Thành phần đó chiếm bao nhiêu phần trăm tổng thể?",
+    "question": "Trong một biểu đồ hình quạt tròn, hình quạt biểu diễn một thành phần có góc ở tâm bằng $72^\\circ$. Thành phần đó chiếm bao nhiêu phần trăm tổng thể?<img src=\"data/8/8D5/fig/8D521TN2_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "options": [
       "$20\\%$",
       "$72\\%$",
@@ -22,7 +22,7 @@ window.tracNghiem8D52 = [
       "$18\\%$"
     ],
     "answer": 0,
-    "explain": "Cả hình tròn ($360^\\circ$) ứng với $100\\%$.<br>Tỉ lệ cần tìm là $\\dfrac{72}{360}\\cdot 100\\%=20\\%$.<br>Lỗi thường gặp: đồng nhất số đo góc với tỉ lệ phần trăm (được $72\\%$).<br>Vậy chọn đáp án A.",
+    "explain": "Cả hình tròn ($360^\\circ$) ứng với $100\\%$ tổng thể.<br>Tỉ lệ cần tìm là $\\dfrac{72}{360}\\cdot 100\\%=20\\%$.<br>Lỗi thường gặp: đồng nhất số đo góc với tỉ lệ phần trăm (được $72\\%$).<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -35,7 +35,7 @@ window.tracNghiem8D52 = [
       "$13$ biểu tượng"
     ],
     "answer": 2,
-    "explain": "$130:20=6{,}5$.<br>Vậy lớp 8A được biểu diễn bởi $6$ biểu tượng và nửa biểu tượng.<br>Lỗi thường gặp: làm tròn thành $7$ biểu tượng hoặc bỏ phần lẻ (được $6$ biểu tượng).<br>Vậy chọn đáp án C.",
+    "explain": "$130:20=6{,}5$.<br>Vậy lớp 8A được biểu diễn bởi $6$ biểu tượng và nửa biểu tượng:<img src=\"data/8/8D5/fig/8D521TN3_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:260px;max-width:92%;height:auto;\">Lỗi thường gặp: làm tròn thành $7$ biểu tượng hoặc bỏ phần lẻ (được $6$ biểu tượng).<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -74,12 +74,12 @@ window.tracNghiem8D52 = [
       "$21^\\circ$"
     ],
     "answer": 1,
-    "explain": "Tỉ lệ người chọn cà phê là $\\dfrac{21}{60}=35\\%$.<br>Góc ở tâm của hình quạt tương ứng là $35\\%\\cdot 360^\\circ=126^\\circ$.<br>Lỗi thường gặp: lấy tỉ lệ $35\\%$ làm số đo góc (được $35^\\circ$) hoặc nhân với $180^\\circ$ (được $63^\\circ$).<br>Vậy chọn đáp án B.",
+    "explain": "Tỉ lệ người chọn cà phê là $\\dfrac{21}{60}=35\\%$.<br>Góc ở tâm của hình quạt tương ứng là $35\\%\\cdot 360^\\circ=126^\\circ$. Số đo góc ở tâm của từng hình quạt được ghi trên hình:<img src=\"data/8/8D5/fig/8D521TN6_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:319px;max-width:92%;height:auto;\">Lỗi thường gặp: lấy tỉ lệ $35\\%$ làm số đo góc (được $35^\\circ$) hoặc nhân với $180^\\circ$ (được $63^\\circ$).<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8D521TN7",
-    "question": "Trong một biểu đồ tranh biểu diễn số sách các lớp quyên góp, mỗi biểu tượng ứng với $8$ cuốn sách (nửa biểu tượng ứng với $4$ cuốn). Lớp 8A có $5$ biểu tượng và nửa biểu tượng, lớp 8B có $4$ biểu tượng. Lớp 8A quyên góp nhiều hơn lớp 8B bao nhiêu cuốn sách?",
+    "question": "Trong một biểu đồ tranh biểu diễn số sách các lớp quyên góp, mỗi biểu tượng ứng với $8$ cuốn sách (nửa biểu tượng ứng với $4$ cuốn). Lớp 8A có $5$ biểu tượng và nửa biểu tượng, lớp 8B có $4$ biểu tượng. Lớp 8A quyên góp nhiều hơn lớp 8B bao nhiêu cuốn sách?<img src=\"data/8/8D5/fig/8D521TN7_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">",
     "options": [
       "$12$",
       "$8$",
@@ -87,7 +87,7 @@ window.tracNghiem8D52 = [
       "$44$"
     ],
     "answer": 0,
-    "explain": "Lớp 8A quyên góp $5\\cdot 8+4=44$ cuốn; lớp 8B quyên góp $4\\cdot 8=32$ cuốn.<br>Lớp 8A nhiều hơn lớp 8B: $44-32=12$ (cuốn).<br>Lỗi thường gặp: bỏ qua nửa biểu tượng (được $8$) hoặc coi nửa biểu tượng là một biểu tượng (được $16$).<br>Vậy chọn đáp án A.",
+    "explain": "Đọc biểu đồ tranh: lớp 8A quyên góp $5\\cdot 8+4=44$ cuốn; lớp 8B quyên góp $4\\cdot 8=32$ cuốn.<br>Lớp 8A nhiều hơn lớp 8B: $44-32=12$ (cuốn).<br>Lỗi thường gặp: bỏ qua nửa biểu tượng (được $8$) hoặc coi nửa biểu tượng là một biểu tượng (được $16$).<br>Vậy chọn đáp án A.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -100,7 +100,7 @@ window.tracNghiem8D52 = [
       "$8$"
     ],
     "answer": 2,
-    "explain": "Đếm các giá trị trong dãy: có $2$ gia đình không có con, $6$ gia đình có $1$ con, $9$ gia đình có $2$ con, $3$ gia đình có $3$ con (tổng $2+6+9+3=20$).<br>Vậy số gia đình có $2$ con là $9$.<br>Lưu ý: $6$ là số gia đình có $1$ con. Nên kiểm tra lại tổng các số đếm bằng $20$.<br>Vậy chọn đáp án C.",
+    "explain": "Đếm các giá trị trong dãy: có $2$ gia đình không có con, $6$ gia đình có $1$ con, $9$ gia đình có $2$ con, $3$ gia đình có $3$ con (tổng $2+6+9+3=20$). Biểu đồ cột biểu diễn kết quả đếm:<img src=\"data/8/8D5/fig/8D521TN8_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:320px;max-width:92%;height:auto;\">Vậy số gia đình có $2$ con là $9$.<br>Lưu ý: $6$ là số gia đình có $1$ con. Nên kiểm tra lại tổng các số đếm bằng $20$.<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -113,12 +113,12 @@ window.tracNghiem8D52 = [
       "$7$ cm"
     ],
     "answer": 2,
-    "explain": "Lớp 8B có $35$ học sinh. Vì $1$ cm ứng với $10$ học sinh nên cột của lớp 8B cao $35:10=3{,}5$ (cm).<br>Lỗi thường gặp: chia cho $5$ thay vì $10$ (được $7$ cm) hoặc không chia (được $35$ cm).<br>Vậy chọn đáp án C.",
+    "explain": "Lớp 8B có $35$ học sinh. Trên trục đứng, mỗi khoảng chia $10$ học sinh dài $1$ cm, nên cột của lớp 8B cao $35:10=3{,}5$ (cm), tức là ba khoảng chia rưỡi (cột tô đỏ):<img src=\"data/8/8D5/fig/8D521TN9_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:320px;max-width:92%;height:auto;\">Lỗi thường gặp: chia cho $5$ thay vì $10$ (được $7$ cm) hoặc không chia (được $35$ cm).<br>Vậy chọn đáp án C.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8D521TN10",
-    "question": "Biểu đồ hình quạt tròn biểu diễn kết quả học tập của $40$ học sinh lớp 8C gồm bốn hình quạt: Tốt chiếm $\\dfrac{1}{4}$ hình tròn, Khá có góc ở tâm $144^\\circ$, Đạt có góc ở tâm $90^\\circ$, phần còn lại là Chưa đạt. Số học sinh xếp loại Chưa đạt là",
+    "question": "Biểu đồ hình quạt tròn biểu diễn kết quả học tập của $40$ học sinh lớp 8C gồm bốn hình quạt: Tốt chiếm $\\dfrac{1}{4}$ hình tròn, Khá có góc ở tâm $144^\\circ$, Đạt có góc ở tâm $90^\\circ$, phần còn lại là Chưa đạt. Số học sinh xếp loại Chưa đạt là<img src=\"data/8/8D5/fig/8D521TN10_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:319px;max-width:92%;height:auto;\">",
     "options": [
       "$4$",
       "$36$",
@@ -139,12 +139,12 @@ window.tracNghiem8D52 = [
       "$15$"
     ],
     "answer": 3,
-    "explain": "Số cây ứng với mỗi biểu tượng phải là ước chung của $45$, $60$, $75$, $30$ và lớn nhất có thể, tức là $\\text{ƯCLN}(45, 60, 75, 30)=15$.<br>Khi đó các lớp lần lượt có $3$, $4$, $5$, $2$ biểu tượng.<br>Lỗi thường gặp: chọn $10$ hoặc $30$ (không chia hết $45$), hoặc chọn $5$ (là ước chung nhưng chưa lớn nhất).<br>Vậy chọn đáp án D.",
+    "explain": "Số cây ứng với mỗi biểu tượng phải là ước chung của $45$, $60$, $75$, $30$ và lớn nhất có thể, tức là $\\text{ƯCLN}(45, 60, 75, 30)=15$.<br>Khi đó các lớp lần lượt có $3$, $4$, $5$, $2$ biểu tượng:<img src=\"data/8/8D5/fig/8D521TN11_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:300px;max-width:92%;height:auto;\">Lỗi thường gặp: chọn $10$ hoặc $30$ (không chia hết $45$), hoặc chọn $5$ (là ước chung nhưng chưa lớn nhất).<br>Vậy chọn đáp án D.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8D521TN12",
-    "question": "Biểu đồ hình quạt tròn biểu diễn khối lượng các loại trái cây một cửa hàng bán được trong ngày. Hình quạt biểu diễn cam có góc ở tâm $90^\\circ$ và ứng với $60$ kg; hình quạt biểu diễn xoài có góc ở tâm $120^\\circ$. Khối lượng xoài cửa hàng bán được là",
+    "question": "Biểu đồ hình quạt tròn biểu diễn khối lượng các loại trái cây một cửa hàng bán được trong ngày. Hình quạt biểu diễn cam có góc ở tâm $90^\\circ$ và ứng với $60$ kg; hình quạt biểu diễn xoài có góc ở tâm $120^\\circ$. Khối lượng xoài cửa hàng bán được là<img src=\"data/8/8D5/fig/8D521TN12_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:339px;max-width:92%;height:auto;\">",
     "options": [
       "$120$ kg",
       "$80$ kg",
@@ -152,7 +152,7 @@ window.tracNghiem8D52 = [
       "$240$ kg"
     ],
     "answer": 1,
-    "explain": "Góc ở tâm tỉ lệ với khối lượng. Hình quạt cam chiếm $\\dfrac{90}{360}=\\dfrac{1}{4}$ hình tròn nên tổng khối lượng trái cây là $60\\cdot 4=240$ (kg).<br>Khối lượng xoài là $\\dfrac{120}{360}\\cdot 240=80$ (kg).<br>Lưu ý: $240$ kg là tổng khối lượng; lập tỉ lệ ngược sẽ được $45$ kg.<br>Vậy chọn đáp án B.",
+    "explain": "Góc ở tâm tỉ lệ với khối lượng (xem hình). Hình quạt cam chiếm $\\dfrac{90}{360}=\\dfrac{1}{4}$ hình tròn nên tổng khối lượng trái cây là $60\\cdot 4=240$ (kg).<br>Khối lượng xoài là $\\dfrac{120}{360}\\cdot 240=80$ (kg).<br>Lưu ý: $240$ kg là tổng khối lượng; lập tỉ lệ ngược sẽ được $45$ kg.<br>Vậy chọn đáp án B.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];

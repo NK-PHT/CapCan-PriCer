@@ -1,7 +1,7 @@
 window.dungSai8H91 = [
   {
     "id": "8H911DS1",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle MNP$, biết $AB=4$ cm, $BC=6$ cm, $CA=8$ cm và $MN=6$ cm. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle MNP$, biết $AB=4$ cm, $BC=6$ cm, $CA=8$ cm và $MN=6$ cm. Xét tính đúng sai của các khẳng định sau:<img src=\"data/8/8H9/fig/8H911DS1_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "Tỉ số đồng dạng của $\\triangle ABC$ với $\\triangle MNP$ bằng $\\dfrac{2}{3}$",
@@ -20,7 +20,7 @@ window.dungSai8H91 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Tỉ số đồng dạng của $\\triangle ABC$ với $\\triangle MNP$ là $k=\\dfrac{AB}{MN}=\\dfrac{4}{6}=\\dfrac{2}{3}$.<br>- <strong>Đúng</strong>.<br>  Ta có $\\dfrac{BC}{NP}=\\dfrac{2}{3}$ nên $NP=\\dfrac{3}{2}\\cdot 6=9$ (cm).<br>- <strong>Sai</strong>.<br>  Theo thứ tự đỉnh tương ứng: $A\\leftrightarrow M$, $B\\leftrightarrow N$, $C\\leftrightarrow P$ nên $\\widehat{C}=\\widehat{P}$, còn $\\widehat{N}=\\widehat{B}$.<br>- <strong>Sai</strong>.<br>  $NP=9$ cm, $MP=\\dfrac{3}{2}\\cdot 8=12$ (cm). Chu vi $\\triangle ABC$ là $18$ cm, chu vi $\\triangle MNP$ là $6+9+12=27$ (cm). Tỉ số chu vi bằng $\\dfrac{27}{18}=\\dfrac{3}{2}$ (bằng tỉ số đồng dạng), không phải $\\dfrac{9}{4}$.",
+    "explain": "- <strong>Đúng</strong>.<br>  Theo hình vẽ, cạnh $AB$ tương ứng với cạnh $MN$ nên tỉ số đồng dạng của $\\triangle ABC$ với $\\triangle MNP$ là $k=\\dfrac{AB}{MN}=\\dfrac{4}{6}=\\dfrac{2}{3}$.<br>- <strong>Đúng</strong>.<br>  Ta có $\\dfrac{BC}{NP}=\\dfrac{2}{3}$ nên $NP=\\dfrac{3}{2}\\cdot 6=9$ (cm).<br>- <strong>Sai</strong>.<br>  Theo thứ tự đỉnh tương ứng: $A\\leftrightarrow M$, $B\\leftrightarrow N$, $C\\leftrightarrow P$ nên $\\widehat{C}=\\widehat{P}$ (hai góc đánh dấu đỏ trong hình), còn $\\widehat{N}=\\widehat{B}$.<img src=\"data/8/8H9/fig/8H911DS1_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\"><br>- <strong>Sai</strong>.<br>  $NP=9$ cm, $MP=\\dfrac{3}{2}\\cdot 8=12$ (cm). Chu vi $\\triangle ABC$ là $18$ cm, chu vi $\\triangle MNP$ là $6+9+12=27$ (cm). Tỉ số chu vi bằng $\\dfrac{27}{18}=\\dfrac{3}{2}$ (bằng tỉ số đồng dạng), không phải $\\dfrac{9}{4}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -49,7 +49,7 @@ window.dungSai8H91 = [
   },
   {
     "id": "8H911DS3",
-    "question": "Cho tam giác $ABC$ có $AB=12$ cm, $AC=15$ cm, $BC=18$ cm. Trên cạnh $AB$ lấy điểm $M$ sao cho $AM=4$ cm. Đường thẳng qua $M$ song song với $BC$ cắt $AC$ tại $N$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho tam giác $ABC$ có $AB=12$ cm, $AC=15$ cm, $BC=18$ cm. Trên cạnh $AB$ lấy điểm $M$ sao cho $AM=4$ cm. Đường thẳng qua $M$ song song với $BC$ cắt $AC$ tại $N$. Xét tính đúng sai của các khẳng định sau:<img src=\"data/8/8H9/fig/8H911DS3_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$\\triangle AMN\\backsim\\triangle ABC$",
@@ -68,12 +68,12 @@ window.dungSai8H91 = [
         "answer": true
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì tạo thành một tam giác mới đồng dạng với tam giác đã cho. Vì $MN\\parallel BC$ nên $\\triangle AMN\\backsim\\triangle ABC$.<br>- <strong>Đúng</strong>.<br>  Tỉ số đồng dạng $k=\\dfrac{AM}{AB}=\\dfrac{4}{12}=\\dfrac{1}{3}$ nên $AN=\\dfrac{1}{3}\\cdot 15=5$ (cm).<br>- <strong>Sai</strong>.<br>  $MN=\\dfrac{1}{3}BC=\\dfrac{1}{3}\\cdot 18=6$ (cm). Con số $9$ cm là do lập sai tỉ số $\\dfrac{MN}{BC}=\\dfrac{AM}{MB}=\\dfrac{4}{8}$.<br>- <strong>Đúng</strong>.<br>  Chu vi $\\triangle AMN$ là $4+5+6=15$ (cm) (bằng $\\dfrac{1}{3}$ chu vi $\\triangle ABC$ là $45$ cm).",
+    "explain": "- <strong>Đúng</strong>.<br>  Đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì tạo thành một tam giác mới đồng dạng với tam giác đã cho. Theo hình vẽ, vì $MN\\parallel BC$ nên $\\triangle AMN\\backsim\\triangle ABC$.<br>- <strong>Đúng</strong>.<br>  Tỉ số đồng dạng $k=\\dfrac{AM}{AB}=\\dfrac{4}{12}=\\dfrac{1}{3}$ nên $AN=\\dfrac{1}{3}\\cdot 15=5$ (cm).<br>- <strong>Sai</strong>.<br>  $MN=\\dfrac{1}{3}BC=\\dfrac{1}{3}\\cdot 18=6$ (cm). Con số $9$ cm là do lập sai tỉ số $\\dfrac{MN}{BC}=\\dfrac{AM}{MB}=\\dfrac{4}{8}$.<br>- <strong>Đúng</strong>.<br>  Chu vi $\\triangle AMN$ (tô màu trong hình) là $4+5+6=15$ (cm) (bằng $\\dfrac{1}{3}$ chu vi $\\triangle ABC$ là $45$ cm).<img src=\"data/8/8H9/fig/8H911DS3_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:340px;max-width:92%;height:auto;\">",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "8H911DS4",
-    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$ có $\\widehat{A}=50^\\circ$ và $\\widehat{E}=60^\\circ$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho $\\triangle ABC\\backsim\\triangle DEF$ có $\\widehat{A}=50^\\circ$ và $\\widehat{E}=60^\\circ$. Xét tính đúng sai của các khẳng định sau:<img src=\"data/8/8H9/fig/8H911DS4_q.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\">",
     "subQuestions": [
       {
         "text": "$\\widehat{D}=50^\\circ$",
@@ -92,7 +92,7 @@ window.dungSai8H91 = [
         "answer": false
       }
     ],
-    "explain": "- <strong>Đúng</strong>.<br>  Hai tam giác đồng dạng có các góc tương ứng bằng nhau: $\\widehat{D}=\\widehat{A}=50^\\circ$.<br>- <strong>Đúng</strong>.<br>  $\\widehat{B}=\\widehat{E}=60^\\circ$ nên $\\widehat{C}=180^\\circ-50^\\circ-60^\\circ=70^\\circ$.<br>- <strong>Sai</strong>.<br>  $\\widehat{F}=\\widehat{C}=70^\\circ$, không phải $60^\\circ$ (góc $60^\\circ$ là $\\widehat{E}$).<br>- <strong>Sai</strong>.<br>  $\\dfrac{BC}{EF}=\\dfrac{AB}{DE}=\\dfrac{3}{6}=\\dfrac{1}{2}$ nên $BC=\\dfrac{1}{2}\\cdot 8=4$ (cm), không phải $16$ cm (nhầm nhân với $2$).",
+    "explain": "- <strong>Đúng</strong>.<br>  Hai tam giác đồng dạng có các góc tương ứng bằng nhau (xem hình): $\\widehat{D}=\\widehat{A}=50^\\circ$.<br>- <strong>Đúng</strong>.<br>  $\\widehat{B}=\\widehat{E}=60^\\circ$ nên $\\widehat{C}=180^\\circ-50^\\circ-60^\\circ=70^\\circ$.<img src=\"data/8/8H9/fig/8H911DS4_s.svg\" alt=\"Hình vẽ\" style=\"display:block;margin:10px auto;width:380px;max-width:92%;height:auto;\"><br>- <strong>Sai</strong>.<br>  $\\widehat{F}=\\widehat{C}=70^\\circ$, không phải $60^\\circ$ (góc $60^\\circ$ là $\\widehat{E}$).<br>- <strong>Sai</strong>.<br>  $\\dfrac{BC}{EF}=\\dfrac{AB}{DE}=\\dfrac{3}{6}=\\dfrac{1}{2}$ nên $BC=\\dfrac{1}{2}\\cdot 8=4$ (cm), không phải $16$ cm (nhầm nhân với $2$).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   }
 ];
