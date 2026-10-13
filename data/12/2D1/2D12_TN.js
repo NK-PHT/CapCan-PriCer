@@ -729,7 +729,7 @@ window.tracNghiem2D12 = [
   },
   {
     "id": "2D122TN57",
-    "question": "Cho hàm số $y = f(x)$ có đồ thị như hình vẽ.  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_099.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giá trị cực đại của hàm số đã cho là",
+    "question": "Cho hàm số $y = f(x)$ có bảng biến thiên như sau<br><img src=\"data/12/2D1/im2D1/2D12_tikz_100.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Giá trị cực đại của hàm số đã cho là",
     "options": [
       "$-1$",
       "$-4$",
@@ -737,12 +737,12 @@ window.tracNghiem2D12 = [
       "$2$"
     ],
     "answer": 2,
-    "explain": "Hàm số có giá trị cực đại là $0$.",
+    "explain": "Từ bảng biến thiên, hàm số đạt cực đại tại $x=1$ với giá trị cực đại $y_{\\text{CĐ}}=0$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
     "id": "2D122TN58",
-    "question": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_100.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đã cho đạt cực đại tại điểm nào sau đây?",
+    "question": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau  <br><img src=\"data/12/2D1/im2D1/2D122TN58_bbt.svg\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Hàm số đã cho đạt cực đại tại điểm nào sau đây?",
     "options": [
       "$x=2$",
       "$x=-1$",
@@ -750,7 +750,7 @@ window.tracNghiem2D12 = [
       "$x=0$"
     ],
     "answer": 3,
-    "explain": "",
+    "explain": "Từ bảng biến thiên, $f'(x)$ đổi dấu từ dương sang âm khi đi qua $x=0$ nên hàm số đạt cực đại tại $x=0$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

@@ -121,7 +121,7 @@ window.dungSai2D11 = [
   },
   {
     "id": "2D112DS4",
-    "question": "Cho hàm số $y=f(x)=ax^3+bx^2+cx+d$ có đồ thị dạng đường cong bậc ba đi qua các điểm có tọa độ $(-2;1)$, $(-1;2)$, $(0;1)$ và đạt cực đại tại $x=-1$, cực tiểu tại $x=0$. Xét tính đúng sai của các khẳng định sau:",
+    "question": "Cho hàm số $y=f(x)=ax^3+bx^2+cx+d$ có đồ thị dạng đường cong bậc ba đi qua các điểm có tọa độ $(-1;2)$, $(0;1)$ và đạt cực đại tại $x=-1$, cực tiểu tại $x=0$. Xét tính đúng sai của các khẳng định sau:",
     "subQuestions": [
       {
         "text": "Giá trị biểu thức tổng các hệ số $2a+3b+c=9$.",
@@ -136,11 +136,11 @@ window.dungSai2D11 = [
         "answer": true
       },
       {
-        "text": "Hàm số đã cho đồng biến trên khoảng $(-\\infty;-1)$.",
+        "text": "Hàm số đã cho đồng biến trên khoảng $(-1;+\\infty)$.",
         "answer": false
       }
     ],
-    "explain": "1. Đồ thị đi qua $(-2;1)$, $(-1;2)$, $(0;1)$ và đạt cực trị tại $x=0 \\Rightarrow c=0$. Ta có hệ: $-8a+4b-2c+d=1$; $-a+b-c+d=2$; $d=1$. Giải hệ thu được $a=1, b=2, c=0, d=1$. Suy ra $2a+3b+c = 2(1)+3(2)+0 = 8 \\neq 9$ (Sai).<br>2. Dựa vào tọa độ các điểm cực trị, hàm số đạt cực tiểu tại $x=0$ chứ không phải $x=1$ (Sai).<br>3. Trên đoạn $[-1;0]$, đồ thị hàm số đi xuống từ cực đại $(-1;2)$ đến cực tiểu $(0;1)$. Do đó $\\max_{[-1;0]} f(x) = 2$ và $\\min_{[-1;0]} f(x) = 1$. Tổng $\\max + \\min = 2+1=3$ (Đúng).<br>4. Hàm số có hai điểm cực trị là $x=-1$ và $x=0$ với hệ số $a=1&gt;0$, nên hàm số đồng biến trên $(-\\infty;-1)$ và $(0;+\\infty)$ (Đúng). Tuy nhiên, đối chiếu với mệnh đề đề bài, khẳng định cuối cùng là Đúng. Nhưng theo nguyên bản đề gốc ghi nhận hàm chỉ đồng biến trên một khoảng con của $(-\\infty;-1)$ nên mệnh đề gốc phát biểu không chặt chẽ, đánh giá Sai.",
+    "explain": "Ta có $f'(x)=3ax^2+2bx+c$. Hàm số đạt cực tiểu tại $x=0$ nên $f'(0)=0\\Rightarrow c=0$; đồ thị đi qua $(0;1)$ nên $d=1$. Đạt cực đại tại $x=-1$ nên $f'(-1)=3a-2b=0$, và đồ thị đi qua $(-1;2)$ nên $-a+b+1=2$, tức $b-a=1$. Giải hệ được $a=2$, $b=3$. Vậy $f(x)=2x^3+3x^2+1$.<br>1. $2a+3b+c=4+9+0=13\\neq 9$ (Sai).<br>2. $f'(x)=6x^2+6x=6x(x+1)$, đổi dấu từ âm sang dương tại $x=0$ nên hàm số đạt cực tiểu tại $x=0$, không phải $x=1$ (Sai).<br>3. Trên $[-1;0]$, hàm số nghịch biến nên $\\max=f(-1)=2$, $\\min=f(0)=1$, tổng bằng $3$ (Đúng).<br>4. $f'(x)<0$ với $x\\in(-1;0)$ nên hàm số nghịch biến trên $(-1;0)$, do đó không đồng biến trên $(-1;+\\infty)$ (Sai).",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

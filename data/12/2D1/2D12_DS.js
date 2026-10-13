@@ -304,11 +304,11 @@ window.dungSai2D12 = [
         "answer": false
       },
       {
-        "text": "Hàm số $g(x)=\\left[f(x)\\right]^2+2\\,024$ có $4$ điểm cực trị",
+        "text": "Hàm số $g(x)=\\left[f(x)\\right]^2+2\\,024$ có $5$ điểm cực trị",
         "answer": true
       }
     ],
-    "explain": "<br>- <strong>Đúng</strong>.<br>  Từ đồ thị hàm số $y=f(x)$, ta có hàm số $f(x)$ đạt cực đại tại $x=-1$, đạt cực tiểu tại $x=1$.<br>- <strong>Sai</strong>.<br>  Từ đồ thị hàm số $y=f(x)$, ta có hàm số $f(x)$ giảm trên khoảng $(-1;1)$.<br>- <strong>Sai</strong>.<br>  Hàm số có giá trị cực đại là $y_{\\text{CĐ}}=2$.<br>- <strong>Đúng</strong>.<br>  Ta có $g'(x)=2f(x)\\cdot f'(x)$. Do đó  $g'(x)=0$<br>$\\Leftrightarrow f(x)=0 \\text{ hoặc } f'(x)=0$<br>$\\Leftrightarrow x=a\\in (-2;-1) \\text{ hoặc } x=0 \\text{ hoặc } x=b\\in (1;2) \\text{ hoặc } x=-1 \\text{ hoặc } x=1.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_091.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số $g(x)$ có $5$ điểm cực trị.",
+    "explain": "<br>- <strong>Đúng</strong>.<br>  Từ đồ thị hàm số $y=f(x)$, ta có hàm số $f(x)$ đạt cực đại tại $x=-1$, đạt cực tiểu tại $x=1$.<br>- <strong>Sai</strong>.<br>  Từ đồ thị hàm số $y=f(x)$, ta có hàm số $f(x)$ giảm trên khoảng $(-1;1)$.<br>- <strong>Sai</strong>.<br>  Hàm số có giá trị cực đại là $y_{\\text{CĐ}}=2$.<br>- <strong>Đúng</strong>.<br>  Ta có $g'(x)=2f(x)\\cdot f'(x)$. Do đó  $g'(x)=0$<br>$\\Leftrightarrow f(x)=0 \\text{ hoặc } f'(x)=0$<br>$\\Leftrightarrow x=a\\in (-2;-1) \\text{ hoặc } x=0 \\text{ hoặc } x=b\\in (1;2) \\text{ hoặc } x=-1 \\text{ hoặc } x=1.$  Bảng biến thiên  <br><img src=\"data/12/2D1/im2D1/2D12_tikz_091_g.svg\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">  Vậy hàm số $g(x)$ có $5$ điểm cực trị.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

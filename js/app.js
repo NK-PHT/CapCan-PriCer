@@ -1,6 +1,6 @@
 
 // Đổi số phiên bản này mỗi khi cập nhật dữ liệu để trình duyệt không dùng bản cũ trong bộ nhớ đệm
-const PHIEN_BAN_DU_LIEU = '20261012-2';
+const PHIEN_BAN_DU_LIEU = '20261013-1';
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');
