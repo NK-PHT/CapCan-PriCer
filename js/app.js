@@ -1,6 +1,6 @@
 
 // Đổi số phiên bản này mỗi khi cập nhật dữ liệu để trình duyệt không dùng bản cũ trong bộ nhớ đệm
-const PHIEN_BAN_DU_LIEU = '20261017-7';
+const PHIEN_BAN_DU_LIEU = '20261017-8';
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');
@@ -43,7 +43,7 @@ napToanBoNganHangCauHoi().then(() => {
 // =========================================================================
 const DanhMucChuong = {
     lop12: [
-        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 3)" },
+        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 2)" },
         { value: "Cuoi_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì I (Chương 1, 2, 3)" },
         { value: "Giua_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì II (Nguyên hàm + PT Mặt phẳng, Mặt cầu)" },
         { value: "Cuoi_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì II (Toàn bộ chương trình Học kì II)" },
@@ -941,7 +941,7 @@ function startDongHoLuyenTap(thoiDiemBatDauGoc) {
 // Các đề ôn tập tổng hợp (gộp nhiều mã chương lại thành 1 kho câu hỏi chung)
 const NHOM_MA_CHUONG_DAC_BIET = {
     // ===== LỚP 12 =====
-    "Giua_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15", "2D31", "2D32"],
+    "Giua_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15", "2H21", "2H22"],
     "Cuoi_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15", "2D31", "2D32", "2H21", "2H22"],
     "Giua_Ki_II": ["2D41", "2D42", "2D43", "2H51", "2H53"],
     "Cuoi_Ki_II": ["2D41", "2D42", "2D43", "2D61", "2D62", "2H51", "2H52", "2H53"],
