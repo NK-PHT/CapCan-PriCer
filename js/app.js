@@ -1,6 +1,6 @@
 
 // Đổi số phiên bản này mỗi khi cập nhật dữ liệu để trình duyệt không dùng bản cũ trong bộ nhớ đệm
-const PHIEN_BAN_DU_LIEU = '20261017-9';
+const PHIEN_BAN_DU_LIEU = '20261017-10';
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');
@@ -1103,6 +1103,45 @@ function taoDeTongOnTheoChuong(danhSachMaBai, tienToBucket) {
     return ketQua;
 }
 
+/**
+ * Chia "tong" câu cho các chương theo TRỌNG SỐ (mặc định = số bài của chương),
+ * không vượt quá "tran" (số câu hiện có trong kho của từng chương).
+ * Mỗi chương còn kho được ít nhất 1 câu nếu tổng số câu cần đủ chia; phần dư
+ * chia theo trọng số, có yếu tố ngẫu nhiên nên các lần phát đề khác nhau.
+ * Mục đích: đề giữa kì/cuối kì/tổng hợp phủ ĐỀU các chương thay vì để chương
+ * có kho lớn (nhiều bài) "nuốt" gần hết đề như khi random thuần túy.
+ */
+function chiaSoCauTheoChuong(tong, trongSo, tran) {
+    const n = trongSo.length;
+    const kq = new Array(n).fill(0);
+    let con = Math.min(tong, tran.reduce((a, b) => a + b, 0));
+    const conKho = [];
+    for (let i = 0; i < n; i++) if (tran[i] > 0) conKho.push(i);
+    if (con >= conKho.length) { conKho.forEach(i => { kq[i] = 1; }); con -= conKho.length; }
+    let voQuan = 0;
+    while (con > 0 && voQuan++ < 1000) {
+        const ds = conKho.filter(i => kq[i] < tran[i]);
+        if (ds.length === 0) break;
+        const tongW = ds.reduce((a, i) => a + trongSo[i], 0);
+        let daCap = 0;
+        ds.forEach(i => {
+            const them = Math.min(Math.floor(con * trongSo[i] / tongW), tran[i] - kq[i]);
+            kq[i] += them; daCap += them;
+        });
+        con -= daCap;
+        if (daCap === 0 && con > 0) {
+            // phần dư lẻ: bốc ngẫu nhiên theo trọng số
+            let r = Math.random() * tongW, chon = ds[ds.length - 1];
+            for (const i of ds) { r -= trongSo[i]; if (r <= 0) { chon = i; break; } }
+            kq[chon] += 1; con -= 1;
+        }
+    }
+    return kq;
+}
+
+/** Mã chương của một mã bài: 3 ký tự đầu (VD 2D12 -> "2D1", 2H21 -> "2H2", 1D51 -> "1D5"). */
+function maChuongCuaBai(maBai) { return String(maBai).slice(0, 3); }
+
 document.getElementById('btn-generate').addEventListener('click', () => {
     const maChuongDuocChon = selectChuong.value;
     if (!maChuongDuocChon) {
@@ -1133,9 +1172,17 @@ document.getElementById('btn-generate').addEventListener('click', () => {
 
     // Lấy dữ liệu kho
     const nhomMaChuong = NHOM_MA_CHUONG_DAC_BIET[maChuongDuocChon];
+    const khoTheoChuong = new Map(); // mã chương -> {soBai, tracNghiem, dungSai, traLoiNgan}
     if (nhomMaChuong) {
         nhomMaChuong.forEach(ma => {
             const khoNho = layKhoCauHoiTheoMaID(ma);
+            const mc = maChuongCuaBai(ma);
+            if (!khoTheoChuong.has(mc)) khoTheoChuong.set(mc, { soBai: 0, tracNghiem: [], dungSai: [], traLoiNgan: [] });
+            const g = khoTheoChuong.get(mc);
+            g.soBai += 1;
+            g.tracNghiem = g.tracNghiem.concat(khoNho.tracNghiem);
+            g.dungSai = g.dungSai.concat(khoNho.dungSai);
+            g.traLoiNgan = g.traLoiNgan.concat(khoNho.traLoiNgan);
             khoTracNghiem = khoTracNghiem.concat(khoNho.tracNghiem);
             khoDungSai = khoDungSai.concat(khoNho.dungSai);
             khoTraLoiNgan = khoTraLoiNgan.concat(khoNho.traLoiNgan);
@@ -1156,10 +1203,27 @@ document.getElementById('btn-generate').addEventListener('click', () => {
     // chọn này (xem XOAY VÒNG CÂU HỎI CHƯA DÙNG ở trên), chỉ lặp lại câu cũ
     // khi đã dùng hết sạch cả kho của "maChuongDuocChon".
     const yeuCau = layYeuCauSoCau();
+    // Đề gộp nhiều chương (giữa kì, cuối kì, tổng hợp): chia số câu theo từng
+    // chương (trọng số = số bài) rồi mới rút trong từng chương; đề đơn bài /
+    // một chương giữ cách rút cũ.
+    const rutCanBang = (loai, soCau) => {
+        if (soCau <= 0) return [];
+        if (khoTheoChuong.size < 2) {
+            const kho = loai === 'tracNghiem' ? khoTracNghiem : loai === 'dungSai' ? khoDungSai : khoTraLoiNgan;
+            return chonCauHoiXoayVong(kho, soCau, `${maChuongDuocChon}:${loai}`);
+        }
+        const dsChuong = [...khoTheoChuong.entries()];
+        const chia = chiaSoCauTheoChuong(soCau, dsChuong.map(([, g]) => g.soBai), dsChuong.map(([, g]) => g[loai].length));
+        let ketQua = [];
+        dsChuong.forEach(([mc, g], i) => {
+            if (chia[i] > 0) ketQua = ketQua.concat(chonCauHoiXoayVong(g[loai], chia[i], `${maChuongDuocChon}:${mc}:${loai}`));
+        });
+        return tronMang(ketQua);
+    };
     const deThiTron = {
-        tracNghiem: yeuCau.tracNghiem > 0 ? chonCauHoiXoayVong(khoTracNghiem, yeuCau.tracNghiem, `${maChuongDuocChon}:tracNghiem`) : [],
-        dungSai: chonCauHoiXoayVong(khoDungSai, yeuCau.dungSai, `${maChuongDuocChon}:dungSai`),
-        traLoiNgan: chonCauHoiXoayVong(khoTraLoiNgan, yeuCau.traLoiNgan, `${maChuongDuocChon}:traLoiNgan`)
+        tracNghiem: rutCanBang('tracNghiem', yeuCau.tracNghiem),
+        dungSai: rutCanBang('dungSai', yeuCau.dungSai),
+        traLoiNgan: rutCanBang('traLoiNgan', yeuCau.traLoiNgan)
     };
     if (deThiTron.tracNghiem.length < yeuCau.tracNghiem || deThiTron.dungSai.length < yeuCau.dungSai || deThiTron.traLoiNgan.length < yeuCau.traLoiNgan) {
         alert(`⚠️ Cảnh báo: Kho dữ liệu không đủ số câu hỏi yêu cầu (Cần ${yeuCau.tracNghiem} TN, ${yeuCau.dungSai} DS, ${yeuCau.traLoiNgan} TLN).`);
