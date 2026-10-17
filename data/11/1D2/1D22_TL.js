@@ -44,8 +44,8 @@ window.traLoiNgan1D22 = [
   {
     "id": "1D224TL1",
     "question": "Cho dãy số $(u_n)$ là một cấp số cộng có $u_1=4$, công sai $d=-3$. Tìm $u_{10}$.",
-    "answer": "-24",
-    "explain": "Công thức số hạng tổng quát của cấp số cộng là $u_n = u_1 + (n - 1)d$.<br>Do đó $$u_{10} = u_1 + (10 - 1)d = 4 + 9 \\cdot (-3) = -24.$$",
+    "answer": "-23",
+    "explain": "Công thức số hạng tổng quát của cấp số cộng là $u_n = u_1 + (n - 1)d$.<br>Do đó $$u_{10} = u_1 + (10 - 1)d = 4 + 9 \\cdot (-3) = -23.$$",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

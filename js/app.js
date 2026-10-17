@@ -1,6 +1,6 @@
 
 // Đổi số phiên bản này mỗi khi cập nhật dữ liệu để trình duyệt không dùng bản cũ trong bộ nhớ đệm
-const PHIEN_BAN_DU_LIEU = '20261013-1';
+const PHIEN_BAN_DU_LIEU = '20261017-6';
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');
@@ -43,8 +43,8 @@ napToanBoNganHangCauHoi().then(() => {
 // =========================================================================
 const DanhMucChuong = {
     lop12: [
-        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Hết Chương 1 Đại số)" },
-        { value: "Cuoi_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì I (Chương 1, 3 Đại số & Chương 2 Hình)" },
+        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Chương 1: Đạo hàm khảo sát hàm số & Chương 3: Số đặc trưng mẫu ghép nhóm)" },
+        { value: "Cuoi_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì I (Chương 1, 2, 3)" },
         { value: "Giua_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì II (Nguyên hàm + PT Mặt phẳng, Mặt cầu)" },
         { value: "Cuoi_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì II (Toàn bộ chương trình Học kì II)" },
         { value: "TONG_HOP", text: "⭐ ĐỀ THI THỬ TỔNG HỢP TOÁN THPT QUỐC GIA" },
@@ -79,9 +79,9 @@ const DanhMucChuong = {
         { value: "2D62", text: "Lớp 12 ➔ C6 ➔ §2. Công thức xác suất toàn phần và công thức Bayes" },
     ],
     lop11: [
-        { value: "11_Giua_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 2)" },
+        { value: "11_Giua_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì I (Lượng giác, Cấp số, Quan hệ song song: Chương 1, 2, 4)" },
         { value: "11_Cuoi_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn cuối học kì I (Chương 1 → 5)" },
-        { value: "11_Giua_Ki_II", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì II (Chương 6)" },
+        { value: "11_Giua_Ki_II", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì II (Chương 6, 7)" },
         { value: "11_Cuoi_Ki_II", text: "Lớp 11 ➔ ⭐ Đề ôn cuối học kì II (Chương 6 → 9)" },
         { value: "11_TONG_HOP", text: "⭐ ĐỀ THI THỬ TỔNG HỢP TOÁN LỚP 11" },
 
@@ -145,9 +145,9 @@ const DanhMucChuong = {
         { value: "1C31", text: "Chuyên đề 11 ➔ C3 ➔ Một số yếu tố vẽ kỹ thuật" },
     ],
     lop10: [
-        { value: "10_Giua_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 2, 3)" },
+        { value: "10_Giua_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì I (Mệnh đề, BPT bậc nhất hai ẩn, Hệ thức lượng, Véctơ: Chương 1, 2, 4, 5)" },
         { value: "10_Cuoi_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn cuối học kì I (Chương 1 → 6)" },
-        { value: "10_Giua_Ki_II", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì II (Chương 7, 8)" },
+        { value: "10_Giua_Ki_II", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì II (Chương 7, 9)" },
         { value: "10_Cuoi_Ki_II", text: "Lớp 10 ➔ ⭐ Đề ôn cuối học kì II (Chương 7 → 10)" },
         { value: "10_TONG_HOP", text: "⭐ ĐỀ THI THỬ TỔNG HỢP TOÁN LỚP 10" },
 
@@ -941,23 +941,23 @@ function startDongHoLuyenTap(thoiDiemBatDauGoc) {
 // Các đề ôn tập tổng hợp (gộp nhiều mã chương lại thành 1 kho câu hỏi chung)
 const NHOM_MA_CHUONG_DAC_BIET = {
     // ===== LỚP 12 =====
-    "Giua_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15"],
+    "Giua_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15", "2D31", "2D32"],
     "Cuoi_Ki_I": ["2D11", "2D12", "2D13", "2D14", "2D15", "2D31", "2D32", "2H21", "2H22"],
     "Giua_Ki_II": ["2D41", "2D42", "2D43", "2H51", "2H53"],
     "Cuoi_Ki_II": ["2D41", "2D42", "2D43", "2D61", "2D62", "2H51", "2H52", "2H53"],
     "TONG_HOP": ["2D11", "2D12", "2D13", "2D14", "2D15", "2D31", "2D32", "2D41", "2D42", "2D43", "2D61", "2D62", "2H21", "2H22", "2H51", "2H52", "2H53"],
 
     // ===== LỚP 10 ===== (HK1: C1-C6, HK2: C7-C10, không tính Chuyên đề 0C11/0C21)
-    "10_Giua_Ki_I": ["0D11", "0D12", "0D13", "0D21", "0D22", "0D31", "0D32"],
+    "10_Giua_Ki_I": ["0D11", "0D12", "0D13", "0D21", "0D22", "0H41", "0H42", "0H43", "0H51", "0H52", "0H53", "0H54"],
     "10_Cuoi_Ki_I": ["0D11", "0D12", "0D13", "0D21", "0D22", "0D31", "0D32", "0H41", "0H42", "0H43", "0H51", "0H52", "0H53", "0H54", "0D61", "0D62", "0D63", "0D64"],
-    "10_Giua_Ki_II": ["0D71", "0D72", "0D73", "0D81", "0D82", "0D83"],
+    "10_Giua_Ki_II": ["0D71", "0D72", "0D73", "0H91", "0H92", "0H93", "0H94", "0H95"],
     "10_Cuoi_Ki_II": ["0D71", "0D72", "0D73", "0D81", "0D82", "0D83", "0H91", "0H92", "0H93", "0H94", "0H95", "0D01", "0D02"],
     "10_TONG_HOP": ["0D11", "0D12", "0D13", "0D21", "0D22", "0D31", "0D32", "0H41", "0H42", "0H43", "0H51", "0H52", "0H53", "0H54", "0D61", "0D62", "0D63", "0D64", "0D71", "0D72", "0D73", "0D81", "0D82", "0D83", "0H91", "0H92", "0H93", "0H94", "0H95", "0D01", "0D02"],
 
     // ===== LỚP 11 ===== (HK1: C1-C4, HK2: C5-C9, không tính Chuyên đề 1C11/1C21/1C31)
-    "11_Giua_Ki_I": ["1D11", "1D12", "1D13", "1D14", "1D15", "1D16", "1D21", "1D22", "1D23"],
+    "11_Giua_Ki_I": ["1D11", "1D12", "1D13", "1D14", "1D15", "1D16", "1D21", "1D22", "1D23", "1H41", "1H42", "1H43", "1H44", "1H45", "1H46"],
     "11_Cuoi_Ki_I": ["1D11", "1D12", "1D13", "1D14", "1D15", "1D16", "1D21", "1D22", "1D23", "1D51", "1D52", "1H41", "1H42", "1H43", "1H44", "1H45", "1H46", "1D31", "1D32", "1D33"],
-    "11_Giua_Ki_II": ["1D61", "1D62", "1D63", "1D64", "1D65"],
+    "11_Giua_Ki_II": ["1D61", "1D62", "1D63", "1D64", "1D65", "1H81", "1H82", "1H83", "1H84", "1H85", "1H86", "1H87"],
     "11_Cuoi_Ki_II": ["1D61", "1D62", "1D63", "1D64", "1D65", "1H81", "1H82", "1H83", "1H84", "1H85", "1H86", "1H87", "1D91", "1D92", "1D71", "1D72", "1D73"],
     "11_TONG_HOP": ["1D11", "1D12", "1D13", "1D14", "1D15", "1D16", "1D21", "1D22", "1D23", "1D31", "1D32", "1D33", "1H41", "1H42", "1H43", "1H44", "1H45", "1H46", "1D51", "1D52", "1D61", "1D62", "1D63", "1D64", "1D65", "1D71", "1D72", "1D73", "1H81", "1H82", "1H83", "1H84", "1H85", "1H86", "1H87", "1D91", "1D92"]
 };
