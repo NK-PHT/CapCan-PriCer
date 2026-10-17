@@ -1,6 +1,6 @@
 
 // Đổi số phiên bản này mỗi khi cập nhật dữ liệu để trình duyệt không dùng bản cũ trong bộ nhớ đệm
-const PHIEN_BAN_DU_LIEU = '20261017-6';
+const PHIEN_BAN_DU_LIEU = '20261017-7';
 function napMotFileDuLieu(src) {
     return new Promise((resolve) => {
         const s = document.createElement('script');
@@ -43,7 +43,7 @@ napToanBoNganHangCauHoi().then(() => {
 // =========================================================================
 const DanhMucChuong = {
     lop12: [
-        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Chương 1: Đạo hàm khảo sát hàm số & Chương 3: Số đặc trưng mẫu ghép nhóm)" },
+        { value: "Giua_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 3)" },
         { value: "Cuoi_Ki_I", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì I (Chương 1, 2, 3)" },
         { value: "Giua_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn giữa học kì II (Nguyên hàm + PT Mặt phẳng, Mặt cầu)" },
         { value: "Cuoi_Ki_II", text: "Lớp 12 ➔ ⭐ Đề ôn cuối học kì II (Toàn bộ chương trình Học kì II)" },
@@ -79,7 +79,7 @@ const DanhMucChuong = {
         { value: "2D62", text: "Lớp 12 ➔ C6 ➔ §2. Công thức xác suất toàn phần và công thức Bayes" },
     ],
     lop11: [
-        { value: "11_Giua_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì I (Lượng giác, Cấp số, Quan hệ song song: Chương 1, 2, 4)" },
+        { value: "11_Giua_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 2, 4)" },
         { value: "11_Cuoi_Ki_I", text: "Lớp 11 ➔ ⭐ Đề ôn cuối học kì I (Chương 1 → 5)" },
         { value: "11_Giua_Ki_II", text: "Lớp 11 ➔ ⭐ Đề ôn giữa học kì II (Chương 6, 7)" },
         { value: "11_Cuoi_Ki_II", text: "Lớp 11 ➔ ⭐ Đề ôn cuối học kì II (Chương 6 → 9)" },
@@ -145,7 +145,7 @@ const DanhMucChuong = {
         { value: "1C31", text: "Chuyên đề 11 ➔ C3 ➔ Một số yếu tố vẽ kỹ thuật" },
     ],
     lop10: [
-        { value: "10_Giua_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì I (Mệnh đề, BPT bậc nhất hai ẩn, Hệ thức lượng, Véctơ: Chương 1, 2, 4, 5)" },
+        { value: "10_Giua_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì I (Chương 1, 2, 4, 5)" },
         { value: "10_Cuoi_Ki_I", text: "Lớp 10 ➔ ⭐ Đề ôn cuối học kì I (Chương 1 → 6)" },
         { value: "10_Giua_Ki_II", text: "Lớp 10 ➔ ⭐ Đề ôn giữa học kì II (Chương 7, 9)" },
         { value: "10_Cuoi_Ki_II", text: "Lớp 10 ➔ ⭐ Đề ôn cuối học kì II (Chương 7 → 10)" },
