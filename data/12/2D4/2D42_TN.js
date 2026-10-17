@@ -403,149 +403,6 @@ window.tracNghiem2D42 = [
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
-    "id": "2D424TN32",
-    "question": "Xét $I=\\displaystyle\\int\\limits_{0}^{1}{\\left(x-1\\right)\\mathrm{e}^{x^2-2x+3}}\\mathrm{\\,d}x$, nếu đặt $u=x^2-2x+3$ thì ta được tích phân nào sau đây?",
-    "options": [
-      "$I=-\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u$",
-      "$I=-\\dfrac{1}{2}\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u$",
-      "$I=\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u$",
-      "$I=\\dfrac{1}{2}\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u$"
-    ],
-    "answer": 1,
-    "explain": "Đặt $u=x^2-2x+3$ suy ra $\\mathrm{\\,d}u=\\left(2x-2\\right)\\mathrm{\\,d}x\\Rightarrow \\dfrac{1}{2}\\mathrm{\\,d}u=\\left(x-1\\right)\\mathrm{\\,d}x$.<br>  Đổi cận $x=0\\Rightarrow u=3 \\text{ và } x=1\\Rightarrow u=2$. Khi đó ta có  $I = \\displaystyle\\int\\limits_{0}^{1}{\\left(x-1\\right)\\mathrm{e}^{x^2-2x+3}}\\mathrm{\\,d}x=\\displaystyle\\int\\limits_{3}^{2}{\\dfrac{1}{2}\\mathrm{e}^{u}}\\mathrm{\\,d}u=-\\dfrac{1}{2}\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u.$  Vậy $I=-\\dfrac{1}{2}\\displaystyle\\int\\limits_{2}^{3}{\\mathrm{e}^{u}}\\mathrm{\\,d}u$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN33",
-    "question": "Cho hàm số $y=f(x)$ biết $f(0)=\\dfrac{3}{2}$ và $f'(x)=x\\mathrm{e}^{x^2}$, $\\forall x \\in \\mathbb{R}$. Tính tích phân $I=\\displaystyle\\int\\limits_{0}^{1}xf(x)\\mathrm{\\,d}x$.",
-    "options": [
-      "$I=\\dfrac{\\mathrm{e}-3}{4}$",
-      "$I=\\dfrac{\\mathrm{e}+1}{4}$",
-      "$I=\\dfrac{\\mathrm{e}-1}{2}$",
-      "$I=\\dfrac{\\mathrm{e}+2}{4}$"
-    ],
-    "answer": 1,
-    "explain": "Ta có  \\[f(x)=\\displaystyle\\int f'(x)\\mathrm{\\,d}x = \\displaystyle\\int x\\mathrm{e}^{x^2}\\mathrm{\\,d}x = \\dfrac{1}{2}\\displaystyle\\int \\mathrm{e}^{x^2}\\mathrm{\\,d}\\left(x^2\\right)=\\dfrac{1}{2}\\mathrm{e}^{x^2} + C.\\]  Mà $f(0)=\\dfrac{3}{2}\\Rightarrow C=1$.<br>  Vậy $f(x)=\\dfrac{1}{2}\\mathrm{e}^{x^2} + 1$.<br>  Khi đó  \\[I=\\displaystyle\\int\\limits_{0}^{1}xf(x)\\mathrm{\\,d}x = \\displaystyle\\int\\limits_{0}^{1}x\\left(\\dfrac{1}{2}\\mathrm{e}^{x^2} + 1\\right)\\mathrm{\\,d}x =\\dfrac{1}{2}\\displaystyle\\int\\limits_{0}^{1}x\\mathrm{e}^{x^2}\\mathrm{\\,d}x + \\displaystyle\\int\\limits_{0}^{1}x\\mathrm{\\,d}x.\\]  Ta có  <br>- $I_1=\\dfrac{1}{2}\\displaystyle\\int\\limits_{0}^{1}x\\mathrm{e}^{x^2}\\mathrm{\\,d}x = \\dfrac{1}{4}\\displaystyle\\int\\limits_{0}^{1}\\mathrm{e}^{x^2}\\mathrm{\\,d}\\left(x^2\\right)=\\dfrac{1}{4}\\mathrm{e}^{x^2}\\bigg|^1_0 = \\dfrac{\\mathrm{e}-1}{4}$.<br>- $I_2=\\displaystyle\\int\\limits_{0}^{1}x\\mathrm{\\,d}x = \\dfrac{x^2}{2}\\bigg|^1_0 = \\dfrac{1}{2}$.  Vậy $I=I_1 + I_2 =\\dfrac{\\mathrm{e}-1}{4} + \\dfrac{1}{2}=\\dfrac{\\mathrm{e}+1}{4}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D421TN34",
-    "question": "Tính tích phân $ I=\\displaystyle\\int\\limits_1^22x\\sqrt{x^2-1}\\mathrm{\\,d}x$ bằng cách đặt $ u=\\sqrt{x^2-1}$, mệnh đề nào dưới đây đúng?",
-    "options": [
-      "$ I=\\displaystyle\\int\\limits_0^{\\sqrt 3}{2u^2}\\mathrm{\\,d}u$",
-      "$ I=\\displaystyle\\int\\limits_0^{\\sqrt 3}{2u}\\mathrm{\\,d}u$",
-      "$ I=2\\displaystyle\\int\\limits_0^3 u\\mathrm{\\,d}u$",
-      "$ I=\\displaystyle\\int\\limits_0^{\\sqrt 3}{u\\sqrt u}\\mathrm{\\,d}u$"
-    ],
-    "answer": 0,
-    "explain": "Đặt $ u=\\sqrt{x^2-1}\\Rightarrow{u^2}=x^2-1\\Rightarrow u\\mathrm{\\,d}u=x\\mathrm{\\,d}x$.<br>  Đổi cận $ x=1\\Rightarrow u=0$; $ x=2\\Rightarrow u=\\sqrt 3 $.<br>  Nên $ I=\\displaystyle\\int\\limits_0^{\\sqrt 3} 2u^2\\mathrm{\\,d}u$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN35",
-    "question": "Tính tích phân $I=\\displaystyle\\int\\limits_1^5 \\dfrac{1}{x \\sqrt{3x + 1}}\\mathrm{\\,d}x$ ta được kết quả có dạng $a \\ln 3 + b \\ln 5$, với $a, b \\in \\mathbb{Z}$. Khi đó $2a + b^2$ bằng",
-    "options": [
-      "$ 4 $",
-      "$ -3 $",
-      "$ 0 $",
-      "$ 5 $"
-    ],
-    "answer": 3,
-    "explain": "Đặt $t=\\sqrt{3x+1}\\Rightarrow x=\\dfrac{t^2-1}{3}, \\mathrm{d}x=\\dfrac{2t}{3}\\mathrm{d}t$; đổi cận $x=1\\to t=2$, $x=5\\to t=4$.<br>$\\displaystyle I=\\int_2^4\\dfrac{1}{\\frac{t^2-1}{3}\\cdot t}\\cdot\\dfrac{2t}{3}\\mathrm{d}t=\\int_2^4\\dfrac{2}{t^2-1}\\mathrm{d}t=\\int_2^4\\left(\\dfrac{1}{t-1}-\\dfrac{1}{t+1}\\right)\\mathrm{d}t=\\Big[\\ln|t-1|-\\ln|t+1|\\Big]_2^4$<br>$=(\\ln3-\\ln5)-(\\ln1-\\ln3)=2\\ln3-\\ln5$.<br>Vậy $a=2,\\ b=-1$, nên $2a+b^2=4+1=5$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN36",
-    "question": "Tính tích phân $I=\\displaystyle\\int\\limits_0^{\\ln 2} 5 \\mathrm{e} ^{2x}\\cdot \\sqrt{4 \\mathrm{e}^x - 3} \\mathrm{\\,d}x$ ta được kết quả có dạng $\\dfrac{a \\sqrt{5} + b }{4}$, với $a, b \\in \\mathbb{Z}$. Khi đó $a + b^3$ bằng",
-    "options": [
-      "$ 1 $",
-      "$ -2 $",
-      "$ 0 $",
-      "$ 4 $"
-    ],
-    "answer": 1,
-    "explain": "Đặt $u=4e^x-3\\Rightarrow \\mathrm{d}u=4e^x\\mathrm{d}x$, và $e^x=\\dfrac{u+3}{4}$; đổi cận $x=0\\to u=1$, $x=\\ln2\\to u=5$.<br>$5e^{2x}\\sqrt u\\,\\mathrm{d}x=5e^x\\sqrt u\\cdot(e^x\\mathrm{d}x)=5\\cdot\\dfrac{u+3}{4}\\sqrt u\\cdot\\dfrac{\\mathrm{d}u}{4}=\\dfrac{5(u+3)\\sqrt u}{16}\\mathrm{d}u$.<br>$\\displaystyle I=\\dfrac{5}{16}\\int_1^5\\left(u^{3/2}+3u^{1/2}\\right)\\mathrm{d}u=\\dfrac{5}{16}\\Big[\\dfrac25u^{5/2}+2u^{3/2}\\Big]_1^5=\\dfrac{5}{16}\\left[(10\\sqrt5+10\\sqrt5)-\\left(\\dfrac25+2\\right)\\right]=\\dfrac{5}{16}\\left(20\\sqrt5-\\dfrac{12}{5}\\right)=\\dfrac{25\\sqrt5-3}{4}$.<br>Vậy $a=25,\\ b=-3$, nên $a+b^3=25-27=-2$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D423TN37",
-    "question": "Có bao nhiêu giá trị của $a$ trong đoạn $\\left[\\dfrac{\\pi}{4};2\\pi \\right] $ thỏa mãn $\\displaystyle\\int\\limits_0^a {\\dfrac{\\sin x}{\\sqrt{1+3 \\cos x}}\\mathrm{\\,d}x}=\\dfrac{2}{3}$?",
-    "options": [
-      "$4$",
-      "$1$",
-      "$2$",
-      "$3$"
-    ],
-    "answer": 2,
-    "explain": "Đặt $t=1+3 \\cos x$, thì $\\mathrm{\\,d}t=-3\\sin x \\mathrm{\\,d}x\\Rightarrow \\sin x \\mathrm{\\,d}x = -\\dfrac{\\mathrm{\\,d}t}{3}$.<br>  Đổi cận: $x=0 \\Rightarrow t=4; x=a \\Rightarrow t=1+3 \\cos a$.<br>  Ta có  $\\displaystyle\\int\\limits_0^a {\\dfrac{\\sin x}{\\sqrt{1+3 \\cos x}}\\mathrm{d}x}=\\dfrac{2}{3}$<br>$\\Leftrightarrow \\displaystyle\\int\\limits_4^{1+3\\cos a} {-\\dfrac{\\mathrm{d}t}{3\\sqrt{t}}}= \\dfrac{2}{3}$<br>$\\Leftrightarrow -\\dfrac{2}{3}\\sqrt{t}\\Bigg|_{4}^{1+3 \\cos a}=\\dfrac{2}{3}$<br>$\\Leftrightarrow -\\dfrac{2}{3}\\left( \\sqrt{1+3\\cos a}-2\\right) = \\dfrac{2}{3} \\Leftrightarrow \\sqrt{1+3\\cos a} =1$<br>$\\Leftrightarrow \\cos a = 0\\Leftrightarrow a=\\dfrac{\\pi}{2}+k\\pi\\ (k\\in\\mathbb{Z}).$  Kết hợp điều kiện ta có $a\\in\\left\\{\\dfrac{\\pi}{2};\\dfrac{3\\pi}{2}\\right\\}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN38",
-    "question": "Biết tích phân $ \\displaystyle \\int \\limits_0^{\\ln 6}\\dfrac{\\mathrm{e}^x}{1+\\sqrt{\\mathrm{e}^x+3}}\\mathrm{\\,d}x=a+b\\ln 2+c\\ln 3 $ với $ a $, $ b $, $ c $ là các số nguyên. Giá trị của biểu thức $ T=a+b+c $ là",
-    "options": [
-      "$T=-1$",
-      "$T=1$",
-      "$T=2$",
-      "$T=0$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $ t=\\sqrt{\\mathrm{e}^x+3} \\Rightarrow t^2=\\mathrm{e}^x+3 \\Rightarrow 2t \\mathrm{\\,d}t=\\mathrm{e}^x\\mathrm{\\,d}x$.<br>  Đổi cận $ x=0\\Rightarrow t=2 \\text{ và } x=\\ln 6\\Rightarrow t=3. $<br>  Ta có   $\\displaystyle \\int \\limits_0^{\\ln 6} \\dfrac{\\mathrm{e}^x}{1+\\sqrt{\\mathrm{e}^x+3}}\\mathrm{\\,d}x  = \\displaystyle \\int \\limits_2^3 \\dfrac{2t \\mathrm{\\,d}t}{1+t} =\\displaystyle \\int \\limits_2^3 \\left(2-\\dfrac{2}{1+t}\\right)\\mathrm{\\,d}t$<br>$= \\left(2t-2\\ln|1+t| \\right)\\bigg|_2^3=\\left(6-2\\ln 4 \\right)-\\left(4-2\\ln 3 \\right)=2-4\\ln 2+2\\ln 3.$  Vậy $ a=2 $, $ b=-4 $, $ c=2\\Rightarrow T=a+b+c=0 $.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN39",
-    "question": "Cho $\\displaystyle\\int\\limits_0^3\\dfrac{1}{4+2\\sqrt{x+1}}\\mathrm{\\,d}x=a+2\\ln b$ với $a$, $b$ là các số hữu tỉ. Tính $P=a+b$.",
-    "options": [
-      "$P=\\dfrac{1}{2}$",
-      "$P=\\dfrac{1}{4}$",
-      "$P=\\dfrac{7}{4}$",
-      "$P=\\dfrac{7}{3}$"
-    ],
-    "answer": 2,
-    "explain": "Đặt $t=\\sqrt{x+1}\\Rightarrow t^2=x+1\\Rightarrow2t\\mathrm{\\,d}t=\\mathrm{d}x$.<br>  Đổi cận: $x=0\\Rightarrow t=1$, $x=3\\Rightarrow t=2$.<br>  Suy ra   $\\displaystyle\\int\\limits_0^3\\dfrac{1}{4+2\\sqrt{x+1}}\\mathrm{\\,d}x = \\displaystyle\\int \\limits_1^2\\dfrac{1}{4+2t}\\cdot 2t\\mathrm{\\,d}t=\\displaystyle\\int\\limits_1^2\\dfrac{t}{t+2}\\mathrm{\\,d}t =\\displaystyle\\int\\limits_1^2\\left(1-\\dfrac{2}{t+2}\\right)\\mathrm{\\,d}t$<br>$= \\left(t-2\\ln|t+2|\\right)\\Big|_1^2=2-2\\ln4-1+2\\ln3=1+2\\ln\\dfrac{3}{4}.$   Suy ra $a=1$, $b=\\dfrac{3}{4}$.<br>  Vậy $P=a+b=1+\\dfrac{3}{4}=\\dfrac{7}{4}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D421TN40",
-    "question": "Cho $\\displaystyle I=\\int\\limits_{0}^{2} \\dfrac{x^{2}}{\\sqrt{x^{3}+1}} \\mathrm{\\, d} x$. Đặt $u=\\sqrt{x^{3}+1}$, mệnh đề nào sau đây là đúng?",
-    "options": [
-      "$\\displaystyle I=\\int\\limits_{1}^{3} \\dfrac{\\mathrm{d} u}{u}$",
-      "$\\displaystyle I=\\dfrac{3}{2} \\int\\limits_{1}^{3} \\mathrm{d} u$",
-      "$\\displaystyle I=\\dfrac{3}{2} \\int\\limits_{0}^{2} \\mathrm{d} u$",
-      "$\\displaystyle I=\\dfrac{2}{3} \\int\\limits_{1}^{3} \\mathrm{d} u$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $u=\\sqrt{x^3+1}$. Ta có $u^2=x^3+1 \\Rightarrow 2u\\mathrm{\\, d} u=3x^2\\mathrm{\\, d} x \\Rightarrow x^2\\mathrm{\\, d} x=\\dfrac{2}{3}u\\mathrm{\\, d} u$.<br>  Đổi cận   <br><img src=\"data/12/2D4/im2D4/2D42_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>  Khi đó, ta có $\\displaystyle I=\\int\\limits_{1}^{3}\\dfrac{1}{u}\\cdot \\dfrac{2}{3}u\\mathrm{\\, d} u=\\dfrac{2}{3}\\int\\limits_{1}^{3}\\mathrm{\\, d} u$  .",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN41",
-    "question": "Biết rằng tồn tại duy nhất bộ số $a$, $b$, $c\\in \\mathbb{N}^*$ và $\\dfrac{b}{c}$ là phân số tối giản sao cho $\\displaystyle\\int\\limits_{\\ln 3}^{\\ln 8}\\dfrac{\\mathrm{e}^x+2}{\\sqrt{1+\\mathrm{e}^x}}\\mathrm{\\,d}x=a+2\\ln\\dfrac{b}{c}$. Giá trị của biểu thức $a+b+c$ thuộc khoảng",
-    "options": [
-      "$(11;15)$",
-      "$(1;5)$",
-      "$16;20)$",
-      "$(6;10)$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $t=\\sqrt{1+\\mathrm{e}^x}\\Rightarrow t^2-1=\\mathrm{e}^x\\Rightarrow 2t\\mathrm{\\,d}t=\\mathrm{e}^x\\mathrm{\\,d}x$.<br>  Đổi cận: $x=\\ln 3\\Rightarrow t=2$; $x=\\ln 8\\Rightarrow t=3$.<br>  Khi đó   $\\displaystyle\\int\\limits_{\\ln 3}^{\\ln 8}\\dfrac{\\mathrm{e}^x+2}{\\sqrt{1+\\mathrm{e}^x}}\\mathrm{\\,d}x = \\displaystyle\\int\\limits_{\\ln3}^{\\ln 8}\\dfrac{(\\mathrm{e}^x+2)}{\\mathrm{e}^x\\sqrt{1+\\mathrm{e}^x}}\\mathrm{e}^x\\mathrm{\\,d}x=\\displaystyle\\int\\limits_2^3\\dfrac{t^2-1+2}{(t^2-1)t}\\cdot 2t\\mathrm{\\,d}t=2\\displaystyle\\int\\limits_2^3\\left(1+\\dfrac{2}{t^2-1}\\right)\\mathrm{\\,d}t$<br>$= 2\\left(t+\\dfrac{2}{2}\\ln\\left|\\dfrac{t-1}{t+1}\\right|\\right)\\Bigg|_2^3=2+2\\ln\\dfrac{3}{2}.$  Suy ra $a=2$, $b=3$, $c=2$.<br>  Vậy $a+b+c=7\\in (6;10)$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN42",
-    "question": "Cho hàm số $ f(x)$ có $f(0)=\\dfrac{1}{2}$ và $ f'(x)=\\dfrac{2}{(\\mathrm{e}^x+\\mathrm{e}^{-x})^2},\\forall x\\in \\mathbb{R}$. Khi đó $\\displaystyle\\int\\limits_0^1f(x)\\mathrm{\\,d}x$ bằng",
-    "options": [
-      "$\\dfrac{1}{2}\\ln \\dfrac{\\mathrm{e}^2+1}{2}$",
-      "$\\dfrac{1}{2}\\ln \\dfrac{\\mathrm{e}^2-1}{2}$",
-      "$\\dfrac{1}{2}\\ln \\dfrac{\\mathrm{e}^2+1}{4}$",
-      "$\\dfrac{1}{2}\\ln (\\mathrm{e}^2+1)$"
-    ],
-    "answer": 0,
-    "explain": "Ta có $f(x)=\\displaystyle\\int f'(x)\\mathrm{\\,d}x=\\displaystyle\\int \\dfrac{2}{(\\mathrm{e}^x+\\mathrm{e}^{-x})^2}\\mathrm{\\,d}x=\\displaystyle\\int \\dfrac{2\\mathrm{e}^{2x}}{(\\mathrm{e}^{2x}+1)^2}\\mathrm{\\,d}x$.<br>  Đặt $t=\\mathrm{e}^{2x}. \\Rightarrow \\mathrm{\\,d}t=2\\mathrm{e}^{2x}\\mathrm{\\,d}x$. Ta được  $f(x)= \\displaystyle\\int \\dfrac{1}{(t+1)^2} \\mathrm{\\,d}t=\\dfrac{-1}{t+1}+C=\\dfrac{-1}{\\mathrm{e}^{2x}+1}+C.$  Mà $f(0)=\\dfrac{1}{2} \\Rightarrow C=-1$. Do đó  $I=\\displaystyle\\int\\limits_0^1f(x)\\mathrm{\\,d}x=\\displaystyle\\int\\limits_0^1 \\left(\\dfrac{-1}{\\mathrm{e}^{2x}+1}-1\\right) \\mathrm{\\,d}x=\\displaystyle\\int\\limits_0^1 \\dfrac{-1}{\\mathrm{e}^{2x}+1} \\mathrm{\\,d}x-1.$  Đặt $u=\\mathrm{e}^{2x}\\Rightarrow \\mathrm{\\,d}t=2\\mathrm{e}^{2x}\\mathrm{\\,d}x$.<br>  Đổi cận: $x=0 \\Rightarrow u=1; x=1\\Rightarrow u=\\mathrm{e}^2$. Từ đó  $I=\\displaystyle\\int\\limits_1^{\\mathrm{e}^2} \\dfrac{-1}{2u(u+1)}\\mathrm{\\,d}x-1=\\displaystyle\\int\\limits_1^{\\mathrm{e}^2} \\left[\\dfrac{-1}{2u}+\\dfrac{1}{2(u+1)}\\right]\\mathrm{\\,d}x-1=\\left[\\dfrac{-1}{2}\\ln u+\\dfrac{1}{2}\\ln(u+1)\\right]\\Big|_1^{\\mathrm{e}^2}-1=\\dfrac{1}{2}\\ln\\dfrac{\\mathrm{e}^2+1}{2}.$",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D424TN43",
     "question": "Cho $\\displaystyle \\int\\limits_{0}^{1} \\dfrac{x}{(x+2)^{2}} \\mathrm{\\, d} x=a+b \\ln 2+c \\ln 3$, với $a$, $b$, $c$ là các số hữu tỷ. Giá trị biểu thức $3 a+b+c$ bằng",
     "options": [
@@ -572,19 +429,6 @@ window.tracNghiem2D42 = [
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
-    "id": "2D424TN45",
-    "question": "Biết $\\displaystyle\\int\\limits_0^{4} \\dfrac{\\mathrm{\\,d}x}{\\sqrt{2x+1}+3} = a+b\\ln 2+c\\ln 3$, với $a$, $b$, $c$ là các số hữu tỉ. Tính $S=a+b+c$.",
-    "options": [
-      "$S=4$",
-      "$S=10$",
-      "$S=-2$",
-      "$S=2$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $t=\\sqrt{2x+1}+3$. Ta có $2x+1=(t-3)^2 \\Rightarrow \\mathrm{\\, d} x=(t-3) \\mathrm{\\, d} t$. <br>  Đổi cận   <br><img src=\"data/12/2D4/im2D4/2D42_tikz_002.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\"><br>  Khi đó, ta có  $\\displaystyle\\int\\limits_0^{4} \\dfrac{\\mathrm{\\,d}x}{\\sqrt{2x+1}+3} =\\int\\limits_{4}^{6}\\dfrac{t-3}{t} \\mathrm{\\, d} t=\\int\\limits_{4}^{6}\\left(1-\\dfrac{3}{t}\\right) \\mathrm{\\, d} t$<br>$=\\left(t-3\\ln |t|\\right)\\Big|_{4}^{6}=(6-3\\ln 6)-(4-3\\ln 4)$<br>$=6-3\\ln 3 -3\\ln 2-4+6\\ln 2=2+3\\ln 2-3\\ln 3.$  Do đó $a=2$, $b=3$ và $c=-3$. Vậy $a+b+c=2$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D424TN46",
     "question": "Gọi $a$, $b$ là các số hữu tỉ sao cho $\\displaystyle\\int\\limits_0^1 \\dfrac{x + 1}{x^2 + 1} \\mathrm{\\,d}x = a\\ln 2 + b\\pi$. Giá trị của tích $ab$ bằng",
     "options": [
@@ -595,19 +439,6 @@ window.tracNghiem2D42 = [
     ],
     "answer": 2,
     "explain": "Ta có $\\displaystyle\\int\\limits_0^1 \\dfrac{x + 1}{x^2 + 1} \\mathrm{\\,d}x = \\int\\limits_0^1 \\dfrac{x}{x^2 + 1} \\mathrm{\\,d}x + \\int\\limits_0^1 \\dfrac{1}{x^2 + 1} \\mathrm{\\,d}x = \\left[ \\dfrac{1}{2}\\ln \\left|x^2 + 1 \\right| + \\arctan (x) \\right]\\Bigg|_{0}^1 = \\dfrac{1}{2}\\ln 2 + \\dfrac{1}{4}\\pi$.<br>  Do đó $a = \\dfrac{1}{2}$, $b = \\dfrac{1}{4}$ nên $ab = \\dfrac{1}{2}\\cdot \\dfrac{1}{4} = \\dfrac{1}{8}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D423TN47",
-    "question": "Biết tích phân $\\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\dfrac{5\\sin x+\\cos x}{\\sin x+\\cos x} \\mathrm{\\,d}x =a\\pi +\\ln b$ với $a$, $b$ là các số hữu tỉ. Tính $S=a+b$.",
-    "options": [
-      "$S=\\dfrac{5}{4}$",
-      "$S=\\dfrac{11}{4}$",
-      "$S=\\dfrac{3}{4}$",
-      "$S=2$"
-    ],
-    "answer": 0,
-    "explain": "$I=\\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\dfrac{5\\sin x+\\cos x}{\\sin x+\\cos x} \\mathrm{\\,d}x  = \\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\dfrac{3(\\sin x+\\cos x)+2(\\sin x-\\cos x)}{\\sin x+\\cos x} \\mathrm{\\,d}x$<br>$= \\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\left( 3+\\dfrac{2(\\sin x-\\cos x)}{\\sin x+\\cos x} \\right) \\mathrm{\\,d}x$<br>$= \\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} 3 \\mathrm{\\,d}x +\\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\dfrac{-2(\\cos x-\\sin x)}{\\sin x+\\cos x} \\mathrm{\\,d}x$<br>$= \\dfrac{3\\pi}{4}+J.$  Đặt $t=\\sin x+\\cos x \\Rightarrow \\mathrm{d}t =(\\cos x-\\sin x) \\mathrm{d}x$.<br>  Đổi cận: $x=0 \\Rightarrow t=1$, $x=\\dfrac{\\pi}{4} \\Rightarrow t=\\sqrt{2}$.<br>  Khi đó $J=\\displaystyle \\int \\limits_0^{\\frac{\\pi}{4}} \\dfrac{-2(\\cos x-\\sin x)}{\\sin x+\\cos x} \\mathrm{\\,d}x  =\\displaystyle \\int \\limits_1^{\\sqrt{2}} \\dfrac{-2\\mathrm{\\,d}t}{t}  =-2\\ln|t| \\Big|_1^{\\sqrt{2}}  =-\\ln 2 =\\ln \\dfrac{1}{2}$.<br>  Suy ra $I=\\dfrac{3\\pi}{4}-\\ln 2$.  Mà $I=a\\pi+\\ln b$ nên $a=\\dfrac{3}{4}$, $b=\\dfrac{1}{2}$.<br>  Vậy $S=a+b=\\dfrac{5}{4}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -624,58 +455,6 @@ window.tracNghiem2D42 = [
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
-    "id": "2D425TN49",
-    "question": "cau28  Biết tích phân $\\displaystyle \\int \\limits_{0}^{\\frac{1}{2}}\\sqrt{1-x^2} \\mathrm{\\,d}x= \\frac{\\pi}{a}+\\frac{\\sqrt{3}}{b};\\ a,b \\in \\mathbb{R}$. Tổng $a+b$ bằng",
-    "options": [
-      "$20$",
-      "$15$",
-      "$12$",
-      "$10$"
-    ],
-    "answer": 0,
-    "explain": "Đặt $x = \\sin t; \\mathrm{\\,d}x = \\cos t \\mathrm{\\,d}t$.<br>  Đổi cận $x=0, t=0; x= \\dfrac{1}{2}, t = \\dfrac{\\pi}{6}$.<br>  Ta có $ \\sqrt{1-x^2} = \\sqrt{1-\\sin^{2}t} = \\cos t$ vì $t \\in \\left(0;\\dfrac{\\pi}{6} \\right) $.<br>  Do đó  $\\displaystyle\\int\\limits_{0}^{\\frac{1}{2}}\\sqrt{1-x^2}\\mathrm{\\,d}x = \\displaystyle\\int\\limits_{0}^{\\frac{\\pi}{6}}\\cos^{2} t \\mathrm{\\,d}t$<br>$= \\displaystyle\\int\\limits_{0}^{\\frac{\\pi}{6}}\\left( \\dfrac{1+\\cos 2t}{2}\\right)\\mathrm{\\,d}t$<br>$= \\dfrac{1}{2}\\left[ t+\\dfrac{\\sin 2t}{2}\\right]\\Bigg|_{0}^{\\frac{\\pi}{6}}$<br>$= \\dfrac{1}{2}\\left( \\dfrac{\\pi}{6}+\\dfrac{\\sqrt{3}}{4}\\right)$<br>$= \\dfrac{\\pi}{12}+\\dfrac{\\sqrt{3}}{8}.$  Nên $a=12; b=8 \\Rightarrow a+b = 20$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D421TN50",
-    "question": "Cho tích phân $I=\\displaystyle\\int\\limits_{\\sqrt{3}}^3 \\dfrac{1}{x^2+3}$ $\\textrm{d}x$. Khẳng định nào sau đây <strong>đúng</strong>?",
-    "options": [
-      "$I=\\dfrac{\\sqrt{3}}{3}\\displaystyle\\int\\limits_{\\frac{\\pi}{4}}^{\\frac{\\pi}{3}} \\textrm{d}t$",
-      "$I=\\dfrac{\\sqrt{3}}{3}\\displaystyle\\int\\limits_{\\frac{\\pi}{4}}^{\\frac{\\pi}{3}} t \\textrm{d}t$",
-      "$I=\\sqrt{3}\\displaystyle\\int\\limits_{\\frac{\\pi}{4}}^{\\frac{\\pi}{3}} \\textrm{d}t$",
-      "$I=\\dfrac{\\sqrt{3}}{3}\\displaystyle\\int\\limits_{\\frac{\\pi}{4}}^{\\frac{\\pi}{3}} \\dfrac{1}{t} \\textrm{d}t$"
-    ],
-    "answer": 0,
-    "explain": "Đặt $x=\\sqrt3\\tan t\\Rightarrow \\mathrm{d}x=\\sqrt3\\sec^2t\\,\\mathrm{d}t$, $x^2+3=3\\sec^2t$; đổi cận $x=\\sqrt3\\to t=\\pi/4$, $x=3\\to t=\\pi/3$.<br>$\\displaystyle I=\\int_{\\pi/4}^{\\pi/3}\\dfrac{\\sqrt3\\sec^2t}{3\\sec^2t}\\mathrm{d}t=\\dfrac{\\sqrt3}{3}\\int_{\\pi/4}^{\\pi/3}\\mathrm{d}t$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D423TN51",
-    "question": "Cho $\\displaystyle\\int\\limits_0^a\\dfrac{\\mathrm{\\,d}x}{a^2+x^2}, (a&gt;0)$ và đặt $x=a\\tan t.$ Trong các mệnh đề sau đây, mệnh đề nào là mệnh đề {\\bf sai}?",
-    "options": [
-      "$I=\\displaystyle\\int\\limits_0^a\\dfrac{1}{a}\\mathrm{\\,d}t$",
-      "$\\mathrm{d}x=a(1+\\tan^2t)\\mathrm{d}t$",
-      "$a^2+x^2=a^2(1+\\tan^2t)$",
-      "$I=\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{4}}\\dfrac{1}{a}\\mathrm{\\,d}t$"
-    ],
-    "answer": 0,
-    "explain": "Với $x=a\\tan t$: $\\mathrm{d}x=a(1+\\tan^2t)\\mathrm{d}t$ (đúng, vì $\\sec^2t=1+\\tan^2t$) và $a^2+x^2=a^2(1+\\tan^2t)$ (đúng).<br>Đổi cận đúng phải là $x=0\\to t=0$, $x=a\\to t=\\pi/4$, nên $\\displaystyle I=\\int_0^{\\pi/4}\\dfrac1a\\mathrm{d}t$ (đây chính là đáp án D, đúng).<br>Đáp án A viết cận là $0$ đến $a$ (biến $t$) thay vì $0$ đến $\\pi/4$ là sai — đây là mệnh đề sai cần chọn.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D425TN52",
-    "question": "Biết $\\displaystyle \\int\\limits_{0}^{a} \\sqrt{4-x^2}\\mathrm{\\,d}x = 1+\\frac{\\pi}{2}$, trong đó $a$ là số thực dương. Hãy tìm $a$.",
-    "options": [
-      "$a=\\sqrt{2}$",
-      "$a=2$",
-      "$a=1$",
-      "$a=3$"
-    ],
-    "answer": 0,
-    "explain": "Đặt $x=2\\sin\\theta\\Rightarrow \\mathrm{d}x=2\\cos\\theta\\,\\mathrm{d}\\theta$, $\\sqrt{4-x^2}=2\\cos\\theta$.<br>$\\displaystyle\\int\\sqrt{4-x^2}\\,\\mathrm{d}x=\\int 4\\cos^2\\theta\\,\\mathrm{d}\\theta=2\\theta+\\sin2\\theta+C$, với $\\theta=\\arcsin\\dfrac{x}{2}$.<br>Với $a=\\sqrt2$: $\\theta=\\arcsin\\dfrac{\\sqrt2}{2}=\\dfrac{\\pi}{4}$, giá trị tích phân $=2\\cdot\\dfrac{\\pi}{4}+\\sin\\dfrac{\\pi}{2}=\\dfrac{\\pi}{2}+1$, đúng bằng vế phải.<br>Vậy $a=\\sqrt2$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D425TN53",
     "question": "Cho biết $\\displaystyle\\int\\limits_0^1\\dfrac{1}{1+x^2}\\,dx =\\dfrac{\\pi}{4}$ và $\\displaystyle\\int\\limits_0^1 \\dfrac{1+x^4}{1+x^6}\\,dx=\\dfrac{a}{b}$. Khi đó tích số $a\\cdot b$ là",
     "options": [
@@ -689,32 +468,6 @@ window.tracNghiem2D42 = [
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
-    "id": "2D425TN54",
-    "question": "Cho $\\displaystyle\\int\\limits_{\\frac{1}{\\sqrt{3}}}^1 \\dfrac{\\sqrt{x^2+1}}{x^4}\\mathrm{\\, d}x= -\\dfrac{1}{a}\\bigl(b\\sqrt{b}-c\\bigr)$ ($a$, $b$, $c$ là các số nguyên dương nhỏ hơn 10). Tính tổng $a+b+c$.",
-    "options": [
-      "12",
-      "21",
-      "13",
-      "6"
-    ],
-    "answer": 2,
-    "explain": "Đặt $x=\\tan\\theta\\Rightarrow \\sqrt{x^2+1}=\\sec\\theta$, $\\mathrm{d}x=\\sec^2\\theta\\,\\mathrm{d}\\theta$; đổi cận $x=\\tfrac1{\\sqrt3}\\to\\theta=\\pi/6$, $x=1\\to\\theta=\\pi/4$.<br>Biểu thức dưới dấu tích phân trở thành $\\dfrac{\\sec\\theta\\cdot\\sec^2\\theta}{\\tan^4\\theta}\\mathrm{d}\\theta=\\dfrac{\\cos\\theta}{\\sin^4\\theta}\\mathrm{d}\\theta$.<br>Đặt $u=\\sin\\theta$: $\\displaystyle\\int\\dfrac{\\mathrm{d}u}{u^4}=-\\dfrac{1}{3u^3}+C=-\\dfrac{1}{3\\sin^3\\theta}+C$.<br>Tại $\\theta=\\pi/4$: $\\sin^3\\theta=\\dfrac{\\sqrt2}{4}$, giá trị $=-\\dfrac{2\\sqrt2}{3}$. Tại $\\theta=\\pi/6$: $\\sin^3\\theta=\\dfrac18$, giá trị $=-\\dfrac83$.<br>Tích phân $=-\\dfrac{2\\sqrt2}{3}-\\left(-\\dfrac83\\right)=\\dfrac{8-2\\sqrt2}{3}=-\\dfrac13(2\\sqrt2-8)$.<br>Vậy $a=3,\\ b=2,\\ c=8$, nên $a+b+c=13$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D423TN55",
-    "question": "Đổi biến $x=2\\sin t$ thì tích phân $\\displaystyle\\int\\limits_0^1 \\dfrac{\\mathrm{d}x}{\\sqrt{4-x^2}}$ trở thành",
-    "options": [
-      "$\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} t\\mathrm{d}t$",
-      "$\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{3}} t\\mathrm{d}t$",
-      "$\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} \\mathrm{d}t$",
-      "$\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} \\dfrac{\\mathrm{d}t}{t}$"
-    ],
-    "answer": 2,
-    "explain": "Xét $I=\\displaystyle\\int\\limits_0^1 \\dfrac{\\mathrm{d}x}{\\sqrt{4-x^2}}$. <br>  Đặt $x=2\\sin t$ với $t\\in \\left(-\\dfrac{\\pi}{2};\\dfrac{\\pi}{2}\\right)\\Rightarrow \\mathrm{d}x=2\\cos t\\mathrm{d}t$. <br>  Đổi cận:   $x=0 \\Rightarrow t=0.$<br>$x=1 \\Rightarrow t=\\dfrac{\\pi}{6}.$  Ta có: $I=\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} \\dfrac{2\\cos t}{\\sqrt{4-4\\sin^2t}}\\mathrm{d}t=\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} \\dfrac{2\\cos t}{\\sqrt{4\\cos^2t}}\\mathrm{d}t=\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{6}} \\mathrm{d}t.$",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D424TN56",
     "question": "Cho $\\displaystyle\\int\\limits_0^1(x+3) \\mathrm{e}^{x}\\mathrm{\\,d}x=a \\mathrm{e}+b$, $(a, b \\in \\mathbb{Q})$. Giá trị của $T=2 a-3 b$ bằng",
     "options": [
@@ -725,123 +478,6 @@ window.tracNghiem2D42 = [
     ],
     "answer": 1,
     "explain": "Ta có $\\displaystyle\\int\\limits_0^1(x+3) \\mathrm{e}^{x}\\mathrm{\\,d}x  =\\displaystyle\\int\\limits_0^1(x+3) \\mathrm{\\,d}\\left(\\mathrm{e}^{x}\\right)  =(x+3)\\mathrm{e}^x\\bigg|_0^1-\\displaystyle\\int\\limits_{0}^{1}\\mathrm{e}^x\\mathrm{\\,d}x  =4\\mathrm{e}-3-\\mathrm{e}^x\\bigg|_0^1  =4\\mathrm{e}-3-(\\mathrm{e}-1)=3\\mathrm{e}-2$.<br>  Suy ra $a=3$, $b=-2$. Vậy $T=2a-3b=12$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN57",
-    "question": "Tích phân $I=\\displaystyle\\int\\limits_0^1 (x-2)\\mathrm{e}^{2x} \\mathrm{\\,d}x$ bằng",
-    "options": [
-      "$\\dfrac{5-3\\mathrm{e}^2}{2}$",
-      "$\\dfrac{-5-3\\mathrm{e}^2}{4}$",
-      "$\\dfrac{5-3\\mathrm{e}^2}{4}$",
-      "$\\dfrac{5+3\\mathrm{e}^2}{4}$"
-    ],
-    "answer": 2,
-    "explain": "Đặt $u=x-2\\Rightarrow \\mathrm{\\,d}u=\\mathrm{\\,d}x, \\mathrm{\\,d}v=\\mathrm{e}^{2x}\\mathrm{\\,d}x\\Rightarrow v=\\dfrac{1}{2}\\mathrm{e}^{2x}$.<br>  Do đó $I=(x-2)\\cdot\\dfrac{1}{2}\\mathrm{e}^{2x}\\bigg|_{0}^{1}-\\displaystyle\\int\\limits_0^1 \\dfrac{1}{2}\\mathrm{e}^{2x} \\mathrm{\\,d}x=-\\dfrac{1}{2}\\mathrm{e}^2+1-\\dfrac{1}{4}\\mathrm{e}^{2x}\\bigg|_{0}^{1}=\\dfrac{5-3\\mathrm{e}^2}{4}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D423TN58",
-    "question": "Biết tích phân $\\displaystyle\\int\\limits_0^{\\tfrac{\\pi}{4}}(1+x)\\cos 2x\\mathrm{\\,d}x=\\dfrac{1}{a}+\\dfrac{\\pi}{b}$. Giá trị của $a+b$ bằng",
-    "options": [
-      "$24$",
-      "$32$",
-      "$12$",
-      "$4$"
-    ],
-    "answer": 2,
-    "explain": "Đặt $u=1+x$, $\\mathrm{d}v=\\cos2x\\mathrm{\\,d}x$, ta có $\\mathrm{d}u=\\mathrm{d}x$, $v=\\dfrac{1}{2}\\sin 2x$.<br>  Do đó,   $\\displaystyle\\int\\limits_0^{\\frac{\\pi}{4}}(1+x)\\cos 2x\\mathrm{\\,d}x=\\left[(1+x)\\cdot \\dfrac{1}{2}\\sin 2x \\right]\\Bigg|_0^{\\frac{\\pi}{4}}-\\displaystyle\\int\\limits_0^{\\frac{\\pi}{4}} \\dfrac{1}{2}\\sin 2x\\mathrm{\\,d}x=\\dfrac{1}{2}\\cdot \\left(1 +\\dfrac{\\pi}{4}\\right) +\\left( \\dfrac{1}{4}\\cos2x\\right) \\Bigg|_0^{\\frac{\\pi}{4}}=\\dfrac{1}{4} +\\dfrac{\\pi}{8}.$  Suy ra $a=4$, $b=8$, $a+b=12$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN59",
-    "question": "Tích phân $\\displaystyle\\int\\limits_1^{\\mathrm{e}}\\dfrac{\\ln x}{x^2}\\mathrm{\\,d}x$ bằng",
-    "options": [
-      "$\\dfrac{13}{50}$",
-      "$1-\\ln 2$",
-      "$1+\\dfrac{2}{\\mathrm{e}}$",
-      "$1-\\dfrac{2}{\\mathrm{e}}$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $ u = \\ln x \\text{ và } \\mathrm{\\, d}v=\\dfrac{1}{x^2}\\mathrm{\\, d}x \\Rightarrow \\mathrm{\\, d}u = \\dfrac{1}{x}\\mathrm{\\, d}x \\text{ và } v = -\\dfrac{1}{x}. $<br>  Khi đó $\\displaystyle\\int\\limits_1^{\\mathrm{e}} \\dfrac{\\ln x}{x^2}\\mathrm{\\, d}x = -\\dfrac{\\ln x}{x} \\bigg|_1^{\\mathrm{e}} + \\displaystyle\\int\\limits_1^{\\mathrm{e}} \\dfrac{1}{x^2}\\mathrm{\\, d}x = -\\dfrac{1}{\\mathrm{e}} -\\dfrac{1}{x} \\bigg|_1^{\\mathrm{e}} = -\\dfrac{1}{\\mathrm{e}}-\\left(\\dfrac{1}{\\mathrm{e}}-1\\right)=1-\\dfrac{2}{\\mathrm{e}}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN60",
-    "question": "Biết tích phân $ \\displaystyle\\int\\limits_1^2(4x-1)\\ln x\\mathrm{\\,d}x=a\\ln 2+b $ với $ a, b\\in\\mathbb{Z} $. Tổng $ 2a+b $ bằng",
-    "options": [
-      "$ 5 $",
-      "$ 8 $",
-      "$ 10 $",
-      "$ 13 $"
-    ],
-    "answer": 2,
-    "explain": "Đặt $u=\\ln x \\text{ và } \\mathrm{\\,d}v=(4x-1)\\mathrm{\\,d}x\\Rightarrow \\mathrm{\\,d}u=\\dfrac{1}{x}\\mathrm{\\,d}x \\text{ và } v=2x^2-x.$<br>  Suy ra $ \\displaystyle\\int\\limits_1^2(4x-1)\\ln x\\mathrm{\\,d}x=(2x^2-x)\\ln x\\bigg|_1^2-\\displaystyle\\int\\limits_1^2(2x-1)\\mathrm{\\,d}x=6\\ln 2-(x^2-x)\\bigg|_1^2=6\\ln 2-2 $.<br>  Suy ra $ a=6 $, $ b=-2 $.<br>  Vậy tổng $ 2a+b=2\\cdot 6-2=10 $.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN61",
-    "question": "Biết $\\displaystyle\\int\\limits_{0}^2x\\ln\\left(x^2+4\\right) \\mathrm{\\,d}x=a \\ln 2+b$ ($a$, $b \\in \\mathbb{Z})$. Giá trị của biểu thức $T=ab$ là",
-    "options": [
-      "$T=8$",
-      "$T=-16$",
-      "$T=-8$",
-      "$T=16$"
-    ],
-    "answer": 1,
-    "explain": "Đặt $I=\\displaystyle\\int\\limits_{0}^2x\\ln\\left(x^2+4\\right) \\mathrm{\\,d}x$.   Đặt $t=x^2+4\\Rightarrow \\mathrm{\\,d}t=2x\\mathrm{\\,d}x$, ta có $x=0\\Rightarrow t=4$, $x=2\\Rightarrow t=8$.  <br>  Vậy $I=\\displaystyle\\int\\limits_{4}^8 \\dfrac{1}{2}\\ln t \\mathrm{\\,d}t=\\dfrac{1}{2}\\left(t\\ln t -t\\right)\\Big|_{4}^{8}=\\dfrac{1}{2}\\left(8\\ln 8 -8 -(4\\ln 4 -4)\\right)=8\\ln 2-2$.  <br>  Suy ra $a=8 \\text{ và } b=-2\\Rightarrow T=ab=-16$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D422TN62",
-    "question": "Biết $\\displaystyle \\int\\limits_{0}^{4} (\\mathrm{e}^x + \\sqrt{3x^2+1}) x \\mathrm{\\,d}x=a\\mathrm{e}^b + c$ trong đó $a,b,c$ là các số nguyên. Tính giá trị của biểu thức $T=a+b+c$.",
-    "options": [
-      "$ 46 $",
-      "$ 45 $",
-      "$ 44 $",
-      "47"
-    ],
-    "answer": 0,
-    "explain": "Đáp số: $3\\mathrm{e}^4 + 39$",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN63",
-    "question": "Cho $ I=\\displaystyle\\int\\limits_1^2\\dfrac{x+\\ln x}{(x+1)^2}\\mathrm{\\,d}x=\\dfrac{a}{b}\\ln 2-\\dfrac{1}{c} $, với $ a,b,c $ là các số nguyên dương và $ \\dfrac{a}{b} $ là phân số tối giản. Tính giá trị của biểu thức $ S=\\dfrac{a+b}{c}. $",
-    "options": [
-      "$ S=\\dfrac{2}{3} $",
-      "$ S=\\dfrac{5}{6} $",
-      "$ S=\\dfrac{1}{2} $",
-      "$ S=\\dfrac{1}{3} $"
-    ],
-    "answer": 1,
-    "explain": "Ta có $ I=\\displaystyle\\int\\limits_1^2\\dfrac{x+\\ln x}{(x+1)^2}\\mathrm{\\,d}x=\\displaystyle\\int\\limits_1^2\\dfrac{x}{(x+1)^2}\\mathrm{\\,d}x+\\displaystyle\\int\\limits_1^2\\dfrac{\\ln x}{(x+1)^2}\\mathrm{\\,d}x = I_1+I_2.$ <br>Trong đó $ I_1=\\displaystyle\\int\\limits_1^2\\dfrac{x}{(x+1)^2}\\mathrm{\\,d}x $, $ I_2=\\displaystyle\\int\\limits_1^2\\dfrac{\\ln x}{(x+1)^2}\\mathrm{\\,d}x. $  <br>- Tính $I_1=\\displaystyle\\int\\limits_1^2\\dfrac{x}{(x+1)^2}\\mathrm{\\,d}x = \\displaystyle\\int\\limits_1^2\\left[\\dfrac{1}{x+1}-\\dfrac{1}{(x+1)^2}\\right]\\mathrm{\\,d}x=\\left[ \\ln(x+1)+\\dfrac{1}{x+1}\\right]\\bigg|_1^2$<br>$= \\ln 3-\\ln 2-\\dfrac{1}{6} .$<br>- Tính $ I_2=\\displaystyle\\int\\limits_1^2\\dfrac{\\ln x}{(x+1)^2}\\mathrm{\\,d}x $.<br>  Đặt $ u=\\ln x \\text{ và } v'=\\dfrac{1}{(x+1)^2}\\Rightarrow u'=\\dfrac{1}{x} \\text{ và } v=-\\dfrac{1}{x+1}. $<br>  Suy ra $I_2 = -\\dfrac{\\ln x}{x+1}\\bigg|_1^2+\\displaystyle\\int\\limits_1^2\\dfrac{1}{x(x+1)}\\mathrm{\\,d}x=-\\dfrac{\\ln2}{3}+\\ln\\dfrac{x}{x+1}\\bigg|_1^2$<br>$= -\\dfrac{\\ln2}{3}+\\ln\\dfrac{2}{3}+\\ln 2=\\dfrac{2\\ln2}{3}-\\ln3+\\ln2.$   Do đó $ I=\\dfrac{2}{3}\\ln2-\\dfrac{1}{6} $.  Suy ra $ a=2 $, $ b=3 $ và $ c=6 $. Vậy $ S=\\dfrac{5}{6} $.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN64",
-    "question": "Cho hai số hữu tỉ $a, b$ sao cho tồn tại $F(x)$ là một nguyên hàm của hàm số $f(x)=\\dfrac{\\ln x}{(x+1)^2}$, biết rằng $F(1)=-\\dfrac{2}{3} \\ln 2$ và $F(2)=a\\ln 2 +b\\ln 3$. Tính giá trị của biểu thức $T=ab$.",
-    "options": [
-      "$ T=-\\dfrac{5}{3} $",
-      "$ T=-2 $",
-      "$ T=-\\dfrac{4}{3} $",
-      "$ T=-1 $"
-    ],
-    "answer": 3,
-    "explain": "Xét $ I = \\displaystyle\\int\\limits_{1}^{2}f(x)\\mathrm{d}x $. Đặt  $ u=\\ln x \\text{ và } dv=\\dfrac{1}{(x+1)^2}\\mathrm{d}x  \\xrightarrow[]{\\text{Ta chọn}}  \\mathrm{d}u=\\dfrac{1}{x}\\mathrm{d}x \\text{ và } v=-\\dfrac{1}{x+1}  $  Vậy $ I=-\\dfrac{1}{x+1}\\ln x \\Big|_1^2+\\displaystyle\\int\\limits_{1}^{2}\\dfrac{x+1-x}{x(x+1)}\\mathrm{d}x  =-\\dfrac{1}{3}\\ln2+\\left( \\ln|x|-\\ln|x+1| \\right)\\Big|_1^2=\\dfrac{5}{3}\\ln2-\\ln3  $.<br>  Mặt khác $ I=F(2)-F(1) \\Rightarrow \\left(a+\\dfrac{2}{3}\\right)\\ln2+b\\ln3=\\dfrac{5}{3}\\ln2-\\ln3 \\Rightarrow a=1 \\text{ và } b=-1\\Rightarrow T=-1 $.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN65",
-    "question": "Cho tích phân $H = \\displaystyle\\int\\limits_1^{\\mathrm{e}} x^2\\cdot \\ln x\\mathrm{\\,d}x = \\dfrac{a\\mathrm{e}^3 + c}{b}$. Tính $N = \\dfrac{2a - \\sqrt{c} - 4}{3\\sqrt{b}}$.",
-    "options": [
-      "$N = - \\dfrac{1}{9}$",
-      "$N = 1$",
-      "$N = 3$",
-      "$N = \\dfrac{7}{9}$"
-    ],
-    "answer": 0,
-    "explain": "Xét $H = \\displaystyle\\int\\limits_1^{\\mathrm{e}} x^2\\cdot \\ln x\\mathrm{\\,d}x = \\dfrac{1}{3}\\displaystyle\\int\\limits_1^{\\mathrm{e}} \\ln x\\mathrm{\\,d}\\left(x^3\\right) = \\dfrac{1}{3} x^3\\cdot \\ln x\\bigg \\vert_{1}^{\\mathrm{e}} - \\dfrac{1}{3}\\displaystyle\\int\\limits_1^{\\mathrm{e}} x^3\\mathrm{\\,d}\\left(\\ln x\\right) = \\dfrac{\\mathrm{e}^3}{3} - \\dfrac{1}{3}\\displaystyle\\int\\limits_1^{\\mathrm{e}} x^2\\mathrm{\\,d}x$<br>  Khi đó $H = \\dfrac{2\\mathrm{e}^3 + 1}{9} \\Rightarrow a = 2, b = 9, c = 1 \\Rightarrow N = \\dfrac{2\\cdot 2 - 1 - 4}{3\\sqrt{9}} = - \\dfrac{1}{9}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -881,19 +517,6 @@ window.tracNghiem2D42 = [
     ],
     "answer": 2,
     "explain": "Đáp số: $\\dfrac{4}{\\mathrm{e}} - 2 \\Rightarrow a = 4, b = -2$",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN69",
-    "question": "Nếu $\\displaystyle \\int \\limits_0^1 (x^2-mx)\\mathrm{e}^x \\mathrm{\\,d}x =\\mathrm{e}-7$ thì giá trị của $m$ là nghiệm của phương trình nào dưới đây?",
-    "options": [
-      "$x^2+4\\mathrm{e}x+36\\mathrm{e}-81=0$",
-      "$x^2-5x+6=0$",
-      "$x^2-8x-\\mathrm{e}^2+4\\mathrm{e}+12=0$",
-      "$x^2-12x+35=0$"
-    ],
-    "answer": 3,
-    "explain": "Đặt $u=x^2-mx \\text{ và } \\mathrm{d}v=\\mathrm{e}^x\\mathrm{d}x \\Rightarrow \\mathrm{d}u=(2x-m)\\mathrm{d}x \\text{ và } v=\\mathrm{e}^x.$<br>  Khi đó $I= (x^2-mx)\\mathrm{e}^x\\Big|_0^1-\\displaystyle\\int\\limits_0^1 (2x-m)\\mathrm{e}^x \\mathrm{d}x$.<br>  Đặt $u=2x-m \\text{ và } \\mathrm{d}v=\\mathrm{e}^x\\mathrm{d}x \\Rightarrow \\mathrm{d}u=2\\mathrm{d}x \\text{ và } v=\\mathrm{e}^x.$<br>  $I=(1-m)\\mathrm{e}- \\mathrm{e}^x(2x-m)\\Big|_0^1+\\displaystyle\\int\\limits_0^1 2\\mathrm{e}^x\\mathrm{d}x =(1-m-2+m)\\mathrm{e}-m+2\\mathrm{e}-2=\\mathrm{e}-m-2  \\Rightarrow m=5$.  Phương trình $x^2-12x+35=0\\Leftrightarrow x=5 \\text{ hoặc } x=7.$<br>  Vậy giá trị $m=5$ là nghiệm của phương trình $x^2-12x+35=0$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
@@ -1336,19 +959,6 @@ window.tracNghiem2D42 = [
     ],
     "answer": 0,
     "explain": "Tìm được $y=-x^2+4x$ là phần đường cong của đồ thị hàm số.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D424TN104",
-    "question": "Cho hàm số $y=f\\left( x \\right)$. Đồ thị $y=f'\\left( x \\right)$ trên $\\left[ -3;0 \\right]$ như hình vẽ (phần cong của đồ thị là một phần của parabol $y=ax^2+bx+c$). Biết $\\displaystyle\\int\\limits_{\\mathrm{e}^{-3}}^1 \\dfrac{f\\left( \\ln x \\right)}{x} \\mathrm{\\,d}x=\\dfrac{2}{3}$. Tính giá trị $f\\left( 0 \\right)$.<br><img src=\"data/12/2D4/im2D4/2D42_tikz_006.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
-    "options": [
-      "$1$",
-      "$2$",
-      "$\\dfrac{14}{9}$",
-      "$-\\dfrac{7}{9}$"
-    ],
-    "answer": 2,
-    "explain": "Từ đồ thị $y=f'\\left( x \\right)$ ta có $f'\\left( x \\right)= -x^2-4x-3 \\text{ khi } -3\\le x\\le -1 \\text{ và } 2x+2 \\text{ khi }-1&lt;x\\le 0.$<br> Suy ra $f\\left( x \\right)=-\\dfrac{1}{3}x^3-2x^2-3x+C_1 \\text{ khi }3\\le x\\le -1 \\text{ và } x^2+2x+C_2 \\text{ khi }-1&lt;x\\le 0.$<br> Hàm số liên tục tại $x=-1$ nên ta có \\[\\lim\\limits_{x \\to (-1)^-} f(x) =\\lim\\limits_{x \\to (-1)^+} f(x)\\Leftrightarrow \\dfrac{4}{3}+C_1=-1+C_2\\Leftrightarrow C_1-C_2=-\\dfrac{7}{3}.\\,\\, \\hfill(1)\\] Đặt $t=\\ln x\\Rightarrow \\mathrm{\\,d}t=\\dfrac{\\mathrm{\\,d}x}{x}$. Khi $x=\\mathrm{e}^{-3}\\Rightarrow t=-3$, $x=1\\Rightarrow t=0$.<br> Theo giả thiết ta có { $\\displaystyle\\int\\limits_{\\mathrm{e}^{-3}}^1 \\dfrac{f\\left( \\ln x \\right)}{x} \\mathrm{\\,d}x=\\dfrac{2}{3}$<br>$\\Leftrightarrow \\displaystyle\\int\\limits_{-3}^0 f\\left( t \\right) \\mathrm{\\,d}t=\\dfrac{2}{3}$<br>$\\Leftrightarrow \\displaystyle\\int\\limits_{-3}^{-1} f\\left( x \\right)\\mathrm{\\,d}x+\\displaystyle\\int\\limits_{-1}^0 f\\left( x \\right)\\mathrm{\\,d}x=\\dfrac{2}{3}$<br>$\\Leftrightarrow \\displaystyle\\int\\limits_{-3}^{-1} \\left( -\\dfrac{1}{3}x^3-2x^2-3x+C_1 \\right)\\mathrm{\\,d}x+\\displaystyle\\int\\limits_{-1}^0 \\left( x^2+2x+C_2 \\right)\\mathrm{\\,d}x=\\dfrac{2}{3}$<br>$\\Leftrightarrow 2C_1+C_2=0.\\,\\,\\, \\hfill(2)$} Từ $(1)$ và $(2)$ ta có $C_1-C_2=-\\dfrac{7}{3} \\text{ và } 2C_1+C_2=0\\Leftrightarrow C_1=\\dfrac{-7}{9} \\text{ và } C_2=\\dfrac{14}{9}.$<br> Do đó $f\\left(0\\right)=C_2=\\dfrac{14}{9}$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {

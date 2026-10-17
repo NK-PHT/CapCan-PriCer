@@ -1,18 +1,5 @@
 window.tracNghiem2D43 = [
   {
-    "id": "2D431TN1",
-    "question": "Tính $S$ là diện tích hình phẳng giới hạn bởi $(C): y=x\\mathrm{e}^x$, trục hoành và $x=a$, $(a&gt;0)$.",
-    "options": [
-      "$S=a\\mathrm{e}^a+\\mathrm{e}^a+1$",
-      "$S=a\\mathrm{e}^a-\\mathrm{e}^a-1$",
-      "$S=a\\mathrm{e}^a+\\mathrm{e}^a-1$",
-      "$S=a\\mathrm{e}^a-\\mathrm{e}^a+1$"
-    ],
-    "answer": 3,
-    "explain": "Vì $a>0$ nên trên $[0;a]$ ta có $x\\mathrm{e}^x\\ge 0$. Diện tích $S=\\displaystyle\\int_0^a x\\mathrm{e}^x\\,\\mathrm{d}x$. Đặt $u=x,\\ \\mathrm{d}v=\\mathrm{e}^x\\mathrm{d}x\\Rightarrow \\mathrm{d}u=\\mathrm{d}x,\\ v=\\mathrm{e}^x$, ta có $\\displaystyle\\int x\\mathrm{e}^x\\,\\mathrm{d}x=x\\mathrm{e}^x-\\mathrm{e}^x+C$. Do đó $S=\\Big[x\\mathrm{e}^x-\\mathrm{e}^x\\Big]_0^a=(a\\mathrm{e}^a-\\mathrm{e}^a)-(0-1)=a\\mathrm{e}^a-\\mathrm{e}^a+1$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
     "id": "2D431TN2",
     "question": "Cho hàm số $y=f(x)$ có đồ thị như hình vẽ. Diện tích hình phẳng phần tô đậm trong hình vẽ là<br><img src=\"data/12/2D4/im2D4/2D43_tikz_000.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
     "options": [
@@ -218,19 +205,6 @@ window.tracNghiem2D43 = [
     ],
     "answer": 1,
     "explain": "Phương trình hoành độ giao điểm (với $x\\ge0$): $\\sqrt{x}=x^3\\Leftrightarrow \\sqrt{x}\\,(1-x^{5/2})=0\\Leftrightarrow x=0$ hoặc $x=1$. Trên $[0;1]$, $\\sqrt{x}\\ge x^3$ nên $S=\\displaystyle\\int_0^1\\big(\\sqrt{x}-x^3\\big)\\,\\mathrm{d}x=\\Big[\\dfrac23x^{3/2}-\\dfrac{x^4}{4}\\Big]_0^1=\\dfrac23-\\dfrac14=\\dfrac{5}{12}$.",
-    "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
-  },
-  {
-    "id": "2D431TN18",
-    "question": "Cho hàm số $ y=f(x) $ liên tục trên $ \\mathbb{R} $ và hàm số $ y=g(x)=x.f(x^2) $ có đồ thị trên đoạn $ [0;2] $ như hình vẽ bên. Biết diện tích miền được gạch chéo là $ S=\\dfrac{5}{2} $, tính tích phân $ \\displaystyle I=\\int_{1}^{4}f(x)\\,\\mathrm{d}x $.  \\choicew{0.4\\textwidth}<br><img src=\"data/12/2D4/im2D4/2D43_tikz_011.png\" alt=\"hinh ve\" style=\"max-width:min(560px,90%);max-height:300px;width:auto;height:auto;display:block;margin:8px auto;\">",
-    "options": [
-      "$ I=\\dfrac{5}{2} $",
-      "$ I=\\dfrac{5}{4} $",
-      "$ I=10 $",
-      "$ I=5 $"
-    ],
-    "answer": 3,
-    "explain": "Từ hình vẽ, ta có: $\\displaystyle \\int \\limits_1^2 g(x) \\mathrm{\\, d}x=\\dfrac{5}{2}\\Rightarrow \\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{5}{2}$.<br>  Đặt $t=x^2$. Khi đó: $\\displaystyle \\int \\limits_1^2 x.f(x^2) \\mathrm{\\, d}x=\\dfrac{1}{2}\\displaystyle \\int \\limits_1^4 f(t) \\mathrm{\\, d}t$.<br>  Vậy $I=\\displaystyle \\int \\limits_1^4 f(x) \\mathrm{\\, d}x=5$.",
     "_wm": "PkFu6GNaZLw9sAMliZIVsiBzJhHa"
   },
   {
